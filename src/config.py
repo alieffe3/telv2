@@ -17,6 +17,7 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/PrivateVPNs"),
             ChannelConfig("https://t.me/s/Hope_Net"), 
             ChannelConfig("https://t.me/s/oneclickvpnkeys"),
+            ChannelConfig("https://t.me/s/ELiV2RAY"),
             ChannelConfig("https://t.me/s/V2rayNGX"),
             ChannelConfig("https://t.me/s/DailyV2RY"),
             ChannelConfig("https://t.me/s/melov2ray")
