@@ -12,14 +12,14 @@ class ProxyConfig:
         self.TELEGRAM_CHANNELS = [
             ChannelConfig("https://t.me/s/ShadowProxy66"),
             ChannelConfig("https://t.me/s/DirectVPN"),
-            ChannelConfig("https://t.me/s/ZibaNabz"),
-            ChannelConfig("https://t.me/s/configV2rayForFree"),
-            ChannelConfig("https://t.me/s/v2rayngvpn"),
-            ChannelConfig("https://t.me/s/SvnV2ray"), 
-            ChannelConfig("https://t.me/s/RadixVPN"),
+            ChannelConfig("https://t.me/s/Parsashonam"),
+            ChannelConfig("https://t.me/s/xs_filternet"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),
-            ChannelConfig("https://t.me/s/VlessConfig"),
-            ChannelConfig("https://t.me/s/freewireguard")
+            ChannelConfig("https://t.me/s/Hope_Net"), 
+            ChannelConfig("https://t.me/s/oneclickvpnkeys"),
+            ChannelConfig("https://t.me/s/V2rayNGX"),
+            ChannelConfig("https://t.me/s/DailyV2RY"),
+            ChannelConfig("https://t.me/s/melov2ray")
         ]
 
         self.PROTOCOL_CONFIG_LIMITS = {
