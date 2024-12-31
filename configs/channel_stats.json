@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-31T20:26:47.808100",
+  "timestamp": "2024-12-31T21:02:01.903511",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -28,8 +28,8 @@
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/Hope_Net",
@@ -39,6 +39,12 @@
     },
     {
       "url": "https://t.me/s/oneclickvpnkeys",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://t.me/s/ELiV2RAY",
       "enabled": true,
       "retry_count": 1,
       "success_rate": 50.0
