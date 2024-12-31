@@ -40,7 +40,7 @@ class ProxyConfig:
         self.MIN_CONFIGS_PER_CHANNEL = 5
         self.MAX_CONFIGS_PER_CHANNEL = 30
         self.MAX_CONFIG_AGE_DAYS = 7
-        self.CHANNEL_RETRY_LIMIT = 3
+        self.CHANNEL_RETRY_LIMIT = 6
         self.CHANNEL_ERROR_THRESHOLD = 0.5
 
         self.MIN_PROTOCOL_RATIO = 0.15
