@@ -1,65 +1,65 @@
 {
-  "timestamp": "2024-12-31T19:08:10.913727",
+  "timestamp": "2024-12-31T20:26:47.808100",
   "channels": [
     {
-      "url": "https://t.me/s/v2ray_free_conf",
+      "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "retry_count": 0,
       "success_rate": 100.0
     },
     {
-      "url": "https://t.me/s/v2rayvpno",
-      "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
-    },
-    {
-      "url": "https://t.me/s/ZibaNabz",
+      "url": "https://t.me/s/DirectVPN",
       "enabled": true,
       "retry_count": 0,
       "success_rate": 100.0
     },
     {
-      "url": "https://t.me/s/configV2rayForFree",
+      "url": "https://t.me/s/Parsashonam",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://t.me/s/xs_filternet",
       "enabled": true,
       "retry_count": 0,
       "success_rate": 100.0
-    },
-    {
-      "url": "https://t.me/s/v2rayngvpn",
-      "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
-    },
-    {
-      "url": "https://t.me/s/SvnV2ray",
-      "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
-    },
-    {
-      "url": "https://t.me/s/RadixVPN",
-      "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://t.me/s/Hope_Net",
+      "enabled": true,
       "retry_count": 0,
       "success_rate": 100.0
     },
     {
-      "url": "https://t.me/s/VlessConfig",
+      "url": "https://t.me/s/oneclickvpnkeys",
       "enabled": true,
       "retry_count": 1,
       "success_rate": 50.0
     },
     {
-      "url": "https://t.me/s/freewireguard",
+      "url": "https://t.me/s/V2rayNGX",
       "enabled": true,
       "retry_count": 0,
       "success_rate": 100.0
+    },
+    {
+      "url": "https://t.me/s/DailyV2RY",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://t.me/s/melov2ray",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
     }
   ]
 }
