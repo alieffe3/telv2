@@ -10,6 +10,8 @@ hysteria2://p6FfuI684f@91.184.242.252:443?security=tls&obfs=salamander&obfs-pass
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.127.178:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.246.142.253:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
+
 vless://1efdef9d-31e6-4273-b64e-de6451a85b62@188.245.125.19:32578?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA Country: The Netherlands Region: Drenthe City: Meppel Zip Code: 7941 ISP: Stark Industries Solutions LTD
 
 vless://3eab8bc2-dd48-4e28-a7e1-6410d7ee15fa@104.17.147.22:8080?security=none&type=ws&host=zowe.ip-ddns.com%3A102.103.104.105.com.www.speedtest.net.www.1.1.1.1.com.www.bishtarazyek.com&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
@@ -34,9 +36,9 @@ vless://87585b2d-c116-4b03-b17e-a79dca5d6e3e@104.17.147.22:443?security=tls&sni=
 
 vless://87585b2d-c116-4b03-b17e-a79dca5d6e3e@104.17.148.22:443?security=tls&sni=irany.hosting-ip.com&type=ws&host=irany.hosting-ip.com&path=%2F87585b2d-c116-4b03-b17e-a79dca5d6e3e&fp=firefox&alpn=h2#@Hope_Net-join-us-on-Telegram
 
-vless://96494ca5-6dcf-4d33-b94f-5c3485586095@104.20.18.168:8880?security=none&type=ws&host=hamedan.hiven33959.workers.dev&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
 vless://a036f90b-be82-406b-ad05-f6e2bdbc7732@151.101.66.228:80?security=none&type=ws&host=fdsfr4ewrfcvdsafa.com&path=%2F#@Hope_Net-join-us-on-Telegram
+
+vless://aababcc-bcaa-caab-cadb-aaccbbccbaba@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://aacabcb-baac-bcaa-cadb-acbbaaacccbb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -47,8 +49,6 @@ vless://aaccbab-baac-cbaa-dbca-bbccccaaabab@127.0.0.1:1080?security=tls&type=tcp
 vless://aeeb5c02-9c57-4a11-b2f5-8bd8877e656b@151.101.66.133:443?security=tls&sni=redbrain.shopping&type=ws&host=Ageofcloud.com&path=%2F%3Fed%3D1024&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://afdbecef-a23d-4900-9a1b-da854dad1a97@151.101.3.8:80?security=none&type=ws&host=External_Net.org&path=%3F%3D9090#@Hope_Net-join-us-on-Telegram
-
-vless://bacaabc-caab-abca-cbad-abacabcccbab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://ccaaabb-caba-caab-badc-bbcbcaaaaccb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
