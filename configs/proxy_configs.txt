@@ -12,6 +12,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.198.153:22222?security=tls&s
 
 vless://1efdef9d-31e6-4273-b64e-de6451a85b62@188.245.125.19:32578?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA Country: The Netherlands Region: Drenthe City: Meppel Zip Code: 7941 ISP: Stark Industries Solutions LTD
 
+vless://2bbaf73f-434a-414f-b4f0-2520a2c5155e@185.255.112.175:5600?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#@Hope_Net-join-us-on-Telegram
+
 vless://2d0b88c0-bdd0-46a3-ad5a-f32cb639197d@157.90.127.229:2053?type=ws#@Hope_Net-join-us-on-Telegram
 
 vless://526dba55-c8e8-45d8-9b13-5cf71b2858a5@188.245.174.40:8443?security=reality&sni=www.stackoverflow.com&type=http&fp=chrome&pbk=snecvGb4VGcY1DESJROf6xOoLBYTZqQivnKkuH4nVW4&sid=155dfc38ced3ba72#@Hope_Net-join-us-on-Telegram
@@ -19,6 +21,8 @@ vless://526dba55-c8e8-45d8-9b13-5cf71b2858a5@188.245.174.40:8443?security=realit
 vless://55520747-311e-4015-83ce-be46e2060ce3@104.21.70.27:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://55520747-311e-4015-83ce-be46e2060ce3@135.84.76.146:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.85:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.12:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
@@ -36,11 +40,11 @@ vless://86206c88-b8e3-4cb3-8932-3ca6ea1b6033@129.146.130.37:18443?sni=www.tesla.
 
 vless://8d7a09ce-7285-4713-babf-b3ac9ad58605@103.167.234.97:443?security=reality&flow=xtls-rprx-vision&sni=spirako.com&type=tcp&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#@Hope_Net-join-us-on-Telegram
 
-vless://8f3a387b-54f0-4c7d-b137-b1ccce93c2b4@151.101.194.228:80?security=none&type=ws&host=Pizza-vpnx1x.com&path=%2Ftelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%3Fed%3D80#@Hope_Net-join-us-on-Telegram
-
 vless://aabacbc-aabc-acab-cdab-acccacaabbbb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://aacabbc-aacb-aabc-bdca-cbcbaaabccab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://aacbacb-abac-bcaa-dcab-cbccababaabc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://abcabca-abca-acba-dbac-acabcabbcabc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -54,15 +58,9 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.5:80?type=ws#@Hope_Net-jo
 
 vless://d99f99bd-4b04-4c2a-8268-2a00f3517009@188.245.82.82:40066?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 
-vless://ef148613-c7be-4e5c-b492-f18f7db26202@151.101.2.165:80?type=ws&host=mmd2.ir&path=%2FTelegram-proxy_mtm-Telegram-proxy_mtm-Telegram-proxy_mtm-Telegram-proxy_mtm%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
-vless://ef148613-c7be-4e5c-b492-f18f7db26202@151.101.2.216:80?type=ws&host=mmd2.ir&path=%2FTelegram-proxy_mtm-Telegram-proxy_mtm-Telegram-proxy_mtm-Telegram-proxy_mtm%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE1Mi43MC4xNTUuMTQ3IiwgInBvcnQiOiAiMjA1MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYWE3MDQ5NDctZTE2My00MTMzLWI0ODUtZjgwMzJmOGYxMjg2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi95bGtzIiwgImhvc3QiOiAibmwuemh1ay51cy5rZyIsICJ0bHMiOiAidGxzIn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOC4xMTIuMTA3IiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIwOWQ1ODA1Yy03YTIyLTQ3YzEtYjFjMy1mMDkwZGYwYTk4ZWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xmbGp2d3MiLCAiaG9zdCI6ICJyYWMuNjc5ODg4Lnh5eiIsICJ0bHMiOiAidGxzIn0=
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjM0LjIxOS41My4xNDgiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjYwYzBiYmZhLWM1NGYtNDlhOS04MWJhLTc3OWIwMjA2YTlmZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIveWxrcyIsICJob3N0IjogIm5sLnpodWsudXMua2ciLCAidGxzIjogInRscyJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjQ1LjEzMS43LjkyIiwgInBvcnQiOiAiODA4MCIsICJ0eXBlIjogImF1dG8iLCAiaWQiOiAiMmE0ZmE0MGYtOTdmNC00ZWE5LWI5NTktYjE0OGM0MTk3ZDE1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJsdW9kaS5kYXZlc3Vlbi5zdG9yZSIsICJ0bHMiOiAiIn0=
 
@@ -102,8 +100,6 @@ trojan://telegram-id-directvpn@3.127.128.233:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@3.79.169.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@3.96.122.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@35.176.78.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.177.6.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
@@ -111,6 +107,8 @@ trojan://telegram-id-directvpn@35.177.6.119:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@51.20.241.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@52.14.47.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@54.246.93.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://trojan@104.18.4.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#Channel%20id%3A%20%40ShadowProxy66%20 Country: The Netherlands Region: South Holland City: Naaldwijk Zip Code: 2671 ISP: WorldStream B.V.
 
