@@ -30,8 +30,6 @@ vless://677a41e5-dbe6-429b-8f91-cc014b1ae1bd@146.190.16.108:23701?security=&encr
 
 vless://68d0af06-b182-4d8d-affd-ef35be838483@151.101.192.155:80?security=none&type=ws&host=game.baziha0098.ir#@Hope_Net-join-us-on-Telegram
 
-vless://74beb0a8-dff1-4dc7-99e3-64a2704662e4@213.176.66.228:37021?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&sid=bc721eb6#@Hope_Net-join-us-on-Telegram
-
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.176:2198?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6 Country: The Netherlands Region: Drenthe City: Meppel Zip Code: 7941 ISP: Stark Industries Solutions LTD
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.234.247.205:2198?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20 Country: The Netherlands Region: Drenthe City: Meppel Zip Code: 7941 ISP: Stark Industries Solutions LTD
@@ -39,6 +37,8 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.234.247.205:2198?security=none&
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@80.92.206.33:2198?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20 Country: The Netherlands Region: Drenthe City: Meppel Zip Code: 7941 ISP: Stark Industries Solutions LTD
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@88.218.93.231:2198?security=&encryption=none&headerType=&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8 Country: The Netherlands Region: North Holland City: Amsterdam Zip Code: 1098 ISP: DigitalOcean, LLC
+
+vless://8eacfe8d-b71e-4164-b1f8-1c4c347a7c72@151.101.194.133:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=6.fidsxss9x.iR&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://8f9b3f34-b7e5-48cc-96d3-91ae26a8973f@151.101.66.133:80?security=none&sni=live.skornorth.com&type=ws&host=meldszina.net&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
@@ -60,17 +60,21 @@ vless://ea4019ed-aa5f-43eb-a967-f8aaf6ded375@151.101.0.155:80?security=none&sni=
 
 vless://f6e16f66-0893-4d84-b5ac-781ac6f0b196@151.101.2.219:80?security=none&type=ws&host=v2netiran.life#@Hope_Net-join-us-on-Telegram
 
-vless://f79f4ede-ad61-4ca1-bf12-04bff2cfef4f@151.101.66.133:443?security=tls&sni=live.theworldwidewolf.com&type=ws&host=vmesskhodam.com#@Hope_Net-join-us-on-Telegram
+vless://fafdc34f-9a9d-4afc-91af-708365fae363@151.101.130.228:80?security=none&type=ws&host=Pizza-vpnx1x.com&path=%2Ftelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%3Fed%3D80#@Hope_Net-join-us-on-Telegram
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE4My4yMzYuNDguMTU4IiwgInBvcnQiOiAiNTAwNTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE5Mi43NC4yNDIuMjQyIiwgInBvcnQiOiAiMzgwMDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczNTgxMjM2Nzc4OCIsICJob3N0IjogInd3dy42MjgxMzIzNC54eXoiLCAidGxzIjogInRscyJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE5OC4yLjE5NS43IiwgInBvcnQiOiAiMzgwMDUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczNTgxMjM2Nzc4OCIsICJob3N0IjogInd3dy4yNzMwNjEwMy54eXoiLCAidGxzIjogInRscyJ9
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjM4LjMzLjQ0LjI3IiwgInBvcnQiOiAiMzgwMDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczNTgxMjM2Nzc4OCIsICJob3N0IjogInd3dy41OTQzMzU0My54eXoiLCAidGxzIjogInRscyJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjM4LjMzLjU2LjU1IiwgInBvcnQiOiAiMzcwMDEiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczNTg5ODkzNjE3MyIsICJob3N0IjogInd3dy4yNDAwNjg1Ny54eXoiLCAidGxzIjogInRscyJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIm9iZGlpLmNmZCIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAidGxzIjogInRscyJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImlydmlkZW8uY2ZkIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJob3N0IjogImlydmlkZW8uY2ZkIiwgInRscyI6ICJ0bHMifQ==
-
-vmess://eyJhZGQiOiJpbnRlcm5ldGF6YWR2bWVzcy52aWV3ZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZjgyNmM0MS0wZDRkLTQ0OGQtYzc0MC03MmY0NTQ4NGEwYWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM2OTA5IiwicHMiOiJWMnJheU5HIHggfCDZh9mF2Ycg2KfZvtix2KfYqtmI2LHZh9inIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 trojan://telegram-id-directvpn@15.188.214.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
