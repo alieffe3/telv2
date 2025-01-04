@@ -12,11 +12,11 @@ hysteria2://p6FfuI684f@91.184.242.252:443?security=tls&obfs=salamander&obfs-pass
 
 hysteria2://p6FfuI684f@91.184.242.252:443?security=tls&obfs=salamander&obfs-password=ZHr2aBtNWmYGZ8NnBfjxU7A&insecure=1&sni=www.whatsapp.com#@xs_filternet
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.202.66.244:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.247.157.193:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 
 vless://1185a1af-2ad7-5abe-90fb-ca183a3abd96@151.101.66.219:80?security=none&type=ws&host=ELiV2RAY-0.iR.&path=%2Fl%3Fed%3D443ed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://14d3c61a-8032-4d19-80a5-3bb127cfb86f@5.75.203.85:28028?security=reality&sni=www.speedtest.net&type=tcp&path=%2Ftelegram%40ph_onex-VpIi-21-pHOneX.www.speedtest.net.zula.ir.1.FoNexWallbeSTphOnex.cOM&headerType=http&fp=random&pbk=xXwGwJOlSUEvc17KLNCPDF1WtjxiMTUxQb8aaZIuCnI&sid=0a896646c2#@Hope_Net-join-us-on-Telegram
 
 vless://1ed78b3b-127c-4f62-b381-db1a08e7b267@146.190.227.216:19800?security=reality&sni=account.zula.ir&type=grpc&serviceName=19800vless&fp=chrome&pbk=mgtUXHpKFStGsNpbUAZg\_sDkkqy2KNJJ--\_mruSV71g&sid=44869485b73c16d5#@Hope_Net-join-us-on-Telegram
 
@@ -25,6 +25,8 @@ vless://1efdef9d-31e6-4273-b64e-de6451a85b62@188.245.125.19:32578?security=none&
 vless://23e91ff3-46cd-4148-acdf-0bfd2c7c175b@37.27.189.144:2053?security=none&type=tcp&host=fast.com&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://32ea57e7-617d-45ea-ae9d-af03be99f0db@151.101.2.165:80?security=none&type=ws&host=PINF.spdnet.ir.&path=%2Fspdnet%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
+
+vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?security=none&type=ws&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://4f126546-f34f-4977-a467-373961fff60e@87.98.149.193:443?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=-e-Py1tk4hBqFmmL-p_1l7imBS6eGWx1lVqbHWwA2yo&sid=6d49a78191f4d90f#@Hope_Net-join-us-on-Telegram
 
@@ -39,10 +41,6 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.234.247.205:2198?security=none&
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@80.92.206.33:2198?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20 Country: The Netherlands Region: Drenthe City: Meppel Zip Code: 7941 ISP: Stark Industries Solutions LTD
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@88.218.93.231:2198?security=&encryption=none&headerType=&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8 Country: The Netherlands Region: North Holland City: Amsterdam Zip Code: 1098 ISP: DigitalOcean, LLC
-
-vless://8f29e0c2-1cdf-49ad-807d-7e9ad2c55637@212.80.8.57:65235?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
-
-vless://94152c6b-0682-4cc3-9101-c9c6f1806998@23.88.38.59:443?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=xw_7cjbkfZTOj4RYSjvDgTB3uLC_wLkOeM3htYw1az4#@Hope_Net-join-us-on-Telegram
 
 vless://989f3b5d-705e-4c75-99bd-b41be4d146cd@104.18.14.19:2052?type=ws&host=0103.x8r4itwg.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
@@ -61,6 +59,8 @@ vless://b19eacb5-cfd2-9792-3193-d88c0ce89254@167.99.195.8:443?security=reality&f
 vless://c370c8be-a1fe-4b99-8589-e258fcbde1ec@151.101.2.165:80?security=none&type=ws&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.16.242.208:8889?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://dcb46480-4518-462f-cf66-d5dcf4be5793@62.60.178.101:2053?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE5OS4xODguMTA1LjU2IiwgInBvcnQiOiAiMzEwMDQiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczNTgxMjM2Nzc4OCIsICJob3N0IjogInd3dy40NjU1NDQ4NC54eXoiLCAidGxzIjogInRscyJ9
 
