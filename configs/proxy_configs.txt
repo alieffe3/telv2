@@ -16,8 +16,6 @@ vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.38:2053?security=tls&sni=w
 
 vless://2ba43a6c-e3ad-452c-8445-faa25cc93de3@104.17.147.22:2083?security=tls&sni=01942fe3-9d46-725f-abae-85b70b7e92d0.kiava.live&type=xhttp&host=01942fe3-9d46-725f-abae-85b70b7e92d0.kiava.live&path=%2F&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
 
-vless://312648af-dd40-5de2-bf0f-22d6e6284202@151.101.129.6:80?type=ws&host=PABLO-MOSTAFAA.COM#@Hope_Net-join-us-on-Telegram
-
 vless://34b3cbba-e6ac-495a-9481-976a0419eab9@172.67.200.215:443?security=tls&sni=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&type=ws&host=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&path=/#@Hope_Net-join-us-on-Telegram
 
 vless://677a41e5-dbe6-429b-8f91-cc014b1ae1bd@146.190.16.108:23701?security=&encryption=none&host=Speedtest.net&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20 Country: The Netherlands Region: Drenthe City: Meppel Zip Code: 7941 ISP: Stark Industries Solutions LTD
@@ -32,13 +30,15 @@ vless://9a2f56ba-c6f0-4fca-a14e-9b87f181c3cc@151.101.0.155:80?security=none&type
 
 vless://a0ea6749-a25a-681c-3175-cf2e6008b2d3@193.164.7.218:443?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=RCJrxssGE3akICKN-Z6bVSCyi5vlX0U8VzxxCG7eAwU#@Hope_Net-join-us-on-Telegram
 
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.85.99.181:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#@Hope_Net-join-us-on-Telegram
-
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@44.204.218.54:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#@Hope_Net-join-us-on-Telegram
+
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@44.244.121.113:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#@Hope_Net-join-us-on-Telegram
 
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@54.184.93.37:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#@Hope_Net-join-us-on-Telegram
 
 vless://b5e3d701-3b7e-4fc6-a107-5c82a3f8b414@79.127.70.72:443?security=&encryption=none&host=archlinux.org&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7 Country: The Netherlands Region: Drenthe City: Meppel Zip Code: 7941 ISP: Stark Industries Solutions LTD
+
+vless://bcaacba-abac-caba-abdc-ccaacabcbbba@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://c4855f6d-2d55-448c-c6b3-71c02098dc83@157.90.127.229:2053?security=none&type=ws#@Hope_Net-join-us-on-Telegram
 
@@ -86,6 +86,8 @@ trojan://telegram-id-directvpn@3.131.48.154:22222?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@3.139.17.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@34.253.88.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@34.254.137.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.180.223.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
@@ -100,6 +102,8 @@ trojan://telegram-id-directvpn@52.16.234.23:22222?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@54.156.50.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@54.247.76.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@99.79.138.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-privatevpns@13.49.147.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
@@ -109,10 +113,6 @@ trojan://telegram-id-privatevpns@16.171.105.47:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@34.242.67.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@34.249.240.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.181.193.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@51.44.100.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.59.79.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
