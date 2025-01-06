@@ -20,6 +20,11 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/ELiV2RAY"),
             ChannelConfig("https://t.me/s/V2rayNGX"),
             ChannelConfig("https://t.me/s/DailyV2RY"),
+            ChannelConfig("https://t.me/s/xs_filternet"),
+            ChannelConfig("https://t.me/s/mobilesignal"),
+            ChannelConfig("https://t.me/s/ISVvpn"),
+            ChannelConfig("https://t.me/s/DailyV2RY"),
+            ChannelConfig("https://t.me/s/DailyV2RY"),
             ChannelConfig("https://t.me/s/melov2ray")
         ]
 
