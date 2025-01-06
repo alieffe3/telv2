@@ -10,13 +10,11 @@ vless://0ea2f1b5-48c5-40c2-8496-5fdf856caafe@138.124.53.161:443?security=tls&sni
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.111:80?type=ws&host=teleirani.ir&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.119:80?sni=teleirani.ir&type=ws&host=teleirani.ir&path=%2F%3Fed%3D2048&fp=random&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.121:80?type=ws&host=teleirani.ir&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
 vless://2986a4b5-f2c9-40d6-a807-4315ea97acc1@65.109.184.88:443?security=reality&sni=yahoo.com&type=grpc&serviceName=Tel:@NT_Safe&fp=chrome&pbk=zT6tM7lUqiWV_KuA1hp-ckrXDCA0d9_DG40JQGlh6zo&sid=a27ce1b2604c96#@Hope_Net-join-us-on-Telegram
 
 vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@151.101.2.133:443?security=tls&sni=live.989bull.com&type=ws&host=aft.vc&path=%2FTorVipxyy%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
+vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@151.101.66.133:443?security=tls&sni=live.989bull.com&type=ws&host=aft.vc&path=%2FTorVipxyy%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.20.18.168:8880?security=none&type=ws&host=twilight-dew.granzinhannah.workers.dev&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
@@ -34,17 +32,19 @@ vless://b1f58d90-e65f-4566-91f3-1b96e9a68619@151.101.2.219:80?security=none&type
 
 vless://b5e3d701-3b7e-4fc6-a107-5c82a3f8b414@79.127.70.72:443?security=&encryption=none&host=archlinux.org&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7 Country: The Netherlands Region: Drenthe City: Meppel Zip Code: 7941 ISP: Stark Industries Solutions LTD
 
-vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@154.211.8.152:2053?security=tls&sni=cvl.esslh.filegear-sg.me&type=ws&host=cvl.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@154.211.8.84:2083?security=tls&sni=cvl.esslh.filegear-sg.me&type=ws&host=cvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@185.144.245.62:18556?security=tls&sni=cvl.esslh.filegear-sg.me&type=ws&host=cvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@45.85.210.234:25463?security=tls&sni=cvl.esslh.filegear-sg.me&type=ws&host=cvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#@Hope_Net-join-us-on-Telegram
+
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.0.44:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/#@Hope_Net-join-us-on-Telegram
 
 vless://d603cba7-4ec4-4744-a1df-1fcbec323066@104.24.197.20:2083?security=tls&sni=GErMAnhp.Pages.DEV&type=ws&host=germanhp.pages.dev&path=/9tE1lXpBmCQDi0ki/My4xMjYuMTU5LjEy&fp=randomized&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+
+vless://d603cba7-4ec4-4744-a1df-1fcbec323066@172.67.66.177:2083?security=tls&sni=GErMAnhp.Pages.DEV&type=ws&host=germanhp.pages.dev&path=/9tE1lXpBmCQDi0ki/My4xMjYuMTU5LjEy&fp=randomized&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://f1038013-88be-46e7-9e26-4c6f5c7ca2a9@151.101.194.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws%2F%3Fed%3D2052#@Hope_Net-join-us-on-Telegram
 
