@@ -23,7 +23,7 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/xs_filternet"),
             ChannelConfig("https://t.me/s/mobilesignal"),
             ChannelConfig("https://t.me/s/ISVvpn"),
-            ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
+            ChannelConfig("https://t.me/s/proxy_kafee"),
             ChannelConfig("https://t.me/s/DailyV2RY"),
             ChannelConfig("https://t.me/s/melov2ray")
         ]
