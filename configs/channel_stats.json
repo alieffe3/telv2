@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-06T19:11:47.932890",
+  "timestamp": "2025-01-06T19:17:15.020301",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -80,7 +80,7 @@
       "success_rate": 50.0
     },
     {
-      "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
+      "url": "https://t.me/s/proxy_kafee",
       "enabled": true,
       "retry_count": 1,
       "success_rate": 50.0

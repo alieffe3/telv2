@@ -216,7 +216,7 @@
             <text x="633.75" y="380" 
                   transform="rotate(45, 633.75, 380)"
                   text-anchor="start" class="tick-label">
-                Gozargah_Sub
+                proxy_kafee
             </text>
             <text x="633.75" y="195.0" 
                   text-anchor="middle" class="tick-label">
@@ -253,7 +253,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-01-06T19:11:47.932890
+            Last updated: 2025-01-06T19:17:15.020301
         </text>
     </svg>
     
