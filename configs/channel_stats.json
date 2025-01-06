@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-06T07:14:20.315298",
+  "timestamp": "2025-01-06T08:19:36.183875",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -60,6 +60,36 @@
       "enabled": true,
       "retry_count": 0,
       "success_rate": 100.0
+    },
+    {
+      "url": "https://t.me/s/xs_filternet",
+      "enabled": true,
+      "retry_count": 0,
+      "success_rate": 100.0
+    },
+    {
+      "url": "https://t.me/s/mobilesignal",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://t.me/s/ISVvpn",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://t.me/s/DailyV2RY",
+      "enabled": true,
+      "retry_count": 0,
+      "success_rate": 100.0
+    },
+    {
+      "url": "https://t.me/s/DailyV2RY",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/melov2ray",
