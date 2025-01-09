@@ -24,7 +24,7 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/mobilesignal"),
             ChannelConfig("https://t.me/s/ISVvpn"),
             ChannelConfig("https://t.me/s/proxy_kafee"),
-            ChannelConfig("https://t.me/s/DailyV2RY"),
+            ChannelConfig("https://t.me/s/v2Line"),
             ChannelConfig("https://t.me/s/melov2ray")
         ]
 
