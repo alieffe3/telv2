@@ -10,6 +10,8 @@ vless://162ef4ea-da9b-434f-af78-8a58008b9914@151.101.2.228:443?security=tls&sni=
 
 vless://356ff342-edb5-418e-9929-f254517bc658@188.245.174.40:8443?security=reality&sni=www.stackoverflow.com&type=tcp&fp=chrome&pbk=snecvGb4VGcY1DESJROf6xOoLBYTZqQivnKkuH4nVW4&sid=155dfc38ced3ba72#@Hope_Net-join-us-on-Telegram
 
+vless://68665e7f-31c1-49f4-9347-3e18c18e024b@206.189.117.253:1615?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&allowInsecure=1#@Hope_Net-join-us-on-Telegram
+
 vless://7c4cca48-83ba-40c6-8b95-6983602a70f1@91.134.61.63:2053?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://83312918-9077-4ab5-95df-2974ff77e7aa@91.134.61.63:2087?security=reality&sni=sourceforge.net&type=tcp&fp=chrome&pbk=p7D1-djJiLWoHcOpkhwz1BqAxoN6OwTwfFFDAzp9nBs&sid=d1d37795627fd805#@Hope_Net-join-us-on-Telegram
@@ -22,9 +24,7 @@ vless://8938d63f-7dda-43be-9a1e-819adac28297@160.153.137.128:443?security=tls&sn
 
 vless://9ac3f6be-abc1-4f08-c0d2-7a9a256b0c16@172.245.156.147:29582?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@44.200.132.227:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR\_2C\_KK3a071iGBPUUCsHH1A&sid=a4844ba7#@Hope_Net-join-us-on-Telegram
-
-vless://bacabca-aabc-aacb-dcba-cbcacbabcaab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://b8b6aa29-7abc-47c0-bcc2-b28c69ef6b84@5.75.128.216:2083?security=reality&sni=refersion.com&type=grpc&fp=randomized&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&sid=90278dfc#@Hope_Net-join-us-on-Telegram
 
 vless://bbacaca-aacb-acba-cdab-abacabcbcacb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
