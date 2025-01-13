@@ -4,15 +4,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.105.48:22222?security=tls&sn
 
 vless://11f4d607-5529-41ca-ab21-cfdc2853abbb@78.141.218.197:8080?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
-vless://129cb4c1-ef80-424b-a098-3769143ee0e4@151.101.2.165:80?security=none&type=ws&host=platform.vios.com&path=%2Fspdnet%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
-
-vless://2dcbbad3-f74a-4f8d-a711-0801ead02deb@104.17.122.14:8080?security=none&sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&type=ws&host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=%2Fadmin&fp=random&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+vless://26842241-856f-45f2-b33c-b58e66f36fb8@104.18.15.19:80?type=ws&host=0113.edwv8ve3.workers.dev&path=/?ed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://35aa4cf8-c13c-58db-bd62-9de92225030f@95.164.38.6:2052?security=none&type=ws&host=www-domain.no1.v2vless.sitespeedtest.net&path=%2Fvless%2FTelegram%40V2ray_Alpha#@Hope_Net-join-us-on-Telegram
 
 vless://44dab2ce-2f65-4eb6-b09c-6e9f3bbcaa4f@135.125.244.42:2030?security=reality&sni=refersion.com&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#@Hope_Net-join-us-on-Telegram
-
-vless://50dbe8d9-abef-46e5-d44b-00117a5025d3@151.101.158.204:80?security=none&sni=zmaoz.faculty.ucdavis.edu.&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D64&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://5a3d9132-05e0-4a98-cb1d-86fe525706ec@64.176.44.74:8080?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
@@ -30,6 +26,8 @@ vless://8938d63f-7dda-43be-9a1e-819adac28297@160.153.0.116:2053?security=tls&sni
 
 vless://8938d63f-7dda-43be-9a1e-819adac28297@160.153.0.183:443?mode=gun&security=tls&encryption=none&alpn=h3&fp=chrome&type=grpc&serviceName=&sni=QcGpEeHn17.hAmDoLlAh-bAgHeRi.iNfO#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8 Country: The Netherlands Region: South Holland City: Naaldwijk Zip Code: 2671 ISP: WorldStream B.V.
 
+vless://959c009b-1989-43e4-9cfc-678efa9eed1d@159.69.88.187:443?security=tls&sni=2.gpairnetwork369.ir&type=tcp&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
 vless://9984c558-6a70-4423-afba-b341f82152c6@178.239.146.212:7785?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://a72ed566-2035-45f0-9815-7407ce89e926@108.162.194.232:443?security=tls&sni=iat1sk.kalastore.org&type=ws&host=iat1sk.kalastore.org&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
@@ -38,19 +36,23 @@ vless://a7957f09-5637-577f-a7d2-d9a75da3e564@95.164.1.13:2052?security=none&type
 
 vless://abaccab-abac-aabc-dacb-baabbbccaacc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://abcacab-caba-baca-acdb-ccabbabccaab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://b2f37ad8-612f-5924-b270-970ffb7ff840@77.91.72.143:2052?security=none&type=ws&path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#@Hope_Net-join-us-on-Telegram
 
 vless://bcbcaaa-aabc-cbaa-dbac-acbaccacbabb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AA%F0%9F%87%B8 Country: The Netherlands Region: South Holland City: Naaldwijk Zip Code: 2671 ISP: WorldStream B.V.
 
-vless://d8cddf38-33cc-4384-8f47-2b2055d8687c@51.178.249.1:30090?security=reality&sni=refersion.com&type=grpc&serviceName=%2F%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1&fp=chrome&pbk=Tqb5oaBTWV7I6wNP1LluGFw0gYtvIi20jlImrpZ_miQ&sid=3815632cb5e12f20#@Hope_Net-join-us-on-Telegram
+vless://e5c756d0-6270-4207-b830-6518385cea93@18.192.200.226:18916?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://f51aebe4-678e-41ac-96bf-fecd259e3616@151.101.66.133:80?security=none&type=ws&host=jetservices55.ir&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+vless://ed35d48f-f16b-4d2d-93e9-10675a3e966c@49.12.200.119:2053?security=none&type=ws&path=telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE5NS41OC40OS41MCIsICJwb3J0IjogIjU1ODk5IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxY2M1OWEzYS05NjI1LTQwZjctYjBlNi1lMjMzMjg2YWU4MmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE5OS4xODAuMTAxLjIzIiwgInBvcnQiOiAiMzgwMDQiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczNjY3NTE4NDgwNSIsICJob3N0IjogInd3dy43MDc3ODU5OC54eXoiLCAidGxzIjogInRscyJ9
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xNy4yMjEuMjQ4IiwgInBvcnQiOiAiMjA1MiIsICJ0eXBlIjogImF1dG8iLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIxMDAtMTc0LTIzNy03LnMzLmRiLWxpbmswMS50b3AiLCAidGxzIjogIiJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjIzLjE1OC41Ni4yMjciLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJob3N0IjogIjIzLjE1OC41Ni4yMjciLCAidGxzIjogInRscyJ9
 
@@ -61,6 +63,8 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRk
 vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIiA6ICJ0ZWxlZ3JhbfCfjKpEYWlseVYycnkiLCJzY3kiOiJhdXRvIiwic25pIjoiZGQyMTE0NnlnZmRTTkE5MTkxMjgxMjgwa2RtMjJrYXMyMTIzQWF3ZHNkMTIzNGJiMTA4NjExOTM5LmdvaXktam9maS1rbzguZnVuIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=Daily V2ry#VPN
 
 vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIiA6ICJ0ZWxlZ3JhbfCfjKpEYWlseVYycnkiLCJzY3kiOiJhdXRvIiwic25pIjoiZGQyMTE0NnlnZmRTTkE5MTkxMjgxMjgwa2RtMjJrYXMyMTIzQWF3ZHNkMTIzNGJiMTU1MTM4MjIxOTguaG9qaS1va2lqdS1wb2l1LmZ1biIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIiA6ICJ0ZWxlZ3JhbfCfjKpEYWlseVYycnkiLCJzY3kiOiJhdXRvIiwic25pIjoiZGQyMTE0NnlnZmRTTkE5MTkxMjgxMjgwa2RtMjJrYXMyMTIzQWF3ZHNkMTIzNGJiNDU3NjYyMjAzLmdvaXktam9maS1rby5mdW4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIiA6ICJ0ZWxlZ3JhbfCfjKpEYWlseVYycnkiLCJzY3kiOiJhdXRvIiwic25pIjoiZGQyMTE0NnlnZmRTTkE5MTkxMjgxMjgwa2RtMjJrYXMyMTIzQWF3ZHNkMTIzNGJiNDUzMjIyMTIzMy5nb2l5LWpvZmkta28uZnVuIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 
@@ -114,6 +118,8 @@ trojan://telegram-id-directvpn@13.61.38.182:22222?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@13.61.53.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@15.157.135.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@18.195.76.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@3.133.45.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
@@ -130,15 +136,13 @@ trojan://telegram-id-directvpn@52.14.215.189:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@52.60.111.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@54.75.49.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@54.76.51.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@63.176.87.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@63.35.150.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-privatevpns@3.72.188.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@13.36.88.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.72.208.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
