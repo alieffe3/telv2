@@ -4,13 +4,13 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.170.59.152:22222?security=tls&sn
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.75.117.55:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@Hope_Net-join-us-on-Telegram
 
-vless://06e0551f-b2a5-47f8-92bd-5d4a5832bdde@162.159.44.157:443?security=tls&sni=f1ft2u.parscodes.com&type=ws&host=f1ft2u.parscodes.com&path=%2Fwss&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
+vless://06e0551f-b2a5-47f8-92bd-5d4a5832bdde@172.64.35.157:443?security=tls&sni=f1ft2u.parscodes.com&type=ws&host=f1ft2u.parscodes.com&path=%2Fwss&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80?sni=teleirani.ir&type=ws&host=teleirani.ir&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?security=none&type=ws&host=teleirani.ir&path=%2Fvless-ws%2F%40V2ray_Alpha%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
-vless://26842241-856f-45f2-b33c-b58e66f36fb8@104.18.14.19:2082?type=ws&host=0113.edwv8ve3.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.85.155:80?security=none&sni=teleirani.ir&type=ws&host=teleirani.ir&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://26842241-856f-45f2-b33c-b58e66f36fb8@104.18.14.19:8080?type=ws&host=0113.edwv8ve3.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
@@ -18,19 +18,15 @@ vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?security=tls&sni=1
 
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?security=none&type=ws&host=edge.validbv3528.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&allowInsecure=0#@Hope_Net-join-us-on-Telegram
-
-vless://54dea376-b7fc-4651-8084-f6f439d66a25@93.127.223.149:443?security=reality&sni=sToRaGe.goOglEaPis.com&type=tcp&headerType=http&fp=random&pbk=QjlzHYXUjdcSmsQdDL3qdlte_Xh3d8w1Vf0gcBrgdAU&sid=247ca7c473#@Hope_Net-join-us-on-Telegram
+vless://617d5079-9fae-494a-98ca-90da9e10cd70@68.183.159.22:80?encryption=none&security=none&sni=&type=ws&alpn=&host=arvancloud.com&path=/?ed=2048#@Hope_Net-join-us-on-Telegram
 
 vless://63d7714a-2ac5-46ac-93be-96cea00300f8@172.64.88.159:80?security=none&type=ws&host=winter-unit-b41d-ppal03.daxesac157.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://68bf637d-f323-4d9e-b8dc-80cd799a250d@5.180.30.31:8880?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 
-vless://7069b80b-6901-400f-8b7c-c5b387ad9f0b@116.203.36.225:5443?security=reality&sni=stackoverflow.com&type=grpc&serviceName=%40cephalon_ai_bot&fp=chrome&pbk=lt9fGJ_giHZO8pU-sPUtCyA_4eq-8qG1NQ5TRCllLTc&sid=2e23b1fea6c2c2#@Hope_Net-join-us-on-Telegram
-
-vless://77f680d1-1881-4b16-9eac-b8882c05fe62@151.101.128.155:80?type=ws&host=jetservices55.ir&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
 vless://88bc3858-b31c-4a1d-9f17-9c485ae404b1@84.47.233.101:17160?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7 Country: The Netherlands Region: South Holland City: Naaldwijk Zip Code: 2671 ISP: WorldStream B.V.
+
+vless://88bc3858-b31c-4a1d-9f17-9c485ae404b1@84.47.233.101:17160?type=tcp&host=Fast.com&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://8938d63f-7dda-43be-9a1e-819adac28297@160.153.0.183:443?mode=gun&security=tls&encryption=none&alpn=h3&fp=chrome&type=grpc&serviceName=&sni=QcGpEeHn17.hAmDoLlAh-bAgHeRi.iNfO#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8 Country: The Netherlands Region: South Holland City: Naaldwijk Zip Code: 2671 ISP: WorldStream B.V.
 
@@ -40,13 +36,17 @@ vless://a8ab9180-21d0-41f8-9a99-1c713f57000a@151.101.194.165:80?security=none&ty
 
 vless://b1f200fe-7452-4001-bc91-829dfbbcf631@172.67.164.140:8080?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AA%F0%9F%87%B8 Country: The Netherlands Region: South Holland City: Naaldwijk Zip Code: 2671 ISP: WorldStream B.V.
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.24.200.164:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#@Hope_Net-join-us-on-Telegram
 
-vless://d77e442e-8bb8-53c6-8577-0cc100b2e9ac@95.164.46.154:2052?security=none&type=ws&host=www-domain.it1.v2vless.sitespeedtest.net&path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#@Hope_Net-join-us-on-Telegram
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AA%F0%9F%87%B8 Country: The Netherlands Region: South Holland City: Naaldwijk Zip Code: 2671 ISP: WorldStream B.V.
 
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&host=google.com&path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://e07c7668-2f1e-44d0-f7ca-730f0917db6a@64.176.165.199:8080?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
+
+vless://ec442af6-d565-4032-a37c-b60c7d4f3048@104.248.100.191:1286?type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
+
+vless://f6061bc2-a45a-48b3-9617-11c0eef99185@151.101.128.155:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2Ftelegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIiA6ICJ0ZWxlZ3JhbfCfjKpEYWlseVYycnkiLCJzY3kiOiJhdXRvIiwic25pIjoiZGQyMTE0NnlnZmRTTkE5MTkxMjgxMjgwa2RtMjJrYXMyMTIzQWF3ZHNkMTIzNGJiMTA4NjExOTM5LmdvaXktam9maS1rbzguZnVuIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=Daily V2ry#VPN
 
