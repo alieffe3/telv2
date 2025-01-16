@@ -12,6 +12,7 @@ class ProxyConfig:
         self.TELEGRAM_CHANNELS = [
             ChannelConfig("https://t.me/s/ShadowProxy66"),
             ChannelConfig("https://t.me/s/DirectVPN"),
+            ChannelConfig("https://t.me/s/v2ray_configs_pool"),
             ChannelConfig("https://t.me/s/Parsashonam"),
             ChannelConfig("https://t.me/s/xs_filternet"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),
