@@ -85,16 +85,16 @@
         </g>
         
         <g>
-            <rect x="220.0" y="200.0" width="35.0" height="140.0"
+            <rect x="220.0" y="60.0" width="35.0" height="280.0"
                   class="bar"/>
             <text x="240.0" y="380" 
                   transform="rotate(45, 240.0, 380)"
                   text-anchor="start" class="tick-label">
                 PrivateVPNs
             </text>
-            <text x="240.0" y="195.0" 
+            <text x="240.0" y="55.0" 
                   text-anchor="middle" class="tick-label">
-                50.0%
+                100.0%
             </text>
         </g>
         
@@ -267,7 +267,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-01-16T11:13:04.903740
+            Last updated: 2025-01-16T12:26:10.839804
         </text>
     </svg>
     
