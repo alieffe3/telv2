@@ -14,6 +14,7 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/DirectVPN"),
             ChannelConfig("https://t.me/s/v2ray_configs_pool"),
             ChannelConfig("https://t.me/s/Parsashonam"),
+            ChannelConfig("https://t.me/s/v2nodes"),
             ChannelConfig("https://t.me/s/xs_filternet"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),
             ChannelConfig("https://t.me/s/Hope_Net"), 
