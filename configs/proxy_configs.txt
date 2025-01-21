@@ -1,8 +1,10 @@
 vless://0355e0b9-f6aa-4da4-89fc-5b1e476b3f8c@95.181.162.108:8880?type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.251.208.82:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-
 vless://22c7cdd0-5205-4f91-a98e-5fcf6cb0e9ed@172.64.35.157:443?security=tls&sni=kjq0yl.p1vpn.com&type=ws&host=kjq0yl.p1vpn.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.105:80?type=ws&host=teleirani.ir&path=/?ed%3D2048#@Hope_Net-join-us-on-Telegram
+
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.136:80?sni=teleirani.ir&type=ws&host=teleirani.ir&path=Telegram@proxy_mtm/?ed%3D2560&fp=random&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?type=ws&host=teleirani.ir&path=/?ed%3D2048#@Hope_Net-join-us-on-Telegram
 
@@ -10,23 +12,25 @@ vless://267ca9b2-381e-4fe8-97fa-6ec2ee4804e9@104.17.148.22:8443?security=tls&sni
 
 vless://35221069-0d7a-418e-9f0b-6b04a503600d@151.101.194.228:443?security=tls&sni=FISHLAB.UCDAVIS.EDU&type=ws&host=PEZESHKLANDER.ORG.&path=%2FTelegram-Channel%3A%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
-vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@104.17.147.22:80?security=none&type=httpupgrade&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.bestgameir2.ir.&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@104.17.147.22:80?type=httpupgrade&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.bestgameir2.ir.&path=/?ed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://35d6531f-93ad-4dfe-b5ba-b8c3ef8698d4@104.21.112.1:2083?security=tls&sni=2-7uO.PaGeS.Dev&type=ws&host=2-7uo.pages.dev&path=%2Fsf7dY95TEgm7Nlu6%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://420f44ae-ff46-47c3-ba43-36c9c61812ef@159.69.103.177:443?security=tls&sni=dd11.asalemaraghe.ir&type=ws&host=dd11.asalemaraghe.ir&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
+vless://48eccebc-1e36-4c60-b088-55fb793f6688@103.137.63.3:443?security=tls&sni=acedo.ambercc.filegear-sg.me&type=ws&host=acedo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@108.162.195.227:443?security=tls&sni=acedo.ambercc.filegear-sg.me&type=ws&host=acedo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://48eccebc-1e36-4c60-b088-55fb793f6688@162.159.44.127:443?security=tls&sni=acedo.ambercc.filegear-sg.me&type=ws&host=acedo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Channel%20id%3A%20%40ShadowProxy66%20 Country: The Netherlands Region: North Holland City: Amsterdam Zip Code: 1012 ISP: CGI GLOBAL LIMITED
 
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.68.162:80?type=ws&host=us1.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.225.114:80?security=none&type=ws&host=us1.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
-
 vless://7c1c7660-b5cc-45b7-9c36-5334002ee7aa@188.245.212.4:2083?security=reality&sni=refersion.com&type=grpc&fp=randomized&pbk=IXXrQcqXgzopBeSGpCO\_u53keeKZaN1AoOzdyLA-Mzo&sid=11a4b6bca8#@Hope_Net-join-us-on-Telegram
 
-vless://947c066d-62e5-47a5-933d-dd9816f70b1b@31.44.3.109:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=JoinBadeChannel%40antimeli&fp=chrome&pbk=Paai0w6bHcKmaZzm8Sljt8uKydSYX5h1t3G_Y3T-Rm0&sid=f74b9234#@Hope_Net-join-us-on-Telegram
+vless://8274a9f0-f7ed-4384-8c69-6bf8a98d19a6@185.59.218.73:443?security=tls&sni=us2_tg_fxnodes.sfacg.uk&type=ws&host=us2_tg_fxnodes.sfacg.uk#@Hope_Net-join-us-on-Telegram
 
 vless://9d151fec-79de-4044-b3dc-6b26e63bf7ff@91.107.177.96:2083?security=reality&sni=refersion.com&type=grpc&serviceName=Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs&fp=randomized&pbk=TuZN_1XtdIQrXoKk5MFJR62hyz7FkIilrMEguBWtvmE&sid=4ea00ce2#@Hope_Net-join-us-on-Telegram
 
@@ -34,11 +38,7 @@ vless://acaabcb-abca-caba-acbd-bbbcccaaacab@127.0.0.1:8080?security=tls&type=tcp
 
 vless://c8484ec7-5f5c-486e-889f-33a55b19f0d3@104.17.148.22:8080?security=none&type=ws&host=%D0%B6%D0%B6%D0%B6.FASTSHO.cloudflare.www.speedtest.com.freedhs5.%D0%BF%D0%BF%D0%BF%D0%BF%D0%BF%D0%BF%D0%BF.ip-ddns.com.JOIN.FASTSHO.0.0.0.0.hide-my.domin.caFegaminGblackhOrsE.iR.&path=%2Ftelegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
-vless://caabbac-aabc-abac-acdb-bccacbbaacba@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://d3e2704d-2d98-4479-876f-d19d5a50a3b6@190.93.245.137:443?security=tls&sni=WWW.EsfahAnsimaN.infO.&type=ws&host=WWW.EsfahAnsimaN.infO.&path=TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
-vless://d756a6ac-c30c-4f11-80cd-227b322edc10@151.101.66.228:443?security=tls&sni=FISHLAB.UCDAVIS.EDU&type=ws&host=MADGALFERESHTAST.COM.&path=%2FTelegram-Channel%3A%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG%3Fed%3D2560&fp=qq#@Hope_Net-join-us-on-Telegram
+vless://cbaaabc-baca-aabc-badc-bbaacbabccac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://ea286109-d20f-415e-849e-4af20ab04b65@51.81.78.51:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
@@ -132,9 +132,9 @@ trojan://telegram-id-directvpn@99.79.187.109:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@13.37.56.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@51.21.64.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.62.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@51.21.68.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@13.43.124.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.57.178.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
