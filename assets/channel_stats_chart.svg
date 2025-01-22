@@ -99,16 +99,16 @@
         </g>
         
         <g>
-            <rect x="238.9473684210526" y="60.0" width="30.789473684210527" height="280.0"
+            <rect x="238.9473684210526" y="200.0" width="30.789473684210527" height="140.0"
                   class="bar"/>
             <text x="256.84210526315786" y="380" 
                   transform="rotate(45, 256.84210526315786, 380)"
                   text-anchor="start" class="tick-label">
                 xs_filternet
             </text>
-            <text x="256.84210526315786" y="55.0" 
+            <text x="256.84210526315786" y="195.0" 
                   text-anchor="middle" class="tick-label">
-                100.0%
+                50.0%
             </text>
         </g>
         
@@ -295,7 +295,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-01-22T06:21:07.628147
+            Last updated: 2025-01-22T07:15:23.818593
         </text>
     </svg>
     
