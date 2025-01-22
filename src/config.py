@@ -28,12 +28,17 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/proxy_kafee"),
             ChannelConfig("https://t.me/s/v2Line"),
             ChannelConfig("https://t.me/s/vpnowl"),
+            ChannelConfig("https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt"),
+            ChannelConfig("https://Rayan-Config.github.io/ALL"),
+            ChannelConfig("https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/T,H"),
+            ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
+            ChannelConfig("https://raw.githubusercontent.com/Vahidqaz/BESTIIVPNBOT/refs/heads/main/BESTIIVPNBOT.txt"),
             ChannelConfig("https://t.me/s/melov2ray")
         ]
 
         self.PROTOCOL_CONFIG_LIMITS = {
-            "min": 5,
-            "max": 25
+            "min": 10,
+            "max": 35
         }
 
         self.SUPPORTED_PROTOCOLS: Dict[str, Dict] = {
@@ -45,10 +50,10 @@ class ProxyConfig:
             "trojan://": {"min_configs": self.PROTOCOL_CONFIG_LIMITS["min"], "max_configs": self.PROTOCOL_CONFIG_LIMITS["max"]}
         }
 
-        self.MIN_CONFIGS_PER_CHANNEL = 5
-        self.MAX_CONFIGS_PER_CHANNEL = 30
-        self.MAX_CONFIG_AGE_DAYS = 7
-        self.CHANNEL_RETRY_LIMIT = 6
+        self.MIN_CONFIGS_PER_CHANNEL = 10
+        self.MAX_CONFIGS_PER_CHANNEL = 40
+        self.MAX_CONFIG_AGE_DAYS = 14
+        self.CHANNEL_RETRY_LIMIT = 10
         self.CHANNEL_ERROR_THRESHOLD = 0.5
 
         self.MIN_PROTOCOL_RATIO = 0.15
