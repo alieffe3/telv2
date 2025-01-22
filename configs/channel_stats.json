@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-22T09:18:11.562910",
+  "timestamp": "2025-01-22T10:17:15.168030",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -40,8 +40,8 @@
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/Hope_Net",
@@ -105,6 +105,36 @@
     },
     {
       "url": "https://t.me/s/vpnowl",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://Rayan-Config.github.io/ALL",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/T,H",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vahidqaz/BESTIIVPNBOT/refs/heads/main/BESTIIVPNBOT.txt",
       "enabled": true,
       "retry_count": 1,
       "success_rate": 50.0
