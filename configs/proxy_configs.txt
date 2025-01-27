@@ -6,13 +6,15 @@ hysteria2://mSIusSz2Ku3YUWxB85cQa@c.2513142.xyz:18882?security=tls&insecure=1#V2
 
 hysteria2://mSIusSz2Ku3YUWxB85cQa@c.2513142.xyz:18884?security=tls&insecure=1#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.40.6:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
+vless://226aec61-4299-4ab4-b494-55b15cadf6f9@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Germany2-1nufilter.coM&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://2a9c688a-1dd2-4cb7-8b13-92b9fa428207@172.64.35.157:443?security=tls&sni=hgyprp.snaptrip.site&type=ws&host=hgyprp.snaptrip.site&path=%2Fwss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@104.21.69.44:2087?security=tls&sni=Tp771RuMn5.AlTaBaNiC.iR&type=ws&host=Tp771RuMn5.AlTaBaNiC.iR&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@192.0.54.235:443?allowInsecure=0&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=/?ed=2048security=tls#@Hope_Net-join-us-on-Telegram
+
+vless://49592078-2020-4872-a3b2-c3c450cafe33@95.164.113.81:45570?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://5d101b3e-bcdd-487f-9f70-6de4cc21ef06@193.124.203.178:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=germany1.rsvpn.ru#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
@@ -38,8 +40,6 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.90.97.173:2222?security=none&typ
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.91.183.54:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.93.163.93:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.95.73.98:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.187.195.210:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -48,7 +48,11 @@ vless://88b51009-bbde-438e-9ac1-312f4c0ea2b5@151.101.194.165:80?type=ws&host=Joi
 
 vless://9136b27f-e5ca-4745-9dfb-6636e57c7245@fre.alireza.com.tr:2087?security=none&seed=Dg28jJdm1b&encryption=none&headerType=none&type=kcp#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
+vless://TELEGRAM-NUFiLTER-60b64e8cab05@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Germany2.vip-nufilter.coM&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
 vless://TELEGRAM-NUFiLTER-b02f4e0b686b@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss7x.ir&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://TELEGRAM-NUFiLTER-c1002f7f0008@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Dorzadim.filtero.net&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://TELEGRAM-NUFiLTER-efc3a863e26a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Germany.vipnufilter.coM&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
@@ -58,11 +62,7 @@ vless://c96393b3-3ed5-4dbd-8049-b4b78739bc0d@138.201.159.5:443?security=reality&
 
 vless://c97b3b33-2a43-45b1-bd76-51567d16c88b@91.107.131.161:10021?security=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://cacaabb-bcaa-abac-cabd-ccaccbbbbaaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://cc6b985d-0362-4129-8763-38564174fb3e@45.153.7.41:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http%2F1.1%2Ch2#@Hope_Net-join-us-on-Telegram
-
-vless://cc6b985d-0362-4129-8763-38564174fb3e@92.60.74.174:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#@Hope_Net-join-us-on-Telegram
 
 vless://cd4c7754-66fe-4572-b791-50f279c6d5c3@45.153.231.248:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=&fp=chrome&type=tcp&sni=google.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
@@ -121,6 +121,12 @@ ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#@Hope_Net
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#@Hope_Net
 
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@217.30.10.18:9005#@Hope_Net
+
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.139.83.8:443#@Hope_Net
+
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.203.145:443#@Hope_Net
+
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.87.38.141:443#@Hope_Net
 
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.221.196.244:443#@Hope_Net
 
