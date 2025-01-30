@@ -44,6 +44,8 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.143.113.251:4433?security=reality
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.23.114:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.17.207.32:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.19.211.99:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.81.79.117:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -64,17 +66,15 @@ vless://TELEGRAM-NUFiLTER-94fe7d67b02d@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 
 vless://a52dd329-acad-413b-aa8f-713686ad690c@49.12.185.64:80?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
 
-vless://aa6fa014-57c9-4428-9599-8d16a282eb0a@151.101.194.165:80?type=ws&host=joinBede---ELiV2RAY--ELiV2RAY.ir#@Hope_Net-join-us-on-Telegram
+vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.215.248:443?type=ws&host=4h4.ghalikermaniz.info&path=/#@Hope_Net-join-us-on-Telegram
 
-vless://aacbcba-caba-acab-adbc-babbccacaabc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://aa6fa014-57c9-4428-9599-8d16a282eb0a@151.101.194.165:80?type=ws&host=joinBede---ELiV2RAY--ELiV2RAY.ir#@Hope_Net-join-us-on-Telegram
 
 vless://c34d1d2b-26d7-4d72-afe2-ede9924ea0c4@91.134.33.228:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#@Hope_Net-join-us-on-Telegram
 
 vless://cc6b985d-0362-4129-8763-38564174fb3e@27.50.49.238:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?security=tls&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&type=ws&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV#@Hope_Net-join-us-on-Telegram
-
-vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=12.irfrn23sn.net&fp=chrome&type=ws&sni=mio.splashthat.com#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vmess://eyJhZGQiOiAiM2gtcG9sYW5kMS4wOXZwbi5jb20iLCAiYWlkIjogMCwgImhvc3QiOiAiM2gtcG9sYW5kMS4wOXZwbi5jb20iLCAiaWQiOiAiMTBlMmZmNjUtMGUyMC00NjJkLWEyODItMTY0ZTQ4Yjk1NWE5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6IDgwLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 
@@ -91,8 +91,6 @@ vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVF3WmpGaw==@95.164.36.59:8388#@Hope_Net
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@3.10.79.136:443#@Hope_Net
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@3.8.76.217:443#@Hope_Net
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#Channel%20id%3A%20%40ShadowProxy66%20 Country: The Netherlands Region: North Holland City: Amsterdam Zip Code: 1017 ISP: Des Equity LLC
 
@@ -113,8 +111,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.244.34.53:443#@Hope_Net
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.47.253.227:989#@Hope_Net
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@46.17.42.248:23456#@Hope_Net
-
-ss://bm9uZTpiY2NhYWJhLWNiYWEtY2JhYS1kY2FiLWNiY2JhY2NhYmJhYQ==@127.0.0.1:2080#@Hope_Net
 
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#@Hope_Net
 
