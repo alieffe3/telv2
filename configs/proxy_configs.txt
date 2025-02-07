@@ -1,10 +1,10 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.238.219:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-
 vless://06df626b-5662-4339-8d5a-83f2f03bac5e@108.162.192.85:443?security=tls&sni=7qb7ui.gamvpn.com&type=ws&host=7qb7ui.gamvpn.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@81.94.150.122:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=spb1.fromblancwithlove.com#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=osl-no-01.fromblancwithlove.com#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://178e2d23-6805-48e6-8c20-60989094509a@104.17.148.22:443?security=tls&sni=MAhdI-6lY.pAGeS.deV&type=ws&host=mahdi-6ly.pages.dev&path=%2FismcbV2fd2T3U175%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@108.162.198.69:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc&fp=chrome#@Hope_Net-join-us-on-Telegram
 
@@ -56,15 +56,17 @@ vless://bb21504a-a198-4aa5-bd57-0a8e91111940@join.VPNCUSTOMIZE.fastly80-3.hostin
 
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@141.11.78.77:8080?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#@Hope_Net-join-us-on-Telegram
 
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@154.16.10.143:8443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#@Hope_Net-join-us-on-Telegram
+
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@38.59.242.216:30002?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@59.22.140.62:12462?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#@Hope_Net-join-us-on-Telegram
 
-vless://e33636cd-86a9-475d-9c64-5acfb9ec97d5@103.180.236.42:17032?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=YjE_o0vlkiLFojI-DKYehdKJLaiwDEv1oE6-LOiUrUo&sid=67ab243cad#@Hope_Net-join-us-on-Telegram
-
 vless://e60fec1f-79cc-484a-b912-0e21ade07094@151.101.2.165:80?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam&security=none&encryption=none&host=IPSERVIS2.ORG&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://ed9f1c98-ef71-4ece-8229-ffb40fbe452e@python.org:80?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=none&encryption=none&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE0Ni4xOS4xNjguMTYxIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjNmNjM4ZjM0LThkYmEtNDE4Ni1iYzQzLTI3MTZhN2RkZDRiZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYXowNS5iZXlvbmR5LmNmZCIsICJwYXRoIjogIi9saW5rIiwgInRscyI6ICJ0bHMiLCAic25pIjogImF6MDUuYmV5b25keS5jZmQiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
 
 vmess://eyJhZGQiOiAiMTA0LjIxLjQ4LjEiLCAiYWlkIjogMCwgImhvc3QiOiAiaXQwLjg5OTk5NC54eXoiLCAiaWQiOiAiYTA2MDU1MjctMjhlNC00NDljLTgwZWUtNTY0MmNjMTZhOGFmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9pbmRleCIsICJwb3J0IjogODQ0MywgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIml0MC44OTk5OTQueHl6In0=
 
@@ -93,8 +95,6 @@ vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixo
 vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjogInRlbGVncmFtIPCfjJ8gRGFpbHlWMnJ5Iiwic2N5IjoiYXV0byIsInNuaSI6IjQ1NzYyNTAxODEuaGF1bnRlZWQuZnVuIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjogInRlbGVncmFtIPCfjJ8gRGFpbHlWMnJ5Iiwic2N5IjoiYXV0byIsInNuaSI6Ijk2MzAxOTY1MS5wYWludGl0YmxhY2suZnVuIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjogInRlbGVncmFtIPCfjYAgRGFpbHlWMnJ5Iiwic2N5IjoiYXV0byIsInNuaSI6IjE1NTEzODE5NjE4MC5wYWludGl0YmxhY2suZnVuIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjogInRlbGVncmFtIPCfjYogRGFpbHlWMnJ5Iiwic2N5IjoiYXV0byIsInNuaSI6IjE0NDIwMjE2MTcyLnBhaW50aXRibGFjay5mdW4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 
@@ -180,9 +180,9 @@ ss://bm9uZTphY2FjYmFiLWNhYmEtY2JhYS1hY2JkLWJhYWNiYmNjY2FiYQ==@127.0.0.1:1080#@Ho
 
 ss://bm9uZTphYWNiYmNhLWJjYWEtYWNhYi1kYWNiLWNjYWJiYWNhYmNiYQ==@127.0.0.1:1080#@Hope_Net
 
-ss://bm9uZTphYWNjYmJhLWFiY2EtY2FhYi1jZGFiLWFjYWJiYmNhYmFjYw==@127.0.0.1:2080#@Hope_Net
-
 ss://bm9uZTphYmFiYWNjLWFjYWItY2JhYS1hY2JkLWJjY2FhY2JiY2JhYQ==@127.0.0.1:8080#@Hope_Net
+
+ss://bm9uZTpiYWNhY2JhLWNiYWEtY2JhYS1iZGNhLWNhY2FiYmNiYmFjYQ==@127.0.0.1:1080#@Hope_Net
 
 trojan://telegram-id-directvpn@13.37.80.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
