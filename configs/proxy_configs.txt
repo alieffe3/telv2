@@ -6,6 +6,8 @@ vless://23d3064c-3f68-419e-abc5-10f747c90318@151.101.192.155:80?security=none&ty
 
 vless://2fb8567e-0c85-4950-9975-af714241b2db@ZuLa.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
+vless://38b0eb91-7552-4652-8598-9de6a14b7caf@49.13.192.48:443?security=reality&sni=www.cdn77.com&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&fp=chrome&pbk=BDsBcQ0GzxU-pGwN0H6zRVIbOhdL5dJy7cUd44xnayI&sid=dfb4dc18a1#@Hope_Net-join-us-on-Telegram
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40MTMVPN%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40v2ray_alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
@@ -15,6 +17,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Ftelegr
 vless://55a1198e-a5e7-53cc-88fe-5d05382bc85e@elena.fastly80-3.hosting-ip.com:80?path=%2FTelegram-ID-ELiV2RAY--Telegram-ID-ELiV2RAY--Telegram-ID-ELiV2RAY&security=none&encryption=none&host=TG.ELiV2RAY.iR&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@172.64.162.60:80?security=none&type=ws&host=gozargah2.validbv7996.ir&path=%2F3Bc2FravWgXBrnlN%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://683ca56e-5b47-48d8-ae1e-9c4df7be9802@108.162.195.157:443?security=tls&sni=k2h6ga.alligator27app.com&type=ws&host=k2h6ga.alligator27app.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://7c478077-7fa2-4e7e-a2bd-d84f1b9e4075@elena.fastly80-3.hosting-ip.com:80?path=%2FTelegram-ID-%40ELiV2RAY--Telegram-ID-%40ELiV2RAY--Telegram-ID-%40ELiV2RAY&security=none&encryption=none&host=Join.ELiV2-RAY.ir&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
@@ -38,9 +42,7 @@ vless://V2RAXX--@151.101.0.155:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3
 
 vless://V2RAXX--@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-vless://a039eb43-0019-4753-aeed-bfc9b895ddab@151.101.194.165:80?type=ws&host=jOin--Bede--mOsiV2.ir&path=%2F%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
-vless://aabccab-aabc-caab-bdac-bbcbccaaacba@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://abacbca-caab-baca-acbd-bbaccbaabcac@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@35.180.193.215:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#@Hope_Net-join-us-on-Telegram
 
@@ -133,8 +135,6 @@ ss://YWVzLTI1Ni1nY206OU5DV0RSVlU3VEE1WTNWUQ==@154.196.244.13:16003#@Hope_Net
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.169:9101#@Hope_Net
 
 ss://bm9uZTphY2JhYWJjLWJhY2EtYWFjYi1hZGJjLWJjY2JiY2JhYWFjYQ==@127.0.0.1:2080#@Hope_Net
-
-ss://bm9uZTphYmFhYmNjLWFjYWItYWFiYy1hY2RiLWJhYmNiY2NhY2FiYQ==@127.0.0.1:2080#@Hope_Net
 
 trojan://telegram-id-directvpn@13.39.144.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
