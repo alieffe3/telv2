@@ -1,3 +1,5 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.245.239:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
+
 vless://0e648faf-dc7a-4538-920e-ff967b978b0f@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2F15147%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
 
 vless://107696ea-9be4-4972-953e-060c1b498aa2@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2F15147%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
@@ -24,11 +26,7 @@ vless://7f994663-d3af-47ae-fc1c-7ee7bc6e4404@freedomisnear.onetwothree123.ir:443
 
 vless://80a161bf-6384-46dc-e168-2260570ff441@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2F15147%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
 
-vless://80ce1755-a23c-4bd3-9683-da7d9d33d604@151.101.192.155:80?security=none&type=xhttp&host=test8375828.global.ssl.fastly.net#@Hope_Net-join-us-on-Telegram
-
 vless://86646b03-97a4-4670-8554-fb54cc691cf0@37.27.185.191:32227?security=none&type=grpc&serviceName=%40proprojec#@Hope_Net-join-us-on-Telegram
-
-vless://86646b03-97a4-4670-8554-fb54cc691cf0@37.27.185.191:32227?security=none&type=grpc&serviceName=@proprojec#@Hope_Net-join-us-on-Telegram
 
 vless://8bb4cf61-bc66-48f1-c98e-7ea6f5404331@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=grpc&authority=Freedomisnear.onetwothree123.ir&serviceName=%2F32973%2Fmehdi&mode=gun#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Warp%2B
 
@@ -51,6 +49,8 @@ vless://beb82b22-8bdf-497f-8fee-b29662771165@freedomisnear.onetwothree123.ir:443
 vless://c786f98e-f3b9-4b86-b3a5-4f67f2be0cc1@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2F15147%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
 
 vless://d766634b-e4fc-442f-c841-2a72bfe820ae@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=grpc&authority=Freedomisnear.onetwothree123.ir&serviceName=%2F52933%2Fmehdi&mode=gun#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Warp%2B
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.226:8880?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638758760053118998.zagreb-mpl-eai.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#Channel+id%3A+%40ShadowProxy66+%F0%9F%87%AB%F0%9F%87%AE
 
@@ -122,13 +122,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REY4MFx1RDgzNVx1REM0MFx1RDgz
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REY4MFx1RDgzNVx1REM0MFx1RDgzNVx1REMzOFx1RDgzNVx1REMzQlx1RDgzNVx1REM5Rlx1RDgzNVx1REMzQ1x1RDgzQ1x1REY4MF9XYXJwXHUwMDJCIiwNCiAgImFkZCI6ICJGcmVlZG9taXNuZWFyLm9uZXR3b3RocmVlMTIzLmlyIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImRiZDE1MTQ1LTdiNTQtNDc1MS1mZWQwLWIyODkzYzYyYzgzOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAiZ3JwYyIsDQogICJ0eXBlIjogIm11bHRpIiwNCiAgImhvc3QiOiAiRnJlZWRvbWlzbmVhci5vbmV0d290aHJlZTEyMy5pciIsDQogICJwYXRoIjogIi80MjUwMS9tZWhkaSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJGcmVlZG9taXNuZWFyLm9uZXR3b3RocmVlMTIzLmlyIiwNCiAgImFscG4iOiAiaHR0cC8xLjEiLA0KICAiZnAiOiAicmFuZG9tIg0KfQ==
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImd5LnlvdWFyZW15Z29kLnRvcCIsICJwb3J0IjogIjQ4ODg5IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJjMTMwY2IzNi1jOTNmLTRiZTctOTIyOC1hN2E5N2Q0Mzg4NWEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJneS55b3VhcmVteWdvZC50b3AiLCAidGxzIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE0MC4yNDUuMzYuMTg3IiwgInBvcnQiOiAiMjM0NTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogImU2NTkyMDU4LTFlMmQtNDA2OC04ZDRhLTZmNGUyZDA0NDAwOCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BTElJTEFQUk8vdjJyYXlORy1Db25maWciLCAicG9ydCI6ICI0MzMiLCAiaWQiOiAiRnJlZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI2MiJ9
 
-vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNiYWFhY2ItYWJjYS1hYWNiLWNhZGItYmFjY2JhYWNjYWJiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNhYWJjYmEtYWFiYy1iY2FhLWFkYmMtYmNiY2FjYWJjYWFiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 
-vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tLm11c2ljZmExMjMuaXIuIiwiaWQiOiI5NGYzMzJiMC1jNWQzLTQ1MzEtYTFkNi02ZTYzNThjYzZjNzIiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvZDNkM0xtbHlZVzVvYjNOMExtTnZiUVx1MDAzZFx1MDAzZD9lZFx1MDAzZDI1NjAiLCJwb3J0IjoiMjA5NSIsInBzIjoiVjJyYXlORyB4IHwg2YfZhdmHINin2b7Ysdin2KrZiNix2YfYpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNiYWFhY2ItYWJjYS1hYWNiLWNhZGItYmFjY2JhYWNjYWJiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 
 vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjIwOTUiLCJwcyI6IlYycmF5TkcgeCB8INmH2YXZhyDYp9m+2LHYp9iq2YjYsdmH2KciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
@@ -166,8 +166,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3389#@Hope_Net
 
 ss://bm9uZTphYWJjYWJjLWJjYWEtY2JhYS1iYWNkLWFhYmNjY2FjYWJiYg==@127.0.0.1:8080#@Hope_Net
 
-ss://bm9uZTpjYmFhY2FiLWFhYmMtYWFiYy1iZGFjLWFjYWJhYmNjY2FiYg==@127.0.0.1:8080#@Hope_Net
-
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VkVWNmFtWkJXWEV5U1dwMGRXOVQ@69.50.93.111:6679#@Hope_Net
 
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.250.96.5:443#@Hope_Net
@@ -196,6 +194,8 @@ trojan://ZFObJ1njeI@freedomisnear.onetwothree123.ir:443?security=tls&sni=Freedom
 
 trojan://b5dAOYidNk@freedomisnear.onetwothree123.ir:443?security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=grpc&authority=Freedomisnear.onetwothree123.ir&serviceName=%2F54117%2Fmehdi&mode=multi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Warp%2B
 
+trojan://cARm4dOsFN@freedomisnear.onetwothree123.ir:443?security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=httpupgrade&host=Freedomisnear.onetwothree123.ir&path=%2F16338%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
+
 trojan://f7i3vqVSN3@freedomisnear.onetwothree123.ir:443?security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2F19992%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
 
 trojan://iuqdXDHd2A@freedomisnear.onetwothree123.ir:443?security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2F19992%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
@@ -212,8 +212,6 @@ trojan://telegram-id-directvpn@13.61.38.37:22222?security=tls&alpn=http/1.1&head
 
 trojan://telegram-id-directvpn@15.237.165.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@15.237.8.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@16.170.179.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@16.171.164.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
@@ -221,6 +219,8 @@ trojan://telegram-id-directvpn@16.171.164.230:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@16.171.191.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@18.133.166.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@18.168.93.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@18.169.137.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
@@ -231,8 +231,6 @@ trojan://telegram-id-directvpn@3.221.167.240:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@3.76.242.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.177.158.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@51.21.53.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@51.44.101.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
