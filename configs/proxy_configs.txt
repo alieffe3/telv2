@@ -10,6 +10,8 @@ hysteria2://f158d076-5e79-492c-ae7f-f9d670e77caf@46.17.44.165:29015?sni=min.zong
 
 vless://0e648faf-dc7a-4538-920e-ff967b978b0f@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2F15147%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
 
+vless://0ff72ab1-88e5-49b2-84f8-5d8734fd6525@185.143.233.120:443?security=tls&sni=gm6tb0yi7saknod9.ho3einrezaei.ir&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
+
 vless://107696ea-9be4-4972-953e-060c1b498aa2@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2F15147%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
 
 vless://1411e77a-3511-4e3d-efac-54b2cb7694fb@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=grpc&authority=Freedomisnear.onetwothree123.ir&serviceName=%2F32973%2Fmehdi&mode=gun#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Warp%2B
@@ -28,13 +30,13 @@ vless://680cd473-e435-47df-83dc-99f29e06e40d@151.101.192.155:80?security=none&ty
 
 vless://6ac7f82e-83c3-4d38-fe5a-c825df5a9881@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=httpupgrade&host=Freedomisnear.onetwothree123.ir&path=%2F17851%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
 
+vless://6ebe927d-a0a1-4c2a-9051-4ae4a93d9006@91.107.130.202:2006?security=reality&sni=direct.afteam.ir&host=Telegram&pbk=RBZ8svckpp9tsX5QA8akGRx5fIKuCYk_diZhOHiHMGs&allowInsecure=1#@Hope_Net-join-us-on-Telegram
+
 vless://75c22763-4f90-4987-82ec-3d5742bd04cd@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2F15147%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
 
 vless://77b1464f-cfb3-4799-8f42-76ceb8c91fa8@freedomisnear.onetwothree123.ir:8443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Cloudflare
 
 vless://782e1ab7-22b0-4238-e0de-4badd0da9468@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=grpc&authority=Freedomisnear.onetwothree123.ir&serviceName=%2F32973%2Fmehdi&mode=gun#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Warp%2B
-
-vless://7bedb4fd-ab2d-44a8-a344-4633d7bb0911@45.138.24.42:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=JoinBadeChannel@antimeli&fp=chrome&pbk=vwXaTB-lph1ZoqPRFCToL6ecjE0eRoGxeASkPto93kQ&sid=53#@Hope_Net-join-us-on-Telegram
 
 vless://7f994663-d3af-47ae-fc1c-7ee7bc6e4404@freedomisnear.onetwothree123.ir:443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=httpupgrade&host=Freedomisnear.onetwothree123.ir&path=%2F17851%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Tor
 
@@ -51,8 +53,6 @@ vless://95342990-2fa1-4100-a559-c3f5e25f450d@freedomisnear.onetwothree123.ir:443
 vless://Parsashonam-180@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40Parsashonam%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://a9cb7d4b-068e-4dd7-a4dd-7f07db24729c@freedomisnear.onetwothree123.ir:8443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Cloudflare
-
-vless://b152d94c-e153-4907-8c81-8a563d252a55@108.162.194.232:443?security=tls&sni=zcmcmq.testsnew.com&type=ws&host=zcmcmq.testsnew.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://b4f9f960-1979-4a24-8a44-5dae0783caea@freedomisnear.onetwothree123.ir:8443?encryption=none&security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=random&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Cloudflare
 
@@ -162,6 +162,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVGczWXpKaA==@45.84.1.33:8388#Channel+id%3A+
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFV4T1RRNQ==@146.19.247.183:1443#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNDVhOTg5Ny00MTE1LTQ4NTItOWRjOS1jOTQwNjkzYjZlN2Q=@52.83.203.156:47252#@Hope_Net
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNDVhOTg5Ny00MTE1LTQ4NTItOWRjOS1jOTQwNjkzYjZlN2Q=@52.83.203.156:52953#@Hope_Net
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@Hope_Net
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#@Hope_Net
@@ -204,13 +208,15 @@ trojan://jKmPmwuNOq@freedomisnear.onetwothree123.ir:443?security=tls&sni=Freedom
 
 trojan://orNVioNqt6@freedomisnear.onetwothree123.ir:443?security=tls&sni=Freedomisnear.onetwothree123.ir&alpn=http%2F1.1&fp=random&type=grpc&authority=Freedomisnear.onetwothree123.ir&serviceName=%2F55166%2Fmehdi&mode=gun#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_Warp%2B
 
+trojan://telegram-id-directvpn@13.37.118.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@13.37.74.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@13.50.74.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.51.51.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.61.103.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@15.237.165.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@16.170.179.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
@@ -227,8 +233,6 @@ trojan://telegram-id-directvpn@18.202.126.226:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@35.177.158.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@51.21.29.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@51.44.101.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@52.47.181.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
