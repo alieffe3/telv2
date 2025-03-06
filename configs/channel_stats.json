@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-06T05:16:44.092057",
+  "timestamp": "2025-03-06T06:22:21.647091",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -22,8 +22,8 @@
     {
       "url": "https://t.me/s/Parsashonam",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/v2nodes",
@@ -64,8 +64,8 @@
     {
       "url": "https://t.me/s/V2rayNGX",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/DailyV2RY",
@@ -94,8 +94,8 @@
     {
       "url": "https://t.me/s/proxy_kafee",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/v2Line",
