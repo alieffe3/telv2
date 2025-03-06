@@ -20,7 +20,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.149.12.183:2052?type=ws&host=red
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40MTMVPN%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-vless://6b2b5ebe-21ff-4f5e-bfa0-cac148945677@151.101.64.155:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://5d98e99d-9b92-4992-85ef-9d627a26f091@46.38.146.16:46443?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://72b9402f-f4fb-450e-8c97-875e4245f3cc@173.245.59.81:443?security=tls&sni=ujdyzm.allgums.com&type=ws&host=ujdyzm.allgums.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 
@@ -36,6 +36,8 @@ vless://Parsashonam-180@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed
 
 vless://aacbabc-caba-caab-dcba-bbaaaccbccba@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.237.109.233:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#@Hope_Net-join-us-on-Telegram
+
 vless://bbccaaa-cbaa-caab-dcba-bcabbcacbaac@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://cbaacba-caab-caba-dbac-bacbcbabacac@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -48,15 +50,13 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[2a06:98c1:3122::]:80?path=ShadowPr
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2FTelegram-ShadowProxy66%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 
-vless://d393eec9-b36c-458e-8314-43a348409bd2@104.26.14.85:80?security=none&type=ws&host=gIGanTIc-AttEmPt.OnEeaT.CO.&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.224:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.21.72.147:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&fp=chrome&alpn=h3,h2#@Hope_Net-join-us-on-Telegram
+vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.16.245.28:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
-vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.21.72.147:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
+vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.21.72.147:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&fp=chrome&alpn=h3,h2#@Hope_Net-join-us-on-Telegram
 
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@188.114.97.88:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
@@ -180,8 +180,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU5YTk3NWZkNDhlMDI3QDkxLjEzNC4zMi4xNDA6MTE
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTQwMDRkNTIzNDE1YTg4QDU3LjEyOC4yNy4yMTY6MTAwOTQ=#telegram DailyV2ry
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Free%24%2070%20ID%28%40proxy_kafee%20%29
-
 ss://YWVzLTEyOC1nY206U2oxMGJuWURlN3c2VjI5RQ==@202.46.227.1:11041#@Hope_Net
 
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.179.9.121:443#@Hope_Net
@@ -191,6 +189,8 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.250.174.86:443#@Hope_Net
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@134.195.196.12:3306#@Hope_Net
 
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@134.195.196.12:2375#@Hope_Net
+
+ss://bm9uZTphYWNiYmNhLWJjYWEtYWNiYS1kY2FiLWJjYWFhYmFiY2NjYg==@127.0.0.1:1080#@Hope_Net
 
 trojan://3747000103274291200@62.112.221.57:443?security=tls&headerType=none&type=tcp&sni=integral-malamute.adder289.quest#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7 MTN❤️&...⚡️ @ShadowProxy66
 
