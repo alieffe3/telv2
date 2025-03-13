@@ -4,6 +4,8 @@ hysteria2://MICPT1LLn6@161.97.108.42:44140?security=tls&obfs=salamander&obfs-pas
 
 hysteria2://MICPT1LLn6@161.97.108.42:44140?security=tls&obfs=salamander&obfs-password=hsdirhrrkskdhebdjdj&insecure=1#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA Hiddify & karing…
 
+vless://08aa33d0-a8af-460b-807a-39791019015c@77.90.10.16:58666?security=reality&flow=xtls-rprx-vision&sni=addons.mozilla.org&type=tcp&fp=chrome&pbk=bGCJWIH3EHCAGMeI-qgvjGZlL5tkY_HIqQEtsOqEVlw&sid=a6a18a6e0259#@Hope_Net-join-us-on-Telegram
+
 vless://0a917cea-1caa-455f-bccc-8e5eed80d677@91.194.161.69:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B8
 
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@172.67.130.66:2087?path=%2Fmorano&security=tls&encryption=none&host=wsxaa.aleppo-janinan.info&type=ws&sni=wsxaa.aleppo-janinan.info#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
@@ -14,15 +16,13 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=%2F%40Shadow
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095?path=%2FTM-%40ShadowProxy66%3Fed%3D2048&security=none&encryption=none&host=redw.pooriam.ir&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.14.132:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&fp=random#Anon9
-
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.147.22:2096?security=tls&sni=ZpIxDaDk1.KoRtIz.iNfO&type=ws&host=ZpIxDaDk1.KoRtIz.iNfO&path=/&alpn=h2http/1.1#@Hope_Net-join-us-on-Telegram
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.14.132:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&fp=random#Anon10
 
 vless://89abd242-1fbb-433d-ac09-296264bba802@209.38.179.230:6969?mode=gun&security=reality&encryption=none&pbk=-gtHzdSWtMY0y0CkiN95fgg4oLKtNPtOkqvpls6oyB8&fp=chrome&type=grpc&serviceName=&sni=www.speedtest.net&sid=7eb3f75c3f2279#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
-vless://aabcbca-abac-caab-badc-cabbbabacacc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://b59cb9a9-a53f-4a80-9d63-7ce0a11990fe@151.101.192.155:80?path=%2Fwp-admin&security=none&encryption=none&host=Niniban.com&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+
+vless://bacabac-baca-aabc-cdab-bccaabbaaccb@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 
