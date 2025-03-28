@@ -2,29 +2,19 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.166.83:22222?security=tls&sn
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.33.184.247:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 
-vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=rough-hill-2959-ppal03.fawik58803.workers.dev&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B2
-
-vless://25165ada-2fcc-4fa4-8493-4b8c9896c876@135.181.155.147:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
-
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.153.2:2087?security=tls&sni=Tp356OnGfN.mOlAnAmAmAlI2.iNfO&type=ws&host=Tp356OnGfN.mOlAnAmAmAlI2.iNfO&path=/&alpn=h2http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2053?security=tls&sni=gb-0.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
+vless://473c2217-677d-58c8-87df-a75de10de1ad@vpnandroid2_tr.home.kg:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://4ac4bf63-8b00-4c15-819b-6b71b7f8df73@138.199.209.211:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#@Hope_Net-join-us-on-Telegram
 
 vless://4b6123d9-ced4-431b-9480-102e0729887e@5.22.212.180:443?security=reality&sni=www.refersion.com&type=tcp&fp=chrome&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&sid=e869#@Hope_Net-join-us-on-Telegram
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%AA
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.153:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B2
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.234:80?path=Telegram+%40ShadowProxy66+%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.234:80?security=none&type=ws&host=redw.pooriam.ir&path=Telegram+%40ShadowProxy66+%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.151.188:80?type=ws&host=redw.pooriam.ir&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://5700e098-ce03-4f77-8632-dd1bf22bb80a@213.176.6.166:34727?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
@@ -34,11 +24,9 @@ vless://728708dc-2000-4c42-8535-925bd3898e99@31.14.131.51:55829?security=none&ty
 
 vless://746eac78-4ebe-475d-8d00-d58c34b3cc83@141.95.103.120:54436?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://84477544-3b2d-486b-82c3-eab804753c7b@37.27.211.10:1519?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
-
 vless://84477544-3b2d-486b-82c3-eab804753c7b@37.27.211.10:1520?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#@Hope_Net-join-us-on-Telegram
 
-vless://84477544-3b2d-486b-82c3-eab804753c7b@37.27.250.128:1519?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
+vless://9e4291c7-9460-4fdd-a73b-47d1836a1f2f@104.17.147.22:8443?security=tls&sni=ir.eycooleret.store&type=ws&host=ir.eycooleret.store&path=%2f&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://a41c5712-9ee8-4199-bf94-207521f3c304@104.19.223.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s33.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s33.elitemizban.ir#@Hope_Net-join-us-on-Telegram
 
@@ -52,21 +40,31 @@ vless://abaacbc-caba-acab-cadb-bbacbcccaaba@127.0.0.1:2080?security=tls&type=tcp
 
 vless://abbacca-caab-abac-abdc-bcacbaacbbac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://acbaacb-bcaa-abca-bacd-ccbcbbbacaaa@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://acbacba-baac-acab-cdab-bacccabbbaca@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://acbbcaa-acab-caba-acbd-bbabcacaccba@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://b523e510-1e99-4aff-99f3-ad414dccbc8c@188.245.95.151:1521?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-
-vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?path=%2Ftest%3Dtrue&security=none&encryption=none&host=d1.hetzner.com&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
+vless://c2370061-5d71-47f3-a2ce-3ee242bb5f2f@172.67.204.84:443?security=tls&sni=FI-ComPany-MehrdaD-Team.MeHrDaDCoMpcPeNQ.IR.&type=httpupgrade&host=FI-ComPany-MehrdaD-Team.MeHrDaDCoMpcPeNQ.IR.&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.17.148.22:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=/47.89.39.186-39251#@Hope_Net-join-us-on-Telegram
 
+vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@vip.panelmarzban.com:3032?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
 vless://d3fb8889-3f54-4ef8-9083-a6478dd4bd03@91.107.183.103:443?security=reality&sni=www.cdn77.com&type=grpc&serviceName=Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN&fp=chrome&pbk=euMUHS3boiZ0500KTjnU9l_RTX1RP9VFOGEo82gFUyE&sid=ce1be0&alpn=%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn#@Hope_Net-join-us-on-Telegram
 
-vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?path=%2FTelegram%40ShadowProxy66&security=none&encryption=none&host=photographipictureai.ir&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
+vless://d8585e49-e946-479f-bc3d-5542cfc12e0a@54.37.78.215:43305?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@45.131.4.33:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=photographipictureai.ir&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+vless://db2d45c5-4cb4-4f18-9849-18c1ee0d5be7@speedtest.net:80?mode=auto&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=Xpnxpnxpxn0xj.iR&type=xhttp#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://e2e019e4-57da-40bd-974c-d201c55c528e@80.211.203.158:25210?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?path=%2F-%40v2rayNGcloud-%40v2rayNGcloud-%40v2rayNGcloud-%40v2rayNGcloud-%40v2rayNGcloud-%40v2rayNGcloud-%40v2rayNGcloud-%40v2rayNGcloud-%40v2rayNGcloud-%3Fed%3D2560&security=tls&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@www.speedtest.net:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://tel%3A%3A%3A%3A%3A%3A%3Av2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAiZXNuYS50d24yNC5pciIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiM2Y4ZDEzNmMtYjYyZi00OGY4LTk3ODktNTc2ZDc0YjQ2YzBlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJlc25hLnR3bjI0LmlyIiwNCiAgInBhdGgiOiAiLzRzTVR5amNkIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImVzbmEudHduMjQuaXIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9
 
@@ -114,25 +112,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMDNiZWNjZTkzYzY5ZjViQDU3LjEyOS42OC44MTo0NDA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWQzZGFhNjE0YjRkYjRmQDIxNy43Ny4yLjI0NDo0MTc0Nw==#telegram DailyV2ry
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyaFFLMDhlMkNlZndFT0tJT25MUzBP@85.239.151.31:24596#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dFZ3V2d2OVhRVFk1Wk5U@172.165.145.152:443#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.137.112:443#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A7%F0%9F%87%AD
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.85.27:443#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A7%F0%9F%87%AD
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZjBjODU1MzhmNjQ4OTIzQDk0LjcyLjEyMC41NTo0OTEwMA==#telegram DailyV2ry
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmRmNzkwODE1ZjU0YjA2QDE0OC4xMTMuMjAxLjIxNToyMjMzMg==#telegram DailyV2ry
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMjgyNzhkMDQ5NWE0NjJhQDIxMi41Ni40Mi4yMDA6MTc5NzE=#telegram DailyV2ry
 
-ss://cmM0LW1kNTplZDRhNDYwMzJiN2ViYTUyQDM4LjkxLjEwNi4yNTI6MTczOTk=#telegram DailyV2ry
-
 trojan://telegram-id-directvpn@13.36.99.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@13.37.189.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.53.229.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
@@ -157,6 +143,8 @@ trojan://telegram-id-directvpn@51.21.153.172:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@51.44.200.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@52.215.175.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@52.47.45.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@54.152.134.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
