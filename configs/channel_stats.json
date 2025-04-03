@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-03T03:34:58.561266",
+  "timestamp": "2025-04-03T04:21:08.544057",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -76,8 +76,8 @@
     {
       "url": "https://t.me/s/xs_filternet",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/mobilesignal",
