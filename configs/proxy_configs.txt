@@ -92,8 +92,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAidGVsZWdyYW0g8J+MnyBEYWlseVYycnkiLCAiYWRkIjogIjYy
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAidGVsZWdyYW0g8J+agCBEYWlseVYycnkiLCAiYWRkIjogIjM1LjIxNi4xMTMuNjAiLCAicG9ydCI6ICI0NDQ0NSIsICJpZCI6ICI3YzJlNDg1OC1kNDAyLTRjODMtYmViYi0zNjJjMmFjYTMzZmUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImxpa2UubG9jLmNjIiwgInBhdGgiOiAiN2MyZTQ4NTgtZDQwMi00YzgzLWJlYmItMzYyYzJhY2EzM2ZlLXZtIiwgInRscyI6ICJ0bHMiLCAic25pIjogImxpa2UubG9jLmNjIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
 
-vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIOKaoe+4jyBEYWlseVYycnkiLCJhZGQiOiIxNS4yMDQuMTc1LjE0OSIsInBvcnQiOjQ0MywiaWQiOiI4MWNmYzc0ZS03OWY2LTQxODctOWMxMS01OGI2YWNkYzBlODMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ1c0EtVlAtMTQ5Lk1FdElrQXBwUy5jT00iLCJwYXRoIjoiXC9saW5rdndzIiwidGxzIjoidGxzIn0=
-
 vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIOKaoe+4jyBEYWlseVYycnkiLCJhZGQiOiJjbG91ZGdldHNlcnZpY2UubWNsb3Vkc2VydmljZS5zaXRlIiwicG9ydCI6NDQzLCJpZCI6ImFkMmJjYTRkLWJlOWUtNGFjMi1iMmVkLTRjODFhYmI0MjQyZiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im1BeE5FdFZpcC11U0EtVnA0Lm5FVEtoMy5zSXRFIiwicGF0aCI6IlwvbGlua3dzP2VkPTI1NjAiLCJ0bHMiOiJ0bHMifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjIggRGFpbHlWMnJ5IiwiYWRkIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiIxZTUzN2VlOC1kYzQ0LTRjNWItODgxMC1jNDFiNGFlMmU0NjAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJNYXhORXR2aXAtdXNhMS5NQVhuRXRjTE9VRHNFUnZJQ2UuQ09NIiwicGF0aCI6IlwvbGlua3dzP2VkPTI1NjAiLCJ0bHMiOiJ0bHMifQ==
@@ -114,9 +112,9 @@ vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjYogRGFpbHlWMnJ5IiwiYWRkIjoiY2xvdWRn
 
 vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjq8gRGFpbHlWMnJ5IiwiYWRkIjoiMTUuMjA0LjI0NS44OSIsInBvcnQiOjQ0MywiaWQiOiI2NThlYTM3YS0zMTgzLTRiNGItYmUzMy02NDI0Mjk3ODE4OWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJVU2EtdnAtODkubWV0SWtBUFBzLmNPTSIsInBhdGgiOiJcL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
 
-vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjq8gRGFpbHlWMnJ5IiwiYWRkIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiIzY2Y1ODYwNi01ZjJhLTQ2MDktOWFiZC00MDRmNjMzYmQ3ZTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJtYVhORXRWSVAtdXNBLVZQMy5uRVRLSDMuU2lURSIsInBhdGgiOiJcL2xpbmt3cz9lZD0yNTYwIiwidGxzIjoidGxzIn0=Daily V2ry#VPN
-
 vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfmoAgRGFpbHlWMnJ5IiwiYWRkIjoiMTUuMjA0LjIzNy4zMSIsInBvcnQiOjQ0MywiaWQiOiI2NzczYzI5Mi1kMGFlLTRkZWYtODA0OS0yYWEzOTMwMmIzYTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ1U2EtdlAtMzEubUV0SUtBUFBzLkNvTSIsInBhdGgiOiJcL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
+
+vmess://eyJhZGQiOiAiMTA0LjE4LjExOC4xOTUiLCAiYWlkIjogMCwgImhvc3QiOiAiMTc0MzkxOTk3OC5zcGVlZC56amd6YS5jY2NwLmZyZWVmbHkucHAudWEiLCAiaWQiOiAiM2JiM2M3MzAtZTEwNy00OWM1LWEwYjItYjU3NmQxYjI2YTVlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDg0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICIxNzQzOTE5OTc4LnNwZWVkLnpqZ3phLmNjY3AuZnJlZWZseS5wcC51YSIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmVG9yb250b1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MTIuNDdtcyJ9
 
 vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAiYWlkIjogMCwgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJpZCI6ICI5MTQ1ODRlZS0zNTE1LTQ2YWMtYTA5ZC00Njc3YTJlOWRjOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODQ0MywgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyJ9
 
@@ -180,6 +178,10 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.102:6697#telegram DailyV2ry
 
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2TkRZemNYZGxjblI1@52.33.3.233:463#@Hope_Net
 
+trojan://Aimer@107.172.8.109:443/?type=ws&host=epccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epccy.ambercc.filegear-sg.me#🆔@v2ray_configs_pool🇺🇸®️United States©️Santa Clara🅿️ping:167.57ms
+
+trojan://AzFNJQt8t3@15.204.9.249:2083?sni=usA-Vp-249.MeTIkAppS.coM&type=ws&host=usA-Vp-249.MeTIkAppS.coM&path=/linkws#🆔@v2ray_configs_pool🇺🇸®️United States©️Hillsboro🅿️ping:209.83ms
+
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 
 trojan://eG92F3gh09@51.15.86.181:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1MCI❤️&...⚡️@ShadowProxy66
@@ -234,19 +236,7 @@ trojan://telegram-id-privatevpns@3.71.235.174:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@35.156.22.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@35.177.4.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.177.61.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.181.36.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@51.21.232.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@51.44.153.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@52.212.175.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@54.217.175.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.177.217.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
