@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-14T17:37:03.095707",
+  "timestamp": "2025-04-14T18:23:14.236473",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -34,14 +34,14 @@
     {
       "url": "https://t.me/s/xs_filternet",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/Hope_Net",
@@ -64,14 +64,14 @@
     {
       "url": "https://t.me/s/V2rayNGX",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/DailyV2RY",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/xs_filternet",
