@@ -1,8 +1,8 @@
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.110:443?sni=vc.ylka.dpdns.org&type=ws&host=vc.ylka.dpdns.org&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.173:443?sni=vc.ylka.dpdns.org&type=ws&host=vc.ylka.dpdns.org&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.155:443?sni=vc.ylka.dpdns.org&type=ws&allowInsecure=1#@Hope_Net-join-us-on-Telegram
+
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.209:443?security=tls&sni=vb.ylks0033.dpdns.org&type=ws&host=vb.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://10d9df89-9a20-4110-9711-bca119490ee9@188.114.97.33:443?security=tls&sni=masaleini.mahsaamini.dpdns.org&type=ws&host=masaleini.mahsaamini.dpdns.org&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.140.99:59483?security=auto&type=grpc&fp=chrome#@Hope_Net-join-us-on-Telegram
 
@@ -34,15 +34,23 @@ vless://619b233c-ca8e-54c7-9b5f-8c118b0ab617@5.253.30.11:80?mode=gun&security=no
 
 vless://7c1c9771-b081-417c-8895-c84201680a87@85.133.206.224:13000?security=none&encryption=none&host=rubika.ir.igap.net.soft98.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 
+vless://84f93722-ced5-4447-bd0e-74c3658227b1@151.101.2.165:80?security=none&type=ws&host=mt.acvs.ir&path=%2FChannel----MTMVPN----MTMVPN---MTMVPN---MTMVPN---MTMVPN----PROXY_MTM----PROXY_MTM----PROXY_MTM---MTMVPN---MTMVPN---MTMVPN%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.245.53:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev#@Hope_Net-join-us-on-Telegram
 
 vless://91774e31-8e83-4949-b8af-b3ddc0b8b9f1@217.60.198.33:80?security=none&type=tcp&path=%2F#@Hope_Net-join-us-on-Telegram
 
-vless://abacbac-baac-abca-cdba-acabbcabbcca@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://9afb8981-4211-496b-8d08-62626bed352a@151.101.66.228:80?security=none&type=ws&host=joinshhproxybedeeeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://b9e98405-0454-474e-a5b3-1d6e164ba40d@45.144.51.195:35036?type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@Hope_Net-join-us-on-Telegram
 
-vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@104.17.148.22:2053?security=tls&sni=app4.appdatanew2025g.lat&type=ws&host=app4.appdatanew2025g.lat&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+vless://ba6b0be7-0a4e-4e12-a1f2-aaa506977f7c@85.9.104.85:55579?type=tcp&headerType=http#@Hope_Net-join-us-on-Telegram
+
+vless://bcbaaac-caba-acba-cadb-acbbbcacabac@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@104.17.147.22:2053?security=tls&sni=app2.appdatanew2025g.lat&type=ws&host=app2.appdatanew2025g.lat&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
+vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@104.17.147.22:2053?security=tls&sni=app5.appdatanew2025g.lat&type=ws&host=app5.appdatanew2025g.lat&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.21.69.44:443?security=tls&sni=cr777.medicaldream.ir&type=ws&host=cr777.medicaldream.ir&path=/?ed%3D2560&fp=chrome#@Hope_Net-join-us-on-Telegram
 
@@ -54,33 +62,23 @@ vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.1:443?security=tls&sni=
 
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@162.159.153.2:443?security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
 
-vless://de4cffdb-4e60-4284-9161-1c37c3313029@104.18.14.19:2052?security=none&type=ws&host=0228.losdnett.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.65.10:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#@Hope_Net-join-us-on-Telegram
-
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.110:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#@Hope_Net-join-us-on-Telegram
-
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.130.195:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#@Hope_Net-join-us-on-Telegram
-
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.227:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#@Hope_Net-join-us-on-Telegram
 
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.67.164.209:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#@Hope_Net-join-us-on-Telegram
 
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjU3LjEyOS4yNC4xMjQiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgInNuaSI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgImhvc3QiOiAiYXZlaXJvci5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHUwMGFlXHVmZTBmR2VybWFueVx1MDBhOVx1ZmUwZkZyYW5rZnVydCBhbSBNYWluXHVkODNjXHVkZDdmXHVmZTBmcGluZzozNS4xN21zIn0=
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE5NS41OC40OS44NCIsICJwb3J0IjogIjIyMDEzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkOTU4MWVjMS0yODgyLTQ3NDktYTk1Ni1iMzE4NGMyNzI3N2IiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjJhMDcwZjRhLXN1dmRzMC10ZGNkYjctMWsyN2wuY201LnA1cHYuY29tIiwgInBvcnQiOiAiMTcyMzMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImJhNGIxZjJlLWM5ODUtMTFlZC05YzBjLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjJhMDcwZjRhLXN1dmRzMC10ZGNkYjctMWsyN2wuY201LnA1cHYuY29tIiwgInRscyI6ICIifQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjJjMjIyN2UxLXN1dGo0MC10OTA3Y3ItMWMxbXIuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogIjUyMjkiLCAidHlwZSI6ICJub25lIiwgImlkIjogImExMjY0MGQwLWUyYWQtMTFlZi04ZjViLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjJjMjIyN2UxLXN1dGo0MC10OTA3Y3ItMWMxbXIuY3UucGxlYmFpLm5ldCIsICJ0bHMiOiAiIn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjUwZWMwNWJjLXN1dGo0MC10ZGNkYjctMWsyN2wuY201LnA1cHYuY29tIiwgInBvcnQiOiAiMTcyMzMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImJhNGIxZjJlLWM5ODUtMTFlZC05YzBjLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjUwZWMwNWJjLXN1dGo0MC10ZGNkYjctMWsyN2wuY201LnA1cHYuY29tIiwgInRscyI6ICIifQ==
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjg3YWI2ZWMxLXN1eDhnMC1zdXNuM2ktMWxrdDAuY201LnA1cHYuY29tIiwgInBvcnQiOiAiMTcyMzUiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNkMWIwYWUwLTQwMTAtMTFlZS05NTNhLWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjg3YWI2ZWMxLXN1eDhnMC1zdXNuM2ktMWxrdDAuY201LnA1cHYuY29tIiwgInRscyI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjcxNjU0NWViLXN1eDhnMC10NW9lMWEtMWVqb2QuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogIjUyMjgiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjZhZGExNjIyLWUwMTgtMTFlYy1iYjc0LWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjcxNjU0NWViLXN1eDhnMC10NW9lMWEtMWVqb2QuY3UucGxlYmFpLm5ldCIsICJ0bHMiOiAiIn0=
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjg5LjE4LjU4LjYzIiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImZhZGF3dGF3ZC56aGFuZ3dlaS5saSIsICJwb3J0IjogIjQ2MDA1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0YzVhOGE3NS03ZDY1LTQwYTktOGMzYi1hNjdhYmFlMDg1MzQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3poLWNuIiwgImhvc3QiOiAiZmFkYXd0YXdkLnpoYW5nd2VpLmxpIiwgInRscyI6ICIifQ==
-
-vmess://eyJhZGQiOiAiMTYwLjE1My4xLjEwMCIsICJhaWQiOiAwLCAiaG9zdCI6ICJqYWhma2poYS5jZmQiLCAiaWQiOiAiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhcdTAwYWVcdWZlMGZVbml0ZWQgU3RhdGVzXHUwMGE5XHVmZTBmVGVtcGUgKFNvdXRoIFRlbXBlKVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6OC41OW1zIn0=
-
-vmess://eyJhZGQiOiAiMTkzLjEyMi41OC4xNTgiLCAiYWlkIjogMCwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAiaWQiOiAiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFcdTAwYWVcdWZlMGZHZXJtYW55XHUwMGE5XHVmZTBmRnJhbmtmdXJ0IGFtIE1haW4gKElubmVuc3RhZHQgSSlcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjI3LjM5bXMifQ==
 
 vmess://eyJhZGQiOiI0NS4xMi4xMzguNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjg1OGE0MDQtZDBjYS00ZDY3LTgwYTYtY2U4ZTk1ZTM4M2ZmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjgzOSIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4e48J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
@@ -130,10 +128,6 @@ ss://YWVzLTEyOC1nY206U2oxMGJuWURlN3c2VjI5RQ@south.inmysecretlife.xyz:10001?plugi
 
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8090#telegram DailyV2ry
 
-trojan://e254ed63-33df-4ca8-a980-7d0d9f510a93@45.146.232.173:43395?sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=0#🆔@v2ray_configs_pool🇭🇰®️Hong Kong©️Hong Kong🅿️ping:196.27ms
-
-trojan://psycho@104.21.112.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&host=pSYcho.sUeX12.IR&type=ws&sni=pSYcho.sUeX12.IR#🆔@v2ray_configs_pool🇨🇦®️Canada©️Toronto🅿️ping:15.85ms
-
 trojan://telegram-id-directvpn@108.128.176.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.36.250.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
@@ -182,8 +176,6 @@ trojan://telegram-id-privatevpns@13.43.65.3:22222?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-privatevpns@13.50.20.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.60.145.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@18.157.135.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.199.48.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
@@ -192,7 +184,9 @@ trojan://telegram-id-privatevpns@34.249.10.135:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@51.21.216.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@52.17.237.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@52.56.119.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+
+trojan://xxoo@138.197.5.103:443?allowInsecure=1#🆔@v2ray_configs_pool🇺🇸®️United States©️Clifton🅿️ping:93.0ms
+
+trojan://xxoo@us.blazeppn.info:443?allowInsecure=1&sni=us.blazeppn.info#🆔@v2ray_configs_pool🇺🇸®️United States©️Clifton🅿️ping:93.17ms
 
