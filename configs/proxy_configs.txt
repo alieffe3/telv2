@@ -1,7 +1,5 @@
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.110:443?sni=vx.ylka.dpdns.org&type=ws&host=vx.ylka.dpdns.org&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
-vless://0a022137-d5d7-48f9-96cf-11b57210d12d@172.67.73.163:8880?security=none&type=httpupgrade&host=vihypercloud.academigroup.ir.#@Hope_Net-join-us-on-Telegram
-
 vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.15.19:8880?type=ws&host=0108.9ro3grfw.workers.dev&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://1834c324-e0a5-5406-906e-d83e4b8afb2e@104.17.147.22:2052?path=%2Fvless&security=none&encryption=none&host=sPeedtest2.sbs.kz.v2vless.sitespeedtest.net&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
@@ -24,19 +22,21 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.78.224:59483?security=auto&
 
 vless://4ee5e660-17c3-4bd9-a314-8a9efe7d3250@104.26.14.85:80?security=none&type=ws&host=DizZy-cOAl.SporTLANd.comPaNy.&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://523b1406-36a4-4770-a0ad-9866c6eefe80@151.101.130.133:80?sni=snappfood.com&type=ws&host=snappfood.com&allowInsecure=0#@Hope_Net-join-us-on-Telegram
+vless://4ee5e660-17c3-4bd9-a314-8a9efe7d3250@104.26.15.85:80?security=none&type=ws&host=nuRTURING-OUtCOme.sPorTlanD.COmpANY.&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://5a132527-c9ef-4066-8b1a-5584ff5dfb10@151.145.70.120:443?security=tls&flow=xtls-rprx-vision-udp443&sni=cloud.oracle.com&fp=firefox&allowInsecure=0#@Hope_Net-join-us-on-Telegram
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.252:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#@Hope_Net-join-us-on-Telegram
 
 vless://6a2206ac-208b-49f5-95e0-6f3656f9072a@5.75.215.22:44?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=R43U2y9vbOzBleKGsApbGCufsiRTTeVIKA7LRpGMrVA&sid=f289871208#@Hope_Net-join-us-on-Telegram
 
 vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed&security=none&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
+vless://7026bbec-b5af-13a4-0b00-e3f5f94c6e5f@37.156.46.65:6718?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&sid=d6d54c08fbbf895f#@Hope_Net-join-us-on-Telegram
+
+vless://77e064b2-ff24-4794-9aa0-910bd831c6f1@65.20.112.45:2096?security=reality&sni=SoURcForgE.net&type=grpc&fp=chrome&pbk=woE_DAeAkSjFhqwiaecawAOMwZUmAvaFpTbJZHvUJQk&sid=765d8c54c01a53f7#@Hope_Net-join-us-on-Telegram
+
 vless://7feb2b8f-70c7-4720-87dc-d2d8d18cb514@151.234.162.123:20000?security=none&encryption=none&host=rubika.ir.igap.net.soft98.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 
 vless://927adeca-fd26-4024-8762-e6116165af76@151.101.66.133:80?type=ws&host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir#@Hope_Net-join-us-on-Telegram
-
-vless://961c51ed-b463-47ed-bb6f-b57945d2373f@138.199.165.116:21620?security=none&type=tcp&host=TELEGRAM%20%3A%20MARAMBASHI%20MARAMBASHI#@Hope_Net-join-us-on-Telegram
 
 vless://ababcac-acba-cbaa-dbac-acaacbbbccab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -110,13 +110,11 @@ ss://cmM0LW1kNTpEMG9FR0Y@tw16.ctg.wtf:28192#telegram DailyV2ry
 
 ss://cmM0LW1kNTplZmFuY2N5dW4=@120.240.153.25:8774#telegram DailyV2ry
 
+trojan://Aimer@173.245.59.144:443?sni=epcci.ambercc.filegear-sg.me&allowInsecure=0#🆔@v2ray_configs_pool🇨🇦®️Canada©️Toronto🅿️ping:8.03ms
+
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x4ger-ionos.devefun.net#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
 trojan://amclubs@103.160.204.1:443?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AD%F0%9F%87%B01️⃣ MCI ❤️ &...⚡️ @ShadowProxy66
-
-trojan://amclubs@104.16.134.27:2083?allowInsecure=0&sni=tran.amclubs.rr.nu&ws=1&wspath=%2F%3Fed%3D2560#🆔@v2ray_configs_pool🇨🇦®️Canada©️Toronto🅿️ping:8.23ms
-
-trojan://d5826953-96a0-4e2e-ad04-638668222256@sla.cn.964e995b760.gogodns.xin:27201?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#🆔@v2ray_configs_pool🇭🇰®️Hong Kong©️Hong Kong🅿️ping:209.8ms
 
 trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 
@@ -171,4 +169,6 @@ trojan://telegram-id-privatevpns@18.199.29.139:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.122.141.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.255.52.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇮🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-v2rayvpnchannel@3.65.165.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔@v2ray_configs_pool🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.95ms
 
