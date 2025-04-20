@@ -2,11 +2,7 @@ vless://1834c324-e0a5-5406-906e-d83e4b8afb2e@104.17.147.22:2052?path=%2Fvless&se
 
 vless://282808aa-ad9f-469c-bfdf-072a1c3e8cdf@83.217.9.119:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.73.239:443?security=tls&sni=PhOTOsAIR.ir&type=ws&host=photosair.ir&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&fp=randomized&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
-
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI#@Hope_Net-join-us-on-Telegram
 
 vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed&security=none&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
@@ -18,11 +14,13 @@ vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?path=%2Fvless&se
 
 vless://Parsashonam@37.27.17.202:443?security=reality&encryption=none&pbk=dpnl4wAPN5nZvYHjAN6gmaNDVK1OMoHSXSoGsiHjABg&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=a6f4#Test
 
-vless://b19c4375-d847-4c40-9824-4767c88b5f38@140.245.32.103:13533?security=reality&sni=www.python.org&type=tcp&fp=chrome&pbk=s2Lr_deTRNuRBKQ15Rsx04KFcujYRFImLNVLAoGFTl8&sid=a81cba9c#@Hope_Net-join-us-on-Telegram
+vless://aabbacc-caab-caba-dcba-ccbbccaabbaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://b204a3ca-be5d-47f5-99fc-d7a2d03a0c73@109.61.18.48:20318?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%AA
 
 vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.245.215.44:442?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+
+vless://d8f914df-4dcf-4fb0-80b7-204a23d579bf@104.17.148.22:80?security=none&type=ws&host=Www.speedtest.net.developsp.ir.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://dc4244fe-767d-4f58-8d58-7a7957e0702a@178.63.228.220:443?security=reality&sni=fauxid.com&type=grpc&serviceName=%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&fp=chrome&pbk=Aa3FogZ9ohTiRHsdnoyiMg7TFARWEeZs_m290juxEzs#@Hope_Net-join-us-on-Telegram
 
@@ -50,9 +48,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?mode=gun&security=n
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B1%F0%9F%87%B9
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
+vless://e2bb0f45-c868-4d45-8c01-faefc68ee960@144.76.231.24:13110?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjI1Y2MzZTJlLXN2YTc0MC1zeWNrbW8tZXRhZi5oazMucDVwdi5jb20iLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOTRiZTNkMmEtYmU1NS0xMWVlLTg0N2QtZjIzYzkxNjRjYTVkIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJ0bHMiOiAiIn0=
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjJmOGQyMDliLXN2MnNnMC10OGl2cGYtejY1dy5zZS5wbGViYWkubmV0IiwgInBvcnQiOiAiMTIwODkiLCAidHlwZSI6ICJub25lIiwgImlkIjogImEyMzEzZmJhLTc0YTYtMTFlZC1hOGJmLWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAidGxzIjogIiJ9
 
@@ -138,7 +136,11 @@ trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=
 
 trojan://psycho@104.21.112.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYcho.sUeX12.IR#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 
+trojan://psycho@104.21.112.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYcho.sUeX12.IR#🆔@v2ray_configs_pool🇨🇦®️Canada©️Toronto🅿️ping:59.01ms
+
 trojan://psycho@104.21.16.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&type=ws&sni=pSYcho.sUeX12.IR#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A62️⃣MTN❤️&...
+
+trojan://psycho@104.21.32.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYcho.sUeX12.IR#🆔@v2ray_configs_pool🇨🇦®️Canada©️Toronto🅿️ping:55.32ms
 
 trojan://psycho@104.21.64.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&type=ws&sni=pSYcho.sUeX12.IR#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 
@@ -160,6 +162,8 @@ trojan://telegram-id-directvpn@15.237.207.188:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-directvpn@18.153.216.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@3.11.248.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@3.126.7.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@3.73.150.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
@@ -167,8 +171,6 @@ trojan://telegram-id-directvpn@3.73.150.16:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@51.21.93.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@51.24.23.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@51.44.135.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@52.28.108.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -184,15 +186,9 @@ trojan://telegram-id-directvpn@63.35.71.42:22222?security=tls&alpn=http/1.1&head
 
 trojan://telegram-id-privatevpns@13.38.222.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.43.115.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇬🇧t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@15.237.207.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.73.150.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@51.24.23.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇬🇧t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@51.44.135.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.47.159.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
