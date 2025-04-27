@@ -14,8 +14,6 @@ vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.8.211.26:2087?path=%2F&security=
 
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.8.211.98:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&fp=chrome&type=ws&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
-vless://3df9e1f8-9d05-4452-b5b6-dede049231a2@162.159.1.1:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
-
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.42.88.45:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=CxNiMjJz.cAfUnEaR.InFo&fp=chrome&type=ws&sni=CxNiMjJz.cAfUnEaR.InFo#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.131.208.65:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=UoIrHqRs.cAfUnEaR.InFo&fp=chrome&type=ws&sni=UoIrHqRs.cAfUnEaR.InFo#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
@@ -56,9 +54,11 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.7.107:2096?path=%2F&security
 
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.7.11:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.148.22:8443?security=tls&sni=YqDaWy48R5.mAkEfOrLeSs.InFo&type=ws&host=YqDaWy48R5.mAkEfOrLeSs.InFo&path=/&alpn=h3h2#@Hope_Net-join-us-on-Telegram
+
 vless://Parsashonam@37.27.17.202:443?security=reality&encryption=none&pbk=dpnl4wAPN5nZvYHjAN6gmaNDVK1OMoHSXSoGsiHjABg&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=a6f4#Test
 
-vless://ababacc-abca-baac-bdca-aacabbbcbcca@127.0.0.1:3080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://c391d610-352e-48d7-8490-7e2c4d8cbcb2@104.16.143.237:443?security=tls&sni=COLLECTION.EiNETWORK.NEWS&type=ws&host=COLLECTION.EiNETWORK.NEWS&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.123:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
@@ -136,6 +136,8 @@ vmess://eyJhZGQiOiIyLjU2LjEyNi4xMDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTU2ODIzNjBjM2VkNDAxQDM4LjExNC4xMTQuODQ6MTEyMDE=#telegram DailyV2ry
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNzNhYzE1YmEzZDYxMjVlQDE2MC4xMTkuMjUxLjIwODo0MTgwOA==#telegram DailyV2ry
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZTc1MWMwMzUxN2EzZDczQDIxNy43Ny4yLjIzMDoxNTA4OQ==#telegram DailyV2ry
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMzZkYjI0MDMzOTI1YzkzQDIxNy43Ny4yLjI0ODoxODQyMw==#telegram DailyV2ry
@@ -166,6 +168,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjk0MDZmMDJjNDRmZjA2QDE0OC4xMTMuMjAxLjE4OTo
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDM1M2RkOWJjNzMzMTQzQDUxLjc1LjY4LjE1NTo0MjQ2NA==#telegram DailyV2ry
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGVmNTVkZjQ0MDA3YzIzQDIxMi41Ni40Mi4xOTk6MjkzNjg=#telegram DailyV2ry
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#telegram DailyV2ry
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#telegram DailyV2ry
@@ -190,37 +194,31 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.213.242.191:443#@Hope_N
 
 ss://cmM0LW1kNTo3N2NhMmJlODMxZGQ1MWRkQDUuMTgxLjc3LjI0Nzo0NDc0Nw==#telegram DailyV2ry
 
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202504261584911-FVSbpDrww6.download.microsoft.com#@Hope_Net
-
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202504161119105-JCHFHmA6XV.download.microsoft.com#telegram DailyV2ry
 
-trojan://067ABilegjtp@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://9OuSv0tkEbdZ@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
-trojan://3oXLbBjPEtWW@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://CYJTmxIg9jKk@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
-trojan://8PqXXbZh5oU9@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://F6SeoDth1uBu@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
-trojan://ArLRDo76pI6s@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://GxQXqPt4yIuO@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
-trojan://JeBvsB4RLAMP@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://HwHtfirTqwlt@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
-trojan://X1LRa7PVbWvg@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://J7BZRWb9yAYM@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
-trojan://XPTnEQtPV3S2@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://LeoSAUnEMY40@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
-trojan://dMlzPePjZJIP@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://P4wHjPv0NN86@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
-trojan://etYK2Q8bQVwd@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://PhIEIaGeeCkK@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
-trojan://i28Gze3QYHFC@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://hXI6OMBxlDTt@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
-trojan://ilI3zubuZO4R@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://iFdpMJ6ltxXW@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
-trojan://q4SFyma1nGnE@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
-
-trojan://quI8LlOIMRqd@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
-
-trojan://tE8QdcJKW7O5@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://ioCM8WaAd5KI@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
 trojan://telegram-id-directvpn@13.38.175.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -262,5 +260,9 @@ trojan://telegram-id-directvpn@54.220.100.135:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-directvpn@63.177.205.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://vVJFRlE7UErt@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://tnukifTl5niX@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+
+trojan://vr0OtTLvPwFg@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+
+trojan://wjz1W9yLcHzQ@hamshahri.twn24.ir:443?security=tls&sni=hamshahri.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=hamshahri.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
