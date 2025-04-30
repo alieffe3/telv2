@@ -29,16 +29,16 @@
         <!-- Bars and labels -->
     
         <g>
-            <rect x="60" y="200.0" width="23.333333333333332" height="140.0"
+            <rect x="60" y="60.0" width="23.333333333333332" height="280.0"
                   class="bar"/>
             <text x="74.16666666666667" y="380" 
                   transform="rotate(45, 74.16666666666667, 380)"
                   text-anchor="start" class="tick-label">
                 ShadowProxy66
             </text>
-            <text x="74.16666666666667" y="195.0" 
+            <text x="74.16666666666667" y="55.0" 
                   text-anchor="middle" class="tick-label">
-                50.0%
+                100.0%
             </text>
         </g>
         
@@ -365,7 +365,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-04-30T12:31:34.957120
+            Last updated: 2025-04-30T13:28:22.167081
         </text>
     </svg>
     
