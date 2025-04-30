@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-04-30T08:23:11.440927",
+  "timestamp": "2025-04-30T09:18:55.608951",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/DirectVPN",
