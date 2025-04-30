@@ -1,7 +1,5 @@
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.chandplus.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.165:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-
 vless://0f7122ce-9d5c-462e-9634-06202cfccdde@157.180.79.133:12174?security=none&type=httpupgrade&path=%2F%40proprojec------%40proprojec------%40proprojec-------%40proprojec------%40proprojec------%40proprojec-------#@Hope_Net-join-us-on-Telegram
 
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.16.1:80?type=ws&host=masaleini.mahsaamini.dpdns.org&path=%2FTM%40AZAFBAYJAB1#@Hope_Net-join-us-on-Telegram
@@ -19,10 +17,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&sni=p
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 
 vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=%2F%3Fed&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-
-vless://55520747-311e-4015-83ce-be46e2060ce3@104.17.221.248:443?sni=vx.bgm2024.dpdns.org&type=ws&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-
-vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@104.16.21.18:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
 vless://920e6ab4-597f-4918-a8de-50f8eed2aa24@104.19.222.79:443?path=%2Fyfysxews&security=tls&encryption=none&host=638814307734942482.vienna-pnthprx-aaaaa.info&type=ws&sni=638814307734942482.vienna-pnthprx-aaaaa.info#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
@@ -46,19 +40,25 @@ vless://b4d8b834-2e9c-4815-b3bb-57c278ddfecb@104.24.225.159:2096?security=tls&sn
 
 vless://bb09bef7-99ba-41e1-9073-4222d0d93211@104.21.69.44:8443?security=tls&sni=be1.vlessvh.site&type=ws&host=be1.vlessvh.site&path=%2Fvless&fp=random&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
+vless://bbaacac-acab-abac-bdca-bacaccbbbaac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://caabbac-abac-aacb-bdac-acccbabbcaba@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://caabcab-caab-acba-cdab-aabccbababcc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.0.33:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.2.9:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
-vless://d91894d8-c06b-44aa-b905-57ef6e9354aa@65.109.200.134:2087?security=tls&sni=xn--orafic-o58upgoa9wqa3x5l8j1nusxtyphrgojuwlyn.YAhVe111.COM&type=grpc&serviceName=%EA%84%93o%EA%84%AFr%EA%85%8Aa%EA%85%A1f%EA%85%BBi%EA%86%90c%EA%86%AA%EA%87%8D%EA%87%B1%EA%88%8D%EA%84%B0%EA%85%8B%EA%88%A9%EA%88%BF%EA%89%9C%EA%89%AD%EA%89%BF.YaHvE111.COM.&fp=safari&alpn=h2#@Hope_Net-join-us-on-Telegram
+vless://d91894d8-c06b-44aa-b905-57ef6e9354aa@45.131.4.7:2087?security=tls&sni=xn--orafic-o58upgoa9wqa3x5l8j1nusxtyphrgojuwlyn.YAhVe111.COM&type=grpc&serviceName=%EA%84%93o%EA%84%AFr%EA%85%8Aa%EA%85%A1f%EA%85%BBi%EA%86%90c%EA%86%AA%EA%87%8D%EA%87%B1%EA%88%8D%EA%84%B0%EA%85%8B%EA%88%A9%EA%88%BF%EA%89%9C%EA%89%AD%EA%89%BF.YaHvE111.COM.&fp=safari&alpn=h2#@Hope_Net-join-us-on-Telegram
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.144:8880?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
+vless://d91894d8-c06b-44aa-b905-57ef6e9354aa@65.109.200.134:2087?security=tls&sni=xn--orafic-o58upgoa9wqa3x5l8j1nusxtyphrgojuwlyn.YAhVe111.COM&type=grpc&serviceName=%EA%84%93o%EA%84%AFr%EA%85%8Aa%EA%85%A1f%EA%85%BBi%EA%86%90c%EA%86%AA%EA%87%8D%EA%87%B1%EA%88%8D%EA%84%B0%EA%85%8B%EA%88%A9%EA%88%BF%EA%89%9C%EA%89%AD%EA%89%BF.YaHvE111.COM.&fp=safari&alpn=h2#@Hope_Net-join-us-on-Telegram
 
 vless://e9277571-804d-4697-b673-70a4e318952f@104.21.32.1:8080?type=httpupgrade&host=website.acveo.ir#@Hope_Net-join-us-on-Telegram
 
 vless://e9277571-804d-4697-b673-70a4e318952f@104.21.48.1:8080?type=httpupgrade&host=website.acveo.ir#@Hope_Net-join-us-on-Telegram
+
+vless://e9277571-804d-4697-b673-70a4e318952f@104.21.64.1:8080?type=httpupgrade&host=website.acveo.ir#@Hope_Net-join-us-on-Telegram
 
 vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?sni=baomei.pages.dev&type=ws&host=baomei.pages.dev&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
@@ -70,9 +70,11 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRk
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjQxNjc5M2RjLXN2bjVzMC1zeXhzOTQtMWpiajAuaGszLnA1cHYuY29tIiwgInBvcnQiOiAiODA4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYjJjNjM4NGMtZjYzZC0xMWVjLWIxYjMtZjIzYzkxY2ZiYmM5IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJ0bHMiOiAiIn0=
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjczNjE4OTAzLXN2aGxzMC10MWJuanEtMWtydGIuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogIjUyMjkiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjYwZjZiNGM0LTlkNzAtMTFlZC1hNGQyLWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjczNjE4OTAzLXN2aGxzMC10MWJuanEtMWtydGIuY3UucGxlYmFpLm5ldCIsICJ0bHMiOiAiIn0=
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjg3YjEzNGUzLXN2YzFzMC10MjhiNm8tZWY0OC5jdS5wbGViYWkubmV0IiwgInBvcnQiOiAiNTIyOCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiY2IxNTEyM2EtMDg0Yy0xMWYwLThlYWItZjIzYzkxY2ZiYmM5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiODdiMTM0ZTMtc3ZjMXMwLXQyOGI2by1lZjQ4LmN1LnBsZWJhaS5uZXQiLCAidGxzIjogIiJ9
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImZiNzliZTIyLXN2ZnI0MC10MWJuanEtMWtydGIuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogIjUyMjkiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjYwZjZiNGM0LTlkNzAtMTFlZC1hNGQyLWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogImZiNzliZTIyLXN2ZnI0MC10MWJuanEtMWtydGIuY3UucGxlYmFpLm5ldCIsICJ0bHMiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogInY4LmhlZHVpYW4ubGluayIsICJwb3J0IjogIjMwODA4IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL29vb28iLCAiaG9zdCI6ICJ2OC5oZWR1aWFuLmxpbmsiLCAidGxzIjogIiJ9
 
 vmess://eyJhZGQiOiI0NS4xMi4xMzguODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2RlOWYwNzQtYzkzMC00YWEzLWE1NTgtNDZiYmM5ZDBhNWExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc1NyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
@@ -128,11 +130,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiOWQ3YjkzNmZiZjQ1NjQzQDEwMC40Mi4xODIuNzk6NDk
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNWJkMDljYjYyZjlmNzNiQDE4NS4xOTMuMTAyLjE1ODoyNzE4NQ==#telegram DailyV2ry
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjk0MDZmMDJjNDRmZjA2QDE0OC4xMTMuMjAxLjE4OToxMTIwMQ==#telegram DailyV2ry
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMjljNTQxOTY1YjA1MGQ3QDk0LjcyLjEyMC43NToxMTIwMQ==#telegram DailyV2ry
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
-
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.22:38388#@Hope_Net
 
 ss://YWVzLTI1Ni1nY206RHY0Z1U2MXI@54.235.183.175:13384#telegram DailyV2ry
 
