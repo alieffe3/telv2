@@ -40,9 +40,7 @@ vless://aabbacc-baac-aacb-bdac-accbcbbacaab@127.0.0.1:8080?security=tls&type=tcp
 
 vless://aacbacb-caba-acab-dcab-acabcaaccbbb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://abaacbc-bcaa-abac-adcb-ccbacbaababc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://abaaccb-caab-caab-dcba-cacacbbbbaca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://aacbcab-acba-baac-bdac-aabbaccccbba@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
@@ -51,6 +49,8 @@ vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@172.67.70.92:443?security=tls&sni=x
 vless://bfc61729-ee78-4504-a6bc-3cb11ac96049@104.22.32.78:2052?security=none&type=ws&host=mosiv2.eliii.mosiv2.mosiv2.Www.speedtest.net.mosiv2.mosic7.info.#@Hope_Net-join-us-on-Telegram
 
 vless://cbbaaac-acba-baac-cabd-bcacaccababb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://d20dd642-daa7-421f-be56-9972bec0b937@104.17.147.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.150.117.51:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
@@ -72,8 +72,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRk
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImpwNi52aXAyLmcyLm1vb25iYXNlLmxpZmUiLCAicG9ydCI6ICIzNTI0NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYzMxMzY4MTQtYTA3ZS00MWY2LWFkOTQtOGUyMDQ1OGMwZDIxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9ob21lIiwgImhvc3QiOiAid2ViLnhjanMuaW5mbyIsICJ0bHMiOiAidGxzIn0=
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImpwNi5nMi5tb29uYmFzZS5saWZlIiwgInBvcnQiOiAiMzUyMTYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImMzMTM2ODE0LWEwN2UtNDFmNi1hZDk0LThlMjA0NThjMGQyMSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaG9tZSIsICJob3N0IjogIndlYi54Y2pzLmluZm8iLCAidGxzIjogInRscyJ9
-
 vmess://eyJhZGQiOiI0NS4xMi4xMzguODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2RlOWYwNzQtYzkzMC00YWEzLWE1NTgtNDZiYmM5ZDBhNWExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc1NyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI0Ny44My4xMzIuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjU3YzEyZDAtMDFjYi00NWUwLWZmMzUtOTVlNzYzOTRiNjM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NTA2MCIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4et8J+HsCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -86,11 +84,11 @@ vmess://eyJhZGQiOiIxNDIuNC4xMTYuMTc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiIxNS4yMDQuMjQ4LjkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyNDY2NzE1LTZhNTgtNDA0Ni1hMzYzLWEwZDE4ZTViMmFiNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzA1NjIiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY28J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjVkOTU2MTU0N2U1ZTkyQDE1NC4xMi4yNDcuOTc6MTQ4NzE=#telegram DailyV2ry
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjBlZjgwYjkxZWU5YmEzQDE1LjIwNC4yMjguMTA6MjExNTc=#telegram DailyV2ry
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjcyNGY0Njk1ODRmZjA4QDE1NC45MC42Mi4xNDU6MjA3NTg=#telegram DailyV2ry
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzdhMjAxYjNiNmE4NWMyQDM4Ljg2LjEzNS4yODoxOTI2MA==#telegram DailyV2ry
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzdmNmI2MTY4YjY@103.137.62.194:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Foqhygtklyhwi%3Bhost%3Dwt8v1.kvote.cn%3Btls#@Hope_Net
 
@@ -101,8 +99,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZWE1YWU0NmMyYzhlZTgwQDE2MS45Ny4xNTQuNToxMjg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZGZjMTYwZmZkNjEyYzc1QDEwMC40Mi4xODIuMjE6MTkxMzE=#telegram DailyV2ry
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMDE5NGI4YTk5NTNlNmUxQDE4NS4yMDkuMjI5LjI6NDI5Nzk=#telegram DailyV2ry
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjNjM2RlYmNlMDk2ZmU1QDIxMi41Ni40Mi4yMDE6Mjk2MDM=#telegram DailyV2ry
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMDViMDI2Njk1OTE3OWM2QDE0OC4xMTMuMjAxLjIxNTo0NTM0Mg==#telegram DailyV2ry
 
