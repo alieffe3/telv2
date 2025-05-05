@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-05T04:21:52.648588",
+  "timestamp": "2025-05-05T05:18:46.640218",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -94,8 +94,8 @@
     {
       "url": "https://t.me/s/proxy_kafee",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/v2Line",
