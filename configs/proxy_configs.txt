@@ -8,7 +8,7 @@ vless://378d5714-5101-4740-85eb-f42b59ee763d@194.182.79.46:14888?type=grpc&servi
 
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 
-vless://4661af3d-8813-4744-93b4-539ef9c8029f@104.26.15.85:80?security=none&type=ws&host=ChIRPY-APPOInTMEnT.ONeEaT.cO.&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://4b270bff-0f7e-428e-9fab-a4d96c068e8b@104.21.16.1:8080?type=httpupgrade&host=website.acveo.ir&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://621a5d75-7cfa-4677-8826-c4acec005dcf@104.24.159.174:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vmess.yxxc.cn&type=ws&sni=vmess.yxxc.cn#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
@@ -34,11 +34,11 @@ vless://a73cf704-008c-439b-8a22-8b693a9e3104@162.159.153.245:2087?path=%2F%3Fed%
 
 vless://aaabcbc-caba-aacb-bacd-cbacabbabcca@127.0.0.1:3080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://ad5e479a-d0f6-4809-902c-e74f5404336c@74.220.23.227:2030?security=reality&sni=refersion.com&type=grpc&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#@Hope_Net-join-us-on-Telegram
-
 vless://af713c0c-a79e-464b-b08e-831ce00fe235@104.24.188.214:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=planetzh.xyz&type=ws&sni=planetzh.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
+
+vless://cbbcaaa-baca-cbaa-dbac-cbcabbcacaab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://ccbd413f-4aa0-4b36-8fd8-68f5ddb8b404@145.239.86.241:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
 
@@ -58,13 +58,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.230:8880?mode=gun&security=
 
 vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@94.130.78.148:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=tt.eldenmonodefense5.ir#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE3Mi42Ny43LjI5IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjBhZDRlNTgxLTIzMWItNDY3Ni1hZDc1LWQ4ZDJkYjEwMzc5NSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvczE1Lmh0bWwiLCAiaG9zdCI6ICI4MzA2OTgzMjA5MDI5NjIwMjUwNDI1MTkyOTIzNzA3NzIuczE1LmNoaWJhYmEuZmlsZWdlYXItc2cubWUiLCAidGxzIjogIiJ9
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjQ3LjkyLjE1Mi4xNjkiLCAicG9ydCI6ICI1MDAwMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImI3OWJkYThjLXN2YzFzMC10NjVhM2UtdHFnei5oazMucDVwdi5jb20iLCAicG9ydCI6ICI4MDgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI4OGRhMGQyMS1iMjVkLTExZWMtYjlmNy1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogImI3OWJkYThjLXN2YzFzMC10NjVhM2UtdHFnei5oazMucDVwdi5jb20iLCAidGxzIjogIiJ9
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImZlZTdiMzgxLXN2ZHdnMC10NjZ6czEtMXBxNDQuaGszLnA1cHYuY29tIiwgInBvcnQiOiAiODA4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiM2YxOTRlODgtOGVhYy0xMWVlLWJlN2YtZjIzYzkxNjRjYTVkIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJmZWU3YjM4MS1zdmR3ZzAtdDY2enMxLTFwcTQ0LmhrMy5wNXB2LmNvbSIsICJ0bHMiOiAiIn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogInNnNi52aXAyLmcyLm1vb25iYXNlLmxpZmUiLCAicG9ydCI6ICIzNTE0NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYzMxMzY4MTQtYTA3ZS00MWY2LWFkOTQtOGUyMDQ1OGMwZDIxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9ob21lIiwgImhvc3QiOiAid2ViLnhjanMuaW5mbyIsICJ0bHMiOiAidGxzIn0=
 
@@ -134,13 +130,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYmZkMzk0MTZkMGYxZDIxQDIxNy43Ny4yLjI0NzoyMzg
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmM2ZkYmFiZGZhYmRmMGFkQDE4NS4yMjIuMjQwLjIyMzo0Mjc4Ng==#telegram DailyV2ry
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmODYyMTA4YThlMGFlODEzQDIxMi41Ni4zMi4xMzo0NzA2Ng==#telegram DailyV2ry
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%B9
 
 ss://cmM0LW1kNToxZGZhZDNmZTdjZGM2ZjlmQDg0LjI0Ny4xNDcuNjE6NDA1NDc=#telegram DailyV2ry
 
 ss://cmM0LW1kNTpiY2M3MjM2YzM4NjQ5ZjA1QDM3LjYwLjI1MC4yNDM6MTEwNDQ=#telegram DailyV2ry
-
-ss://cmM0LW1kNTpkNGI0ZjdhMjI1ZDUwNjU3QDE1Ny4xODUuMTMwLjM6MTYwNjY=#telegram DailyV2ry
 
 trojan://telegram-id-directvpn@13.37.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
