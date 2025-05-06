@@ -4,6 +4,8 @@ vless://15cc8d40-f0c0-4e5c-9f43-da04c368353c@104.24.251.4:443?path=%2F%3Fed%3D25
 
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@188.166.194.27:7594?mode=gun&security=reality&encryption=none&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&fp=chrome&type=grpc&serviceName=7594vless&sni=dash.cloudflare.com&sid=765e8e700426816c#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
+vless://378d5714-5101-4740-85eb-f42b59ee763d@194.182.79.46:14888?type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 
 vless://4661af3d-8813-4744-93b4-539ef9c8029f@104.26.15.85:80?security=none&type=ws&host=ChIRPY-APPOInTMEnT.ONeEaT.cO.&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
@@ -16,8 +18,6 @@ vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.60.166.119:443?security=reality&
 
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.60.247.99:443?security=reality&alpn=h2&encryption=none&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=zula.ir&sid=7a2b#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AA
 
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.60.247.99:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b&alpn=h2#@Hope_Net-join-us-on-Telegram
-
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@51.21.181.8:443?security=reality&alpn=h2&encryption=none&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=zula.ir&sid=7a2b#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AA
 
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@56.228.35.188:443?security=reality&alpn=h2&encryption=none&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=zula.ir&sid=7a2b#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AA
@@ -26,13 +26,13 @@ vless://90cd4a77-141a-43c9-991b-08263cfe9c10@104.24.235.113:443?path=%2F%3Fed%3D
 
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@209.208.227.229:2096?path=%2F&security=tls&encryption=none&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome&type=ws&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.8.211.45:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
-
 vless://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.155.131:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=cf.breakday.top&type=ws&sni=cf.breakday.top#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
 vless://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.7.206:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=cf.breakday.top&type=ws&sni=cf.breakday.top#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
 vless://a73cf704-008c-439b-8a22-8b693a9e3104@162.159.153.245:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lyxahh316.dpdns.org&type=ws&sni=lyxahh316.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
+
+vless://aaabcbc-caba-aacb-bacd-cbacabbabcca@127.0.0.1:3080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://ad5e479a-d0f6-4809-902c-e74f5404336c@74.220.23.227:2030?security=reality&sni=refersion.com&type=grpc&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#@Hope_Net-join-us-on-Telegram
 
@@ -61,8 +61,6 @@ vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@94.130.78.148:2087?mode=gun&securit
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE3Mi42Ny43LjI5IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjBhZDRlNTgxLTIzMWItNDY3Ni1hZDc1LWQ4ZDJkYjEwMzc5NSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvczE1Lmh0bWwiLCAiaG9zdCI6ICI4MzA2OTgzMjA5MDI5NjIwMjUwNDI1MTkyOTIzNzA3NzIuczE1LmNoaWJhYmEuZmlsZWdlYXItc2cubWUiLCAidGxzIjogIiJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjQ3LjkyLjE1Mi4xNjkiLCAicG9ydCI6ICI1MDAwMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjcyYzEyNDgxLXN2YzFzMC10ZTB2MjgtMW1oNjcuY201LnA1cHYuY29tIiwgInBvcnQiOiAiMTcyMzMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImUxYzdmYmJjLTk2YjYtMTFlZi04NTYzLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjcyYzEyNDgxLXN2YzFzMC10ZTB2MjgtMW1oNjcuY201LnA1cHYuY29tIiwgInRscyI6ICIifQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImI3OWJkYThjLXN2YzFzMC10NjVhM2UtdHFnei5oazMucDVwdi5jb20iLCAicG9ydCI6ICI4MDgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI4OGRhMGQyMS1iMjVkLTExZWMtYjlmNy1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogImI3OWJkYThjLXN2YzFzMC10NjVhM2UtdHFnei5oazMucDVwdi5jb20iLCAidGxzIjogIiJ9
 
