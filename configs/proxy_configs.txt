@@ -12,6 +12,8 @@ vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.60.166.119:443?security=reality&
 
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.60.247.99:443?security=reality&alpn=h2&encryption=none&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=zula.ir&sid=7a2b#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AA
 
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.60.247.99:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b&alpn=h2#@Hope_Net-join-us-on-Telegram
+
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@51.21.181.8:443?security=reality&alpn=h2&encryption=none&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=zula.ir&sid=7a2b#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AA
 
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@56.228.35.188:443?security=reality&alpn=h2&encryption=none&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=zula.ir&sid=7a2b#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AA
@@ -20,13 +22,7 @@ vless://90cd4a77-141a-43c9-991b-08263cfe9c10@104.24.235.113:443?path=%2F%3Fed%3D
 
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@209.208.227.229:2096?path=%2F&security=tls&encryption=none&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome&type=ws&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.124:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
-
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.210.206:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=/&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.211.241:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
-
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.6.24:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.8.211.45:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
 vless://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.155.131:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=cf.breakday.top&type=ws&sni=cf.breakday.top#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
@@ -34,9 +30,15 @@ vless://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.7.206:443?path=%2F%3Fed%3D25
 
 vless://a73cf704-008c-439b-8a22-8b693a9e3104@162.159.153.245:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lyxahh316.dpdns.org&type=ws&sni=lyxahh316.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
+vless://abcbcaa-acba-baac-dcba-cacbaabccbba@127.0.0.1:3080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://ad5e479a-d0f6-4809-902c-e74f5404336c@74.220.23.227:2030?security=reality&sni=refersion.com&type=grpc&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#@Hope_Net-join-us-on-Telegram
+
 vless://af713c0c-a79e-464b-b08e-831ce00fe235@104.24.188.214:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=planetzh.xyz&type=ws&sni=planetzh.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
+
+vless://beca86b4-1a33-7c3b-a2a0-d3022a1440de@104.16.127.115:2086?security=none&type=httpupgrade&host=DarkShield.uk.wowshops.ir.#@Hope_Net-join-us-on-Telegram
 
 vless://ccbd413f-4aa0-4b36-8fd8-68f5ddb8b404@145.239.86.241:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
 
@@ -55,8 +57,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.230:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B1%F0%9F%87%B9
 
 vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@94.130.78.148:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=tt.eldenmonodefense5.ir#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-
-vless://f9c954dc-73f8-4aac-b8a2-b8fbdb813341@213.21.245.83:443?security=reality&sni=tgju.org&type=tcp&fp=chrome&pbk=TXHciLv9Ctu7k7sdIcadLJIEa1WTCIseYctDMa6NW0c&sid=7e39db0c#@Hope_Net-join-us-on-Telegram
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE3Mi42Ny43LjI5IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjBhZDRlNTgxLTIzMWItNDY3Ni1hZDc1LWQ4ZDJkYjEwMzc5NSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvczE1Lmh0bWwiLCAiaG9zdCI6ICI4MzA2OTgzMjA5MDI5NjIwMjUwNDI1MTkyOTIzNzA3NzIuczE1LmNoaWJhYmEuZmlsZWdlYXItc2cubWUiLCAidGxzIjogIiJ9
 
