@@ -38,6 +38,8 @@ vless://abbacca-baac-baac-dcab-bccbaacaabcb@127.0.0.1:2080?security=tls&type=tcp
 
 vless://acabcba-acba-acba-bcda-abbbcabaccac@127.0.0.1:3080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://b04a24aa-394e-5278-8202-dc480ae6f49b@86.38.214.22:2052?security=none&type=ws&host=sPeedtest2.sbs.sg.vless.sitespeedtest.net#@Hope_Net-join-us-on-Telegram
+
 vless://c3914ef7-1337-4d3e-a9ec-d8908314e724@104.17.147.22:443?security=tls&sni=www.speedtest.net&type=xhttp&host=test0216.dgclix.ir&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
 vless://caacbba-caba-baac-dabc-bbababacccac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -65,8 +67,6 @@ vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.16.69:2087?mode=gun&securit
 vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@94.130.78.148:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=tt.eldenmonodefense5.ir#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
 vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@95.217.22.47:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=ss.eldenmonodefense5.ir#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
-
-vless://fa64f7e4-5bb2-4490-a752-784d7133c5bd@5.255.115.68:8080?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+FvPCfhbTwn4W38J+Fs/CfhbgiLCAiYWRkIjogImlyaWJ0djMuYW5kaXNoZWhuZWdhcmlyYW4uaXIiLCAicG9ydCI6ICIyMDk2IiwgImlkIjogIjA4NDdkMGRlLWI4MjQtNDA1Ny05M2ZkLTc1MzNkNDg2OWFhMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cHVwZ3JhZGUiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaXJpYnR2My5hbmRpc2hlaG5lZ2FyaXJhbi5pciIsICJwYXRoIjogIi/wn4aUQE0zSERJTzEiLCAidGxzIjogInRscyIsICJzbmkiOiAiaXJpYnR2My5hbmRpc2hlaG5lZ2FyaXJhbi5pciIsICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSJ9
 
