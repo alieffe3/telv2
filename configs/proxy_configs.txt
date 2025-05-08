@@ -40,8 +40,6 @@ vless://b34520a8-9a0d-4d5d-b42f-c700cf969aee@199.232.90.133:80?security=none&typ
 
 vless://ba934c6e-db86-4a04-9b99-d5974b732880@104.18.8.74:443?security=tls&sni=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&type=ws&host=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=/admin&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
-vless://baaacbc-baac-acab-cadb-bbacaaabccbc@127.0.0.1:3080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://c0b6943e-3b01-4c39-a678-ae28a100e329@104.17.147.22:2052?security=none&type=ws&host=sPeedtest2.sbs.invl.greenssh.org&path=%2Fvless#@Hope_Net-join-us-on-Telegram
 
 vless://c69d6834-e4a8-4ff0-97e5-ca13746c65d1@5.75.204.245:8883?security=reality&sni=wwww.refersion.com&type=tcp&fp=chrome&pbk=hVFQpNhSU6uRXpnAIES-MIuye5PsS-jmiWMlgwTC4yA&sid=93ddf2d2c5d8c56b#@Hope_Net-join-us-on-Telegram
@@ -52,6 +50,8 @@ vless://cababac-cbaa-acab-bdac-bacabbacacbc@127.0.0.1:2080?security=tls&type=tcp
 
 vless://ccaabba-aabc-acab-cadb-babbbaccccaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://ccbd413f-4aa0-4b36-8fd8-68f5ddb8b404@145.239.86.241:2052?type=grpc&serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
+
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.165:8880?security=none&sni=pqh35v3.gym35fit.shop&type=grpc&host=pqh35v3.gym35fit.shop#@Hope_Net-join-us-on-Telegram
 
 vless://ebccb1ba-7efd-42d8-8028-3a328525d231@151.101.3.8:80?security=none&type=xhttp&host=biyatovistavdoray.com#@Hope_Net-join-us-on-Telegram
@@ -60,11 +60,11 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.201:443?security=tls&sn
 
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.127:443?security=tls&sni=edcck.ambercc.filegear-sg.me&type=ws&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
 
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.168:443?security=tls&sni=edcck.ambercc.filegear-sg.me&type=ws&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
+
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.227:443?security=tls&sni=edcck.ambercc.filegear-sg.me&type=ws&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
 
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.144:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
-
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922?security=tls&sni=edcck.ambercc.filegear-sg.me&type=ws&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
 vless://f749fb32-8cd6-4e05-a25d-937c6f1a435d@104.17.148.22:2086?security=none&type=httpupgrade&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.f2.isvpy.ir.#@Hope_Net-join-us-on-Telegram
 
