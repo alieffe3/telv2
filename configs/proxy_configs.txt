@@ -14,6 +14,8 @@ vless://4132069a-fa63-4e23-86a3-d2350f66d8a4@104.16.157.108:8080?security=none&t
 
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.167.84:59483?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 
+vless://4b132e2b-24b1-418b-90e9-a11b619a799b@104.21.82.14:443?security=tls&sni=m1qqaw3.777259.xyz&type=ws&host=m1qqaw3.777259.xyz&path=%2F6pC5ZWNjJLlDlbpi&fp=chrome&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
+
 vless://4b132e2b-24b1-418b-90e9-a11b619a799b@172.67.170.132:443?security=tls&sni=m1swxrt.777236.xyz&type=ws&host=m1swxrt.777236.xyz&path=%2F6pC5ZWNjJLlDlbpi&fp=chrome&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?type=ws&host=redfree8mahsang6.redfree8.ir&path=%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#@Hope_Net-join-us-on-Telegram
@@ -22,9 +24,9 @@ vless://5ba8793c-1b75-4b45-c74b-678dead9afd0@104.17.148.22:8880?security=none&ty
 
 vless://5fb982aa-c10a-4230-989a-c1b5664d9737@176.9.243.164:600?security=tls&sni=marzban.negintel.xyz&type=tcp&host=%2FJoin_Bade_Channel%40JOKERRVPN#@Hope_Net-join-us-on-Telegram
 
-vless://8dad61e6-7255-49d7-8b24-993a1623dbfd@45.67.139.72:28431?security=reality&sni=www.microsoft.com&type=xhttp&path=%2Fv2raybluecrystal&fp=chrome&pbk=xVeT2uiWn3oBH9mn9a9_Lovyf8np6lNPQKbJiIc_FEg&sid=1d609bb99e7bfc06#@Hope_Net-join-us-on-Telegram
+vless://872ae5b5-e9af-4aae-b70c-063f37290ae5@142.93.231.14:14769?security=none&type=httpupgrade&path=%2F#@Hope_Net-join-us-on-Telegram
 
-vless://9a6d40b9-91b5-4b9d-9e10-245cf7187170@104.17.148.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#@Hope_Net-join-us-on-Telegram
+vless://8dad61e6-7255-49d7-8b24-993a1623dbfd@45.67.139.72:28431?security=reality&sni=www.microsoft.com&type=xhttp&path=%2Fv2raybluecrystal&fp=chrome&pbk=xVeT2uiWn3oBH9mn9a9_Lovyf8np6lNPQKbJiIc_FEg&sid=1d609bb99e7bfc06#@Hope_Net-join-us-on-Telegram
 
 vless://aabcbca-acba-baac-bdca-cccababcabab@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -43,8 +45,6 @@ vless://bacaacb-acab-baac-dcab-acabcbabcabc@127.0.0.1:2080?security=tls&type=tcp
 vless://baccaba-acab-caba-dcba-baccabcababc@127.0.0.1:3080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://baccbaa-bcaa-aacb-dacb-bcccbbacaaba@127.0.0.1:3080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://baccbaa-caba-aacb-cadb-acbbbcacaabc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://bc32e05c-b631-4c3c-fc76-267bc7ee9de6@104.17.148.22:2086?security=none&type=httpupgrade&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2086#@Hope_Net-join-us-on-Telegram
 
@@ -73,8 +73,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInRlbGVncmFtIOKYgu+4jyBEYWlseVYycnkiLA0K
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjQ3Ljc5Ljg4LjExMyIsICJwb3J0IjogIjUzNzEwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxZGI4MzhkMC1lY2QyLTRiNzMtYTdmOC01YWY2YjQwMWQ4MzMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjdkZjA1YTQwLXN2d2Y0MC1zeGU4cGgtbXVicC5oZ2MxLnRjcGJici5uZXQiLCAicG9ydCI6ICI4MDgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxYmNhZGM4OC00NzQxLTExZWUtYWUyZS1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjdkZjA1YTQwLXN2d2Y0MC1zeGU4cGgtbXVicC5oZ2MxLnRjcGJici5uZXQiLCAidGxzIjogIiJ9
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImJvb2tteXNob3cuY29tIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3ZTBkOTg3Ny1lMTIwLTQ5M2YtYjNhZC04NjdhMTJkZjc0NTciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogImpwdi54aWFvcWk1NTUueHl6IiwgInRscyI6ICJ0bHMifQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImdzMDMtMS5ndW9zaGkxNTIwLmNvbSIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiODJmZjZkMzAtMjkyMC00ZWJkLWI5NWMtYjAxNmVkZTFhODQxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84MmZmNmQzMCIsICJob3N0IjogImdzMDMtMS5ndW9zaGkxNTIwLmNvbSIsICJ0bHMiOiAidGxzIn0=
 
@@ -151,6 +149,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmODYyMTA4YThlMGFlODEzQDIxMi41Ni4zMi4xMzo0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#Channel%20id%3A%20%40ShadowProxy66
+
+ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@54.199.249.6:443#@Hope_Net
 
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVhkemNITXdOVEF4@57.180.41.89:443#@Hope_Net
 
