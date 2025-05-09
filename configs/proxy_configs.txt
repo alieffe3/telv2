@@ -6,8 +6,6 @@ vless://2bb5e4f9-35c5-45aa-8f84-b81ac8da330d@104.21.32.1:443?security=tls&sni=os
 
 vless://2ee918dc-6407-467f-8df2-a62ad6c79c7c@88.198.101.94:443?security=reality&sni=stackoverflow.com&type=grpc&serviceName=yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP&path=yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP&fp=chrome&pbk=Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw&sid=05a6d4aa5e314637&alpn=h2#@Hope_Net-join-us-on-Telegram
 
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.208.62:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&alpn=h2%2Chttp/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.245.110:59483?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.160.234:59483?security=auto&type=grpc&fp=chrome#@Hope_Net-join-us-on-Telegram
@@ -15,6 +13,8 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.160.234:59483?security=auto
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.38.40:59483?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@89.27.8.25:80?type=ws&host=vv.cscfwoker.fun&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560%2F%3FJoin_Bade_Channel%40ShadowProxy66&security=&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@144.24.243.207:443?security=tls&flow=-udp443-udp443-udp443&sni=147135004002.sec20org.com&fp=chrome#@Hope_Net-join-us-on-Telegram
 
@@ -29,8 +29,6 @@ vless://a8a424c8-0da6-44ee-ac8f-fa45e17ff2a1@188.245.95.151:2134?security=realit
 vless://a8a424c8-0da6-44ee-ac8f-fa45e17ff2a1@37.27.191.27:2172?security=reality&sni=chess.com&type=grpc&serviceName=chessgame&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#@Hope_Net-join-us-on-Telegram
 
 vless://a8a424c8-0da6-44ee-ac8f-fa45e17ff2a1@37.27.252.57:1519?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#@Hope_Net-join-us-on-Telegram
-
-vless://aaabccb-abca-caab-dbca-aabcbcbacacb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://abacabc-acab-cbaa-cadb-bcaacbcbaacb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -49,8 +47,6 @@ vless://bbcaaac-caab-baca-adbc-cabccbbbcaaa@127.0.0.1:2080?security=tls&type=tcp
 vless://bcbaaca-baca-cbaa-dbca-aabbbccccaba@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://bccaaba-baac-acba-dcab-bbbbaaaccacc@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://c77f7459-48f7-4a80-9c98-35b54f4df50d@95.164.35.169:32756?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=0w3vKmbzpqRs-4Kz9W0ECUfFKRXfzR5Oy1tqXPZ6als&sid=8852e484a776#@Hope_Net-join-us-on-Telegram
 
 vless://c9619867-f4a0-4f2c-a358-3d22db64dabc@172.64.32.100:443?security=tls&sni=fari25.molti1clod.com&type=ws&host=fari25.molti1clod.com&path=/wss&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
