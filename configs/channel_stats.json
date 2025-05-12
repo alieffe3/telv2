@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-12T18:23:42.494392",
+  "timestamp": "2025-05-12T19:15:32.325800",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -46,8 +46,8 @@
     {
       "url": "https://t.me/s/Hope_Net",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/oneclickvpnkeys",
