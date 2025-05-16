@@ -2,9 +2,13 @@ vless://21dfbe81-72d4-5ad5-8248-1e8d2cf13f8c@5.180.52.15:8880?mode=gun&security=
 
 vless://21dfbe81-72d4-5ad5-8248-1e8d2cf13f8c@5.180.52.15:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.139.186:59483?security=auto&type=grpc&fp=chrome#@Hope_Net-join-us-on-Telegram
+vless://44ed7a37-af89-4cd1-8680-83a7207810d9@104.21.26.17:443?security=tls&sni=1.459.PP.uA&type=ws&host=1.459.pp.ua&path=%2Fen98IVNnhxyMtdfYnjLYhU30U&fp=chrome&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
+
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@142.93.22.144:59483?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20%2F%3Fed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%BF
+
+vless://585acd30-52bf-4b70-a537-e13649fafefc@104.21.53.113:443?security=tls&sni=bBA.890601.pP.UA&type=ws&host=bba.890601.pp.ua&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 
@@ -22,8 +26,6 @@ vless://93cf17d3-2ffd-486b-9ea8-31ead0086137@94.130.187.47:2087?mode=gun&securit
 
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.5.252:8443?path=%2F&security=tls&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
-vless://abcbaac-abac-acba-dacb-aaccababbccb@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
@@ -38,13 +40,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=none&sni=pqh33v1.cinema33.shop&type=grpc#@Hope_Net-join-us-on-Telegram
-
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh32v6.film32western.shop#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v3.economy36top.shop#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
-vless://e66070a9-049f-42ce-9e14-9752141c3be4@190.93.245.137:443?security=tls&sni=WWW.pegAh-Esfahan.De.&type=ws&host=WWW.pegAh-Esfahan.De.&path=TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 
 vless://ebef07c5-c68b-4fd5-aa91-cefa18d010c7@49.12.105.24:20878?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
@@ -52,7 +52,7 @@ vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=
 
 vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@94.130.107.86:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pos1.floorshoping22.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
-vless://fd98e970-c32c-44d4-86e2-47c869097d96@194.182.79.169:34896?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://fdc78a0e-3e0c-4800-9b8a-2679a4a85c5f@104.17.147.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.#@Hope_Net-join-us-on-Telegram
 
 vmess://ewogICAgImFkZCI6ICI1LjEwLjI0NC43MiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImRpZ2l0YWxvY2VhbnVzLmx6ajUyMGh4dy5kcGRucy5vcmciLAogICAgImlkIjogIjllNDNhZWM2LWJhNGQtNDU5Ny05MzQ0LTRmNmZjYmQ1YzhhNiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bWVzcy1hcmdvP2VkPTIwNDgiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAidGVsZWdyYW0g8J+NiiBEYWlseVYycnkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
