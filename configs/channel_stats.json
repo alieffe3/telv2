@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-18T11:14:35.716673",
+  "timestamp": "2025-05-18T12:29:07.738562",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -16,8 +16,8 @@
     {
       "url": "https://t.me/s/v2ray_configs_pool",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/Parsashonam",
