@@ -2,9 +2,9 @@ vless://1086e954-18a8-4a0d-b2d7-8986852e6552@185.235.241.208:443?security=realit
 
 vless://1407bf51-7108-4a4b-ba2c-0690d589d22e@103.253.43.210:443?security=tls&flow=xtls-rprx-vision&sni=hon5.vpntype.dev&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.223.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s11.africacloud1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s11.africacloud1.ir#@Hope_Net-join-us-on-Telegram
+vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?security=tls&sni=pq-brazil1.09vpn.com&type=ws&path=%2Fvless%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
 
-vless://30f5a631-5513-42d2-b1f3-141e614b13d8@45.150.174.84:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#@Hope_Net-join-us-on-Telegram
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.223.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s11.africacloud1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s11.africacloud1.ir#@Hope_Net-join-us-on-Telegram
 
 vless://45c3ceef-af58-45ba-83e9-6fad74dbb663@104.17.147.22:2083?security=tls&sni=iVZ693ye8o0Lmp70Bd7vr407Bwm2iB8r.kicige4119.WORKErS.deV&type=ws&host=ivz693ye8o0lmp70bd7vr407bwm2ib8r.kicige4119.workers.dev&path=%2FTXEWPV1cdVvX7c1v&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
@@ -30,13 +30,13 @@ vless://94e0acd7-aa2f-4a8a-abf6-921bbba18810@62.60.220.158:44444?security=realit
 
 vless://a781955a-9bac-4c7c-848c-2ae0127882de@151.101.2.219:80?security=none&type=xhttp&host=jointo_vistav2ray.ir&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480#@Hope_Net-join-us-on-Telegram
 
+vless://aaabccb-abac-aabc-dabc-bacccbcababa@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://abcacba-bcaa-caba-acdb-bcbcacbaabca@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://acabcba-bcaa-aacb-bcad-aabcccabbcba@127.0.0.1:3080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.106:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#@Hope_Net-join-us-on-Telegram
-
-vless://baabcac-abac-aacb-dbca-aacbccbbbaac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://accaabb-abac-acab-cadb-cacbbacbacab@127.0.0.1:3080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://babcaac-aabc-abac-bacd-cacbaaacbbbc@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -68,11 +68,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.29:8880?sni=hk.laoyoutia
 
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.81.58.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi42Ny4xOTguMTg3IiwgInBvcnQiOiA0NDMsICJpZCI6ICI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCAidHlwZSI6ICIiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ4bWl2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgImhvc3QiOiAieG1pdmlkZW8uY2ZkIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzo1Mi44NG1zIn0=
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE4NS4xNDYuMTczLjI1IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjI3ZWU4MDQ3LTVkYTktNDQzMy04Yzg1LTQ1ZjVmZWIxOTY3ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZDNkM0xtbHlZVzVvYjNOMExtTnZiUT09P2VkPTI1NjAiLCAiaG9zdCI6ICJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5zYXJ6YW1paWluYWhhbmcuaXIuIiwgInRscyI6ICIifQ==
-
-vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgInYiOiAiMiIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlubmEuY2ZkIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmTW9udHJlYWxcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjEwNi4wOG1zIn0=
 
 vmess://eyJhZGQiOiIzNy4yMjEuMTI1LjE1OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNTNlMDc4Ny03MWJjLTQ0MmQtOWM5ZC05MDJmOTAzNTllYjUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzOTQwIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NvCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
