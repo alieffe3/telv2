@@ -1,7 +1,5 @@
 vless://1086e954-18a8-4a0d-b2d7-8986852e6552@185.235.241.208:443?security=reality&sni=www.cdn77.com&type=grpc&serviceName=Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs&fp=chrome&pbk=u28jiCcALXYBSmP5K1-aY4VBd6UdUjNxJBcZ-si0YCo&sid=d480#@Hope_Net-join-us-on-Telegram
 
-vless://1407bf51-7108-4a4b-ba2c-0690d589d22e@103.253.43.210:443?security=tls&flow=xtls-rprx-vision&sni=hon5.vpntype.dev&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-
 vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?security=tls&sni=pq-brazil1.09vpn.com&type=ws&path=%2Fvless%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.223.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s11.africacloud1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s11.africacloud1.ir#@Hope_Net-join-us-on-Telegram
@@ -11,6 +9,8 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@45.205.0.58:443?security=tls&sni=pq
 vless://45c3ceef-af58-45ba-83e9-6fad74dbb663@104.17.147.22:2083?security=tls&sni=iVZ693ye8o0Lmp70Bd7vr407Bwm2iB8r.kicige4119.WORKErS.deV&type=ws&host=ivz693ye8o0lmp70bd7vr407bwm2ib8r.kicige4119.workers.dev&path=%2FTXEWPV1cdVvX7c1v&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://45c3ceef-af58-45ba-83e9-6fad74dbb663@104.21.33.210:443?security=tls&sni=ivz693ye8o0LMp70Bd7vR407BWM2ib8R.kIciGE4119.woRKERs.dEv&type=ws&host=ivz693ye8o0lmp70bd7vr407bwm2ib8r.kicige4119.workers.dev&path=%2FNBuFH5KdNl08Dm06&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.165.216.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.11.203.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
@@ -83,8 +83,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncVBseTZzMUJOYU1sRm5oOVV4Y2F1@193.42.36.207:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmpwaGMyUXhNak0wTlRZ@103.149.182.61:8388#@Hope_Net
-
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1dGM2MzcDRZekV5TXc@13.250.27.89:443#@Hope_Net
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A7%F0%9F%87%AA
 
