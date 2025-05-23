@@ -28,8 +28,6 @@ vless://8c8873fb-6e68-4359-8d67-092d399612c9@95.38.38.226:24000?security=none&en
 
 vless://8c8873fb-6e68-4359-8d67-092d399612c9@95.38.38.226:26000?security=none&encryption=none&host=www.irna.ir.www.alibaba.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AA
 
-vless://8ec3ee9d-38d1-4b6a-a080-e2d646a64997@172.67.68.242:443?security=tls&sni=azarandooz.idtokens.workers.dev&type=ws&host=azarandooz.idtokens.workers.dev&path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://9116e758-76c5-4e9d-aef6-6fe6edd11163@62.60.220.158:44444?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=randomized&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ#@Hope_Net-join-us-on-Telegram
 
 vless://Parsashonam-233@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
@@ -39,8 +37,6 @@ vless://abacbca-bcaa-aacb-dcba-cbcbabcbcaaa@127.0.0.1:2080?security=tls&type=tcp
 vless://acaabcb-caba-abca-cdba-bccbbaabccaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://acd71a14-6f45-4451-b150-daa59dcbe36a@65.21.4.165:1618?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=JuB4nVnGF1Z-TLaoeZtXkvsejUguYvBfxhqTb3OmqAE&sid=1b7ce049e7580e86#@Hope_Net-join-us-on-Telegram
-
-vless://b3d43b62-aca2-4157-bf0a-d7500510f86e@188.245.206.53:1598?security=none&type=tcp&host=stackoverflow.com&path=%2F&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://bc678f66-a7a9-4252-bc8b-98c251fa0f21@185.193.158.10:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#@Hope_Net-join-us-on-Telegram
 
@@ -62,9 +58,19 @@ vless://e8904c41-e39a-47a4-bf5a-a389318568c8@15.204.76.221:41884?security=tls&sn
 
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@104.17.225.171:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
+vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@190.93.246.241:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
+
+vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@140.248.128.69:80?security=none&type=ws&host=Channel-ELiV2.RAY.neT&path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE1Mi42Ny4yNTEuMjMyIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJzbmkiOiAiaXJ2aWRlby5jZmQiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFx1MDBhZVx1ZmUwZlVuaXRlZCBTdGF0ZXNcdTAwYTlcdWZlMGZTYW4gSm9zZSAoRWRlbnZhbGUpXHVkODNjXHVkZDdmXHVmZTBmcGluZzoxNTMuNzdtcyJ9
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjQzLjI0Ny4xMzUuMTkyIiwgInBvcnQiOiAiMTk1MDQiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjEzMjI5NjhkLTUzNmYtNGRkNC04Y2VhLWZlZTZjMDRlMmQ5NyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImNkbjEuYnBjZG4uY2MiLCAicG9ydCI6ICIyMDg2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJjMjFiOTcyYS1iYzkyLTRmOGMtOGU2YS02ODY4MDAxZjdmODgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogImhrcmcwbmYzMGlrNXBpcTF6ci5sb3ZlYmFpcGlhby5jb20iLCAidGxzIjogIiJ9
 
-vmess://eyJ2IjogMiwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgImFkZCI6ICJjcy5mbGhhLnJ1IiwgInBvcnQiOiAyMDgyLCAiaWQiOiAiMmY4MjExNTItYzNlOS00MDc0LTkxODUtMjc5MGU3NDI1ZjQyIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogImNzLmZsaGEucnUiLCAicGF0aCI6ICIvIiwgInRscyI6IGZhbHNlLCAic25pIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogInRrLmh6bHQudGtkZG5zLnh5eiIsICJwb3J0IjogIjIyNjQxIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI5OGU5NmM5Zi00YmIzLTM5ZDQtOWEyYy1mYWMwNDI1N2Y3YzciLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogInp4anAtYS50a29uZy5jYyIsICJ0bHMiOiAidGxzIn0=
+
+vmess://eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJhaWQiOiAwLCAiaG9zdCI6ICI2Ny4yMjAuNjYuMTk0IiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4XHUwMGFlXHVmZTBmU3BhaW5cdTAwYTlcdWZlMGZNYWRyaWRcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjUyLjc4bXMifQ==
 
 vmess://eyJhZGQiOiIzNy4yMjEuMTI1LjE1OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNTNlMDc4Ny03MWJjLTQ0MmQtOWM5ZC05MDJmOTAzNTllYjUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzOTQwIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NvCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
@@ -82,15 +88,17 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@154.197.26.237:8388#@Hope_Net
 
 ss://YWVzLTEyOC1nY206Yjg2YTQ4ZTgtNTQyZC00YjkwLWJiNmUtZmYwYTNlN2U0ZTk3@xz.fanhua.art:38029#@Hope_Net
 
+ss://YWVzLTI1Ni1nY206UU5UTFRZRVdNM1VVSFQyRA@147.78.3.137:20032#@Hope_Net
+
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A7%F0%9F%87%AA
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A7%F0%9F%87%AA17 کانفیگ اختصاصی V2ray ایرانسلMTN ❤️ &....⚡️ @ShadowProxy66
 
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#🆔@v2ray_configs_pool🇺🇸®️United States©️Queens🅿️ping:29.39ms
-
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%B0
 
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.129:443?path=%2Fproxyip%3D194.76.18.129%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B0%F0%9F%87%BF
+
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.129:443?path=%2Fproxyip%3D194.76.18.129%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#🆔@v2ray_configs_pool🇰🇿®️Kazakhstan©️Almaty🅿️ping:8.07ms
 
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?path=%2Fproxyip%3D212.183.88.172%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%B9
 
