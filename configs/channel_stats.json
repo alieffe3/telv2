@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-05-25T16:19:50.213194",
+  "timestamp": "2025-05-25T17:14:44.603579",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/DirectVPN",
@@ -70,8 +70,8 @@
     {
       "url": "https://t.me/s/DailyV2RY",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/xs_filternet",
