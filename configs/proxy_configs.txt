@@ -14,7 +14,7 @@ vless://4c511b03-55b2-44df-bdb3-c07a18b2b864@65.109.202.140:443?security=&encryp
 
 vless://4c511b03-55b2-44df-bdb3-c07a18b2b864@65.109.202.140:443?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 
-vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:443?allowInsecure=0&sni=azadnet05.pages.dev&type=ws&host=azadnet05.pages.dev&path=/onqTSGxT0rgc7nPc?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
+vless://508a5202-d450-42d2-a74c-9326dcda8b63@104.21.46.90:443?security=tls&sni=XCdvFRTtt.fREEvpnATM.dPDNS.oRg&type=ws&host=xcdvfrttt.freevpnatm.dpdns.org&path=%2FprUFeqTNsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.121:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
@@ -60,13 +60,9 @@ vless://f93a6388-c998-4864-8eb7-c61de4754aca@162.55.185.143:22000?mode=gun&secur
 
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.90:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#@Hope_Net-join-us-on-Telegram
 
-vmess://eyJ2IjogIjIiLCAiYWRkIjogImhrMi5scnpkeC51ayIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGI2OWQ1YmMtZDM2Yy00OTAzLWY0NzEtNzRiOThjNWNlZmU1IiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiaGsyLmxyemR4LnVrIiwgInBhdGgiOiAiL3JlZ2lzdGVyIiwgImhvc3QiOiAiaGsyLmxyemR4LnVrIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzo4Ljc2bXMifQ==
-
-vmess://eyJ2IjogIjIiLCAiYWRkIjogImhrMi5scnpkeC51ayIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGI2OWQ1YmMtZDM2Yy00OTAzLWY0NzEtNzRiOThjNWNlZmU1IiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiaGsyLmxyemR4LnVrIiwgInBhdGgiOiAiL3JlZ2lzdGVyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzo4Ljc2bXMifQ==
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogInNzbHZwbi41MWpvYi5jb20iLCAicG9ydCI6ICIxNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJhNmEwZDkwMS02N2U5LTQ2MGEtOTBiNS02MzRjNWM0Zjk3ODIiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi82MzRjNWM0Zjk3ODIiLCAiaG9zdCI6ICJjZW50b3M3IiwgInRscyI6ICJ0bHMifQ==
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogInRrLmh6bHQudGtkZG5zLnh5eiIsICJwb3J0IjogIjIyNjQyIiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiOThlOTZjOWYtNGJiMy0zOWQ0LTlhMmMtZmFjMDQyNTdmN2M3IiwgInNuaSI6ICJ6eGpwLWIudGtvbmcuY2MiLCAiaG9zdCI6ICJ6eGpwLWIudGtvbmcuY2MiLCAicGF0aCI6ICIvIn0=
+vmess://eyJhZGQiOiAiYjYyYTk0OGMtZmFhMi00ZThhLWJmOGEtM2ZmMzEyMWM4NzVhLmFzb3VsLWF2YS50b3AiLCAidiI6ICIyIiwgInBvcnQiOiA0NDMsICJpZCI6ICI1ZjcyNmZlMy1kODJlLTRkYTUtYTcxMS04YWYwY2JiMmI2ODIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2F6dW1hc2UucmVuIiwgInRscyI6ICJ0bHMiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlx1MDBhZVx1ZmUwZkNhbmFkYVx1MDBhOVx1ZmUwZlRvcm9udG9cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjE1LjIxbXMifQ==
 
 vmess://eyJhZGQiOiI0NS4xMi4xMzMuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWJlOGVkZGItNGY4Yy00NWQwLWIyYTEtZTUzOGViM2FiZDM5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyODQ0NCIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4er8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
@@ -108,6 +104,8 @@ trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&heade
 
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?path=%2Fproxyip%3D45.67.215.196%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560#🆔@v2ray_configs_pool🇨🇦®️Canada©️Toronto🅿️ping:8.13ms
+
 trojan://telegram-id-directvpn@13.36.113.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.38.215.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
@@ -133,8 +131,6 @@ trojan://telegram-id-directvpn@3.73.242.188:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@35.181.127.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.181.231.189:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@35.181.231.189:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔@v2ray_configs_pool🇫🇷®️France©️Paris🅿️ping:34.09ms
 
 trojan://telegram-id-directvpn@52.28.20.3:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -167,4 +163,6 @@ trojan://telegram-id-privatevpns@3.73.242.188:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@52.28.20.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.178.124.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@63.178.153.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
