@@ -2,8 +2,6 @@ vless://04d0c1f7-4480-45e4-8ff6-2f7430c8f790@142.93.231.14:53404?security=none&t
 
 vless://0828386d-8a07-4f12-b582-5d2cf43969b8@5.75.152.152:2053?security=reality&encryption=none&pbk=eR4J5FtMqaNxy-RvJb6JzcBoREYy7iDGC61J6xtQHkc&headerType=none&fp=chrome&spx=%2FMOSIV2--ELiV2ray--MOSIV2--MOSIV2--MOSIV2&type=tcp&flow=xtls-rprx-vision&sni=www.tgju.org&sid=48#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-vless://0a23af3f-3f9b-4333-ae89-796f7fe2f9ce@104.21.38.48:443?security=tls&sni=4rRrRRRrRrRRrrTTtTtttTyyYYyYyyyiIIiIIIiooOOOoooooOoo.HUAngdi2031.dPDns.ORG&type=ws&host=4rrrrrrrrrrrrrttttttttyyyyyyyyyiiiiiiiiooooooooooooo.huangdi2031.dpdns.org&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://26979b4d-1ff8-4c8f-940e-5eb4c116c8f7@93.127.180.140:443?security=reality&sni=www.cdn77.com&type=tcp&host=%2FJoin_Bade_Channel%40JOKERRVPN&fp=chrome&pbk=-eK02lml0SFUynWZEFhxtPth7hS7MWKIOK65aL8-GkY&sid=2c#@Hope_Net-join-us-on-Telegram
 
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.152.2:2087?security=tls&sni=Tp4245C64m.MoLaNaMaMaLi1.InFo&type=ws&host=Tp4245C64m.MoLaNaMaMaLi1.InFo&path=/&alpn=h2http/1.1#@Hope_Net-join-us-on-Telegram
@@ -19,6 +17,8 @@ vless://54ffbe99-7aaf-4ceb-9a82-048fb2489757@46.203.248.224:20411?security=reali
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@154.197.121.138:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@86.38.214.30:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
+vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@91.193.59.187:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2052?path=%2Fqjzafwvfues0fyic%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws&sni=domain2025.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
@@ -78,6 +78,8 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRk
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjUyLjgwLjIzMi45MyIsICJwb3J0IjogIjIyNjQxIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI5OGU5NmM5Zi00YmIzLTM5ZDQtOWEyYy1mYWMwNDI1N2Y3YzciLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogInp4anAtYS50a29uZy5jYyIsICJ0bHMiOiAidGxzIn0=
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjg3YjZjNzAwLXN1a3cwMC1zdzFlMTAtN3lkOS5jLnZvbGN6aWppZS5jb20iLCAicG9ydCI6ICIzMTA1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3Zjg0ZmE5MC05ZjQ0LTExZWYtYWUxZS1mMjNjOTMxNDFmYWQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICI4N2I2YzcwMC1zdWt3MDAtc3cxZTEwLTd5ZDkuYy52b2xjemlqaWUuY29tIiwgInRscyI6ICIifQ==
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImM2ZTQ4YTEyLXN3MXo0MC1zd3R3d2otMXN1N2ouaGdjMS50Y3BiYnIubmV0IiwgInBvcnQiOiAiODA4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMGU0ZWM4NGEtYTMyNC0xMWVmLTgxYjAtZjIzYzkxNjRjYTVkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJ0bHMiOiAiIn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImU5YTY3MWVhLXN3MXo0MC10NHZrMTktMW5sd3kuaGdjMS50Y3BiYnIubmV0IiwgInBvcnQiOiAiODA4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOTI0NzM0M2EtNWRiMC0xMWVlLTkzNjctZjIzYzkxMzY5ZjJkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJ0bHMiOiAiIn0=
@@ -90,7 +92,11 @@ vmess://eyJhZGQiOiIxNTcuMTgwLjEyNC44MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#@Hope_Net
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZDc4NTE0NC1iMjdlLTRhOGEtOTNhOC03YWI4Y2RlYzc3YTM@link.karleynetwork.xyz:23340#@Hope_Net
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUHdLQmRxZmZJQ1Z2SXpiY2dnQjRUa0ozRk96blYvbktQaXJzN2NTUURrPQ%3D%3D@109.206.236.150:1080#TCP-all-%40ISVvpn
+
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.12:4857#@Hope_Net
 
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2V0c0NGFrdGtiVVJOTURCSlpVOGxJeVFqWmtwQlRYUnpSVUZGVlU5d1NDOVpWMWwwV1hGRVJtNVVNRk5X@103.186.154.20:38388#@Hope_Net
 
