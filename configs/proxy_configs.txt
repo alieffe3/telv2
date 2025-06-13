@@ -48,9 +48,9 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@208.86.168.210:443?path=%2F%3Fed%3D
 
 vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@151.243.101.176:443?security=reality&encryption=none&pbk=chH1NLDKKYvMZFZrxlDcOA9CwguHR1JSLbrB7xOjTXI&headerType=none&fp=firefox&type=tcp&sni=mirror.yandex.ru&sid=e12cc034#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 
-vless://bd39598b-b9a9-40b2-a8dd-ab1df5627dc5@158.220.94.91:3000?security=reality&encryption=none&pbk=zzbexZUufjA8hDluJTujyHRAxTEpljvFytrMO_6AKWw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c0fae980#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
+vless://b3d82748-e641-430b-8779-7d36b83e9670@142.93.231.14:44111?mode=gun&security=none&encryption=none&type=grpc#@Hope_Net-join-us-on-Telegram
 
-vless://d32738d3-45c8-43d7-9507-a28e498e193c@91.107.180.49:443?security=tls&sni=www.cdn77.com&fp=chrome#@Hope_Net-join-us-on-Telegram
+vless://bd39598b-b9a9-40b2-a8dd-ab1df5627dc5@158.220.94.91:3000?security=reality&encryption=none&pbk=zzbexZUufjA8hDluJTujyHRAxTEpljvFytrMO_6AKWw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c0fae980#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 
 vless://d4e52293-4a82-404c-ac29-93afc006dcbb@bitbolajepe.vip:443?path=%2Fproxyip%3Dcitlali.shorekeeper.ir&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=crolindd.dearcarlotta.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
@@ -84,7 +84,7 @@ vmess://eyJhZGQiOiIxNTcuMTgwLjEyNC44MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 vmess://eyJhZGQiOiIzNy4yMjEuMTI1LjE1OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNTNlMDc4Ny03MWJjLTQ0MmQtOWM5ZC05MDJmOTAzNTllYjUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzOTQwIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NvCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-ss://9b7645aa-91f4-4f6d-98d9-c22f4ce8784f@151.101.1.91:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D1024&host=trickshow.silaber.net&packetEncoding=xudp&encryption=none#@Hope_Net
+ss://5a29a909-66c2-476e-b851-73966c64023c@194.182.79.202:39049?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#@Hope_Net
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM%3D@107.191.63.241:30665#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 
