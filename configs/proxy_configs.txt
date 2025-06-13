@@ -54,21 +54,15 @@ vless://d4e52293-4a82-404c-ac29-93afc006dcbb@bitbolajepe.vip:443?path=%2Fproxyip
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 
-vless://ecfc4f95-db86-4662-a452-1c45d1ce1e66@91.107.243.243:2020?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+vless://ecb790d4-36ca-4dfc-a142-b3a395d1c50d@104.16.163.32:443?security=tls&sni=ad1.xiqpanelz.com&type=ws&host=ad1.xiqpanelz.com&alpn=h2%2Chttp/1.1#@Hope_Net-join-us-on-Telegram
 
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.144:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&alpn=h3#@Hope_Net-join-us-on-Telegram
+vless://ecfc4f95-db86-4662-a452-1c45d1ce1e66@91.107.243.243:2020?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.19:8880?path=telegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66%20%2F%3Fed%3D2560&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.25.25.19:8880?path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed%3D2560&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE3Mi42Ny45MS4xODIiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTcxNzA1NjQtZTE0OC00ZWJmLWJlMDMtODgzN2VlNmEzODI1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zMTUuaHRtbCIsICJob3N0IjogIjk4MjYzNjcyMDI5Mjc1MjAyNTA1MDkxOTAyMDc2ODEwMy5zMTUuY2hpYmFiYS5maWxlZ2Vhci1zZy5tZSIsICJ0bHMiOiAiIn0=
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjU5LjQyLjI0Ny4xODkiLCAicG9ydCI6ICI4MDA0IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3MzY1ZmVjZC02NGVmLTQ4NWQtYmYxNi04MzhhYmMzZGRkYzMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25ta2oiLCAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLCAidGxzIjogIiJ9
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImNsb3VkZ2V0c2VydmljZS5tY2xvdWRzZXJ2aWNlLnNpdGUiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImE3YjBhZTFlLTUzNzYtNDQ0MS1hYmM0LTQ1ZGI0MDkzZTg4OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgImhvc3QiOiAiTWF4TkV0dmlwLXVzYTEuTUFYbkV0Y0xPVURzRVJ2SUNlLkNPTSIsICJ0bHMiOiAidGxzIn0=
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogInNzbS5waW1heC5jb20iLCAicG9ydCI6ICIxMDUwOSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNjg4NzZhYmItMGU1Ni00YmViLWI5NTktMzRhNGJjNTdhNmEyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9ma2dldndzIiwgImhvc3QiOiAic3NtLnBpbWF4LmNvbSIsICJ0bHMiOiAidGxzIn0=
 
 vmess://eyJhZGQiOiI0NS4xMi4xMzMuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWJlOGVkZGItNGY4Yy00NWQwLWIyYTEtZTUzOGViM2FiZDM5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyODQ0NCIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4er8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
@@ -116,6 +110,8 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443?path=%2Fproxyip%
 
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?path=%2Fproxyip%3D212.183.88.172%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%B9
 
+trojan://CjqK8GFZ%29%2CD%3F@7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev:443?path=%2FtrU3kEraImU22Jv6vo%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&fp=randomized&type=ws&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv#🆔@v2ray_configs_pool🇨🇦®️Canada©️Toronto🅿️ping:17.43ms
+
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&security=tls&host=vle.amclubsvip.dpdns.org&type=ws&sni=vle.amclubsvip.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 
 trojan://telegram-id-directvpn@13.36.45.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
@@ -162,15 +158,9 @@ trojan://telegram-id-privatevpns@15.188.209.15:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@15.188.224.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@15.188.93.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@18.184.30.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@3.126.104.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.66.209.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.157.79.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@51.44.103.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
