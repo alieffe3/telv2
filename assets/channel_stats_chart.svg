@@ -71,16 +71,16 @@
         </g>
         
         <g>
-            <rect x="145.0" y="200.0" width="23.333333333333332" height="140.0"
+            <rect x="145.0" y="60.0" width="23.333333333333332" height="280.0"
                   class="bar"/>
             <text x="159.16666666666666" y="380" 
                   transform="rotate(45, 159.16666666666666, 380)"
                   text-anchor="start" class="tick-label">
                 Parsashonam
             </text>
-            <text x="159.16666666666666" y="195.0" 
+            <text x="159.16666666666666" y="55.0" 
                   text-anchor="middle" class="tick-label">
-                50.0%
+                100.0%
             </text>
         </g>
         
@@ -365,7 +365,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-06-19T07:18:24.029888
+            Last updated: 2025-06-19T08:23:41.460233
         </text>
     </svg>
     
