@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-19T23:17:28.648395",
+  "timestamp": "2025-06-20T01:15:15.455388",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -106,8 +106,8 @@
     {
       "url": "https://t.me/s/vpnowl",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
