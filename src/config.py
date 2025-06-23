@@ -12,28 +12,7 @@ class ProxyConfig:
         self.TELEGRAM_CHANNELS = [
             ChannelConfig("https://t.me/s/ShadowProxy66"),
             ChannelConfig("https://t.me/s/DirectVPN"),
-            ChannelConfig("https://t.me/s/v2ray_configs_pool"),
-            ChannelConfig("https://t.me/s/Parsashonam"),
-            ChannelConfig("https://t.me/s/v2nodes"),
-            ChannelConfig("https://t.me/s/xs_filternet"),
-            ChannelConfig("https://t.me/s/PrivateVPNs"),
-            ChannelConfig("https://t.me/s/Hope_Net"), 
-            ChannelConfig("https://t.me/s/oneclickvpnkeys"),
-            ChannelConfig("https://t.me/s/ELiV2RAY"),
-            ChannelConfig("https://t.me/s/V2rayNGX"),
-            ChannelConfig("https://t.me/s/DailyV2RY"),
-            ChannelConfig("https://t.me/s/xs_filternet"),
-            ChannelConfig("https://t.me/s/mobilesignal"),
-            ChannelConfig("https://t.me/s/ISVvpn"),
-            ChannelConfig("https://t.me/s/proxy_kafee"),
-            ChannelConfig("https://t.me/s/v2Line"),
-            ChannelConfig("https://t.me/s/vpnowl"),
-            ChannelConfig("https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt"),
-            ChannelConfig("https://Rayan-Config.github.io/ALL"),
-            ChannelConfig("https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/T,H"),
-            ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
-            ChannelConfig("https://raw.githubusercontent.com/Vahidqaz/BESTIIVPNBOT/refs/heads/main/BESTIIVPNBOT.txt"),
-            ChannelConfig("https://t.me/s/melov2ray")
+            ChannelConfig("https://t.me/s/ConfigsHubPlus")
         ]
 
         self.PROTOCOL_CONFIG_LIMITS = {
