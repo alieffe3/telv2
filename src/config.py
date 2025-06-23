@@ -17,7 +17,7 @@ class ProxyConfig:
 
         self.PROTOCOL_CONFIG_LIMITS = {
             "min": 10,
-            "max": 35
+            "max": 200
         }
 
         self.SUPPORTED_PROTOCOLS: Dict[str, Dict] = {
@@ -30,8 +30,8 @@ class ProxyConfig:
         }
 
         self.MIN_CONFIGS_PER_CHANNEL = 10
-        self.MAX_CONFIGS_PER_CHANNEL = 40
-        self.MAX_CONFIG_AGE_DAYS = 14
+        self.MAX_CONFIGS_PER_CHANNEL = 70
+        self.MAX_CONFIG_AGE_DAYS = 4
         self.CHANNEL_RETRY_LIMIT = 10
         self.CHANNEL_ERROR_THRESHOLD = 0.5
 
