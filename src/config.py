@@ -11,6 +11,7 @@ class ProxyConfig:
     def __init__(self):
         self.TELEGRAM_CHANNELS = [
             ChannelConfig("https://t.me/s/ShadowProxy66"),
+            ChannelConfig("https://t.me/s/Hope_Net"),
             ChannelConfig("https://t.me/s/ConfigsHubPlus")
         ]
 
