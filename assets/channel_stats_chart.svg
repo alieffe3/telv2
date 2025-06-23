@@ -29,343 +29,35 @@
         <!-- Bars and labels -->
     
         <g>
-            <rect x="60" y="60.0" width="23.333333333333332" height="280.0"
+            <rect x="60" y="60.0" width="335.0" height="280.0"
                   class="bar"/>
-            <text x="74.16666666666667" y="380" 
-                  transform="rotate(45, 74.16666666666667, 380)"
+            <text x="230.0" y="380" 
+                  transform="rotate(45, 230.0, 380)"
                   text-anchor="start" class="tick-label">
                 ShadowProxy66
             </text>
-            <text x="74.16666666666667" y="55.0" 
+            <text x="230.0" y="55.0" 
                   text-anchor="middle" class="tick-label">
                 100.0%
             </text>
         </g>
         
         <g>
-            <rect x="88.33333333333333" y="60.0" width="23.333333333333332" height="280.0"
+            <rect x="400.0" y="200.0" width="335.0" height="140.0"
                   class="bar"/>
-            <text x="102.5" y="380" 
-                  transform="rotate(45, 102.5, 380)"
+            <text x="570.0" y="380" 
+                  transform="rotate(45, 570.0, 380)"
                   text-anchor="start" class="tick-label">
-                DirectVPN
+                ConfigsHubPlus
             </text>
-            <text x="102.5" y="55.0" 
-                  text-anchor="middle" class="tick-label">
-                100.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="116.66666666666666" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="130.83333333333331" y="380" 
-                  transform="rotate(45, 130.83333333333331, 380)"
-                  text-anchor="start" class="tick-label">
-                v2ray_configs_pool
-            </text>
-            <text x="130.83333333333331" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="145.0" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="159.16666666666666" y="380" 
-                  transform="rotate(45, 159.16666666666666, 380)"
-                  text-anchor="start" class="tick-label">
-                Parsashonam
-            </text>
-            <text x="159.16666666666666" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="173.33333333333334" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="187.5" y="380" 
-                  transform="rotate(45, 187.5, 380)"
-                  text-anchor="start" class="tick-label">
-                v2nodes
-            </text>
-            <text x="187.5" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="201.66666666666669" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="215.83333333333334" y="380" 
-                  transform="rotate(45, 215.83333333333334, 380)"
-                  text-anchor="start" class="tick-label">
-                xs_filternet
-            </text>
-            <text x="215.83333333333334" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="230.00000000000003" y="60.0" width="23.333333333333332" height="280.0"
-                  class="bar"/>
-            <text x="244.16666666666669" y="380" 
-                  transform="rotate(45, 244.16666666666669, 380)"
-                  text-anchor="start" class="tick-label">
-                PrivateVPNs
-            </text>
-            <text x="244.16666666666669" y="55.0" 
-                  text-anchor="middle" class="tick-label">
-                100.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="258.33333333333337" y="60.0" width="23.333333333333332" height="280.0"
-                  class="bar"/>
-            <text x="272.50000000000006" y="380" 
-                  transform="rotate(45, 272.50000000000006, 380)"
-                  text-anchor="start" class="tick-label">
-                Hope_Net
-            </text>
-            <text x="272.50000000000006" y="55.0" 
-                  text-anchor="middle" class="tick-label">
-                100.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="286.6666666666667" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="300.83333333333337" y="380" 
-                  transform="rotate(45, 300.83333333333337, 380)"
-                  text-anchor="start" class="tick-label">
-                oneclickvpnkeys
-            </text>
-            <text x="300.83333333333337" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="315.0" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="329.1666666666667" y="380" 
-                  transform="rotate(45, 329.1666666666667, 380)"
-                  text-anchor="start" class="tick-label">
-                ELiV2RAY
-            </text>
-            <text x="329.1666666666667" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="343.3333333333333" y="60.0" width="23.333333333333332" height="280.0"
-                  class="bar"/>
-            <text x="357.5" y="380" 
-                  transform="rotate(45, 357.5, 380)"
-                  text-anchor="start" class="tick-label">
-                V2rayNGX
-            </text>
-            <text x="357.5" y="55.0" 
-                  text-anchor="middle" class="tick-label">
-                100.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="371.66666666666663" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="385.8333333333333" y="380" 
-                  transform="rotate(45, 385.8333333333333, 380)"
-                  text-anchor="start" class="tick-label">
-                DailyV2RY
-            </text>
-            <text x="385.8333333333333" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="399.99999999999994" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="414.16666666666663" y="380" 
-                  transform="rotate(45, 414.16666666666663, 380)"
-                  text-anchor="start" class="tick-label">
-                xs_filternet
-            </text>
-            <text x="414.16666666666663" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="428.33333333333326" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="442.49999999999994" y="380" 
-                  transform="rotate(45, 442.49999999999994, 380)"
-                  text-anchor="start" class="tick-label">
-                mobilesignal
-            </text>
-            <text x="442.49999999999994" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="456.6666666666666" y="60.0" width="23.333333333333332" height="280.0"
-                  class="bar"/>
-            <text x="470.83333333333326" y="380" 
-                  transform="rotate(45, 470.83333333333326, 380)"
-                  text-anchor="start" class="tick-label">
-                ISVvpn
-            </text>
-            <text x="470.83333333333326" y="55.0" 
-                  text-anchor="middle" class="tick-label">
-                100.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="484.9999999999999" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="499.1666666666666" y="380" 
-                  transform="rotate(45, 499.1666666666666, 380)"
-                  text-anchor="start" class="tick-label">
-                proxy_kafee
-            </text>
-            <text x="499.1666666666666" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="513.3333333333333" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="527.4999999999999" y="380" 
-                  transform="rotate(45, 527.4999999999999, 380)"
-                  text-anchor="start" class="tick-label">
-                v2Line
-            </text>
-            <text x="527.4999999999999" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="541.6666666666666" y="60.0" width="23.333333333333332" height="280.0"
-                  class="bar"/>
-            <text x="555.8333333333333" y="380" 
-                  transform="rotate(45, 555.8333333333333, 380)"
-                  text-anchor="start" class="tick-label">
-                vpnowl
-            </text>
-            <text x="555.8333333333333" y="55.0" 
-                  text-anchor="middle" class="tick-label">
-                100.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="570.0" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="584.1666666666666" y="380" 
-                  transform="rotate(45, 584.1666666666666, 380)"
-                  text-anchor="start" class="tick-label">
-                V2RAY_BASE64.txt
-            </text>
-            <text x="584.1666666666666" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="598.3333333333334" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="612.5" y="380" 
-                  transform="rotate(45, 612.5, 380)"
-                  text-anchor="start" class="tick-label">
-                ALL
-            </text>
-            <text x="612.5" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="626.6666666666667" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="640.8333333333334" y="380" 
-                  transform="rotate(45, 640.8333333333334, 380)"
-                  text-anchor="start" class="tick-label">
-                T,H
-            </text>
-            <text x="640.8333333333334" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="655.0000000000001" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="669.1666666666667" y="380" 
-                  transform="rotate(45, 669.1666666666667, 380)"
-                  text-anchor="start" class="tick-label">
-                Gozargah_Sub
-            </text>
-            <text x="669.1666666666667" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="683.3333333333335" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="697.5000000000001" y="380" 
-                  transform="rotate(45, 697.5000000000001, 380)"
-                  text-anchor="start" class="tick-label">
-                BESTIIVPNBOT.txt
-            </text>
-            <text x="697.5000000000001" y="195.0" 
-                  text-anchor="middle" class="tick-label">
-                50.0%
-            </text>
-        </g>
-        
-        <g>
-            <rect x="711.6666666666669" y="200.0" width="23.333333333333332" height="140.0"
-                  class="bar"/>
-            <text x="725.8333333333335" y="380" 
-                  transform="rotate(45, 725.8333333333335, 380)"
-                  text-anchor="start" class="tick-label">
-                melov2ray
-            </text>
-            <text x="725.8333333333335" y="195.0" 
+            <text x="570.0" y="195.0" 
                   text-anchor="middle" class="tick-label">
                 50.0%
             </text>
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-06-23T06:26:46.919912
+            Last updated: 2025-06-23T08:21:22.076692
         </text>
     </svg>
     
