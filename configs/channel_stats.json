@@ -1,8 +1,14 @@
 {
-  "timestamp": "2025-06-23T08:21:22.076692",
+  "timestamp": "2025-06-23T09:18:19.232340",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
+      "enabled": true,
+      "retry_count": 0,
+      "success_rate": 100.0
+    },
+    {
+      "url": "https://t.me/s/Hope_Net",
       "enabled": true,
       "retry_count": 0,
       "success_rate": 100.0

@@ -29,35 +29,49 @@
         <!-- Bars and labels -->
     
         <g>
-            <rect x="60" y="60.0" width="335.0" height="280.0"
+            <rect x="60" y="60.0" width="221.66666666666666" height="280.0"
                   class="bar"/>
-            <text x="230.0" y="380" 
-                  transform="rotate(45, 230.0, 380)"
+            <text x="173.33333333333331" y="380" 
+                  transform="rotate(45, 173.33333333333331, 380)"
                   text-anchor="start" class="tick-label">
                 ShadowProxy66
             </text>
-            <text x="230.0" y="55.0" 
+            <text x="173.33333333333331" y="55.0" 
                   text-anchor="middle" class="tick-label">
                 100.0%
             </text>
         </g>
         
         <g>
-            <rect x="400.0" y="200.0" width="335.0" height="140.0"
+            <rect x="286.66666666666663" y="60.0" width="221.66666666666666" height="280.0"
                   class="bar"/>
-            <text x="570.0" y="380" 
-                  transform="rotate(45, 570.0, 380)"
+            <text x="399.99999999999994" y="380" 
+                  transform="rotate(45, 399.99999999999994, 380)"
+                  text-anchor="start" class="tick-label">
+                Hope_Net
+            </text>
+            <text x="399.99999999999994" y="55.0" 
+                  text-anchor="middle" class="tick-label">
+                100.0%
+            </text>
+        </g>
+        
+        <g>
+            <rect x="513.3333333333333" y="200.0" width="221.66666666666666" height="140.0"
+                  class="bar"/>
+            <text x="626.6666666666666" y="380" 
+                  transform="rotate(45, 626.6666666666666, 380)"
                   text-anchor="start" class="tick-label">
                 ConfigsHubPlus
             </text>
-            <text x="570.0" y="195.0" 
+            <text x="626.6666666666666" y="195.0" 
                   text-anchor="middle" class="tick-label">
                 50.0%
             </text>
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-06-23T08:21:22.076692
+            Last updated: 2025-06-23T09:18:19.232340
         </text>
     </svg>
     
