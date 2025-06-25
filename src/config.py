@@ -12,6 +12,11 @@ class ProxyConfig:
         self.TELEGRAM_CHANNELS = [
             ChannelConfig("https://t.me/s/ShadowProxy66"),
             ChannelConfig("https://t.me/s/Hope_Net"),
+            ChannelConfig("https://raw.githubusercontent.com/alirezaazarnoosh/LOG/refs/heads/main/README.md"),
+            ChannelConfig("https://raw.githubusercontent.com/bamdad23/JavidnamanIran/refs/heads/main/multi"),
+            ChannelConfig("https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html"),
+            ChannelConfig("https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/selector/random"),
+            ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt"),
             ChannelConfig("https://t.me/s/ConfigsHubPlus")
         ]
 
