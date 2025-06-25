@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-25T06:22:39.834505",
+  "timestamp": "2025-06-25T07:16:50.018988",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -12,6 +12,36 @@
       "enabled": true,
       "retry_count": 0,
       "success_rate": 100.0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/alirezaazarnoosh/LOG/refs/heads/main/README.md",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bamdad23/JavidnamanIran/refs/heads/main/multi",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/selector/random",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
+      "enabled": true,
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/ConfigsHubPlus",
