@@ -11,6 +11,9 @@ class ProxyConfig:
     def __init__(self):
         self.TELEGRAM_CHANNELS = [
             ChannelConfig("https://t.me/s/ShadowProxy66"),
+            ChannelConfig("https://t.me/s/v2ray_configs_pool"),
+            ChannelConfig("https://t.me/s/v2nodes"),
+            ChannelConfig("https://t.me/s/v2ray_free_conf"),
             ChannelConfig("https://t.me/s/Hope_Net"),
             ChannelConfig("https://raw.githubusercontent.com/alirezaazarnoosh/LOG/refs/heads/main/README.md"),
             ChannelConfig("https://raw.githubusercontent.com/bamdad23/JavidnamanIran/refs/heads/main/multi"),
