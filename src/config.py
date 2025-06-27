@@ -15,17 +15,16 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/v2nodes"),
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
             ChannelConfig("https://t.me/s/Hope_Net"),
-            ChannelConfig("https://raw.githubusercontent.com/alirezaazarnoosh/LOG/refs/heads/main/README.md"),
-            ChannelConfig("https://raw.githubusercontent.com/bamdad23/JavidnamanIran/refs/heads/main/multi"),
-            ChannelConfig("https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html"),
-            ChannelConfig("https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/selector/random"),
-            ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt"),
+            ChannelConfig("https://t.me/s/Filter_breaker"),
+            ChannelConfig("https://t.me/s/vpnfail_vless"),
+            ChannelConfig("https://t.me/s/proxy_kafee"),
+            ChannelConfig("https://t.me/s/Vip_fragment_v2ray"),
             ChannelConfig("https://t.me/s/ConfigsHubPlus")
         ]
 
         self.PROTOCOL_CONFIG_LIMITS = {
             "min": 10,
-            "max": 400
+            "max": 600
         }
 
         self.SUPPORTED_PROTOCOLS: Dict[str, Dict] = {
@@ -38,7 +37,7 @@ class ProxyConfig:
         }
 
         self.MIN_CONFIGS_PER_CHANNEL = 10
-        self.MAX_CONFIGS_PER_CHANNEL = 70
+        self.MAX_CONFIGS_PER_CHANNEL = 100
         self.MAX_CONFIG_AGE_DAYS = 4
         self.CHANNEL_RETRY_LIMIT = 10
         self.CHANNEL_ERROR_THRESHOLD = 0.5
