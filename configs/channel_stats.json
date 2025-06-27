@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-27T08:21:31.676847",
+  "timestamp": "2025-06-27T09:17:12.969396",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -32,31 +32,25 @@
       "success_rate": 100.0
     },
     {
-      "url": "https://raw.githubusercontent.com/alirezaazarnoosh/LOG/refs/heads/main/README.md",
+      "url": "https://t.me/s/Filter_breaker",
+      "enabled": true,
+      "retry_count": 0,
+      "success_rate": 100.0
+    },
+    {
+      "url": "https://t.me/s/vpnfail_vless",
       "enabled": true,
       "retry_count": 1,
       "success_rate": 50.0
     },
     {
-      "url": "https://raw.githubusercontent.com/bamdad23/JavidnamanIran/refs/heads/main/multi",
+      "url": "https://t.me/s/proxy_kafee",
       "enabled": true,
       "retry_count": 1,
       "success_rate": 50.0
     },
     {
-      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
-      "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/selector/random",
-      "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
-    },
-    {
-      "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
+      "url": "https://t.me/s/Vip_fragment_v2ray",
       "enabled": true,
       "retry_count": 1,
       "success_rate": 50.0
