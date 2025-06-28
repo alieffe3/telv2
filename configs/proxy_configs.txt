@@ -1,5 +1,3 @@
-hysteria2://dongtaiwang.com@108.181.5.130:4710?security=tls&insecure=1&sni=apple.com#@Filter_breaker
-
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@104.18.23.108:443?encryption=none&security=tls&sni=kmk.1041823108.ddnsfree.com&type=ws&host=kmk.1041823108.ddnsfree.com&fp=chrome#@Filter_breaker
 
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@104.18.23.109:443?encryption=none&security=tls&sni=kmk.1041823109.ddnsfree.com&type=ws&host=kmk.1041823109.ddnsfree.com&fp=chrome#@Filter_breaker
@@ -13,8 +11,6 @@ vless://03fcc618-b93d-6796-6aed-8a38c975d581@104.18.23.112:443?encryption=none&s
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@104.18.23.113:443?encryption=none&security=tls&sni=kmk.1041823113.ddnsfree.com&type=ws&host=kmk.1041823113.ddnsfree.com&fp=chrome#@Filter_breaker
 
 vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@Filter_breaker
-
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.132.185:80/?type=ws&encryption=none&host=entezar.loseyourself.dpdns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#@Filter_breaker
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
@@ -60,8 +56,6 @@ vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@104.17.147.22:80?path=%2FTelegram%4
 
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=random&type=ws&sni=varzesh3.varzesh.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
-vless://6c5d6e55-b4cc-4c9f-a372-dfbc294766e1@141.101.113.76:443?security=tls&sni=MtnIrancellNamavaAparatir.kooH75.Ir&type=ws&host=MtnIrancellNamavaAparatir.kooH75.Ir&path=/Telegram:@metavpnn&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir&fp=#@Filter_breaker | United States
 
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s02.gatesriver.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s02.gatesriver.ir&fp=#@Filter_breaker | United States
@@ -88,8 +82,6 @@ vless://7585f059-2c89-4a02-9dff-394bb7913ef5@whatismyipaddress.com:2096?security
 
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B7
 
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495/?type=tcp&encryption=none&sni=dl.google.com&fp=chrome&security=reality&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#@Filter_breaker
-
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=Afkarnews.com&type=ws#@Filter_breaker@Filter_breaker
 
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=Afkarnews.com&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B7
@@ -100,9 +92,45 @@ vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=
 
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#@Filter_breaker
 
-vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a#@Filter_breaker@Filter_breaker
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.100:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
 
-vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.18.30.65:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#@Filter_breaker
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.101:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.102:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.103:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.104:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.105:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.106:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.107:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.108:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.109:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.110:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.111:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.112:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.113:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.114:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.115:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.116:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.117:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.118:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States
+
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.119:443?encryption=none&security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#@Filter_breaker | United States@Filter_breaker
 
 vless://a1b2c3d4-e5f6-7890-abcd-ef1234567890@104.20.72.123:443?encryption=none&security=tls&sni=v2rayse.com&type=ws&host=v2rayse.com&fp=chrome#@Filter_breaker | United States
 
@@ -145,8 +173,6 @@ vless://a1b2c3d4-e5f6-7890-abcd-ef1234567890@104.20.72.141:443?encryption=none&s
 vless://a1b2c3d4-e5f6-7890-abcd-ef1234567890@104.20.72.142:443?encryption=none&security=tls&sni=v2rayse.com&type=ws&host=v2rayse.com&fp=chrome#@Filter_breaker | United States@Filter_breaker
 
 vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?path=%2F&security=none&encryption=none&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B7
-
-vless://a3414279-e59b-4f84-b0fe-aa6d5f4282b6@172.67.71.48:8080/?type=ws&encryption=none&host=q5.19KAla.co&path=%2F#@Filter_breaker
 
 vless://a3414279-e59b-4f84-b0fe-aa6d5f4282b6@172.67.71.48:8080?path=%2F&security=none&encryption=none&host=q5.19KAla.co&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
@@ -192,6 +218,8 @@ vless://b8e4f2c1-7a9b-4d3e-9c2f-3a5d7e9f1b2c@104.21.85.165:443?encryption=none&s
 
 vless://b8e4f2c1-7a9b-4d3e-9c2f-3a5d7e9f1b2c@104.21.85.166:443?encryption=none&security=tls&sni=example.com&type=ws&host=example.com&fp=chrome#@Filter_breaker | United States@Filter_breaker
 
+vless://baccbaa-baac-caba-acdb-aaababccbcbc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://c7c05fa1-9e3b-4a6b-8c7d-2e9f0a1b2c3d@172.232.167.237:443?encryption=none&security=tls&sni=cloudflare.com&type=ws&host=cloudflare.com&fp=chrome#@Filter_breaker | United States
 
 vless://c7c05fa1-9e3b-4a6b-8c7d-2e9f0a1b2c3d@172.232.167.238:443?encryption=none&security=tls&sni=cloudflare.com&type=ws&host=cloudflare.com&fp=chrome#@Filter_breaker | United States
@@ -234,17 +262,11 @@ vless://c7c05fa1-9e3b-4a6b-8c7d-2e9f0a1b2c3d@172.232.168.2:443?encryption=none&s
 
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 
-vless://d56f2503-eb9e-4261-8f5f-92370a3db7c7@188.121.117.161:80?security=none&type=ws#@Hope_Net-join-us-on-Telegram
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@Filter_breaker@Filter_breaker
-
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v02.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@Filter_breaker | United States
 
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v04.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@Filter_breaker | United States@Filter_breaker
-
-vless://e7bc7c8e-07bb-4ff8-a06a-39b8665be2d4@162.159.241.5:2053/?type=ws&encryption=none&host=chat.neshaan.org&path=%2Fadmins%3Fed%3D2560&security=tls&sni=chat.neshaan.org&alpn=http%2F1.1&fp=chrome#@Filter_breaker
 
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome#@Filter_breaker
 
@@ -256,6 +278,48 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.111:443?security=tls&sn
 
 vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135001195.sec22org.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
+vless://efe56d18-ea0c-4ff5-b8a5-9baa93fe70f2@91.107.130.202:2006?security=reality&sni=www.speedtest.net&type=tcp&fp=random&pbk=RBZ8svckpp9tsX5QA8akGRx5fIKuCYk_diZhOHiHMGs&sid=69#@Hope_Net-join-us-on-Telegram
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.123:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.124:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.125:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.126:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.127:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.128:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.129:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.130:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.131:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.132:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.133:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.134:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.135:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.136:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.137:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.138:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.139:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.140:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.141:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States
+
+vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.142:443?encryption=none&security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#@Filter_breaker | United States@Filter_breaker
+
 vless://f4522b1a-7cc2-4d4b-84c5-357242e052bb@3.0.39.179:443?path=%2F&security=tls&encryption=none&host=jd.chenchuanjin.sbs&type=ws&sni=jd.chenchuanjin.sbs#@Filter_breaker
 
 vless://f4522b1a-7cc2-4d4b-84c5-357242e052bb@3.0.39.180:443?path=%2F&security=tls&encryption=none&host=jd.chenchuanjin.sbs&type=ws&sni=jd.chenchuanjin.sbs#@Filter_breaker
@@ -263,6 +327,4 @@ vless://f4522b1a-7cc2-4d4b-84c5-357242e052bb@3.0.39.180:443?path=%2F&security=tl
 vless://f4522b1a-7cc2-4d4b-84c5-357242e052bb@3.0.39.181:443?path=%2F&security=tls&encryption=none&host=jd.chenchuanjin.sbs&type=ws&sni=jd.chenchuanjin.sbs#@Filter_breaker
 
 vless://f4522b1a-7cc2-4d4b-84c5-357242e052bb@3.0.39.182:443?path=%2F&security=tls&encryption=none&host=jd.chenchuanjin.sbs&type=ws&sni=jd.chenchuanjin.sbs#@Filter_breaker
-
-vless://test123@185.213.24.170:2095?type=tcp&security=none#@Filter_breaker
 
