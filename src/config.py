@@ -18,6 +18,7 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/Filter_breaker"),
             ChannelConfig("https://t.me/s/vpnfail_vless"),
             ChannelConfig("https://t.me/s/proxy_kafee"),
+            ChannelConfig("https://t.me/s/ELiV2RAY"),
             ChannelConfig("https://t.me/s/Vip_fragment_v2ray"),
             ChannelConfig("https://t.me/s/ConfigsHubPlus")
         ]
