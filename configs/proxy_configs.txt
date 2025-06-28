@@ -4,8 +4,6 @@ vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?security=&encrypt
 
 vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?security=&type=tcp&headerType=http&host=www.speedtest.net&encryption=none#@Filter_breaker
 
-vless://126aa2de-5235-4625-9b4a-b2e1b97822b3@151.101.66.228:80?type=xhttp&host=joinbedeMdVpnSec.ir&path=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Filter_breaker
@@ -302,6 +300,8 @@ vless://c7c05fa1-9e3b-4a6b-8c7d-2e9f0a1b2c3d@172.232.168.1:443?encryption=none&s
 
 vless://c7c05fa1-9e3b-4a6b-8c7d-2e9f0a1b2c3d@172.232.168.2:443?encryption=none&security=tls&sni=cloudflare.com&type=ws&host=cloudflare.com&fp=chrome#@Filter_breaker | United States@Filter_breaker
 
+vless://cacaabb-aabc-aabc-abcd-ccbcacaabbab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@Filter_breaker
@@ -324,13 +324,9 @@ vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:2085?security=none&enc
 
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=%2Ftelegram-MTMVPN-MTMVPN-MTMVPN%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v02.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@Filter_breaker | United States
 
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v04.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@Filter_breaker | United States@Filter_breaker
-
-vless://ea1593b3-9af9-4085-b251-d9b4e22f687f@185.235.241.203:33514?security=tls&sni=sinavm-join-sinavm.soft10.ir&type=ws&host=sinavm-join-sinavm.soft10.ir&path=/@SiNAVM-@SiNAVM-@SiNAVM&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135001195.sec22org.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
