@@ -18,8 +18,6 @@ vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?security=realit
 
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=&encryption=none&headerType=none&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%A9
 
-vless://1a563e92-9f9b-4158-b800-50ed4fc98214@104.17.148.22:80?security=none&type=ws&host=www.speedtest.net.join.vpncustomize.api.nhl.ir.abrha.co.ZA.&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#@Filter_breaker@Filter_breaker
 
 vless://268df26e-91c6-4e19-e4bd-d7b0af6ebad6@94.182.92.108:440?path=%2F&security=none&encryption=none&type=ws#@Filter_breaker
@@ -90,8 +88,6 @@ vless://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?security=&e
 
 vless://60882caa-4e74-42a2-be70-220755fc1551@jquery.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-karma.parvaneh.dpdns.org&fp=chrome&type=ws&sni=rayan-karma.parvaneh.dpdns.org#@Filter_breaker
 
-vless://672b4d6e-46f8-48db-90f5-003d90cb211c@165.22.224.92:8445?security=reality&sni=ftp.debian.org&type=tcp&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://6899393a-9311-45f3-b657-ffd1689bb725@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@Filter_breaker
 
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=random&type=ws&sni=varzesh3.varzesh.dpdns.org#@Filter_breaker
@@ -123,10 +119,6 @@ vless://a05367f5-a500-4514-ac99-e73f629229f2@104.21.72.109:80?path=%2F8WrRNGUr2d
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#@Filter_breaker
-
-vless://c0b9dd6c-9676-4cd1-9e7c-9c6ac59afd37@104.21.112.1:2096?security=tls&sni=app2.year2025appdatat.lat&type=grpc&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
-vless://c0b9dd6c-9676-4cd1-9e7c-9c6ac59afd37@104.21.112.1:2096?security=tls&sni=app2.year2025appdatat.lat&type=grpc&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://c27e0180-7b4a-49ba-a862-a62f5e2bc17d@94.182.142.16:2020?security=none&encryption=none&headerType=none&type=tcp#@Filter_breaker
 
