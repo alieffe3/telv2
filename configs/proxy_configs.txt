@@ -1,14 +1,10 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.240.205:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.215.26.244:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 
 vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encryption=none&headerType=none&type=tcp#@Filter_breaker
 
 vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?security=&type=tcp&headerType=http&host=www.speedtest.net&encryption=none#@Filter_breaker
 
-vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.228:443?security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
 vless://12486672-3116-48b2-8495-2d7223874a7b@31.58.239.159:1433?path=%2F&security=none&encryption=none&host=snapp.ir&type=ws#@Filter_breaker
-
-vless://13cd96c4-e55f-41f6-81e7-dcbcb3f4346f@151.101.194.133:443?security=tls&sni=live.989bull.com&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
@@ -21,6 +17,8 @@ vless://196d7017-b91c-43dc-87ca-d88de911145b@a.nl.maviks.ru:443?security=reality
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#@Filter_breaker@Filter_breaker
 
 vless://268df26e-91c6-4e19-e4bd-d7b0af6ebad6@94.182.92.108:440?path=%2F&security=none&encryption=none&type=ws#@Filter_breaker
+
+vless://2d000f5d-080b-41e4-b79f-d674c03b4cd6@104.17.147.22:80?type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=&type=tcp&headerType=http&host=zula.ir&encryption=none#@Filter_breaker
 
@@ -41,6 +39,8 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&e
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#@Filter_breaker
 
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hozori.ir#Channel%20id%3A%20%40ShadowProxy66
+
+vless://33b45b6b-67be-4b01-f4ea-ac4a82545a84@45.76.6.98:8080?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=%2F%3FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=random&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#@Filter_breaker
 
@@ -70,7 +70,11 @@ vless://52ddd2b7-d2da-4169-b11d-b51679c01eb0@S1.LoadBalance.LAT:2090?type=grpc&m
 
 vless://5428c06d-9ddf-4f20-bb8c-6aa41b23136d@homa.cybsecguru.com:62001?security=reality&sni=tile.openstreetmap.org&fp=chrome&pbk=bGnpkihzVNt2CX8pvwL92oiVRIjvnlw6btZ3qhB9wXs&sid=438e39c2bb187bb3&type=tcp&encryption=none#@Filter_breaker
 
+vless://54ba32d3-2389-40b9-9f2c-ec0bb9a8bc8c@91.107.241.221:40200?type=tcp&host=ir31.uploadboy.com&headerType=http#@Hope_Net-join-us-on-Telegram
+
 vless://56f318ff-2ab0-4e40-aa45-80991d59d6ef@99.199.73.53:18646?security=none&encryption=none&host=sourceforge.net%2F%3FBIA_CHANEL%40Filter_breaker&headerType=http&type=tcp#@Filter_breaker
+
+vless://57d32360-1f28-48a6-9067-8086f7138891@151.101.194.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
 
 vless://5aa20d0b-5570-4262-d5a8-9216c3eab070@99.199.73.53:18716?security=none&encryption=none&host=www.speedtest.net%2F%3FBIA_CHANEL%40Filter_breaker&headerType=http&type=tcp#@Filter_breaker
 
@@ -78,11 +82,11 @@ vless://5cd2602a-ac2a-4dea-a2c5-0a16b0e2b0d8@speedy.mooo.info:80?mode=auto&path=
 
 vless://5cf90cec-7303-409e-8772-b1478defb56f@99.199.73.53:23877?security=none&encryption=none&host=www.speedtest.net%2F%3FBIA_CHANEL%40Filter_breaker&headerType=http&type=tcp#@Filter_breaker@Filter_breaker
 
-vless://5f89e815-4e6d-40d6-afc5-db7dc71ff565@91.107.177.96:2083?security=reality&sni=refersion.com&type=grpc&serviceName=Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs&fp=randomized&pbk=TuZN_1XtdIQrXoKk5MFJR62hyz7FkIilrMEguBWtvmE&sid=4ea00ce2#@Hope_Net-join-us-on-Telegram
-
 vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Filter_breaker@Filter_breaker
 
 vless://60d955c2-c8b5-492c-a457-af3ffe2ca6a2@99.199.73.53:6068?security=none&encryption=none&host=www.speedtest.net%2F%3FBIA_CHANEL%40Filter_breaker&headerType=http&type=tcp#@Filter_breaker
+
+vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&sni=1403.stopt7307.workers.dev&type=ws&host=1403.stopt7307.workers.dev&path=/#@Hope_Net-join-us-on-Telegram
 
 vless://6899393a-9311-45f3-b657-ffd1689bb725@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@Filter_breaker
 
@@ -110,17 +114,21 @@ vless://814c1910-4a61-44fc-d600-0df9cd9c2618@99.199.73.53:18616?security=none&en
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:8443?path=%2FTelegram%40V2ray_Alpha%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&fp=randomized&type=ws&sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#@Filter_breaker
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.229.57:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=hAstI.freeAIrLAINEs.coM&path=%2F#@Hope_Net-join-us-on-Telegram
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=hAstI.freeAIrLAINEs.coM&path=%2F#@Hope_Net-join-us-on-Telegram
+
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=Afkarnews.com&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B7
 
 vless://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?security=none&encryption=none&headerType=http&type=tcp#@Filter_breaker
+
+vless://8eefcae7-b305-47f3-adf3-48e3d94d8bc0@85.133.206.211:10000?security=none&type=tcp&host=rubika.ir.igap.net.splus.ir&path=%2F&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://9db844bd-2c67-43bf-9381-553dffb259fd@62.60.220.115:80?mode=auto&path=%2F&security=none&encryption=none&host=62.60.220.115&type=xhttp#@Filter_breaker@Filter_breaker
 
 vless://a05367f5-a500-4514-ac99-e73f629229f2@104.21.72.109:80?path=%2F8WrRNGUr2d25Kcpp%2FNTQuMjAwLjI0NC45Mw%3D%3D%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=pamchall.com.&fp=randomized&type=ws&sni=pAmchALL.COm.#@Filter_breaker@Filter_breaker
 
 vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?path=%2F&security=none&encryption=none&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B7
-
-vless://a270cd7a-8ab3-4e34-8838-a687df96fef9@162.159.38.232:443?security=tls&sni=c185v1.testsnew.com&type=ws&host=c185v1.testsnew.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://a3414279-e59b-4f84-b0fe-aa6d5f4282b6@172.67.71.48:8080?security=&type=ws&path=/&host=q5.19KAla.co&encryption=none#@Filter_breaker@Filter_breaker
 
@@ -146,15 +154,13 @@ vless://a61d2d34-b60c-4014-95f9-1208dc03b49a@marzban56.boshrachoice.ir:4885?secu
 
 vless://a61d2d34-b60c-4014-95f9-1208dc03b49a@marzban56.boshrachoice.ir:8443?security=&type=tcp&path=/&headerType=http&host=www.speedtest.net&encryption=none#@Filter_breaker
 
-vless://aacbcab-acba-baca-cbad-caccbbbacaba@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.85.44.191:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#@Hope_Net-join-us-on-Telegram
+
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@34.222.158.238:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#@Hope_Net-join-us-on-Telegram
 
 vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?path=%2FC7OSXPN9yV234T1Y%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dash.beginnertopro.ir&fp=firefox&type=ws&sni=dash.beginnertopro.ir#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B7
 
-vless://b27f4d97-2562-4867-ae20-45e625eec5f5@151.101.130.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net&path=%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
-
 vless://b8dacd2a-cb02-4451-f430-a519e8fa2f13@99.199.73.53:18616?security=none&encryption=none&host=www.speedtest.net%2F%3FBIA_CHANEL%40Filter_breaker&headerType=http&type=tcp#@Filter_breaker
-
-vless://bbacaac-baca-caba-cabd-aaabbacccbbc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#@Filter_breaker
 
@@ -194,6 +200,8 @@ vless://d80f1a54-7a16-42de-c4b4-7ed04a485548@99.199.73.53:6464?security=none&enc
 
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@Filter_breaker%20%F0%9F%87%B9%F0%9F%87%B7
 
+vless://d8c7256f-921a-50ff-9d36-5564197fd4a6@5.181.23.67:80?path=/vless#@Hope_Net-join-us-on-Telegram
+
 vless://e7bc7c8e-07bb-4ff8-a06a-39b8665be2d4@172.67.30.213:2053?security=tls&sni=chat.neshaan.org&alpn=http/1.1&fp=chrome&type=ws&path=/admins?ed%3D2560&host=chat.neshaan.org&encryption=none#@Filter_breaker-Best-481.09GB
 
 vless://e7bc7c8e-07bb-4ff8-a06a-39b8665be2d4@172.67.67.250:2053?security=tls&sni=chat.neshaan.org&alpn=http/1.1&fp=chrome&type=ws&path=/admins?ed%3D2560&host=chat.neshaan.org&encryption=none#@Filter_breaker-Service4-481.09GB
@@ -210,6 +218,8 @@ vless://e7bc7c8e-07bb-4ff8-a06a-39b8665be2d4@www.speedtest.net:2053?security=tls
 
 vless://e7bc7c8e-07bb-4ff8-a06a-39b8665be2d4@zula.ir:2053?security=tls&sni=chat.neshaan.org&alpn=http/1.1&fp=chrome&type=ws&path=/admins?ed%3D2560&host=chat.neshaan.org&encryption=none#@Filter_breaker-Service1-481.09GB
 
+vless://eab5b2ba-30cb-4225-82b7-cbc2275a2733@104.21.32.1:443?security=tls&sni=esna.twn24.ir&type=ws&host=esna.twn24.ir&path=%2F33206%2F%3Fed%3D2048&allowInsecure=1#@Hope_Net-join-us-on-Telegram
+
 vless://fb85dd7a-f159-49f2-98bf-8c190be49102@94.182.105.51:22921?security=none&encryption=none&headerType=http&type=tcp#@Filter_breaker
 
 vless://fbc96a4a-6aea-4b91-97f5-ef49d41da629@myphotomoments.ir:2087?path=%2FsafasssfasfasfA%3Fed&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=myphotomoments.ir&fp=chrome&type=ws&sni=myphotomoments.ir#Channel%20id%3A%20%40ShadowProxy66
@@ -217,6 +227,4 @@ vless://fbc96a4a-6aea-4b91-97f5-ef49d41da629@myphotomoments.ir:2087?path=%2Fsafa
 vless://fbc96a4a-6aea-4b91-97f5-ef49d41da669@nextgenerationaiplatform.ir:443?path=%2FsafasssfasfasfA%3Fed&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nExtgEnerAtionAIplatform.iR#@Filter_breaker@Filter_breaker
 
 vless://fbc96a4a-6aea-4b91-97f5-ef49d41da669@nextgenerationaiplatform.ir:443?path=%2FsafasssfasfasfA%3Fed&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nExtgEnerAtionAIplatform.iR#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
-
-vless://ff960237-57c7-4f59-a8ef-b48e4beaca45@141.101.113.76:443?security=tls&sni=MtnIrancellNamavaAparatir.kooH75.Ir&type=ws&host=MtnIrancellNamavaAparatir.kooH75.Ir&path=%2FTelegram%3A%40metavpnn&fp=firefox&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
