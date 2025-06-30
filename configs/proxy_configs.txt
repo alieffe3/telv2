@@ -2,13 +2,11 @@ hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:35200?security=
 
 vless://011c3c13-fbfb-4783-eb12-ce30912321d2@85.9.125.186:16597?security=&encryption=none&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@176.34.96.251:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.177.156:16924?security=&encryption=none&host=cloud.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.177.156:23835?security=&encryption=none&host=cloud.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
-vless://0de43a13-c2a0-4dc8-a19a-b0c57e8fb469@172.64.35.157:443?security=tls&sni=o7qgfk.payperflower.com&type=ws&host=o7qgfk.payperflower.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+vless://0c804c49-bed7-4926-9a2d-54a873414c15@185.79.158.145:8220?security=none&type=tcp&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@NLpizza.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@Filter_breaker
 
@@ -116,13 +114,13 @@ vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?path=%2Ftas&s
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.141.157:443?path=%2F%40Rayan_Config&security=tls&encryption=none&host=rayan-10.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-10.parastoo.dpdns.org#@Filter_breaker@Filter_breaker
 
+vless://5301277b-16c4-4efc-8d8a-6bee4b336b23@104.17.147.22:8880?security=none&type=httpupgrade&host=Pezeshkian.asve.iR.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2095#@Hope_Net-join-us-on-Telegram
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram-V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@Filter_breaker
 
 vless://55246d84-4473-4277-bc9b-86033a63dfcd@78.109.200.19:80?security=&encryption=none&headerType=none&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&alpn=h2&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%40ShadowProxy66
-
-vless://588c04df-a56f-4d0f-8c6e-d8580a31e0cb@52.252.59.207:443?security=tls&flow=xtls-rprx-vision&sni=asqar4.rahavard365.co&type=tcp&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://5cd2602a-ac2a-4dea-a2c5-0a16b0e2b0d8@speedy.mooo.info:80?mode=auto&path=%2F&security=&encryption=none&host=veneta911.ir&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -148,8 +146,6 @@ vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=&encrypt
 
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://82ba1fc0-5c4c-4168-823f-7e80d932a5e3@151.101.128.223:80?type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt#@Hope_Net-join-us-on-Telegram
-
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.0:443?path=%2FEHThwbZNpd2fnT1c%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ppAL03.EsHaAn-kylIN.worKErS.Dev&fp=randomized&type=ws&sni=PPaL03.ESHAan-KyLIN.wORKeRS.DEv#@Filter_breaker
 
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.18.60.182:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#@Filter_breaker
@@ -170,8 +166,6 @@ vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram
 
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#@Filter_breaker
 
-vless://a626abcf-b56e-4d3f-9067-1a3e76ee489a@151.101.0.155:80?security=none&type=ws&host=Copy-Az-Chahnnel-ISVvpn-215.com#@Hope_Net-join-us-on-Telegram
-
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Filter_breaker
 
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
@@ -184,11 +178,9 @@ vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.6.169:80?path=%2F%3Fed%3D256
 
 vless://b902f83b-c8e1-4686-a95a-7d2508bee42f@185.79.158.142:8098?security=none&type=tcp&headerType=http#@Hope_Net-join-us-on-Telegram
 
-vless://babccaa-caba-caab-cadb-ccbabaabccab@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://c13bba74-d4b7-43cb-a03d-7d7164f85f8f@212.183.88.97:443?path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&security=tls&alpn=h3&encryption=none&host=let.2024911.xyz&fp=random&type=ws&sni=let.2024911.xyz#%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%B9
 
-vless://d12e7198-95d4-41f1-b4d2-a94a1ee28546@45.149.12.247:443?security=tls&sni=kanal-ma-falcunargo.2bddce6dfd.workers.dev&type=ws&host=kanal-ma-falcunargo.2bddce6dfd.workers.dev&path=%2F@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+vless://cd6691e1-00e8-41e6-b593-a6adce5f7fb6@104.31.16.95:2053?security=tls&sni=ir.p30download.name.ng&type=ws&host=ir.p30download.name.ng&path=%2f&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://d3f3fd0b-7b5c-4070-d5dc-61f96641b507@185.201.49.94:58089?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
@@ -207,8 +199,6 @@ vless://ea68dd94-99d7-4fc8-a9de-e5046eb77be3@91.107.247.215:8443?mode=gun&securi
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@jnir-addr.cybsecguru.com:443?encryption=none&type=ws&security=tls&sni=simorgh.hpcode.ir&fp=firefox&alpn=h2,http%2F1.1&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&host=simorgh.hpcode.ir#@Filter_breaker@Filter_breaker
 
 vless://ee06e485-f3d1-46c0-97f4-e98040b828ed@162.159.9.55:443?path=%2FTelegram-V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-fg-4.sahel.filegear-sg.me&fp=chrome&type=ws&sni=rayan-fg-4.sahel.filegear-sg.me#@Filter_breaker
-
-vless://f1cb1e93-13e5-4a04-aba5-9f19b76f903c@185.79.158.141:8088?security=none&type=tcp&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#@Filter_breaker
 
