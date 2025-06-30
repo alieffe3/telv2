@@ -1,18 +1,26 @@
 hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#@Filter_breaker@Filter_breaker
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.19.36.79:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.177.156:16924?security=&encryption=none&host=cloud.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.177.156:23835?security=&encryption=none&host=cloud.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
-vless://09efd8b5-c69c-464b-8fe9-74411964f3e9@85.133.201.194:1471?type=tcp&headerType=http&host=fararu.com&security=none#@Filter_breaker@Filter_breaker
+vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@NLpizza.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@Filter_breaker
+
+vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@dlarm.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@Filter_breaker
+
+vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@dlarm2.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@Filter_breaker
+
+vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@lovefishingfishes.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@Filter_breaker
+
+vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@mariz.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@Filter_breaker
+
+vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@svnteam.aeza.nisvn.ir:80?mode=auto&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=sfasdgfdgbfgdsggb547bw8.global.ssl.fastly.net&type=xhttp#@Filter_breaker@Filter_breaker
+
+vless://108aebfd-e42d-484e-a0e0-1ae07e98edd5@79.137.11.106:22671?sni=telewebion.com&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@Filter_breaker@Filter_breaker
 
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=&encryption=none&headerType=none&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%A9
-
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.73:3237?security=none&type=raw#@Hope_Net-join-us-on-Telegram
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
@@ -24,21 +32,13 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=&encrypt
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://2fb8567e-0c85-4950-9975-af714241b2db@151.101.0.155:80?security=none&type=ws&host=JoinBede--ELiV2-RAY.ir&path=%2Ftelegram%2C%40ELiV2RAY--telegram%2C%40ELiV2RAY--telegram%2C%40ELiV2RAY--telegram%2C%40ELiV2RAY--telegram%2C%40ELiV2RAY--telegram%2C%40ELiV2RAY%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@Filter_breaker
-
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=cbfe#%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
-
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#@Filter_breaker@Filter_breaker
 
 vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Zilor.ir&type=ws#@Filter_breaker
 
+vless://3ec5186b-d636-48b0-9a0a-30d824f63078@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=asebeeme.global.ssl.fastly.net&type=xhttp#@Filter_breaker
+
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.141.157:443?path=%2F%40Rayan_Config&security=tls&encryption=none&host=rayan-10.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-10.parastoo.dpdns.org#@Filter_breaker@Filter_breaker
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@Filter_breaker
-
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.15:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
 vless://55246d84-4473-4277-bc9b-86033a63dfcd@78.109.200.19:80?security=&encryption=none&headerType=none&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
@@ -48,39 +48,25 @@ vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?security=&enc
 
 vless://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
-vless://64b3cbba-e6ac-495a-9481-976a0493eab9@172.67.211.70:443?security=tls&sni=ESetseCuRiTyLICEnse.KmlRV.woRKERs.DEV&type=ws&host=ESEtsecURItYLiCENSE.KMlRv.woRKeRs.deV&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
-vless://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?security=reality&encryption=none&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=08d8a4e0#@Filter_breaker
-
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.0:443?path=%2FEHThwbZNpd2fnT1c%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ppAL03.EsHaAn-kylIN.worKErS.Dev&fp=randomized&type=ws&sni=PPaL03.ESHAan-KyLIN.wORKeRS.DEv#@Filter_breaker
 
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.18.60.182:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#@Filter_breaker
 
-vless://944ef446-ecc1-4535-9eaa-055b2fe802b0@51.75.169.164:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#@Hope_Net-join-us-on-Telegram
-
-vless://aaacbcb-abac-cbaa-dbca-bcacbacabcab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://aacbbac-caab-aacb-adbc-acbbcaabaccb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://aacbcab-abac-caba-cadb-accbabbabcac@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://abcaabc-cbaa-cbaa-dbac-bbaccbccabaa@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://b74803b1-5940-44fa-a4d2-32a910b4f18b@1237273737goodfiru.mongral.ir:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp&path=/ParsCDN.Telegram.ParsCDN#@Filter_breaker@Filter_breaker
-
-vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#@Filter_breaker
-
-vless://c75b97ca-2688-446d-ef15-d8af4d96c570@167.235.71.117:2083?security=reality&sni=www.cdn77.com&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4#@Hope_Net-join-us-on-Telegram
-
-vless://c83fb61b-4a67-4007-9c66-69ceba6965c9@151.101.194.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.feadlenetwork19922h.net&path=%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
-
-vless://cacaabb-acba-bcaa-badc-babacccaabbc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d3f3fd0b-7b5c-4070-d5dc-61f96641b507@185.201.49.94:58089?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%B9
 
 vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
+
+vless://de9abe0a-3e99-4877-bbe5-43a094a82c6a@172.67.73.163:80?security=none&type=ws&host=emOTional-managER.OneEaT.Co.&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@jnir-addr.cybsecguru.com:443?encryption=none&type=ws&security=tls&sni=simorgh.hpcode.ir&fp=firefox&alpn=h2,http%2F1.1&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&host=simorgh.hpcode.ir#@Filter_breaker@Filter_breaker
 
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#@Filter_breaker
 
