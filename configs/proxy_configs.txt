@@ -1,7 +1,5 @@
 vless://0592915a-65da-4cd5-9960-cb9329a3c8a1@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@Filter_breaker
 
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443?security=tls&sni=147135011033.sec21org.com&type=tcp&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-
 vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=&encryption=none&host=hub.docker.com&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.56.112:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#@Filter_breaker
@@ -39,8 +37,6 @@ vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@193.151.147.139:1991?security=none&
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://376734bc-4db8-4317-b451-af0262cb01c7@104.21.75.120:2087?path=%2FTelegram%40V2ray_Alpha%2F%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=invincible.fafa20.shop&fp=randomized&type=ws&sni=InvInciBLe.FAFa20.sHop#@Filter_breaker
-
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.123:443?security=tls&sni=147135010103.sec19org.com&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#@Filter_breaker
 
@@ -102,8 +98,6 @@ vless://a0e8f5ff-602a-4fbf-83da-f50d538c21fc@185.155.72.152:39984?path=%2F&secur
 
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?path=%2F&security=none&encryption=none&host=q6.19kalA.co&type=ws#@Filter_breaker
 
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@34.213.64.5:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#@Hope_Net-join-us-on-Telegram
-
 vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?path=%2Fpath&security=none&encryption=none&host=google.com&type=ws#@Filter_breaker
 
 vless://aaabbcc-baac-bcaa-cdba-aabcccacbabb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -112,8 +106,6 @@ vless://abcacab-abac-aacb-cbda-bbccbbacaaca@127.0.0.1:8080?security=tls&type=tcp
 
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Filter_breaker
 
-vless://acbabca-baca-baca-cdab-bcabcabaccab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@Filter_breaker@Filter_breaker
 
 vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=&encryption=none&host=ping.amirhossein.info&fp=chrome&type=ws#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
@@ -121,8 +113,6 @@ vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2F
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#@Filter_breaker
 
 vless://c76e6274-30a0-445c-aaef-8e41ab910fbd@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@Filter_breaker
-
-vless://cacbaba-aacb-aabc-acdb-abcacbababcc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=ey.nazanin.dpdns.org&fp=random&type=ws&sni=ey.nazanin.dpdns.org#@Filter_breaker
 
