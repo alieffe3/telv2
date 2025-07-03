@@ -48,13 +48,7 @@ vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2
 
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#@Filter_breaker@Filter_breaker
 
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.173.246.17:80?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.203.59.62:80?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=redfree8mahsang6.redfree8.ir&fp=chrome&type=ws#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.151:443?security=tls&sni=147135004002.sec20org.com&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&alpn=h2&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -88,7 +82,7 @@ vless://a84263bb-49ab-43dc-a352-c464414e8a62@germany1.secretvibe.ru:443?security
 
 vless://a84263bb-49ab-43dc-a352-c464414e8a62@netherlands.secretvibe.ru:443?security=reality&encryption=none&pbk=IFgSZ6-4ceD0tPigCvDBPHtrb6YUNPfxf1EVGUfAwBA&headerType=none&fp=chrome&spx=%2FvmiSRoMfiNdUwkz&type=tcp&flow=xtls-rprx-vision&sni=netherlands.secretvibe.ru&sid=df9038e40a9b#@Filter_breaker
 
-vless://acbbaac-aabc-acba-dcab-cbbcaaaabcbc@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://bb29c155-d55e-4c07-8403-0581e384f7a2@172.64.32.154:2087?security=tls&sni=a4.mzotamel-01.fun&type=grpc&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?security=&fp=chrome&type=ws&path=/?ed%3D2560&host=barayeiran.nastaranh.dpdns.org&encryption=none#@Filter_breaker
 
@@ -96,23 +90,15 @@ vless://bccbaaa-abca-baca-cbad-ccbaacacbbab@127.0.0.1:1080?security=tls&type=tcp
 
 vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=&encryption=none&host=ping.amirhossein.info&fp=chrome&type=ws#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
-vless://beef8ec5-bd5b-49b3-974a-1b2b694318bf@151.101.130.133:80?security=none&type=xhttp&host=gol621golestan.com#@Hope_Net-join-us-on-Telegram
-
-vless://c43b6a1c-afe4-4815-9d05-71cae87b6894@188.40.126.112:443?security=reality&sni=ya.ru&type=tcp&fp=chrome&pbk=XHzPIzJpaPq5GzphaCQPMfDYA0hkVt5ydj96lJe7egk&sid=a1e4a3885922#@Hope_Net-join-us-on-Telegram
-
-vless://cbaaabc-cbaa-aabc-cdba-cbacbaaccbba@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://caababc-caba-baca-dbca-bbaacbacacbc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@45.131.209.84:80?sni=mahdihector.kewojod243.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#@Hope_Net-join-us-on-Telegram
 
 vless://d1aca49a-e5bc-48b2-870a-d590004099b0@185.16.110.44:2096?security=tls&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#@Hope_Net-join-us-on-Telegram
 
-vless://dcff408c-a6ac-4b6d-adae-3bb92b0bea9c@104.21.112.1:8443?security=tls&sni=mahDIserVer-B97.Pages.DeV&type=ws&host=mahdiserver-b97.pages.dev&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a1.ghormehsabzi.dpdns.org&fp=chrome&type=ws#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?security=&fp=chrome&type=ws&path=/?ed%3D2560&host=a1.ghormehsabzi.dpdns.org&encryption=none#@Filter_breaker
-
-vless://e724479a-9f01-437d-a92f-c598559b6246@5.75.203.85:28028?security=reality&sni=www.speedtest.net&type=tcp&path=/telegram@ph_onex-VpIi-21-pHOneX.www.speedtest.net.zula.ir.1.FoNexWallbeSTphOnex.cOM&headerType=http&fp=chrome&pbk=xXwGwJOlSUEvc17KLNCPDF1WtjxiMTUxQb8aaZIuCnI&sid=0a896646c2#@Hope_Net-join-us-on-Telegram
 
 vless://f222a575-5a5b-496f-b1b8-7e95aefee02b@151.101.3.8:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Filter_breaker@Filter_breaker
 
