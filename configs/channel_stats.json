@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-03T12:32:00.665286",
+  "timestamp": "2025-07-03T13:28:58.726598",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -34,8 +34,8 @@
     {
       "url": "https://t.me/s/Filter_breaker",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/vpnfail_vless",
