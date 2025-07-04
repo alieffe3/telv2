@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-04T18:21:15.039102",
+  "timestamp": "2025-07-04T19:13:27.597591",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -10,8 +10,8 @@
     {
       "url": "https://t.me/s/v2ray_configs_pool",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/v2nodes",
@@ -22,8 +22,8 @@
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/Hope_Net",
