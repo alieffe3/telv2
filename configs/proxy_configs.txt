@@ -6,6 +6,8 @@ vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=&encry
 
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?security=&encryption=none&headerType=&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%A9
 
+vless://108aebfd-e42d-484e-a0e0-1ae07e98edd5@79.137.93.131:22671?type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://16e97003-110a-423b-fe25-0dc26485939e@37.27.255.136:8880?security=&type=grpc&encryption=none#@awlix_ir
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
@@ -24,7 +26,7 @@ vless://5cfba4ac-105a-452a-ac10-88b1adf784ee@accounting.vinamarketcenter.ir:443?
 
 vless://6063bdd5-8205-4dbf-b714-94204f47b8d9@152.228.210.41:443?encryption=none&security=reality&sni=snapp.ir&fp=chrome&pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&sid=5bef46444e87&spx=%2F&type=tcp&headerType=http&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com#@Filter_breaker
 
-vless://60b79d46-9b53-4ebb-a28e-93c2f6731750@173.245.59.81:443?security=tls&sni=a5kns6.bestvpninuae.com&type=ws&host=a5kns6.bestvpninuae.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+vless://60b79d46-9b53-4ebb-a28e-93c2f6731750@172.64.33.81:443?security=tls&sni=a5kns6.bestvpninuae.com&type=ws&host=a5kns6.bestvpninuae.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=%2Fcontainers%2Fde&security=tls&encryption=none&host=ah15.ai351.com&type=ws&sni=ah15.ai351.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -32,23 +34,15 @@ vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&
 
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.128.155:80?security=none&type=ws&host=game.baziha0098.ir#@Hope_Net-join-us-on-Telegram
 
-vless://6e0ef1fc-a703-4a4d-a707-8641b1c7e8a9@173.245.59.81:443?security=tls&sni=kwg0dt.allgums.com&type=ws&host=kwg0dt.allgums.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM%40ShadowProxy66&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.217.56.44:3229?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.68.0:3229?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.18.109.247:3229?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.146.17:3229?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.22.97.224:3229?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.86.3.148:3229?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.86.96.112:3229?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://922e5522-c160-44bb-b13a-3e3e325b4e7e@172.64.35.250:443?security=tls&sni=hxpq68.alligator27.com&type=ws&host=hxpq68.alligator27.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.86.220.38:3229?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://a1b2c3d4-5678-9abc-def0-1234567890ab@185.146.173.650:443?security=tls&type=ws&path=/vless&sni=de.vpnfree.org#@Filter_breaker | Germany
 
@@ -56,15 +50,11 @@ vless://a7b8c9d0-1234-5bcd-6abc-7890abcdef12@185.146.173.350:443?security=tls&ty
 
 vless://a9b0c1d2-5678-9abc-def0-1234567890ab@45.76.123.220:8443?security=tls&type=ws&path=/vless&sni=sg.vpnfree.org#@Filter_breaker | Singapore
 
-vless://abacbac-abca-bcaa-dacb-acabcbcaabbc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://abcaacb-baac-bcaa-dbca-baccbabcabac@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://accbbaa-caab-abac-dcab-bccaabaabbcc@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://af1c70ed-15cb-4f03-95eb-44383d227631@173.245.59.81:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=1yrcg4nx.shemrons.com&type=ws&sni=1yrcg4nx.shemrons.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://afea2055-eeb6-47a4-b0b9-28d739562892@alibaba.0xvision.xyz:54418?type=tcp&security=none#iSeqaro Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://baabcca-aabc-bcaa-bdca-bacbbccacbaa@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://bcbcaaa-baca-cbaa-dbca-cbcabaaabccb@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -80,13 +70,11 @@ vless://c9d0e1f2-3456-7bcd-8abc-9012abcdef34@45.76.123.110:8443?security=tls&typ
 
 vless://cefd5a6f-c391-48b2-bde6-8896fd7bd01c@151.101.194.165:80?security=none&type=ws&host=JoinBede--ELiV2-RAY.ir&path=%2Ftelegram%2C%40ELiV2RAY--telegram%2C%40ELiV2RAY--telegram%2C%40ELiV2RAY--telegram%2C%40ELiV2RAY--telegram%2C%40ELiV2RAY--telegram%2C%40ELiV2RAY%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
-vless://cefd5a6f-c391-48b2-bde6-8896fd7bd01c@151.101.2.165:80?type=ws&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
-vless://cefd5a6f-c391-48b2-bde6-8896fd7bd01c@172.67.204.84:8080?security=none&type=ws&host=seyyed.webdade.ip-ddns.com#@Hope_Net-join-us-on-Telegram
-
 vless://d03d2ff3-0b28-4c6b-bab5-4bfac274aa91@104.26.12.31:8080?path=%2F&security=&encryption=none&host=0613.heweiyi.dpdns.org&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=&type=grpc&encryption=none#@awlix_ir
+
+vless://e2f45773-e553-47d1-b495-4f6063a8d95f@188.245.126.124:44566?security=reality&encryption=none&pbk=1sDMgyhL5HPRAaRYJcAf21sWbSlq0kgitPVL2HQwB2M&headerType=none&fp=chrome&type=tcp&sni=refersion.com#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e3f4g5h6-7890-1abc-2def-34567890abcd@45.76.123.130:8443?security=tls&type=ws&path=/vless&sni=sg.vpnfree.org#@Filter_breaker | Singapore
 
@@ -97,8 +85,6 @@ vless://e5f6g7h8-1234-5bcd-6abc-7890abcdef12@185.146.173.1150:443?security=tls&t
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
 
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?security=&type=ws&path=/&host=danuwazero.com&encryption=none#@awlix_ir
-
-vless://ff6eadb1-c587-580f-9270-589371b70d94@104.17.148.22:2052?path=/vless#@Hope_Net-join-us-on-Telegram
 
 vless://g5h6i7j8-9012-3abc-4def-567890abcdef@45.76.123.180:8443?security=tls&type=ws&path=/vless&sni=sg.vpnfree.org#@Filter_breaker | Singapore
 
