@@ -71,16 +71,16 @@
         </g>
         
         <g>
-            <rect x="245.45454545454544" y="200.0" width="56.81818181818182" height="140.0"
+            <rect x="245.45454545454544" y="60.0" width="56.81818181818182" height="280.0"
                   class="bar"/>
             <text x="276.3636363636364" y="380" 
                   transform="rotate(45, 276.3636363636364, 380)"
                   text-anchor="start" class="tick-label">
                 v2ray_free_conf
             </text>
-            <text x="276.3636363636364" y="195.0" 
+            <text x="276.3636363636364" y="55.0" 
                   text-anchor="middle" class="tick-label">
-                50.0%
+                100.0%
             </text>
         </g>
         
@@ -183,7 +183,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-07-09T05:21:09.438287
+            Last updated: 2025-07-09T06:23:55.280277
         </text>
     </svg>
     
