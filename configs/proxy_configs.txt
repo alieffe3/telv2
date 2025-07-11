@@ -8,11 +8,11 @@ vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=&encrypt
 
 vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@185.176.24.159:443?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=freedom.zistarvinbiotech.ir&fp=randomized&type=ws&sni=FREEDOm.ZiStarvInbioTeCh.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
-vless://0af03b20-981a-4e9a-8c35-f9014f81e84c@188.245.228.234:2000?security=none&type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray#@Hope_Net-join-us-on-Telegram
-
 vless://13753795-cc6b-4110-83c9-5d11f5918508@185.58.242.84:8008?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram%3A%20%40proxy_kafee
 
 vless://212f3cb2-7bac-4321-a0a8-3a10896290fe@dl.soundhub.me:7000?security=reality&encryption=none&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&headerType=none&fp=firefox&type=tcp&sni=www.unpkg.com&sid=0b5922be64fc5713#@Filter_breaker | Unknown@Filter_breaker
+
+vless://22477fe4-249e-4c18-8986-74b0f1f0657e@vip1.proxystore11.news:2052?type=xhttp&path=%2Fprx11&host=&mode=auto&security=reality&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&sni=vultr.com&sid=f8fcb589&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1+prx11+%F0%9F%8C%BA%F0%9F%8E%89%F0%9F%92%A5 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://24145c32-ebea-49d0-92d3-e3e089083108@109.122.247.128:31311?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Filter_breaker | Unknown
 
@@ -70,8 +70,6 @@ vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqq
 
 vless://5e2d1a2a-9570-4fd7-9d17-12d10bebd62d@78.157.44.169:5261?security=none&type=tcp&headerType=http#@Filter_breaker | Iran
 
-vless://617d5079-9fae-494a-98ca-90da9e10cd70@46.101.89.156:80?security=none&type=ws&host=arvancloud.com#@Hope_Net-join-us-on-Telegram
-
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@194.87.190.57:8443?path=Telegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=tls&encryption=none&host=steep.skyfigure.top&type=ws&sni=steep.skyfigure.top#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.135.235.86:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=/ylks#@Filter_breaker | Russia
@@ -82,51 +80,21 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&se
 
 vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=%2Fikhocbws&security=tls&encryption=none&host=638874929583581773.zagreb-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929583581773.zagreb-prx-dnraaad.info#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.172.144:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.250.136:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.113.15:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.26.77:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.39.248:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.49.98:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.222.114.183:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.224.19.11:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.236.113.254:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.129.11.173:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.143.205.138:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.45.22:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.6.66:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.92.56:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.95.3:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.17.172:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.149.244.142:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.22.224.146:2222?type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.22.248.166:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.211.45.46:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.22.27.245:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.221.227.84:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.186.101:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.73.216:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.12.151.159:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.149.196.130:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&encryption=none&host=tfs733.pages.dev&type=ws&sni=pages.dev#proxy_kafee
 
@@ -184,8 +152,6 @@ vless://a9c1e3f5-2a3b-4c5d-6e7f-8a9b0c1d2e3f@185.199.229.122:443?security=tls&sn
 
 vless://abc1e3f5-7f8a-9b0c-1d2e-3f4a5b6c7d8e@185.199.229.123:443?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
 
-vless://acbbaca-bcaa-acba-badc-bcabccabcaab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://b117797e-c090-47d9-b72c-4217f22ef956@de.foxinonet.ir:443?path=%2Flw&security=tls&encryption=none&host=de.foxinonet.ir&type=ws&sni=de.foxinonet.ir#@Filter_breaker | Germany
 
 vless://b4c6e8f0-9a1b-2c3d-4e5f-7a6b8c9d0e1f@103.195.103.91:8443?security=tls&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Singapore
@@ -199,8 +165,6 @@ vless://b6c8e0a2-5f6a-7b8c-9d0e-1f2a3b4c5d6e@103.195.103.92:8443?security=tls&ty
 vless://b8c0e2a4-0e1f-2a3b-4c5d-6e7f8a9b0c1d@103.195.103.93:8443?security=tls&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Singapore
 
 vless://bac2e4a6-5d6e-7f8a-9b0c-1d2e3f4a5b6c@103.195.103.94:8443?security=tls&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Singapore
-
-vless://bbacaca-caba-acba-badc-abbcabbacacc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://bdc4e6a8-0c1d-2e3f-4a5b-6c7d8e9f0a1b@103.195.103.95:8443?security=tls&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Singapore
 
@@ -224,13 +188,7 @@ vless://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?security=tls&sni=4cb
 
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=random&type=ws&sni=vless8-ekh.pages.dev#Telegram%3A%20%40proxy_kafee
 
-vless://cc6b985d-0362-4129-8763-38564174fb3e@154.194.12.30:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#@Hope_Net-join-us-on-Telegram
-
-vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.75.204:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#@Hope_Net-join-us-on-Telegram
-
 vless://cc6b985d-0362-4129-8763-38564174fb3e@185.174.138.194:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi#@Hope_Net-join-us-on-Telegram
-
-vless://cc6b985d-0362-4129-8763-38564174fb3e@5.10.245.236:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#IRAN%20230%20%28%40proxy_kafee%29%20free
 
