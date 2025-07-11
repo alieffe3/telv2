@@ -1,8 +1,4 @@
-hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:36600/?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#@Filter_breaker | United Kingdom@Filter_breaker
-
 vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@www.speedtest.net:2096?path=%2Fgflzprws&security=tls&encryption=none&host=638868951946668359.amsterdam-prx-dnraaal.info&type=ws&sni=638868951946668359.amsterdam-prx-dnraaal.info#@Filter_breaker | United States
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.231.59:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
 
 vless://13753795-cc6b-4110-83c9-5d11f5918508@185.58.242.84:8008?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram%3A%20%40proxy_kafee
 
@@ -12,7 +8,17 @@ vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?path=%2Fe49RZLgIb
 
 vless://2ba7f887-9172-4cf4-a8e7-e5094c313890@85.133.202.69:2020?security=none&encryption=none&headerType=none&type=tcp#@Filter_breaker | Unknown@Filter_breaker
 
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.151:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/&fp=chrome#@Filter_breaker | United States@Filter_breaker
+
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#@Filter_breaker | United States@Filter_breaker
+
 vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@s3.esrtz.onl:46470?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40im_soon%20-%20Fast%F0%9F%9A%80
+
+vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.112.247:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#@Filter_breaker | United States
+
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@84.32.41.200:50123?security=tls&flow=xtls-rprx-vision-udp443&sni=www.amazon.com&fp=chrome#@Filter_breaker | United Kingdom
+
+vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#@Filter_breaker | United States
 
 vless://499ee245-f954-4d41-9943-4e85666b7414@104.18.26.94:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=esetsecuritylicense.mybdgpd.workers.dev&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -34,47 +40,51 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?path=%2FTelegramU
 
 vless://54b4c039-7be6-448f-b704-820251b079db@pouriacheat.fergalvpnmod.com:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%20%3A%20%40PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#%40im_soon%20-%20Fast%F0%9F%9A%80
 
+vless://5e2d1a2a-9570-4fd7-9d17-12d10bebd62d@78.157.44.169:5261?security=none&type=tcp&headerType=http#@Filter_breaker | Iran
+
 vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq.chile1.09vpn.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B1
+
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.135.235.86:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=/ylks#@Filter_breaker | Russia
 
 vless://74f0dc16-cb28-4566-acea-6794f560466e@45.129.36.85:3500?security=none&encryption=none&host=Atinad.ir&headerType=http&type=tcp#@Filter_breaker | Unknown
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.72.175:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.49.98:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.72.175:2222?type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.42.127:4433?security=reality&sni=stackoverflow.com&type=raw&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.223.205:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.133.158.202:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.118.21.35:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.149.249.197:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.118.21.35:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.169.36:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.220.64.155:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
+
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.224.1.246:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.133.155.211:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
+
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.147.62.219:2222?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.244.95.19:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.150.49:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.12.142.28:4433?security=reality&sni=stackoverflow.com&type=raw&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.15.132.215:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=/&fp=chrome#@Filter_breaker | Bulgaria
 
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.186.99.221:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
-
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.190.14.9:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#@Hope_Net-join-us-on-Telegram
+vless://85a15603-7fb2-4c53-967c-4e3c63523a41@185.133.35.118:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.249.112:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#@Filter_breaker | United States
 
 vless://8cdf4d0f-399c-4988-8bfb-b010c55853b7@moonl.querenciavib.xyz:12056?security=none&encryption=none&host=p30day.ur&headerType=none&type=tcp#@Filter_breaker | Unknown
 
 vless://8f36d89f-2aa7-4616-b43a-088db3945dc0@www.speedtest.net:2096?path=%2Fddfkmmws&security=tls&encryption=none&host=638874931195901893.kish-prx-dnraaaf.info&type=ws&sni=638874931195901893.kish-prx-dnraaaf.info#%F0%9F%87%AB%F0%9F%87%B7FR@im_soon
 
-vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.241.233:80/?path=%2F?ed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#@Filter_breaker | United States
-
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@205.233.181.186:8443?security=tls&sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&host=CiR346yL3b.DeRaKhT.iNfO&path=%2F#@Filter_breaker | Germany
-
 vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d@104.21.69.42:443/?type=ws&encryption=none&flow=&host=example.com&path=%2Ftest&security=tls&sni=example.com#@Filter_breaker | United States
-
-vless://a1c4b6e2-9d4f-4e6b-8c7a-5d8e9f0a1b2c@149.102.130.106:8443?security=tls&type=ws&host=v2ray-config.sohala.uk&path=/ws#@Filter_breaker | Netherlands@Filter_breaker
 
 vless://a3c5e7f9-2e3f-4a5b-6c7d-8e9f0a1b2c3d@185.199.229.124:443?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
 
@@ -83,6 +93,8 @@ vless://a3c5e7f9-6f7a-8b9c-1d2e-4f5a6b7c8d9e@185.199.229.119:443?security=tls&sn
 vless://a5c7e9f1-2c3d-4e5f-6a7b-9c8d0e1f2a3b@185.199.229.120:443?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
 
 vless://a7c9e1f3-7b8c-9d0e-1f2a-3b4c5d6e7f8a@185.199.229.121:443?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
+
+vless://a88cb5df-7efc-44a5-a078-d1dde8bfc327@216.24.57.138:2096?security=tls&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#@Filter_breaker | United States
 
 vless://a98c3b35-afdf-450b-886b-21965bfdecfd@128.199.60.37:4653?mode=stream-up&path=%2Fapi%2Fstream&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2016777216%2C%20%22scMaxConcurrentPosts%22%3A%201024%2C%20%22scMinPostsIntervalMs%22%3A%201%2C%20%22xPaddingBytes%22%3A%20%22200-2000%22%2C%20%22noGRPCHeader%22%3A%20true%7D&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&fp=firefox&type=xhttp&sni=tgju.org&sid=a1b2c3d4e5f67890#%F0%9F%87%B3%F0%9F%87%B1%20%40IM_SOON
 
@@ -106,6 +118,8 @@ vless://a98c3b35-afdf-450b-886b-21965bfdecfd@core.snappfood.xyz:8880?security=no
 
 vless://a9c1e3f5-2a3b-4c5d-6e7f-8a9b0c1d2e3f@185.199.229.122:443?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
 
+vless://aa6fa014-57c9-4428-9599-8d16a282eb0a@172.67.204.84:8080?security=none&type=ws&host=seyyed.webdade.ip-ddns.com&path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
 vless://aaccbba-bcaa-acba-cabd-ccaacabcbabb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://abc1e3f5-7f8a-9b0c-1d2e-3f4a5b6c7d8e@185.199.229.123:443?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
@@ -113,6 +127,8 @@ vless://abc1e3f5-7f8a-9b0c-1d2e-3f4a5b6c7d8e@185.199.229.123:443?security=tls&sn
 vless://b2c4e6f8-4d5f-6a7b-9c1d-2e3f4a5b6c7d@103.195.103.90:8443?security=tls&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Singapore
 
 vless://b4c6e8f0-9a1b-2c3d-4e5f-7a6b8c9d0e1f@103.195.103.91:8443?security=tls&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Singapore
+
+vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.67.27.46:80?type=ws#@Filter_breaker | United States
 
 vless://b6c8e0a2-5f6a-7b8c-9d0e-1f2a3b4c5d6e@103.195.103.92:8443?security=tls&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Singapore
 
@@ -138,9 +154,11 @@ vless://c6d8e0a2-7e8f-9a1b-2c3d-5e4f6a7b8c9d@45.138.160.98:443?security=tls&sni=
 
 vless://c8d0e2a4-3e4f-5a6b-7c8d-9e0f1a2b3c4d@45.138.160.99:443?security=tls&sni=v2ray.sohala.uk&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Germany
 
+vless://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?security=tls&sni=4cbba020.fastpurnet3.pages.dev&type=ws&host=4cbba020.fastpurnet3.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&fp=randomized#@Filter_breaker | United States
+
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=random&type=ws&sni=vless8-ekh.pages.dev#Telegram%3A%20%40proxy_kafee
 
-vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.121.73:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#@Hope_Net-join-us-on-Telegram
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.15:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#Telegram%3A%20%40proxy_kafee
 
@@ -155,8 +173,6 @@ vless://d9e1a3c5-6a7b-8c9d-0e1f-2a3b4c5d6e7f@149.102.130.108:8443?security=tls&t
 vless://dbed1a3c5-1f2a-3b4c-5d6e-7f8a9b0c1d2e@149.102.130.109:8443?security=tls&type=ws&host=v2ray-config.sohala.uk&path=/ws#@Filter_breaker | Netherlands@Filter_breaker
 
 vless://dde6a8c0-6e7f-8a9b-0c1d-2e3f4a5b6c7d@149.102.130.110:8443?security=tls&type=ws&host=v2ray-config.sohala.uk&path=/ws#@Filter_breaker | Netherlands@Filter_breaker
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.192:8880?type=grpc#@Filter_breaker | Netherlands
 
 vless://e0a2c4e6-1d2e-3f4a-5b6c-7d8e9f0a1b2c@149.102.130.111:8443?security=tls&type=ws&host=v2ray-config.sohala.uk&path=/ws#@Filter_breaker | Netherlands
 
@@ -186,8 +202,6 @@ vless://e96adc51-70f2-451d-83c5-77094b9d680f@hound.origamimarketings.com:7777?se
 
 vless://e9f1a3c5-8f9a-1b2c-3d4e-6f5a7b8c9d0e@91.107.238.107:443?security=tls&sni=v2ray-config.sohala.uk&type=ws&host=v2ray-config.sohala.uk&path=/ws#@Filter_breaker | Netherlands
 
-vless://eAA14Oaf-47Da-4201-A1E2-004833106835@www.speedtest.net:443/?type=ws&host=r2.saman.dpdns.org&path=/?ed%3D2540&security=tls&fp=chrome&sni=r2.saman.dpdns.org&alpn=h3,h2,http/1.1#@Filter_breaker | Netherlands
-
 vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?path=%2Fdy26vBaDi5RTblzP%3Fed%3D2560&security=tls&encryption=none&host=net-aCcOUNt02.Pages.DEv&fp=randomized&type=ws&sni=net-aCcOUNt02.Pages.DEv#@Filter_breaker | United States@Filter_breaker
 
 vless://f1e2d3c4-5a6b-4c7d-8e9f-0a1b2c3d4e5f@45.82.251.186:8880/?type=grpc&encryption=none&flow=#@Filter_breaker | Netherlands
@@ -195,8 +209,6 @@ vless://f1e2d3c4-5a6b-4c7d-8e9f-0a1b2c3d4e5f@45.82.251.186:8880/?type=grpc&encry
 vless://f6g7h8i9-0d1e-4f2a-3b4c-5d6e7f8a9b0c@188.114.96.4:443/?type=ws&encryption=none&flow=&host=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos2.958dtd.workers.Dev&path=%2F&security=tls&sni=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos2.958dtd.workers.Dev&fp=chrome#@Filter_breaker | United States
 
 vless://f7b9d1e3-3c4e-5f6a-8b9c-1d2e3f4a5b6c@45.138.160.97:443?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
-
-vless://fA7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.18.26.90:443/?encryption=none&security=tls&sni=spx.lindak.dpdns.org&fp=random&type=ws&host=spx.lindak.dpdns.org&path=%2F?ed%3D2560#@Filter_breaker | United States
 
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.24.8.53:8880?path=%2F&security=none&encryption=none&host=jp.laoyoutiao.link.&type=ws#Telegram%3A%20%40proxy_kafee
 
