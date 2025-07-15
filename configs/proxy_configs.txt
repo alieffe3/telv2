@@ -16,19 +16,17 @@ vless://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?security=none&encry
 
 vless://1d29bd55-3bb2-4db6-9b50-5ebccf596c61@91.99.184.6:50433?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Filter_breaker-TR
 
-vless://1fb52030-a522-4665-8a35-09b6710b062d@51.89.227.248:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#@Hope_Net-join-us-on-Telegram
-
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#proxy_kafee
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20283%20%28%40proxy_kafee%29%20free
 
 vless://212f3cb2-7bac-4321-a0a8-3a10896290fe@dl.soundhub.me:7000?security=reality&encryption=none&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&headerType=none&fp=firefox&type=tcp&sni=www.unpkg.com&sid=0b5922be64fc5713#@Filter_breaker | Unknown@Filter_breaker
 
+vless://262ddcb2-e051-466b-8d1c-d70cfc2a10f1@104.17.148.22:2052?security=none&type=httpupgrade&host=free.dllmoviprime.com.tr&path=/#@Hope_Net-join-us-on-Telegram
+
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2F----%40-%3Fed%3D2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#mtnWedBaZtel
 
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.151:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/&fp=chrome#@Filter_breaker | United States@Filter_breaker
-
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#@Filter_breaker | United States@Filter_breaker
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2F----%40-%3Fed%3D2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#proxy_kafee
 
 vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=%2FZjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#@Filter_breaker-US
 
@@ -44,15 +42,11 @@ vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed
 
 vless://393a70c9-d773-4e6f-9e3d-11e886fdae70@acc.eternalping.ir:989?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=acc.eternalping.ir#[@Filter_breaker] vless-FI
 
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.112.247:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#@Filter_breaker | United States
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#@Hope_Net-join-us-on-Telegram
 
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.100:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-wsfp=chrome#@Hope_Net-join-us-on-Telegram
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.107:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/fp=chrome#@Hope_Net-join-us-on-Telegram
 
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.80:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#@Hope_Net-join-us-on-Telegram
-
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@84.32.41.200:50123?security=tls&flow=xtls-rprx-vision-udp443&sni=www.amazon.com&fp=chrome#@Filter_breaker | United Kingdom
-
-vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#@Filter_breaker | United States
+vless://48eccebc-1e36-4c60-b088-55fb793f6688@129.154.202.229:8443?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://4a283770-51a9-4de6-969c-f46bde69092d@00074.mutee.com.tr:4471?security=&encryption=none&host=Varzesh3.com&headerType=http&type=tcp#@Filter_breaker | Turkey
 
@@ -60,7 +54,7 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.157:443?security=tls&sni
 
 vless://554e89e9-5d47-408a-ee92-2fa8506bc78c@zula.ir:2087?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Hopev2.hopebook75zulawu.online.&fp=chrome&type=ws&sni=Hopev2.hopebook75zulawu.online#@Filter_breaker_zula.ir@Filter_breaker
 
-vless://5e2d1a2a-9570-4fd7-9d17-12d10bebd62d@78.157.44.169:5261?security=none&type=tcp&headerType=http#@Filter_breaker | Iran
+vless://69f948be-1482-42d8-84df-9fdfdf2d4262@151.101.3.8:80?allowInsecure=0&sni=49.org&type=ws&host=49.org&path=/telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee?ed=2095#@Hope_Net-join-us-on-Telegram
 
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D%23TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI%3D%3Fed%3D2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#@Filter_breaker-US
 
@@ -71,8 +65,6 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D256
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&type=ws&path=/?ed%3D2560&host=sib.sibzamini.dpdns.org&packetEncoding=xudp&encryption=none#@Filter_breaker-US
 
 vless://71d355f3-6def-4683-8857-24b7dd5564fd@live.989bull.com:443?allowInsecure=0&sni=live.989bull.com&alpn=h2,http/1.1&type=ws&host=Golestan_VPN.com&path=/CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN?ed=8080fp=chrome&security=tls#@Hope_Net-join-us-on-Telegram
-
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.135.235.86:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=/ylks#@Filter_breaker | Russia
 
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#IRAN%20284%20%28%40proxy_kafee%29%20free
 
@@ -86,19 +78,9 @@ vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop.fast.hosting-ip.com:80?mode=au
 
 vless://7fb1a822-bd72-4a27-b987-89a4dd398142@188.245.167.113:465?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=/&fp=chrome#@Filter_breaker | Bulgaria
+vless://84920ac3-178a-4198-8536-3507120864db@190.93.245.137:443?security=tls&sni=WWW.EsfahAnsimaN.infO.&type=ws&host=WWW.EsfahAnsimaN.infO.&path=TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config--TELEGRAM--jet\_config--CANALTELEGRAM--jet\_config&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=%2FTELEGRAM-%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#@Filter_breaker_188.114.96.3
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.249.112:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#@Filter_breaker | United States
-
-vless://8b2a3ef5-99c0-4420-866f-dfefcec4b87d@108.162.194.232:443?security=tls&sni=y1bwuv.testsnew.com&type=ws&host=y1bwuv.testsnew.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-
-vless://8e3cc3fc-7d9c-44d3-85fe-09bda9f02ac6@151.101.192.155:80?security=none&type=ws&host=jetservices55.ir&path=CANALTELEGRAM--@jet_config--CANALTELEGRAM--@jet_config#@Hope_Net-join-us-on-Telegram
-
-vless://8fba1e9e-9d0b-480f-9d41-b796647eacef@198.244.142.136:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#@Hope_Net-join-us-on-Telegram
-
-vless://8fba1e9e-9d0b-480f-9d41-b796647eacef@51.75.169.160:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#@Hope_Net-join-us-on-Telegram
 
 vless://8fba1e9e-9d0b-480f-9d41-b796647eacef@57.128.165.172:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#@Hope_Net-join-us-on-Telegram
 
@@ -112,25 +94,15 @@ vless://a5f75cdd-d1dd-4767-99c4-ffebbe0d613e@uhgk.vip-morteza.xyz:433?security=r
 
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.231.166.189:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#@Hope_Net-join-us-on-Telegram
 
-vless://a88cb5df-7efc-44a5-a078-d1dde8bfc327@216.24.57.138:2096?security=tls&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#@Filter_breaker | United States
-
-vless://acabbca-acba-aacb-abcd-ccbacabaabcb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://b117797e-c090-47d9-b72c-4217f22ef956@de.foxinonet.ir:443?path=%2Flw&security=tls&encryption=none&host=de.foxinonet.ir&type=ws&sni=de.foxinonet.ir#@Filter_breaker | Germany
 
 vless://b5c1b004-cd05-1ef2-f6ff-edda2e47d538@206.71.158.40:80?security=none&type=ws&path=%2FJavid-SHAH-KingRezaPahlavi%2F#@Filter_breaker_206.71.158.40
-
-vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.67.27.46:80?type=ws#@Filter_breaker | United States
 
 vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706477448.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706477448.amsterdam-prx-dnraaal.info&path=/tjkqcpws#@Filter_breaker-NL
 
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=%2F&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#IRAN%20285%20%28%40proxy_kafee%29%20free
 
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=%2FTELEGRAM-%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#@Filter_breaker_188.114.97.202
-
-vless://c871c98b-bf0a-4b67-9c5d-a52c3462101b@151.101.194.228:443?security=tls&sni=FISHLAB.UCDAVIS.EDU&type=ws&host=J.DEV&path=%2FTelegram-Channel%3A%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG-----%40H%71v2RayNG%3Fed%3D8080&fp=firefox&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
-vless://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?security=tls&sni=4cbba020.fastpurnet3.pages.dev&type=ws&host=4cbba020.fastpurnet3.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&fp=randomized#@Filter_breaker | United States
 
 vless://ca6aded6-b684-4370-8c2c-0cecf47e6285@crm.snapfood.org:8080?path=/incredible-offers&security=none&encryption=none&host=fast.com&type=ws#Join+Telegram:@httpproxygo Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
