@@ -6,15 +6,11 @@ vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&enc
 
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://1343289b-3518-48da-9ee6-1bc99860b505@104.18.26.90:443?encryption=none&security=tls&sni=mrdnzdtnbkwbdfsqoncu.dissertationhelpspecialist.com&type=ws&host=mrdnzdtnbkwbdfsqoncu.dissertationhelpspecialist.com&path=%2FTwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService%3Fed%3D2560#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
-
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&sid=974a74bf#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%BA
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40proxy_kafee
-
-vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.184.48:2086?encryption=none&security=none&type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 
 vless://2a5db195-0d58-40a5-a4c2-432711b01057@151.101.66.133:80?security=none&type=ws&host=ks.com&path=%2Fws#@Hope_Net-join-us-on-Telegram
 
@@ -22,9 +18,11 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3D
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#proxy_kafee
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=proxy_kafee#Anon13
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=proxy_kafee#Anon11
 
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%AA
+
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Anon13
 
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#mciproxy_kafeetel
 
@@ -34,8 +32,6 @@ vless://3c631fef-c28c-4dfe-aacc-9e67ace7d5b3@213.183.41.63:443?security=reality&
 
 vless://4e57e34d-fc11-486e-9dbb-bcce9db1c39d@178.162.244.226:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&sid=b4&type=tcp&headerType=none#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
-
 vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%20%3A%20%40PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&encryption=none&host=tbs-80p.pages.dev&type=ws&sni=pages.dev#proxy_kafee
@@ -44,13 +40,21 @@ vless://5ab44197-b3dd-42d4-95da-61b5a9965b5e@151.101.66.228:80?security=none&typ
 
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@188.245.237.23:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
+vless://62357561-a129-4b9e-9614-ce2578020866@154.17.17.46:48946?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
 vless://62357561-a129-4b9e-9614-ce2578020866@154.17.2.126:62729?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://62357561-a129-4b9e-9614-ce2578020866@154.17.31.108:19355?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://62357561-a129-4b9e-9614-ce2578020866@18.162.246.4:18443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
+vless://62357561-a129-4b9e-9614-ce2578020866@206.238.236.216:2083?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
 vless://62357561-a129-4b9e-9614-ce2578020866@211.46.212.62:50000?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
+vless://62357561-a129-4b9e-9614-ce2578020866@43.156.253.94:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
+vless://62357561-a129-4b9e-9614-ce2578020866@45.141.139.150:47394?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai6lzpnumq&security=tls&encryption=none&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=random&type=ws&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -111,6 +115,8 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=%2F1ycR2zb3K
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=%2F34COh9NCiin5SJMk%3Fed%3D2560&security=&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#proxy_kafee
 
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&security=&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#proxy_kafee
+
+vless://e9979910-79d1-proxy_kafee-a93c-b2a579c44ba7@104.16.85.3:8880?path=%2F6TvG8D6HimXKgdp2%3Fed%3D2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#proxy_kafee
 
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@dl1-fi-cdn.easy-upload.org:80?path=%2F&security=none&encryption=none&host=dl1-fi-cdn.easy-upload.org&type=ws#@im_soon
 
