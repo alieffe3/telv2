@@ -28,8 +28,6 @@ vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?s
 
 vless://2a5db195-0d58-40a5-a4c2-432711b01056@151.101.130.133:443?security=tls&sni=awarasleep.com&type=ws&host=ks.com&path=%2Fws&fp=random&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
-vless://2a5db195-0d58-40a5-a4c2-432711b01056@151.101.66.133:443?security=tls&sni=awarasleep.com&type=ws&host=ks.com&path=%2Fws&fp=random&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://30b4d64a-8981-47c1-b4c5-2507da32960e@172.233.223.125:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -46,7 +44,7 @@ vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.237.130.125:443?mode=stream-one
 
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%AA
 
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Anon25
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Anon24
 
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#mciproxy_kafeetel
 
@@ -79,6 +77,8 @@ vless://5976bf50-52f8-4dc4-a803-0f868b2a3789@151.101.194.228:80?security=none&ty
 vless://5cf043d9-f752-4c05-be56-1570ade52ac6@104.17.148.22:8443?security=tls&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://62357561-a129-4b9e-9614-ce2578020866@154.17.12.14:38609?sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=/Telegram&allowInsecure=0#@Hope_Net-join-us-on-Telegram
+
+vless://62357561-a129-4b9e-9614-ce2578020866@92.243.74.239:8443?sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=/Telegram&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
 vless://63317fb1-b61a-45f1-a306-007399d2334b@45.79.196.245:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -115,6 +115,8 @@ vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.16.108.84:443?path=%2F&security
 vless://a8dff238-bf64-4b59-816d-f7aa8c527636@69.164.192.122:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://aaabcbc-bcaa-caab-dacb-cbacaacbbcab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://aabacbc-acba-cbaa-dbca-aaacccbbabcb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://acbcbaa-caba-bcaa-cbda-ccbbaacbaacb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -195,8 +197,6 @@ vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?path=%2Fproxyip&se
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.5:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@dl1-fi-cdn.easy-upload.org:80?path=%2F&security=none&encryption=none&host=dl1-fi-cdn.easy-upload.org&type=ws#@im_soon
-
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.172.215:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#@Hope_Net-join-us-on-Telegram
 
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
