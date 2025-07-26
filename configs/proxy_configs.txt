@@ -26,8 +26,6 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2F%40Shado
 
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
-vless://2a5db195-0d58-40a5-a4c2-432711b01056@151.101.130.133:443?security=tls&sni=awarasleep.com&type=ws&host=ks.com&path=%2Fws&fp=random&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://30b4d64a-8981-47c1-b4c5-2507da32960e@172.233.223.125:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -44,7 +42,7 @@ vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.237.130.125:443?mode=stream-one
 
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%AA
 
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Anon24
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Anon23
 
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#mciproxy_kafeetel
 
