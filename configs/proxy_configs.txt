@@ -1,8 +1,16 @@
-hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@153.121.42.218:50000/?insecure=1&sni=www.microsoft.com&mport=50000-55000#🇯🇵 @Filter_breaker🇯🇵 @Filter_breaker
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@dehub.xg-hub.icu:25784/?insecure=1&sni=dehub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇩🇪
 
-hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@45.11.1.62:50000/?insecure=1&sni=www.microsoft.com&mport=50000-55000#🇯🇵 @Filter_breaker@Filter_breaker
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@hkhub.xg-hub.icu:25782/?insecure=1&sni=hkhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇭🇰
 
-hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@87.254.23.104:50000/?insecure=1&sni=www.microsoft.com&mport=50000-55000#🇺🇸 @Filter_breaker🇯🇵 @Filter_breaker
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@jphub.xg-hub.icu:25781/?insecure=1&sni=jphub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇯🇵
+
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@krhub.xg-hub.icu:25783/?insecure=1&sni=krhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇰🇷
+
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@twhub.xg-hub.icu:25786/?insecure=1&sni=twhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇹🇼@Filter_breaker
+
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@ukhub.xg-hub.icu:25785/?insecure=1&sni=ukhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇬🇧
+
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@ushub.xg-hub.icu:25780/?insecure=1&sni=ushub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇺🇸
 
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
@@ -18,9 +26,13 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2F%40Shado
 
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#%40proxy_kafee
+
 vless://2a478693-a06c-4191-999e-0bc05aac64bb@ww.speedxpn.sedanor.ir:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40%58pnTeam%2F%40%58pnTeam%2F%40XpnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40XpnTeam%3Fed%3D2048#%40proxy_kafee
 
 vless://30b4d64a-8981-47c1-b4c5-2507da32960e@172.233.223.125:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40proxy_kafee
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -72,13 +84,15 @@ vless://85bf8959-34%61%61-4b84-828f-c%61891380b7ff@104.21.72.109:80?path=%2FMos%
 
 vless://881043ca-4194-439b-ffad-c7bb552b3edb@171.22.173.206:28931?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#Cha Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@103.175.79.2:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&encryption=none&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#%40proxy_kafee
+
+vless://91b14630-d9fa-442c-8a2a-b16967e910fe@vip1.proxystore11.news:15110?type=xhttp&path=%2Fprx11-prx11-prx11&host=&mode=auto&security=reality&pbk=y7msPZW4eWBT4CJ5v_blgiXUd06HuKvTs3rhlpw9fnk&fp=chrome&sni=yahoo.com&sid=0570&spx=%2F#PRX11-XHTTP-REALITY-n54oi0aq-ipv4@proxystore11 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=tls&encryption=none&host=GgGgr.PaGES.dEV&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -88,6 +102,10 @@ vless://9a7ac68e-d1c1-4544-8d85-f8a9f95e6060@94.232.168.16:30501?security=none&e
 
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
+vless://Telegram-SRCVPN-@91.107.133.198:3080?mode=gun&security=reality&encryption=none=%23%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&fp=chrome&spx=%2F&type=grpc&sni=journalofbigdata.springeropen.com&sid=eb91f5c0#%40proxy_kafee
+
+vless://Telegram-SRCVPN-@91.107.133.198:3090?mode=gun&security=reality&encryption=none=%23%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&fp=chrome&spx=%2F&type=grpc&sni=journalofbigdata.springeropen.com&sid=eb91f5c0#%40proxy_kafee
+
 vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.16.108.84:443?path=%2F&security=tls&encryption=none&host=shutu.pages.dev&fp=chrome&type=ws&sni=shutu.pages.dev#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://a8dff238-bf64-4b59-816d-f7aa8c527636@69.164.192.122:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
@@ -96,6 +114,8 @@ vless://bc310b8d-fbe8-4c55-970b-be77816fceea@104.237.138.80:443?mode=stream-one&
 
 vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
+vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?mode=stream-one&path=%2F&security=none&encryption=none&type=xhttp#%40proxy_kafee
+
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=random&type=ws&sni=vless8-ekh.pages.dev#%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 
 vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=%2F%3Fed%3D2560&security=&encryption=none&type=ws#Channel%20id%3A%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
@@ -103,6 +123,8 @@ vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=%2F%3Fed%3D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=&encryption=none&type=grpc#%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=&encryption=none&type=grpc#%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40proxy_kafee
 
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#proxy_kafee
 
