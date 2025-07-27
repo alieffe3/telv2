@@ -12,8 +12,6 @@ hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@ukhub.xg-hub.icu:25785/?insecur
 
 hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@ushub.xg-hub.icu:25780/?insecure=1&sni=ushub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇺🇸
 
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.147.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAtelegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.77.32:22224?sni=trojan.burgerip.co.uk&type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&encryption=none#66
 
 vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.235.128.66:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
@@ -105,8 +103,6 @@ vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?mode=stream-one
 vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?mode=stream-one&path=%2F&security=none&encryption=none&type=xhttp#%40proxy_kafee
 
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=%2F&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAtelegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 
 vless://d4dad102-eb19-4bca-a536-a5d278fe3e0e@91.107.130.221:50453?security=none&encryption=none&type=tcp&headerType=none#Cha
 
