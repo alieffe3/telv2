@@ -16,6 +16,8 @@ vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.147.12:443?security=none&encr
 
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.77.32:22224?sni=trojan.burgerip.co.uk&type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&encryption=none#66
+
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.235.128.66:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
@@ -42,8 +44,6 @@ vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&
 
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#mciproxy_kafeetel
 
-vless://3d554bba-9c77-499f-9055-1eb42058ed00@892389823.webnama.com.tr:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40EuServer Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://47dc734a-15e8-4286-b09f-ad0404e85630@172.105.158.108:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://4ae6ca2b-67e4-497f-b107-a69588f78fa1@45.56.67.24:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
@@ -64,6 +64,8 @@ vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?path=%2FTelegram-X
 
 vless://5976bf50-52f8-4dc4-a803-0f868b2a3789@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.TzZLiMitTNeWz.NeT#@Hope_Net-join-us-on-Telegram
 
+vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?security=none&encryption=none&type=tcp&headerType=none#Cha
+
 vless://63317fb1-b61a-45f1-a306-007399d2334b@45.79.196.245:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://66726565-7670-4e2e-b573-2d68736a6273@104.20.6.134:80?security=none&type=ws#@Hope_Net-join-us-on-Telegram
@@ -79,6 +81,8 @@ vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai
 vless://85bf8959-34%61%61-4b84-828f-c%61891380b7ff@104.17.147.22:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dfgop%65%65-wo%72k%65%72s.d%65%76&fp=randomized&type=ws&sni=dfgopee-workers.dev#%40proxy_kafee
 
 vless://85bf8959-34%61%61-4b84-828f-c%61891380b7ff@104.21.72.109:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=dfgop%65%65-wo%72k%65%72s.d%65%76.&fp=randomized&type=ws&sni=dfgopee-workers.dev#%40proxy_kafee
+
+vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#Cha
 
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#proxy_kafee
 
@@ -96,11 +100,15 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D
 
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
+vless://MsV2ray-Telegram@www.speedtest.net:80?host=http-fast-de-speedtest.xqfactor.ir.&security=&type=httpupgrade&path=%2FMsV2ray%3Fed%3D80&encryption=none#%40sh Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 vless://Telegram-SRCVPN-@91.107.133.198:3080?mode=gun&security=reality&encryption=none=%23%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&fp=chrome&spx=%2F&type=grpc&sni=journalofbigdata.springeropen.com&sid=eb91f5c0#%40proxy_kafee
 
 vless://Telegram-SRCVPN-@91.107.133.198:3090?mode=gun&security=reality&encryption=none=%23%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&fp=chrome&spx=%2F&type=grpc&sni=journalofbigdata.springeropen.com&sid=eb91f5c0#%40proxy_kafee
 
 vless://a8dff238-bf64-4b59-816d-f7aa8c527636@69.164.192.122:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+
+vless://abbccaa-baac-caab-cdba-accbacbcabba@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://bc310b8d-fbe8-4c55-970b-be77816fceea@104.237.138.80:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -111,6 +119,8 @@ vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?mode=stream-one
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=%2F&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAtelegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
+
+vless://d4dad102-eb19-4bca-a536-a5d278fe3e0e@91.107.130.221:50453?security=none&encryption=none&type=tcp&headerType=none#Cha
 
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40ShadowProxy66&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
