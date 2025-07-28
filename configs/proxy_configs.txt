@@ -28,8 +28,6 @@ vless://5976bf50-52f8-4dc4-a803-0f868b2a3789@151.101.130.228:443?security=tls&sn
 
 vless://5976bf50-52f8-4dc4-a803-0f868b2a3789@151.101.66.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeWz.NeT&fp=chrome#@Hope_Net-join-us-on-Telegram
 
-vless://66726565-7670-4e2e-b573-2d68736a6273@172.67.1.191:80?security=none&type=ws#@Hope_Net-join-us-on-Telegram
-
 vless://70d7aa22-1078-4e69-80c2-a37fb329f277@gem.talashit.com:8282?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#IRAN%20430%20%28%40proxy_kafee%29%20free
@@ -64,6 +62,8 @@ vless://Telegram-SRCVPN-@91.107.133.198:3090?mode=gun&security=reality&encryptio
 
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
+vless://acbbaac-abac-abca-bcda-bcaacbbcacab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://b6317e1a-ba2e-42e3-96fd-226a6a8f17b8@151.101.66.133:443?security=tls&sni=live.989bull.com&type=ws&host=Golestanvpn.com&path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?mode=stream-one&path=%2F&security=none&encryption=none&type=xhttp#%40proxy_kafee
@@ -71,6 +71,8 @@ vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?mode=stream-one
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.82.33:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.38.13:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.61.49:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.25.80.63:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
@@ -87,6 +89,8 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.137.37:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.216.86:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.22.155.139:587?sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&allowInsecure=0#@Hope_Net-join-us-on-Telegram
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.34.228.48:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://d5f2afdf-44b0-4da9-9d7d-3476ebd3dc0e@213.21.245.54:2030?security=none&sni=refersion.com&type=grpc&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#@Hope_Net-join-us-on-Telegram
 
@@ -113,8 +117,6 @@ vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=%2Fvpnowl-vp
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#proxy_kafee
 
 vless://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?mode=auto&path=%2Ferfwp%3Fed%3D2048&security=none&encryption=none&host=erfwp.com&type=xhttp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
-
-vless://ff7e89d1-cdde-4aa8-b56a-2166206fe275@173.245.59.132:8080?security=none&type=ws&host=akp.di.w827.www.speedtest.net.rubika.ir.xn--d28haaaaa.xn--d28ha.xn--d28ha.sam726.jhs.jzjjzoiq87.82716.xn--n-9n2sab.xn--nsn-9103bdaa.xn--bskhsh-9n34edaad.xn--bzj-9103bda.xnbladecorner.bladecorner-shahraktohid.ir&path=%2Fws#@Hope_Net-join-us-on-Telegram
 
 vless://t%65l%65g%72%61m-%69d-%41%72f%69lt%65%72@172.66.40.99:443?path=%2Ft%65l%65g%72%61m-%41%72%562%72%61y%2Ct%65l%65g%72%61m-%41%72%562%72%61y%2Ct%65l%65g%72%61m-%41%72%562%72%61y%2Ct%65l%65g%72%61m-%41%72%562%72%61y%2Ct%65l%65g%72%61m-%41%72%562%72%61y%2Ct%65l%65g%72%61m-%41%72%562%72%61y%2Ct%65l%65g%72%61m-%41%72%562%72%61y%2Ct%65l%65g%72%61m-%41%72%562%72%61y%2Ct%65l%65g%72%61m-%41%72%562%72%61y%2Ct%65l%65g%72%61m-%41%72%562%72%61y%2Ct%65l%65g%72%61m-%41%72%562%72%61y%2Ct%65l%65g%72%61m-%41%72%562%72%61y%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=%65%44p.SpE%65%44tEs%542029.CoM&fp=firefox&type=ws&sni=eDp.SpEeDtEsT2029.CoM#%40proxy_kafee
 
