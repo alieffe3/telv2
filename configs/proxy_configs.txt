@@ -1,19 +1,3 @@
-hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@dehub.xg-hub.icu:25784/?insecure=1&sni=dehub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇩🇪
-
-hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@hkhub.xg-hub.icu:25782/?insecure=1&sni=hkhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇭🇰
-
-hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@jphub.xg-hub.icu:25781/?insecure=1&sni=jphub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇯🇵
-
-hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@krhub.xg-hub.icu:25783/?insecure=1&sni=krhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇰🇷
-
-hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@twhub.xg-hub.icu:25786/?insecure=1&sni=twhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇹🇼
-
-hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@ukhub.xg-hub.icu:25785/?insecure=1&sni=ukhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇬🇧
-
-hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@ushub.xg-hub.icu:25780/?insecure=1&sni=ushub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Filter_breaker🇺🇸
-
-vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fhqqprlws#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.35.52:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.175.54:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
@@ -24,21 +8,9 @@ vless://08f1dfa7-ba15-4234-a8ac-20bafa67b362@104.17.147.22:8880?security=none&ty
 
 vless://095b6b36-da12-4fc0-9a1e-cafa526682bb@31.44.4.53:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=JoinBadeChannel%40antimeli&fp=chrome&pbk=w6TiWki9K0RUaf0YCGtuD6Ds9t5L4SM14W4BW3zexDM&sid=35#@Hope_Net-join-us-on-Telegram
 
-vless://12625b2c-18c6-4010-96de-31323e814112@vip1.proxystore11.news:10358?type=tcp&security=reality&pbk=axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk&fp=chrome&sni=zula.ir&sid=b373044d&spx=%2F&flow=xtls-rprx-vision#PRX11-REALITY-TCP-zxb71u6p4 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20434%20%28%40Outline_Vpn%29%20free
 
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20434%20%28%40proxy_kafee%29%20free
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.142:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:2087?encryption=none&security=tls&allowInsecure=1&type=grpc#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.194:2020?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Ffqogayws#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#%40proxy_kafee
 
@@ -52,19 +24,11 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#proxy_kafee
 
-vless://36f00e93-3f4b-48ca-8f19-488c321ab931@45.89.107.229:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Ffqopqrws#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
 vless://5976bf50-52f8-4dc4-a803-0f868b2a3789@151.101.130.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitTNeWz.NeT&fp=chrome#@Hope_Net-join-us-on-Telegram
 
+vless://5976bf50-52f8-4dc4-a803-0f868b2a3789@151.101.66.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeWz.NeT&fp=chrome#@Hope_Net-join-us-on-Telegram
+
 vless://66726565-7670-4e2e-b573-2d68736a6273@172.67.1.191:80?security=none&type=ws#@Hope_Net-join-us-on-Telegram
-
-vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fajnexnws#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://7094df26-af60-41c4-afac-857060d1bab0@jealous-competition.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#IRAN%20430%20%28%40Outline_Vpn%29%20free
 
@@ -73,8 +37,6 @@ vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=realit
 vless://801fe3b2-d716-4d64-908d-6a05fa5c49b9@38.180.140.203:443?security=reality&sni=github.githubassets.com&type=tcp&fp=chrome&pbk=MrRkN1igtfFrRAuezc93ZKZN3Dl4pHUS30XzTBOT6G0&sid=0000000000000000#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&sni=ppaL03-jomEh1.luCiLe-rUeckER.wOrKErS.DeV&type=ws&host=ppal03-jOMeH1.lUCILE-ruECKer.WORKers.dEV&path=%2FJnW25ngR6nrqM3Pz%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
-vless://8c374da3-b3cb-4460-9098-0837973e228f@45.89.107.232:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fmfgdwhws#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#proxy_kafee
 
@@ -92,23 +54,9 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.91.177:2087?path=%2F&securit
 
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.91.177:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#IRAN%20433%20%28%40proxy_kafee%29%20free
 
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2082?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2096?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.41:2052?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:2096?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
 vless://Telegram-SRCVPN-@91.107.133.198:3080?mode=gun&security=reality&encryption=none=%23%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&fp=chrome&spx=%2F&type=grpc&sni=journalofbigdata.springeropen.com&sid=eb91f5c0#%40proxy_kafee
 
 vless://Telegram-SRCVPN-@91.107.133.198:3090?mode=gun&security=reality&encryption=none=%23%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&fp=chrome&spx=%2F&type=grpc&sni=journalofbigdata.springeropen.com&sid=eb91f5c0#%40proxy_kafee
-
-vless://a396bc99-8614-4452-92e3-3c9f81c54588@45.89.107.235:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fattzctws#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-vless://acb30534-b06f-4629-b684-5fa712f3efd8@45.89.107.223:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fwxmgbmws#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 
 vless://b6317e1a-ba2e-42e3-96fd-226a6a8f17b8@151.101.66.133:443?security=tls&sni=live.989bull.com&type=ws&host=Golestanvpn.com&path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
