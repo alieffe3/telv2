@@ -32,8 +32,6 @@ vless://81294d12-9b29-438d-8af2-2bfcba7bd450@91.99.190.190:2012?security=reality
 
 vless://863b3a17-bb45-493b-ad98-898b490e540c@n0.asmdns.net:2082?path=%2F%3Fed%3D2590&security=none&encryption=none&host=n10.asmdns.net&type=ws#CDN@Filter_breaker@Filter_breaker
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.75:443?sni=v2nGfaSt-Jcr.pagEs.Dev&type=ws&host=v2nGfaSt-Jcr.pagEs.Dev&allowInsecure=0#@Hope_Net-join-us-on-Telegram
-
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&sni=cfDFAd0b.BPb-woRkER-PAnEl-9zT.paGeS.DEV&type=ws&host=cfdfad0b.bpb-worker-panel-9zt.pages.dev&path=%2F2EKVm7PrrsflWmvc%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#proxy_kafee
@@ -55,8 +53,6 @@ vless://baacabc-bcaa-acab-cabd-bcbacbcbcaaa@127.0.0.1:1080?security=tls&type=tcp
 vless://bcbcaaa-aabc-aabc-dacb-ababacbbaccc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.61.49:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.1.108:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.34.228.48:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
