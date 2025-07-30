@@ -24,6 +24,10 @@ vless://16c95530-8276-5477-9e61-799542e502c7@199.232.79.57:443?security=tls&sni=
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
+vless://27f2ce3b-7488-4078-8887-b9c129bddc3f@86.48.24.154:5900?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
+
+vless://27f2ce3b-7488-4078-8887-b9c129bddc3f@86.48.24.154:5900?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
+
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20464%20%28%40Outline_Vpn%29%20free
 
 vless://2be7495d-847b-40ea-a517-b5779effb7ac@1.1.1.1:9999?security=none&type=tcp&packetEncoding=xudp&encryption=none#%20%7C%20@Filter_breaker@Filter_breaker
@@ -74,7 +78,7 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?security=tls&sni
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 
-vless://35f02636-fd1f-4583-8890-cb7b8067dcf1@151.101.3.8:80?security=none&type=ws&host=barkatc3.ir&path=/%54%65%6c%65%67%72%61%6d-%69%70%56%32%52%61%79-%54%65%6c%65%67%72%61%6d-%69%70%56%32%52%61%79-%54%65%6c%65%67%72%61%6d-%69%70%56%32%52%61%79-%54%65%6c%65%67%72%61%6d-%69%70%56%32%52%61%79-%54%65%6c%65%67%72%61%6d-%69%70%56%32%52%61%79%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
 vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?path=%2FKvNugxSUpljMOjgF%2FNzguNDcuMTU3LjY%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=invincible.fafa20.shop&fp=randomized&type=ws&sni=InviNCIble.FAfA20.shOP#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -110,6 +114,8 @@ vless://82a7096c-f8c1-4087-9afd-5bac562438e2@127.0.0.1:443?security=none&encrypt
 
 vless://863b3a17-bb45-493b-ad98-898b490e540c@n0.asmdns.net:2082?path=%2F%3Fed%3D2590&security=none&encryption=none&host=n10.asmdns.net&type=ws#CDN@Filter_breaker@Filter_breaker
 
+vless://863b3a17-bb45-493b-ad98-898b490e540c@n0.asmdns.net:2082?security=none&type=ws&path=/?ed%3D2590&host=n10.asmdns.net&packetEncoding=xudp&encryption=none#| @Filter_breaker
+
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.202.24:10925?security=&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@wolf560.royalmt.life:10925?security=&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
@@ -119,6 +125,10 @@ vless://8df60790-c903-4661-b85d-64c0009378e5@104.19.99.250:443?path=%2F%3Fed&sec
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#proxy_kafee
+
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:2082?security=none&encryption=none&host=%2F%40HiByeVPNN&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
+
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=IaErIbZlCb.WaSaBi1.OrG&fp=chrome&type=ws&sni=IaErIbZlCb.WaSaBi1.OrG#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -130,13 +140,15 @@ vless://b28eb861-1748-4200-ba72-278669edc33b@27.50.48.21:443?path=%2FTelegram%40
 
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
+
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
+
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@45.134.12.5:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://cbf5530d-4a92-4179-913e-1d9b8b5e05da@91.107.130.24:32401?security=&encryption=none&host=fast.com&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@121.178.21.146:33889?allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.210.160.163:1001?allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&authority=%40HiByeVPNN&type=grpc#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN%20460%20%28%40Outline_Vpn%29%20free
 
@@ -146,7 +158,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&secur
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&sni=147135001178.sec22org.com&alpn=h2,http/1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
+
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=&encryption=none&authority=sinvt-sinvt&type=grpc#proxy_kafee
+
+vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
 vless://e84e0eac-7ac9-4029-bdf9-0d79219e60ce@31.44.2.219:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=JoinBadeChannel@antimeli&fp=chrome&pbk=r5t0FMNYQZ6MyEjittGRVQtAtyV8miQC3Cqzcx_cRG4&sid=37c6859775#@Hope_Net-join-us-on-Telegram
 
