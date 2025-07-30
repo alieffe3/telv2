@@ -43,16 +43,16 @@
         </g>
         
         <g>
-            <rect x="121.81818181818181" y="60.0" width="56.81818181818182" height="280.0"
+            <rect x="121.81818181818181" y="200.0" width="56.81818181818182" height="140.0"
                   class="bar"/>
             <text x="152.72727272727272" y="380" 
                   transform="rotate(45, 152.72727272727272, 380)"
                   text-anchor="start" class="tick-label">
                 v2ray_configs_pool
             </text>
-            <text x="152.72727272727272" y="55.0" 
+            <text x="152.72727272727272" y="195.0" 
                   text-anchor="middle" class="tick-label">
-                100.0%
+                50.0%
             </text>
         </g>
         
@@ -183,7 +183,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-07-30T07:21:17.583621
+            Last updated: 2025-07-30T08:22:52.070061
         </text>
     </svg>
     
