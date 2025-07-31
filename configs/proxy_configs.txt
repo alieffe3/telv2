@@ -170,8 +170,6 @@ vless://a20b98fa-b807-4847-a6c4-e54b72391221@france2.okreza151m.ir:6719?security
 
 vless://a20b98fa-b807-4847-a6c4-e54b72391221@or.looksvpn.okreza151m.ir:9901?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20-%20@Filter_breaker%20-%20(%20VIP%20)%20%23005%F0%9F%9A%80
 
-vless://abc082f0-f7b1-4adc-f8ab-6bd113c0bab3@104.17.234.12:8080?type=ws&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D8880#@Hope_Net-join-us-on-Telegram
-
 vless://ad9ae42c-6858-4635-b93d-8bec2169e569@151.101.194.219:80?security=none&sni=snapp.com&type=ws#@Hope_Net-join-us-on-Telegram
 
 vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&encryption=none&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#proxy_kafee
@@ -191,6 +189,8 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.147.50:443?allowInsecure=0&s
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.116.22:2501?allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
+
+vless://d5f2afdf-44b0-4da9-9d7d-3476ebd3dc0e@190.93.245.137:443?security=tls&sni=Ruc80.TehrANsiMAn.co.UK.&type=ws&host=Ruc80.TehrANsiMAn.co.UK.&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://dd3bff3d-5c74-4a82-a77d-0d862ae9d7e1@151.101.0.155:80?security=none&type=ws&host=api.nhl111.ir&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
