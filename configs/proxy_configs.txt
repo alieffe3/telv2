@@ -20,35 +20,17 @@ hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@rb.dport.top:33657/?insecure=1&
 
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@teq.dport.top:33658/?insecure=1&sni=teq.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🇹🇷｜@Filter_breaker
 
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flydg.flylink.cyou:35230/?insecure=1&sni=flydg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#🇩🇪 Germany_flydg_35230 | @Filter_breaker
-
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyels.flylink.cyou:35270/?insecure=1&sni=flyels.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#🇷🇺 Russia_flyels_35270 | @Filter_breaker
-
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyhg.flylink.cyou:35310/?insecure=1&sni=flyhg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#🇰🇷 Korea_flyhg_35310 | @Filter_breaker@Filter_breaker
-
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyhl.flylink.cyou:35250/?insecure=1&sni=flyhl.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#🇳🇱 Netherlands_flyhl_35250 | @Filter_breaker
-
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyjnd.flylink.cyou:35280/?insecure=1&sni=flyjnd.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#🇨🇦 Canada_flyjnd_35280 | @Filter_breaker
-
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#🇺🇸 USA_flymg_35210 | @Filter_breaker
-
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyrb.flylink.cyou:35300/?insecure=1&sni=flyxg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#🇯🇵 Japan_flyrb_35300 | @Filter_breaker
-
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyxg.flylink.cyou:35290/?insecure=1&sni=flyxg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#🇭🇰 HongKong_flyxg_35290 | @Filter_breaker
-
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyxghy.flylink.cyou:35260/?insecure=1&sni=flyxghy.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#🇭🇰 HongKong_flyxghy_35260 | @Filter_breaker
-
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyyg.flylink.cyou:35240/?insecure=1&sni=flyyg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#🇬🇧 UK_flyyg_35240 | @Filter_breaker
-
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.27.132.154:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-
 vless://0d7c7ed3-d23b-4441-a19f-dcd5077bafc4@5.160.144.73:3232?security=&encryption=none&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
+
+vless://0f952643-6643-4de6-9cf7-d3a424d01f8b@51.158.241.51:443?security=reality&flow=xtls-rprx-vision&sni=cloudflare.com&type=tcp&fp=random&pbk=RaNQIPwfe3N1-BhJ7WKLO90aYcu46xeCJZiFYAbyFWs&sid=42#@Hope_Net-join-us-on-Telegram
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20477%20%28%40Outline_Vpn%29%20free Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@138.199.232.36:2087?security=tls&encryption=none&fp=chrome&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://293b72a4-a55e-4319-850e-40514d33afc5@ns.cloudflare.com:8880?security=none&type=ws&path=ws/?ed%3D2048&host=xsndhf.bale-asd.ddns-ip.net&packetEncoding=xudp&encryption=none#@Filter_breaker@Filter_breaker
 
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20476%20%28%40Outline_Vpn%29%20free
 
@@ -225,8 +207,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?path=%2F&security
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=%2F&security=tls&encryption=none&host=PmQ1cCsP9x.GhEiChI.oRg&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=%2F&security=tls&encryption=none&host=RcIhRfOgXf.GiTi3.OrG&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://ea233827-38b4-4397-a2d1-4cb49bb6bc18@[::ffff:55ed:d3db]:80?security=none&type=ws&path=%2Fvless%2F#@Hope_Net-join-us-on-Telegram
 
 vless://ed5e16c9-ef94-4b34-b95b-4cfc0c4a4b81@85.133.221.5:8686?security=&encryption=none&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
