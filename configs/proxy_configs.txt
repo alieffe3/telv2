@@ -188,8 +188,6 @@ vless://bcabaac-baac-cbaa-bcda-cacacbbabcab@127.0.0.1:8080?security=tls&type=tcp
 
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.210.160.163:1001?allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
-
 vless://d5f2afdf-44b0-4da9-9d7d-3476ebd3dc0e@190.93.245.137:443?security=tls&sni=DEc80.TehrANsiMAn.co.UK.&type=ws&host=DEc80.TehrANsiMAn.co.UK.&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
