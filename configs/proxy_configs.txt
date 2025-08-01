@@ -28,18 +28,6 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeir
 
 vless://293b72a4-a55e-4319-850e-40514d33afc5@ns.cloudflare.com:8880?security=none&type=ws&path=ws/?ed%3D2048&host=xsndhf.bale-asd.ddns-ip.net&packetEncoding=xudp&encryption=none#@Filter_breaker@Filter_breaker
 
-vless://2be7495d-847b-40ea-a517-b5779effb7ac@1.1.1.1:9999?security=none&type=tcp&packetEncoding=xudp&encryption=none#%20%7C%20@Filter_breaker@Filter_breaker
-
-vless://2be7495d-847b-40ea-a517-b5779effb7ac@irancell.sbarshia.ir:443?security=reality&sni=tapsi.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480&type=tcp&packetEncoding=xudp&encryption=none#%20%7C%20@Filter_breaker
-
-vless://2be7495d-847b-40ea-a517-b5779effb7ac@irancell.sbarshia.ir:8443?security=reality&sni=snapp.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480&type=tcp&packetEncoding=xudp&encryption=none#%20%7C%20@Filter_breaker
-
-vless://2be7495d-847b-40ea-a517-b5779effb7ac@mci.sbarshia.ir:443?security=reality&sni=zoomit.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480&type=tcp&packetEncoding=xudp&encryption=none#%20%7C%20@Filter_breaker
-
-vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?security=reality&sni=digikala.com&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480&type=tcp&packetEncoding=xudp&encryption=none#3%20%7C%20@Filter_breaker
-
-vless://2be7495d-847b-40ea-a517-b5779effb7ac@s2.sbarshia.ir:8443?security=reality&sni=divar.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480&type=tcp&packetEncoding=xudp&encryption=none#%20%7C%20@Filter_breaker
-
 vless://2d827b0e-93a6-4e65-af06-f962a126a535@cdn-rezenintal.fastsoft98.ir:80?security=none&type=tcp&packetEncoding=xudp&encryption=none#330%20%7C%20%F0%9F%87%A9%F0%9F%87%AA@Filter_breaker-CDN
 
 vless://2d827b0e-93a6-4e65-af06-f962a126a535@msx.soft98speedtest.ir:2087?security=none&type=ws&path=/scer&packetEncoding=xudp&encryption=none#330%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%80%A2%20@Filter_breaker%E2%98%81%EF%B8%8F
