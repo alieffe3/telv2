@@ -42,8 +42,6 @@ vless://3f42938e-bb50-4b98-8328-c6f12cdade3e@172.66.40.99:8080?path=%2Ftelegram-
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
-vless://49a2c7ca-002e-484c-fe76-bed8122007b1@152.42.163.217:443?security=tls&sni=aka.ms&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
-
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@fin01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@tr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
@@ -133,8 +131,6 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:8443?path=%2F&securi
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://b18f9f3f-77ee-49de-9d44-9b4483bb1445@91.92.43.211:8652?mode=gun&security=reality&encryption=none&pbk=Xkw1KXtayEYaShaQLENJzZJmP3KQXpK7O5_Gn6qpIwM&fp=chrome&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs%3Fed%3D2560&sni=openai.com&sid=f92634a26e23f291#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-
-vless://bacabac-acab-acba-cadb-ccaabcacbbab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.153.233:8443?mode=auto&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
