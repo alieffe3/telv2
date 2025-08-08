@@ -76,6 +76,8 @@ vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?security=reality
 
 vless://6d60c0fc-ec20-4c8c-9f43-a6750c6096f2@103.231.75.49:443?path=%2Fxyeywwws&security=tls&encryption=none&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 
+vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@005188006073.sec1org.com:443?allowInsecure=0&alpn=h2,http%5C1.1&security=tls#@Hope_Net-join-us-on-Telegram
+
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?path=%2F&security=tls&encryption=none&type=ws#%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.14:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
@@ -125,6 +127,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.122:443?allowInsecure=1&
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.210:443?allowInsecure=1&sni=pooleno.ir&type=ws&host=pooleno.ir&path=/security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@152.67.130.49:443?allowInsecure=0&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=/?ed=2744security=tls#@Hope_Net-join-us-on-Telegram
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.55.208:443?allowInsecure=0&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=/?ed=2744security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://8e1630d0-23d7-49d6-8d63-f0b56ab80e04@172.66.40.99:2096?path=%2F%40ShadowProxy66%3Fed&security=tls&encryption=none&host=www.dollardoon.com&fp=chrome&type=ws&sni=www.dollardoon.com#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
