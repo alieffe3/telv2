@@ -64,8 +64,6 @@ vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&securit
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.145.94.80:443?allowInsecure=0&sni=BPb-4jH.PaGEs.dev&type=ws&host=BPb-4jH.PaGEs.dev&path=/aIa8EGozH9v6A091?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.122:443?allowInsecure=1&sni=metrix.ir&alpn=h2,http%2F1.1&type=ws&host=metrix.ir&path=/GGPPfZ3NKyOoKNiK?ed=2560fp=randomizedfp=randomized&security=tls#@Hope_Net-join-us-on-Telegram
-
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.210:443?allowInsecure=1&sni=pooleno.ir&type=ws&host=pooleno.ir&path=/GGPPfZ3NKyOoKNiK?ed=2560fp=firefoxfp=firefox&security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@158.180.231.216:443?allowInsecure=0&sni=BPb-4jH.PaGEs.dev&type=ws&host=BPb-4jH.PaGEs.dev&path=/aIa8EGozH9v6A091?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
@@ -99,6 +97,8 @@ vless://bd26e6b0-a865-4c81-b629-d4d07e79873d@172.66.40.99:8080?path=%2F-LiV2ry%4
 vless://c9045738-274c-44b9-b888-80da3fe71951@65.109.183.203:10000?security=&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=hetzner-2.access.name.ng&fp=random&type=ws&sni=hetzner-2.access.name.ng#proxy_kafee
+
+vless://cfe1723e-887f-5184-a2de-3d23cc1ac09a@140.248.139.207:80?type=ws&host=ELiV2-ELENA.COM#@Hope_Net-join-us-on-Telegram
 
 vless://d03d8815-a06f-408f-a62f-6c84869b96a9@elegant-corporation.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws#proxy_kafee
 
