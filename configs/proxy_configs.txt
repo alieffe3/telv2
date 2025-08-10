@@ -98,6 +98,8 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.103:2096?path=%2F&securi
 
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.241:2096?security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
+vless://aaabbcc-abac-aacb-dcba-cbcbbbacaaca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://b6bae6ff-4e6b-40ad-8277-43ae2d71cde8@172.66.44.59:443?path=%2FaFvPTEM508c8nQOb%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&encryption=none&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gkH7imOMi--3t3xcStZT8pp4dlZUEsKN.PagEs.deV#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://b6bae6ff-4e6b-40ad-8277-43ae2d71cde8@172.66.44.59:443?path=%2FaFvPTEM508c8nQOb%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&encryption=none&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gkH7imOMi--3t3xcStZT8pp4dlZUEsKN.PagEs.deV#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
