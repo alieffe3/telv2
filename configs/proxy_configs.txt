@@ -44,11 +44,15 @@ vless://5e802e1a-3c82-41ec-aaca-f6371b8b86a5@160.153.0.11:2083?path=%2FCPI&secur
 
 vless://5e802e1a-3c82-41ec-aaca-f6371b8b86a5@160.153.0.11:2083?path=%2FCPI&security=tls&encryption=none&host=fraG2.MAhSAAmINI.cC&fp=random&type=ws&sni=fraG2.MAhSAAmINI.cC#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 
+vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=uk-09.allhubb.info&fp=randomized&type=xhttp&sni=uk-09.allhubb.info#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+
 vless://6ecaf146-9aae-479c-bc88-f4698d69fe89@3961852.shatak.top:8019?security=reality&encryption=none&pbk=aTzPOCzlpzwluoGjpAaGYbD8CQfUV4BggvJTkWZsinM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.journalofbigdata.springeropen.com&sid=f696e2a3d5ec2c41#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%B3%F0%9F%87%B1
 
 vless://6ecaf146-9aae-479c-bc88-f4698d69fe89@3961852.shatak.top:8019?security=reality&encryption=none&pbk=aTzPOCzlpzwluoGjpAaGYbD8CQfUV4BggvJTkWZsinM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.journalofbigdata.springeropen.com&sid=f696e2a3d5ec2c41#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.219:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AADE%20-%20ViP
+
+vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=%2FShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://78cd6075-2e30-41f6-9b50-cd4da39a4895@188.114.97.1:8880?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=ww.irAnsheep.Web.tr.&type=ws#%40proxy_kafee
 
