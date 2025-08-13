@@ -2,8 +2,6 @@ vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?security=&encrypt
 
 vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.88.144:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-
 vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.32.1:443?path=%2FvpghRaDdORhcsIFV%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=fqjedaza7b2vofj9ihemx319rmo41l7b.pages.dev&fp=randomized&type=ws&sni=FqJEDazA7b2VofJ9iHeMX319rmO41l7b.paGEs.DeV#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.80.1:443?path=%2F6XiwfHqD0d8sijSE%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=fqjedaza7b2vofj9ihemx319rmo41l7b.pages.dev&fp=randomized&type=ws&sni=fqJeDaZA7b2VoFJ9IHEMx319Rmo41l7b.pAGeS.dEv#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
@@ -29,8 +27,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.1
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A7%F0%9F%87%BF
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%BF
-
-vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@103.44.255.81:443?allowInsecure=0&sni=445566.666888.lol&type=ws&host=445566.666888.lol&path=/?ed=2560fp=randomfp=chrome&security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&headerType=none&fp=firefox&type=tcp&sni=www.speedtest.net&sid=e2#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%B3%F0%9F%87%B1
 
@@ -66,9 +62,9 @@ vless://7edc9161-fa59-45ae-b9e9-80ef4bceb68e@85.9.203.125:36563?security=reality
 
 vless://826f524a-cea1-4e44-9b49-3381d13b7593@www.speedtest.net:443?path=%2FkDPocrIW3Ice02v4&security=tls&alpn=http%2F1.1&encryption=none&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=randomized&type=ws&sni=FK31lnDM4w8UJ0YP1dRWLtdtDKO6Y-cu.pages.dEv#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://8373cefa-d68a-439d-89d1-f8a4ad50919e@151.101.2.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://8373cefa-d68a-439d-89d1-f8a4ad50919e@151.101.130.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.49:443?allowInsecure=1&sni=cosmocare.ir&alpn=h2,http%2F1.1&type=ws&host=cosmocare.ir&path=/GGPPfZ3NKyOoKNiK?ed=2560fp=randomized&security=tls#@Hope_Net-join-us-on-Telegram
+vless://8373cefa-d68a-439d-89d1-f8a4ad50919e@151.101.2.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server8.coin.name.ng&type=ws&sni=server8.coin.name.ng#%F0%9F%87%A9%F0%9F%87%AADE-%20Select%20Cdn
 
