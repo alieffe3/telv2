@@ -26,10 +26,6 @@ vless://4d52c5bf-dd6d-4335-8c26-5eac773914d7@cloudgetservice.mcloudservice.site:
 
 vless://4e125438-1a39-440e-95fc-36b9dec03e5f@104.21.43.168:443?path=%2Frandom&security=tls&alpn=http%2F1.1&encryption=none&host=adderall.adaspoloandco.com&fp=firefox&type=ws&sni=adderall.adaspoloandco.com#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://5de15e2b-9995-43f3-aac9-72c85ffdcb12@2.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-
-vless://5de15e2b-9995-43f3-aac9-72c85ffdcb12@2.ariyanln.com:5051?mode=auto&path=%2Fbrand%2Fmiscellaneous%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=digikala.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@172.67.161.104:8443?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&host=FREEDOM31.Pages.DEV&path=%2F&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=uk-09.allhubb.info&fp=randomized&type=xhttp&sni=uk-09.allhubb.info#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
@@ -47,6 +43,8 @@ vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality
 vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%AD
 
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=%2FShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://77f2d54c-f1bd-46ff-af4c-cc44c72fd25e@xn--b6gac.eu.org:8080?allowInsecure=1&sni=feng2.vfl83lnn.workers.dev&type=ws&host=feng2.vfl83lnn.workers.dev&path=/?ed=2048fp=randomized#@Hope_Net-join-us-on-Telegram
 
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.11:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
@@ -67,8 +65,6 @@ vless://7db68497-fbfd-40a3-ac95-96d2ee28b709@cloudgetservice.mcloudservice.site:
 vless://7db68497-fbfd-40a3-ac95-96d2ee28b709@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-de145.maxnetservices.online&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.210:443?allowInsecure=1&sni=pooleno.ir&type=ws&host=pooleno.ir&path=/GGPPfZ3NKyOoKNiK?ed=2560fp=firefox&security=tls#@Hope_Net-join-us-on-Telegram
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.128.29:443?security=tls&sni=ppaL03.KEsaP55326.WoRkerS.DEV&type=ws&host=Ppal03.KesaP55326.WORkeRS.DeV&path=%2Fk11HV31UhyTA9Lnw%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server8.coin.name.ng&type=ws&sni=server8.coin.name.ng#%F0%9F%87%A9%F0%9F%87%AADE-%20Select%20Cdn
 
@@ -112,6 +108,8 @@ vless://c997eaff-4bab-4fff-92e5-8e14dc248dc4@104.18.26.90:443?path=%2Flinkws&sec
 
 vless://cababca-acba-caba-dcba-ccbbaacbaacb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
+
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.21.236.179:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -119,8 +117,6 @@ vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.21.236.179:443?path=%2F&securit
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=%2F&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -133,8 +129,6 @@ vless://e66a1e27-be31-4671-82fc-e810b0f7a8cb@104.18.26.90:443?path=%2Flinkws%3Fe
 vless://e66a1e27-be31-4671-82fc-e810b0f7a8cb@104.18.26.90:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=mAXNeTVIpaP-clOUD205.NETKH3.SIte&type=ws#Channel%20id%3A%20%@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://e77fbe65-01fe-48d0-8069-f6fa8f7a6d81@104.248.142.176:443?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?path=%2F&security=tls&encryption=none&host=9G0oQ6iSjD.kAgHaZ.oRg&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
 vless://eb8532cd-aee1-4a58-b0c0-2fd26c9cd78a@fastkeysolus.com:6023?security=reality&encryption=none&pbk=TwIdbY55oxrQX1FEIscsLOP5DGJ900tarP35IyZWnUk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amazon.it&sid=ff546f9c8d0fd664#%F0%9F%87%B3%F0%9F%87%B1%40ViP_FRAGMENT_v2ray
 
