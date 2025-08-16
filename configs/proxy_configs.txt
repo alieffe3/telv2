@@ -20,9 +20,13 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.1
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+vless://2b7c27b9-dfba-430b-9ee7-88eb1c85af27@51.38.237.113:80?path=%2Fvless%2F&security=&encryption=none&host=---%40ShadowProxy66&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%AB%F0%9F%87%B7
+
 vless://2b7c27b9-dfba-430b-9ee7-88eb1c85af27@51.38.237.113:80?path=%2Fvless%2F&security=&encryption=none&host=---%40ShadowProxy66&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 
 vless://34392035-3520-4535-a039-392039392035@51.91.97.39:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
+
+vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80?path=%2Fvless%2F&security=&encryption=none&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%AC%F0%9F%87%A7
 
 vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80?path=%2Fvless%2F&security=&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 
@@ -42,8 +46,6 @@ vless://52b3eea3-61a1-45f2-a060-da40c822d4a6@77.83.175.25:41080?security=reality
 
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.95.72.22-korosh-kabiri.free4all.com.de:2087?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
-vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=uk-09.allhubb.info&fp=randomized&type=xhttp&sni=uk-09.allhubb.info#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.219:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AADE%20-%20ViP
 
 vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&security=reality&encryption=none&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&fp=chrome&spx=%2F&type=grpc&serviceName=www.nvidia.com&sni=www.nvidia.com&sid=ac8c7f8b46a42c02#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%AD
@@ -53,8 +55,6 @@ vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&securit
 vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%AD
 
 vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%AD
-
-vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=%2FShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.11:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
@@ -118,13 +118,19 @@ vless://Parsashonam-299@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Pars
 
 vless://Parsashonam-299@91.99.16.244:443?mode=auto&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=reality&encryption=none&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&spx=%2F&type=xhttp&sni=Google.com&sid=61e683d41fdb#%F0%9F%87%AD%F0%9F%87%B7%40FreakConfig
 
+vless://a4107f38-a3fc-4ff0-9756-ac0749dd9f07@135.125.239.114:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=370dd394052f2386#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
+
 vless://a4107f38-a3fc-4ff0-9756-ac0749dd9f07@135.125.239.114:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=370dd394052f2386#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://a7686574-cbf9-466a-bf8f-88a104fd0fac@n4.asmdns.net:44185?security=&encryption=none&host=fast.com&headerType=http&type=tcp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://a7686574-cbf9-466a-bf8f-88a104fd0fac@n4.asmdns.net:44185?security=&encryption=none&host=fast.com&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%B5%F0%9F%87%B1%40ViP_FRAGMENT_v2ray
 
 vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@ss.80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%AB%F0%9F%87%B7%40ViP_FRAGMENT_v2ray
+
+vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%B9%F0%9F%87%B7
 
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 
@@ -136,9 +142,13 @@ vless://c997eaff-4bab-4fff-92e5-8e14dc248dc4@104.18.26.90:443?path=%2Flinkws&sec
 
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=iphoster-quran-iran-5.coin.name.ng&fp=chrome&type=ws&sni=iphoster-quran-iran-5.coin.name.ng#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=lease-15.access.name.ng&type=ws&sni=lease-15.access.name.ng#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
+
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=lease-15.access.name.ng&type=ws&sni=lease-15.access.name.ng#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://d0f70661-22ff-49bc-8c50-c71a3d8ef3fd@188.114.98.112:80?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#WS-@ELiV2RaYDataCenter : Dynamic IP
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.51.24:2501?allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tlssecurity=tls#@Hope_Net-join-us-on-Telegram
 
 vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@172.67.156.192:2086?allowInsecure=0&sni=zebelkhan30.quysc64868.workers.dev&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=/?ed=2048#@Hope_Net-join-us-on-Telegram
 
@@ -162,11 +172,17 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.146.202.222:34045?security=reali
 
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.129.208.19:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#IRAN%20639%20%28%40Outline_Vpn%29%20free Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%B3%F0%9F%87%B1
+
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
+
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.42.142.247:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%B3%F0%9F%87%B1
 
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.42.142.247:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN%20635%20%28%40Outline_Vpn%29%20free
 
@@ -205,6 +221,8 @@ vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&p
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://f8e17967-9c69-40c3-a2fb-e139a2a7c2c8@nevn2.iovpn.click:443?security=reality&encryption=none&pbk=b6ztnkLamEySQKDw_IdLqHEx0X88Y0sI7s5BLa0YUGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=016cc6e2de6b#IRAN%20636%20%28%40Outline_Vpn%29%20free
+
+vless://turboo-server@jone.turbooo-server.com:60123?security=&encryption=none&host=tgju.org&headerType=http&type=tcp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://turboo-server@jone.turbooo-server.com:60123?security=&encryption=none&host=tgju.org&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
