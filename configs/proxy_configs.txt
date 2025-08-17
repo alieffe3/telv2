@@ -18,8 +18,6 @@ vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@45.159.48.192:12212?security=tls&sn
 
 vless://2b7c27b9-dfba-430b-9ee7-88eb1c85af27@51.38.237.113:80?path=%2Fvless%2F&security=&encryption=none&host=---%40ShadowProxy66&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%AB%F0%9F%87%B7
 
-vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@151.101.192.155:80?type=ws&host=wwW.yjc.iR&path=%2FConfig%54%65%6C%6C%2CConfig%54%65%6C%6C%2CConfig%54%65%6C%6C%3Fed%3D8089#@Hope_Net-join-us-on-Telegram
-
 vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80?path=%2Fvless%2F&security=&encryption=none&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%AC%F0%9F%87%A7
 
 vless://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974?security=reality&encryption=none&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2075#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
@@ -110,51 +108,27 @@ vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?security=&encrypt
 
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@135.148.232.166:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@135.148.232.166:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.184:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
-
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.184:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.229:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.229:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.86:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
-
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.86:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.77.156:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.77.156:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.57:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
-
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.57:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.58:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.58:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.28.103:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
-
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.28.103:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.30.240:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.30.240:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.31.182:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
-
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.31.182:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.46:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
-
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.46:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://turboo-server@jone.turbooo-server.com:60123?security=&encryption=none&host=tgju.org&headerType=http&type=tcp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
