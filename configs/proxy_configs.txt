@@ -4,6 +4,8 @@ hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&o
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B9%F0%9F%87%B7telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 
+vless://02c07451-40bd-49ea-85e3-aa1020d26980@104.17.97.5:80?security=none&type=ws&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
 vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@104.18.26.90:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-cloud252.netkh3.site&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@104.18.26.90:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-cloud252.netkh3.site&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -231,6 +233,8 @@ vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&p
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.46:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.46:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+
+vless://ffce9d6b-0019-4fe0-ae15-28dd750455cd@104.17.207.36:8880?security=none&type=httpupgrade&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2FDaily_Configs%3Fed%3D80#@Hope_Net-join-us-on-Telegram
 
 vless://turboo-server@jone.turbooo-server.com:60123?security=&encryption=none&host=tgju.org&headerType=http&type=tcp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
