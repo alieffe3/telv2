@@ -96,19 +96,15 @@ vless://a7686574-cbf9-466a-bf8f-88a104fd0fac@n4.asmdns.net:44185?security=&encry
 
 vless://a7686574-cbf9-466a-bf8f-88a104fd0fac@n4.asmdns.net:44185?security=&encryption=none&host=fast.com&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%B5%F0%9F%87%B1%40ViP_FRAGMENT_v2ray
-
-vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@ss.80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%AB%F0%9F%87%B7%40ViP_FRAGMENT_v2ray
-
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%B9%F0%9F%87%B7
 
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 
 vless://baaabcc-abac-aacb-badc-cabbbcacacba@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://bc10bfa0-0b77-45c4-bacc-43a7cbc68ab5@easyflow5er.com:6033?security=reality&encryption=none&pbk=lm_pOODTRgSlqEcSsfebGhzYf-MfzEWEg2aZFPrnrXA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=e4sygoauth.com&sid=bf99917ac8b67654#%F0%9F%87%B3%F0%9F%87%B1%40ViP_FRAGMENT_v2ray
-
 vless://c997eaff-4bab-4fff-92e5-8e14dc248dc4@104.18.26.90:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvip-clgervip146.maxnetcloudservice.com&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://cabacab-acab-baca-acdb-caacccbabbba@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=lease-15.access.name.ng&type=ws&sni=lease-15.access.name.ng#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -151,8 +147,6 @@ vless://e66a1e27-be31-4671-82fc-e810b0f7a8cb@104.18.26.90:443?path=%2Flinkws%3Fe
 vless://e77fbe65-01fe-48d0-8069-f6fa8f7a6d81@104.248.142.176:443?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://e77fbe65-01fe-48d0-8069-f6fa8f7a6d81@104.248.142.176:443?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://eb8532cd-aee1-4a58-b0c0-2fd26c9cd78a@fastkeysolus.com:6023?security=reality&encryption=none&pbk=TwIdbY55oxrQX1FEIscsLOP5DGJ900tarP35IyZWnUk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amazon.it&sid=ff546f9c8d0fd664#%F0%9F%87%B3%F0%9F%87%B1%40ViP_FRAGMENT_v2ray
 
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&encryption=none&headerType=none&type=tcp#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -211,6 +205,8 @@ vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.46:443?mode=stream-one&pa
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.46:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://ffce9d6b-0019-4fe0-ae15-28dd750455cd@104.17.207.36:8880?security=none&type=httpupgrade&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2FDaily_Configs%3Fed%3D80#@Hope_Net-join-us-on-Telegram
+
+vless://ffce9d6b-0019-4fe0-ae15-28dd750455cd@172.66.47.146:8880?security=none&type=httpupgrade&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2FDaily_Configs%3Fed%3D80#@Hope_Net-join-us-on-Telegram
 
 vless://ffce9d6b-0019-4fe0-ae15-28dd750455cd@172.67.204.84:8880?security=none&type=httpupgrade&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2FDaily_Configs%3Fed%3D80#@Hope_Net-join-us-on-Telegram
 
