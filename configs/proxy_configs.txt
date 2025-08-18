@@ -114,15 +114,25 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?security=&encrypt
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 
+vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F&security=tls&encryption=none&type=ws&sni=dl1-de-cdn.easy-upload.org#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&encryption=none&headerType=none&type=tcp#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vless://f2c44225-736e-45a4-9cfb-490fa34e15a0@91.107.178.242:20087?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&encryption=none&host=%2FTELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN%3Fed%3D2048&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@135.148.232.166:443?mode=stream-one&path=%2Fsef&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 
