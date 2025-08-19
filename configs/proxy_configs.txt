@@ -42,6 +42,8 @@ vless://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.64.81:443?mode=auto&path=%2Fx
 
 vless://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.64.81:443?mode=auto&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
+
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
@@ -118,6 +120,8 @@ vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.200.119:443?mode=auto&path=
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%AB%F0%9F%87%B7
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -140,13 +144,19 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?security=&encrypt
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
+vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
+
 vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
+vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss52355.tas-bazi.com:443?mode=stream-one&path=%2Frty&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
+
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss52355.tas-bazi.com:443?mode=stream-one&path=%2Frty&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss80361.tas-bazi.com:443?mode=stream-one&path=%2Frty&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss80361.tas-bazi.com:443?mode=stream-one&path=%2Frty&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
