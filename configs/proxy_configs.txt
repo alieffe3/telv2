@@ -54,8 +54,6 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.21:443?path=%2F&security=
 
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.21:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=%2F&security=none&encryption=none&host=light-presence.oneeat.co&type=ws#IRAN%20657%20%28%40Outline_Vpn%29%20free
-
 vless://7ff23c33-a3b7-4a24-93fd-2d3dcbfa62b1@104.16.1.106:80?path=%2F&security=&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@proxy_kafee
 
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&security=&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%AC
@@ -107,8 +105,6 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&sec
 vless://d0f70661-22ff-49bc-8c50-c71a3d8ef3fd@188.114.98.112:80?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#WS-@ELiV2RaYDataCenter : Dynamic IP
 
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#@proxy_kafee
-
-vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#IRAN%20659%20%28%40Outline_Vpn%29%20free
 
 vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%AD
 
@@ -169,8 +165,6 @@ vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encrypt
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IRAN%20656%20%28%40Outline_Vpn%29%20free
 
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@proxy_kafee
 
