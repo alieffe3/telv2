@@ -4,17 +4,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.148.205:22222?security=tls&sn
 
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=grpc&serviceName=Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee&mode=multi&security=tls&encryption=none&path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#@proxy_kafee
 
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%BA
-
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
 vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&sni=blog.ruangguru.com.servpn.my.id#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&sni=blog.ruangguru.com.servpn.my.id#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=%2Fid5%3F%40&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=randomized&type=ws&sni=bakrie.ac.id.servpn.my.id#@proxy_kafee
 
@@ -23,8 +17,6 @@ vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:44
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK:80?path=%2F&security=&encryption=none&type=ws#@proxy_kafee
 
 vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@blog.ruangguru.com.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&sni=blog.ruangguru.com.servpn.my.id#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@blog.ruangguru.com.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&sni=blog.ruangguru.com.servpn.my.id#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.64.81:443?mode=auto&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
@@ -40,27 +32,15 @@ vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=grpc&service
 
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=%2Fid5%3Fed%3D2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=%2Fid5%3Fed%3D2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://7013f10c-d6ed-4a7e-9ea2-c391e4ce03d4@151.101.194.165:80?security=none&type=ws&host=bitonamisham.ir&path=%2F%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.21:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.21:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&security=&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%AC
-
 vless://89aa82da-c5ff-43aa-9e07-2a3f6f253fab@109.207.171.66:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=JoinBadeChannel@antimeli&fp=chrome&pbk=r5t0FMNYQZ6MyEjittGRVQtAtyV8miQC3Cqzcx_cRG4&sid=37c6859775#@Hope_Net-join-us-on-Telegram
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.10.227:443?security=tls&sni=ppAL03.yEyESiB146.WorKers.DEv&type=ws&host=PPAL03.YeyeSIB146.WOrkeRS.dev&path=%2FMuhCrbkPTOFJDDen%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server12.coin.name.ng&type=ws&sni=server12.coin.name.ng#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -76,11 +56,7 @@ vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%
 
 vless://b6bae6ff-4e6b-40ad-8277-43ae2d71cde8@172.66.47.197:443?path=%2FOHs6g3YZDV8Csi6I%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&encryption=none&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gKh7ImOMi--3t3XCStzt8pP4DLZUesKN.paGes.dEv#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://b6bae6ff-4e6b-40ad-8277-43ae2d71cde8@172.66.47.197:443?path=%2FOHs6g3YZDV8Csi6I%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&encryption=none&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gKh7ImOMi--3t3XCStzt8pP4DLZUesKN.paGes.dEv#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
 vless://b6bae6ff-4e6b-40ad-8277-43ae2d71cde8@www.speedtest.net:443?path=%2FtCeQCC3wk1L9eIak%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&encryption=none&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://b6bae6ff-4e6b-40ad-8277-43ae2d71cde8@www.speedtest.net:443?path=%2FtCeQCC3wk1L9eIak%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&encryption=none&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
@@ -89,10 +65,6 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?mode=stream-one&
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%B0
-
-vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%B0
-
-vless://c97861ff-0b79-44df-9019-6f8b5dd796ee@185.119.240.34:4009?type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://cabacba-aacb-caba-dcab-babccbbccaaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -110,11 +82,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&secur
 
 vless://df0e67fc-a6e5-41d8-95fd-97dfb96d2802@207.154.236.4:20087?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://df0e67fc-a6e5-41d8-95fd-97dfb96d2802@207.154.236.4:20087?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%B9%F0%9F%87%B7
-
-vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
