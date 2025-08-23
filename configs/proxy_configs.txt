@@ -16,11 +16,11 @@ vless://18cd7434-d639-11ee-aaa8-00505603e70d@172.67.73.241:443?security=tls&sni=
 
 vless://193b95be-ba07-46ba-9ccf-8b4d3d469ca9@151.101.192.155:80?security=none&type=ws&host=BEAUTIFULTEHRAN.IR&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://20b4cb22-6ddf-454d-aee2-d1003c844e0d@162.159.137.232:443?security=tls&sni=hello-world-falling-brook-d33c.celtklex0k.workers.dev&type=ws&host=hello-world-falling-brook-d33c.celtklex0k.workers.dev&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.106:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://35409a35-02b3-493d-87c2-0c56ee000ca3@151.101.66.133:443?security=tls&sni=live.989bull.com&type=ws&host=Golestanvpn.com&path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
+vless://3894cbc1-e06a-11ee-95c9-00505603e70d@104.26.10.137:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&host=st-fr-1.brocdn.com&path=%2Fwebsocket#@Hope_Net-join-us-on-Telegram
 
 vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=%2Fid5%3F%40&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=randomized&type=ws&sni=bakrie.ac.id.servpn.my.id#@proxy_kafee
 
@@ -51,8 +51,6 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443?path=%2F&security=
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.99.122:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:2096?security=tls&sni=2rayNGSeLlLbot-ahq.pAGeS.DEV&type=ws&host=2RaYnGselllBOT-ahQ.pAGeS.Dev&path=%2FH02XLnBH4BMsnkxb%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
@@ -105,6 +103,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880/?type=grpc&enc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#S567-197505 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?mode=gun&security=none&encryption=none&type=grpc#@Awlix_ir Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
