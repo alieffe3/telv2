@@ -88,9 +88,9 @@ vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.244.210:443?security=tls&sni
 
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.244.245:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.245.57:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.244.74:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.188:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.245.57:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.212:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
@@ -110,7 +110,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@108.162.193.155:443?security=tls&sn
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@130.61.23.77:443?security=tls&sni=Bpb-4jH.PaGEs.DeV&type=ws&host=Bpb-4Jh.paGES.dev&path=%2FsGZk15Sk2xieVki8%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.238.18.74:443?security=tls&sni=BPb-4jH.PaGEs.dev&type=ws&host=bpb-4jH.PaGeS.DEV&path=%2FaIa8EGozH9v6A091%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.145.94.80:443?security=tls&sni=BPb-4jH.PaGEs.dev&type=ws&host=bpb-4jH.PaGeS.DEV&path=%2FaIa8EGozH9v6A091%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@158.178.238.239:443?security=tls&sni=Bpb-4jH.PaGEs.DeV&type=ws&host=Bpb-4Jh.paGES.dev&path=%2FsGZk15Sk2xieVki8%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
@@ -157,6 +157,8 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=%2F%3Fed%3
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2F%3Fed&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B7
 
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2F%3Fed&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A8%F0%9F%87%B7
+
+vless://baacbac-acab-acab-abcd-abcabbcbcaca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
