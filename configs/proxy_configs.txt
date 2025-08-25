@@ -16,8 +16,6 @@ vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?path=%2Frsrjowws&
 
 vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?path=%2Frsrjowws&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%AB%F0%9F%87%B7
 
-vless://2c8e1044-87da-4814-b945-a24c690bd2bd@49.12.232.18:10813?security=reality&sni=microsoft.com&type=grpc&serviceName=@proprojec&fp=chrome&pbk=3VRiVIhtj5P8xNhG8CxSH6xzH9o52Pl1Do_ptHsXjgU&sid=e2dec8655c#@Hope_Net-join-us-on-Telegram
-
 vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=%2Fid5%3F%40&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=randomized&type=ws&sni=bakrie.ac.id.servpn.my.id#@proxy_kafee
 
 vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=%2Fid5%3F%40&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=randomized&type=ws&sni=bakrie.ac.id.servpn.my.id#proxy_kafee
@@ -31,8 +29,6 @@ vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK:80?path=%2F&security=&encryption=none&type=ws#proxy_kafee
 
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
-
-vless://60cc9382-20ad-4d7b-b326-93b0fa7a1e95@45.252.182.136:2087?security=none&type=tcp&host=revershop.top&path=%2F&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.19.101.12:80?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 
@@ -70,6 +66,22 @@ vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.49.149:443?security=tls&sni
 
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.136:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
+vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.99:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.98.102:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.244.16:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.188:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.58:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.238.18.74:443?security=tls&sni=BPb-4jH.PaGEs.dev&type=ws&host=bpb-4jH.PaGeS.DEV&path=%2FaIa8EGozH9v6A091%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.153.116:443?security=tls&sni=1-79u.pages.dev&type=ws&host=1-79u.pages.dev&path=%3Fed%3D2851#@Hope_Net-join-us-on-Telegram
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.246.161:443?security=tls&sni=BpbpanEL.Ac.CN.EU.oRg&type=ws&host=BpbpanEL.Ac.CN.EU.oRg&path=%2Fp3stxwx49t13atgt%2Fchjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw%3D%3D%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
 vless://8df60790-c903-4661-b85d-64c0009378e5@104.25.227.244:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=f1.parsa.filegear-sg.me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://8df60790-c903-4661-b85d-64c0009378e5@104.25.227.244:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=f1.parsa.filegear-sg.me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
@@ -104,8 +116,6 @@ vless://9cbdc595-1d8d-4443-af07-99149153d025@5.180.24.162:443?security=tls&sni=b
 
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://aacbbac-acba-aabc-dbca-cbabbacbcaca@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B7
@@ -119,8 +129,6 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2F%3Fed&s
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://cbacaba-abca-aacb-dacb-cbaccababbca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%AD
 
