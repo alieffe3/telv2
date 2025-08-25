@@ -86,9 +86,7 @@ vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=&encr
 
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=%2F&security=none&encryption=none&host=light-presence.oneeat.co&type=ws#IRAN%20744%20%28%40Outline_Vpn%29%20free
 
-vless://803025d6-bd53-4c71-8ed8-70fe3dceaa6e@104.26.14.85:443?security=tls&sni=xsvp.10203151060166.ir&type=ws&host=xsvp.10203151060166.ir&path=/&fp=firefox#@Hope_Net-join-us-on-Telegram
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.153.62:443?security=tls&sni=1-79u.pages.dev&type=ws&host=1-79u.pages.dev&path=%3Fed%3D2851#@Hope_Net-join-us-on-Telegram
+vless://803025d6-bd53-4c71-8ed8-70fe3dceaa6e@172.67.73.163:443?security=tls&sni=xsvp.10203151060166.ir&type=ws&host=xsvp.10203151060166.ir&path=/&fp=firefox#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.54:2096?security=tls&sni=2RAYNgsellLBoT-emG.PAGeS.dEv&type=ws&host=2RAYNgSeLLLboT-EmG.pAgeS.DEV&path=%2F5pl8QEnuYcUfFIcK%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
@@ -263,6 +261,8 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=Rh0Pw06CtP.wAsAbI7890.oRg&fp=chrome&type=ws&sni=Rh0Pw06CtP.wAsAbI7890.oRg#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=Rh0Pw06CtP.wAsAbI7890.oRg&fp=chrome&type=ws&sni=Rh0Pw06CtP.wAsAbI7890.oRg#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://ed5b40c1-1cb7-40c3-a3e1-47a74ced8bf5@172.67.153.21:8443?security=tls&sni=joinbade.antimelichannel.ggff.net&type=grpc&serviceName=JoinBadeChannel@antimeli&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@proxy_kafee
 
