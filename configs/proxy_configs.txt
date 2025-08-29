@@ -4,8 +4,6 @@ hysteria2://287ca8c3-267f-4ba4-a48a-683c450d07f2@b3cc762f4cb7.anondns.net:27063?
 
 hysteria2://287ca8c3-267f-4ba4-a48a-683c450d07f2@eaee3c16e5af.anondns.net:27062?insecure=0#@v2ray_configs_pool
 
-hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 hysteria2://d9e61826-ac59-470e-ac80-515afa9d557f@108.181.5.253:35000?sni=www.apple.com&insecure=1&mport=35000-39000#@v2ray_configs_pool
 
 hysteria2://d9e61826-ac59-470e-ac80-515afa9d557f@129.151.251.122:35000?sni=www.lamer.com.hk&insecure=1&mport=35000-39000#@v2ray_configs_pool
@@ -27,8 +25,6 @@ hysteria2://d9e61826-ac59-470e-ac80-515afa9d557f@167.234.251.78:35000?sni=www.ap
 hysteria2://d9e61826-ac59-470e-ac80-515afa9d557f@208.87.242.77:35000?sni=www.apple.com&insecure=1&mport=35000-39000#@v2ray_configs_pool
 
 hysteria2://d9e61826-ac59-470e-ac80-515afa9d557f@208.87.242.97:35000?sni=www.apple.com&insecure=1&mport=35000-39000#@v2ray_configs_pool
-
-hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
 
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?type=grpc&serviceName=Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee&mode=multi&security=tls&encryption=none&path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%2F%3&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#proxy_kafee
 
@@ -54,13 +50,9 @@ vless://287ca8c3-267f-4ba4-a48a-683c450d07f2@b3cc762f4cb7.anondns.net:27064?encr
 
 vless://287ca8c3-267f-4ba4-a48a-683c450d07f2@eaee3c16e5af.anondns.net:27065?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mensura.cdn-apple.com&fp=edge&pbk=FLLqtqW0TlqQ7PADwT8nuU7WPTAg99TwlBd9c3v0p0Q&sid=8f59e998&spx=%2F&type=tcp&headerType=none#@v2ray_configs_pool
 
-vless://2e59cae9-094c-4cdf-92c7-7d13cf479ba1@172.66.46.49:443?security=tls&sni=90817823561545673166562762924388.v2line.net&type=ws&host=90817823561545673166562762924388.v2line.net&path=/V2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=randomized&alpn=http/1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.221.194:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.221.194:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://3b397cf8-c161-46d4-f7d0-14735796538c@mci.itbookshop.sbs:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
 vless://3d1c38ee-64b9-4792-8752-a7fa128a1d0d@www.speedtest.net:8443?path=%2FbjPG7HijNQbb27YI%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&security=tls&alpn=http%2F1.1&encryption=none&host=mahsa.alluniversity.online&fp=randomized&type=ws&sni=maHsA.allUNIVeRsiTY.onLine#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -71,8 +63,6 @@ vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=grpc&serviceName=Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee - Telegram : @proxy_kafee&mode=multi&security=tls&encryption=none&path=%2Fid5%3Fed%3D2048%40&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#proxy_kafee
 
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK:80?path=%2F&security=&encryption=none&type=ws#proxy_kafee
-
-vless://50b25340-baf4-4e5b-b1d8-cba632e61623@83.149.105.62:7195?mode=gun&security=none&encryption=none&type=grpc&serviceName=7195vless#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=none&encryption=none&fp=chrome&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
@@ -98,15 +88,9 @@ vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?security=reality
 
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://6f27b38b-7859-49b4-8382-ea33cee78d82@151.101.66.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=meloch-de.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn26.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-
-vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn28.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.59.54:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
@@ -128,11 +112,11 @@ vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&sec
 
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server13.coin.name.ng&type=ws&sni=server13.coin.name.ng#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
+vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&encryption=none&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%AD
 
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A8%F0%9F%87%AD
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.90:443?security=tls&sni=dw.ylks.xyz&type=ws&host=dw.ylks.xyz&path=%2Fbluefp%3Dchrome#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@48.217.34.120:443?security=tls&sni=dv.ylks.xyz&type=ws&host=dv.ylks.xyz&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 
@@ -145,8 +129,6 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@104.20.28.30:443?path=%2FFree-CF-Pr
 vless://abacabc-bcaa-abac-adcb-bcbcaacabacb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://b9e82117-ed3a-4098-8153-100ca12aa523@104.17.228.60:443?security=tls&sni=hdfy5persiaserverc1.afsharidempire.uk&type=grpc&serviceName=VM9JThTUmfBox4IUADVrA&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
 
 vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?security=reality&encryption=none&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=816473be23c2#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%AE%F0%9F%87%B8
 
@@ -192,8 +174,6 @@ vless://d9e61826-ac59-470e-ac80-515afa9d557f@kb.aws7.yydjc.top:443?encryption=no
 
 vless://d9e61826-ac59-470e-ac80-515afa9d557f@kbgs.hinet.tw1.yydjc.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gopro.com&fp=chrome&pbk=TMwVM6Se3KqnJX6ArrqsFyr5wDIuk9weurW38h8zIjQ&sid=5a337f9f&type=tcp&headerType=none#@v2ray_configs_pool
 
-vless://de44b044-8f90-4e18-b742-16591667ff96@4.206.223.188:8443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#@Hope_Net-join-us-on-Telegram
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -213,6 +193,4 @@ vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F%3Fed%3D20
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#proxy_kafee
 
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
-
-vless://f6b74f9a-0ac7-43f0-a4cc-5cee6f1eaf7f@de.gpairnetwork369.de:3020?security=reality&encryption=none&pbk=NVjEaDFrdzaFQHvMt8BPORsLFR3iD8NA31Dpn-1HRFk&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=ecd8d10c1518fb7b#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
