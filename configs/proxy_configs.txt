@@ -52,8 +52,6 @@ vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFre
 
 vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@35.166.16.147:80?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.236.40.161:80?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
-
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.sfasti.ru&fp=chrome&security=reality&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.sfasti.ru&fp=chrome&security=reality&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
@@ -108,6 +106,8 @@ vless://3821b50f-4389-43d7-b08f-7b9e2861bb95@www.visaeurope.ch:2086?path=%40Shad
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#proxy_kafee
 
+vless://452f1138-18f7-4f6a-82ea-123277732f54@104.17.148.22:443?security=tls&sni=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org&type=ws&host=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org&path=%2F%3Fed%3D2048&fp=randomized#@Hope_Net-join-us-on-Telegram
+
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%AA
 
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%AE%F0%9F%87%AA
@@ -138,6 +138,10 @@ vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946/?type=ws&encrypt
 
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946/?type=ws&encryption=none&flow=&path=%2F#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A7%F0%9F%87%AC
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.234:443?allowInsecure=1&sni=behdasht.hrtc.ir&type=ws&host=behdasht.hrtc.ir&path=/H?ed=2560fp=randomized&security=tls#@Hope_Net-join-us-on-Telegram
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.247:443?allowInsecure=1&sni=Sanjeshp.Ir&alpn=h2,http/1.1&type=ws&host=Sanjeshp.Ir&path=/security=tls#@Hope_Net-join-us-on-Telegram
+
 vless://8acfbd74-89e3-4885-a747-25a32dfcf9e0@dok.iranshopering.ir:2999?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&sni=refersion.com&sid=b6c24852f86067a6#%F0%9F%87%AB%F0%9F%87%B7%20%7C%40proxy_kafeeAr many:
 
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server12.coin.name.ng&type=ws&sni=server12.coin.name.ng#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -155,6 +159,8 @@ vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F
 vless://aa670e7b-3738-46b6-b9e6-903c297775de@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fhlrgobws&security=tls&encryption=none&host=638919346453552455.esfahan-prx-dnraaby.info&type=ws&sni=638919346453552455.esfahan-prx-dnraaby.info#proxy_kafee
 
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@104.20.28.30:443?path=%2FFree-CF-Proxy-AT24%3F--TELEGRAM-ShadowProxy66&security=tls&encryption=none&host=freexxx.ndeso.web.id&type=ws&sni=freexxx.ndeso.web.id#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://abccaba-abac-caba-dacb-aabbacccabbc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#proxy_kafee
 
