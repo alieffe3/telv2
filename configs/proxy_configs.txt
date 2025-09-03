@@ -42,8 +42,6 @@ vless://38fb3d80-682a-42ea-902a-015b58e202ad@[2606:4700:9ad4:7cca:cad1:6680:5c0:
 
 vless://38fb3d80-682a-42ea-902a-015b58e202ad@[2606:4700:9ad4:7cca:cad1:6680:5c0:43a]:443?path=%2Faioproxybot%2F47.236.119.190-51342&security=tls&encryption=none&host=aio.loophole.Biz.iD&fp=randomized&type=ws&sni=aio.loophole.Biz.iD#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B8%F0%9F%87%AC
 
-vless://3d554bba-9c77-499f-9055-1eb42058ed00@230920393.f-sub.com:3799?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40EuServer Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#proxy_kafee
 
 vless://408c9c01-b1aa-4c8a-9b6b-f048092700ba@172.66.47.141:443?security=tls&sni=CHANnEl-iD-EliV2RAY.pAGES.DEv&type=ws&host=channel-id-eliv2ray.pages.dev&path=%2F&fp=qq#@Hope_Net-join-us-on-Telegram
@@ -107,6 +105,8 @@ vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
+
+vless://6fec7d42-7dc5-40a3-b722-16d9260fb618@104.17.42.10:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.21:443?path=%2F&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
