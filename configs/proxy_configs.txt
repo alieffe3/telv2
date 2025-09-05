@@ -24,23 +24,23 @@ vless://3638ee37-de5b-4a01-9c06-4e34ab96a094@64.226.117.34:46970?path=%2F%40Shad
 
 vless://38fb3d80-682a-42ea-902a-015b58e202ad@[2606:4700:9ad4:7cca:cad1:6680:5c0:43a]:443?path=%2Faioproxybot%2F47.236.119.190-51342&security=tls&encryption=none&host=aio.loophole.Biz.iD&fp=randomized&type=ws&sni=aio.loophole.Biz.iD#Channel%20id%3A%20%40ShadowProxy66%20
 
-vless://38fb3d80-682a-42ea-902a-015b58e202ad@[2606:4700:9ad4:7cca:cad1:6680:5c0:43a]:443?path=%2Faioproxybot%2F47.236.119.190-51342&security=tls&encryption=none&host=aio.loophole.Biz.iD&fp=randomized&type=ws&sni=aio.loophole.Biz.iD#Channel%20id%3A%20%40proxy_kafee%20
-
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#proxy_kafee
 
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=&encryption=none&type=xhttp#proxy_kafee
 
 vless://464ec76e-fd60-4ad4-993e-d2c262f88ed1@de.pixvpn.app:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://464ec76e-fd60-4ad4-993e-d2c262f88ed1@de.pixvpn.app:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
-
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#proxy_kafee
 
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
+vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
+
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
+
+vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
 
@@ -80,11 +80,7 @@ vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?path=%2F&securi
 
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
-
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40ShadowProxy66&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40ShadowProxy66&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.150:443?security=tls&sni=MabdI.PAGeS.DEv&type=ws&host=MABdi.pagEs.Dev&path=%2F9GqWAHqtHAZpMxkq%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
@@ -100,15 +96,9 @@ vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stre
 
 vless://9455a3a8-bc7b-4577-bef5-7a8757fdda13@69.84.182.90:8880?security=&encryption=none&host=Suddjsbsj.parspack.com.tr.&type=httpupgrade#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
-vless://9455a3a8-bc7b-4577-bef5-7a8757fdda13@69.84.182.90:8880?security=&encryption=none&host=Suddjsbsj.parspack.com.tr.&type=httpupgrade#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
-
 vless://9455a3a8-bc7b-4577-bef5-7a8757fdda13@74.63.11.211:1002?mode=auto&path=%2FApi%2FAS&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20750000%2C%20%22scMaxConcurrentPosts%22%3A%2040%2C%20%22scMinPostsIntervalMs%22%3A%2020%2C%20%22xPaddingBytes%22%3A%20%22500-1500%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&fp=firefox&type=xhttp&sni=cdn.jsdelivr.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://9455a3a8-bc7b-4577-bef5-7a8757fdda13@74.63.11.211:1002?mode=auto&path=%2FApi%2FAS&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20750000%2C%20%22scMaxConcurrentPosts%22%3A%2040%2C%20%22scMinPostsIntervalMs%22%3A%2020%2C%20%22xPaddingBytes%22%3A%20%22500-1500%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&fp=firefox&type=xhttp&sni=cdn.jsdelivr.net#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
-
 vless://9455a3a8-bc7b-4577-bef5-7a8757fdda13@www.speedtest.net:8880?security=&encryption=none&host=Suddjsbsj.parspack.com.tr.&type=httpupgrade#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://9455a3a8-bc7b-4577-bef5-7a8757fdda13@www.speedtest.net:8880?security=&encryption=none&host=Suddjsbsj.parspack.com.tr.&type=httpupgrade#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -124,13 +114,9 @@ vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=&enc
 
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://baaacbc-aacb-cbaa-cadb-babccbccbaaa@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%B0
 
 vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%B0
-
-vless://c1b3bed6-378d-4a60-832a-c9c055f4585b@manager.andishehnegariran.ir:443?encryption=none&security=tls&fp=chrome&type=ws&path=%2F33911%2Fmehdi#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.17.148.22:8443?path=%2F&security=tls&encryption=none&host=iphoster-quran-iran-4.coin.name.ng&fp=chrome&type=ws&sni=iphoster-quran-iran-4.coin.name.ng#proxy_kafee
 
@@ -144,15 +130,13 @@ vless://cd2e9541-3fce-4d95-9bec-919d884f911e@mark-bezanberimtehroon.info:443?pat
 
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
-
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
+
+vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&spx=%2FTELEGRAM_JKVPN_JKVPN&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&spx=%2FTELEGRAM_JKVPN_JKVPN&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
-
-vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AA
 
@@ -160,11 +144,15 @@ vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&enc
 
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.97.71:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.97.71:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B3%F0%9F%87%B1
+
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.97.71:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.97.71:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B3%F0%9F%87%B1
 
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
+
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B3%F0%9F%87%B1
 
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
@@ -256,8 +244,6 @@ vless://e4a4438f-585b-4555-b8e3-f032def5819c@46.101.215.66:443?mode=stream-one&p
 
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@64.226.86.253:443?mode=stream-one&path=%2Fsad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://ebb34cb0-93d6-4fb0-86f5-663eb18c949e@manager.andishehnegariran.ir:443?encryption=none&security=tls&fp=chrome&type=httpupgrade&path=%2F12032%2Fmehdi#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&sni=plaza.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&sni=plaza.ir#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
@@ -273,6 +259,8 @@ vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?path=%2FJCG7HcKpCW
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?path=%2FJCG7HcKpCWxijB2m2wplj95x2yIWiU&security=tls&alpn=http%2F1.1&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F138.0.0.0%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&host=plaza.ir&fp=chrome&type=xhttp&sni=plaza.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tempail.com&sid=f47f400cc96a4e#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tempail.com&sid=f47f400cc96a4e#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8&host=tempail.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tempail.com&sid=f47f400cc96a4e#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
