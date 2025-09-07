@@ -6,6 +6,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.215.117.216:22222?security=tls&s
 
 vless://09b5f517-10c1-42e7-be6f-b11c7ba2616f@5.75.199.210:113?security=reality&sni=speedtest.net&type=tcp&fp=chrome&pbk=m6WcjHlW1I1tOTKZUnK7rtk27bbUyuvYJsLiNGysaS0&sid=e8de8d2793daef#@Hope_Net-join-us-on-Telegram
 
+vless://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087?security=tls&sni=subhiddify.mmdv2.host&type=ws&host=subhiddify.mmdv2.host#@Hope_Net-join-us-on-Telegram
+
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://259c3933-326b-4271-b58d-169acb57bc6f@104.17.148.22:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
@@ -15,8 +17,6 @@ vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.147.22:80?security=none&type
 vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.148.22:80?security=none&type=httpupgrade&host=6h4.pqhosti4.ir&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:80?type=ws&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
-vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@172.64.155.187:2086?type=ws&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@172.64.155.187:8080?type=ws&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
@@ -49,8 +49,6 @@ vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 
 vless://75b84d4c-4da1-4976-a370-96434ed8e34f@151.101.128.155:80?security=none&type=ws&host=vipfast_7.com&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
-vless://7c2ba149-2827-4e07-b82a-61b74b76d68b@104.16.155.10:443?security=tls&sni=demonstrates-breach-willing-pa.trycloudflare.com&type=ws&host=demonstrates-breach-willing-pa.trycloudflare.com&path=%2F7c2ba149-2827-4e07-b82a-61b74b76d68b-vless%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://82e684ea-ff0f-4d4e-bd09-9dffe5466bcd@top.fxgoldensignals.com:8443?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
