@@ -54,8 +54,6 @@ vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.222.79:443?security=tls&sni=
 
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://aaacbbc-caba-caab-acbd-ccabbabcabac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://acbacba-abac-abac-bacd-baaccabcbcab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -66,6 +64,8 @@ vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?path=%2F&security=tl
 
 vless://baacbac-baac-caab-cadb-bcabcacbbaca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://bbacaac-caab-abac-cbad-cbcaabcababc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://c2c5b83f-4892-c49f-b9d1-7af232611820@64.227.32.13:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.latimes.com&sid=6ea3daaac3d6bede#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 
 vless://c341bdd5-038c-4a83-8519-b21c88ab6c27@188.245.67.23:50875?security=reality&sni=business.stackoverflow.com&type=tcp&fp=chrome&pbk=3TrvJr0BfbCPdv-e4LZcUBotYcuifQZH3YER8FIZcS4&sid=a51aabe09367#@Hope_Net-join-us-on-Telegram
@@ -73,6 +73,8 @@ vless://c341bdd5-038c-4a83-8519-b21c88ab6c27@188.245.67.23:50875?security=realit
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.52:27774?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@william-siasookhte.info:27774?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.94.206.40:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.165.24.25:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#@Hope_Net-join-us-on-Telegram
 
