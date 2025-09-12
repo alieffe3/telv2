@@ -34,8 +34,6 @@ vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?path=%2Fteqalfws&s
 
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=%2Fstatue%2F%3F%3Fed&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server12.coin.name.ng&type=ws&sni=server12.coin.name.ng#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&encryption=none&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -62,7 +60,11 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.94.206.40:587?sni=a.mifeng.us.k
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.32.255.24:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@195.200.19.139:6060?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#@Hope_Net-join-us-on-Telegram
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.87.11.56:8000?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@212.13.236.132:10001?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@222.112.148.240:11310?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@37.230.62.172:8080?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
