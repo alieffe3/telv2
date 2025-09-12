@@ -29,16 +29,16 @@
         <!-- Bars and labels -->
     
         <g>
-            <rect x="60" y="200.0" width="56.81818181818182" height="140.0"
+            <rect x="60" y="60.0" width="56.81818181818182" height="280.0"
                   class="bar"/>
             <text x="90.9090909090909" y="380" 
                   transform="rotate(45, 90.9090909090909, 380)"
                   text-anchor="start" class="tick-label">
                 ShadowProxy66
             </text>
-            <text x="90.9090909090909" y="195.0" 
+            <text x="90.9090909090909" y="55.0" 
                   text-anchor="middle" class="tick-label">
-                50.0%
+                100.0%
             </text>
         </g>
         
@@ -85,16 +85,16 @@
         </g>
         
         <g>
-            <rect x="307.27272727272725" y="200.0" width="56.81818181818182" height="140.0"
+            <rect x="307.27272727272725" y="60.0" width="56.81818181818182" height="280.0"
                   class="bar"/>
             <text x="338.1818181818182" y="380" 
                   transform="rotate(45, 338.1818181818182, 380)"
                   text-anchor="start" class="tick-label">
                 Hope_Net
             </text>
-            <text x="338.1818181818182" y="195.0" 
+            <text x="338.1818181818182" y="55.0" 
                   text-anchor="middle" class="tick-label">
-                50.0%
+                100.0%
             </text>
         </g>
         
@@ -113,16 +113,16 @@
         </g>
         
         <g>
-            <rect x="430.9090909090909" y="200.0" width="56.81818181818182" height="140.0"
+            <rect x="430.9090909090909" y="60.0" width="56.81818181818182" height="280.0"
                   class="bar"/>
             <text x="461.8181818181818" y="380" 
                   transform="rotate(45, 461.8181818181818, 380)"
                   text-anchor="start" class="tick-label">
                 vpnfail_vless
             </text>
-            <text x="461.8181818181818" y="195.0" 
+            <text x="461.8181818181818" y="55.0" 
                   text-anchor="middle" class="tick-label">
-                50.0%
+                100.0%
             </text>
         </g>
         
@@ -183,7 +183,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-09-12T09:31:44.093942
+            Last updated: 2025-09-12T10:16:29.058227
         </text>
     </svg>
     
