@@ -2,11 +2,11 @@ vless://0503fa3c-f914-4421-a1e5-72c1f8d781a2@104.21.32.1:443?path=%2FwGEZwUQmT9l
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#@Vip_fragment_v2ray
 
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=%2Fid5%3Fed%3D2560%2F%3FMTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server12.coin.name.ng&type=ws&sni=server12.coin.name.ng#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&encryption=none&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -19,8 +19,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@125.128.118.250:27018?sni=a.mifeng.
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@140.238.2.81:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.94.206.40:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.32.255.24:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.16.242.208:8889?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
@@ -38,7 +36,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.130.20.40:1001?sni=a.mifeng.us.k
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.138.90.43:11001?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@59.149.204.218:54321?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.94.31.75:2003?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@77.221.152.41:2003?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
@@ -51,8 +49,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@92.118.190.71:55555?sni=a.mifeng.us
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@92.118.190.71:55555?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.116.22:2501?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.217.135.15:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
