@@ -4,8 +4,6 @@ vless://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087?allowInsecure=0&s
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#@Vip_fragment_v2ray
 
-vless://40168c82-d975-4cdb-867b-59d5e8f42f26@165.232.39.239:9200?security=tls&sni=pages.dev&type=ws&host=yechiv2ray-x-cgygfxddewaw345556.pages.dev&path=%2FewMnfJj0sI8rH86L%2FMTc4LjEyOC4xNjUuMA%3D%3D%3Fed%3D2560&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://4deaf1e4-06fe-48ab-b1fc-2852eb52abf8@46.101.184.50:24558?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
@@ -24,6 +22,8 @@ vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&
 
 vless://9b3d65ab-576c-4750-9cb3-bb41c12c085e@172.245.251.10:8443?security=reality&encryption=none&pbk=XgQPLMVHvbUKTzcAZPBDGZ_mDhaZRiAJEk7c4-7UzR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ieee.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
+vless://9f4a644b-877b-4fa0-aec4-db827525d02e@104.17.148.22:8443?security=tls&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
 vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=%2F%3Fed&security=&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.50:443?security=tls&sni=lu.ylks01.eu.org&type=ws&host=lu.ylks01.eu.org&path=%2Ffreecodes#@Hope_Net-join-us-on-Telegram
@@ -41,6 +41,8 @@ vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F
 vless://ababcac-caab-caba-cbda-caabbabcabcc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vless://b2e07c41-c240-5bf3-b904-dc40852c780e@151.101.194.219:80?type=ws&host=JoinBede-ELiV2ray.ai#@Hope_Net-join-us-on-Telegram
 
 vless://b6e5b3a7-59db-4014-b8a7-fc9875466da2@151.101.66.133:443?security=tls&sni=live.skornorth.com&type=ws&host=cloud.amirrayan.ir&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
