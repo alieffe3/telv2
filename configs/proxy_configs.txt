@@ -50,6 +50,8 @@ vless://7b3847b8-d616-11ee-aaa8-00505603e70d@104.26.11.137:443?security=tls&sni=
 
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=%2Fstatue%2F%3F%3Fed&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#proxy_kafee
 
+vless://80772220-3e7d-5f06-ae29-96672b8fa6df@151.101.66.219:80?security=none&type=ws&host=ELiV2RAY-JOIN.COM.&path=%2F#@Hope_Net-join-us-on-Telegram
+
 vless://82b252cf-e2e9-48f8-864b-4b5efe1c3367@91.236.168.126:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://82b252cf-e2e9-48f8-864b-4b5efe1c3367@91.236.168.126:5151?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
@@ -82,9 +84,9 @@ vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F
 
 vless://ababcac-caab-caba-cbda-caabbabcabcc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://af93dbb8-f28a-4734-944f-538287410fd2@m32a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#proxy_kafee
+vless://ac058631-9f5d-4717-9558-3409d22271e9@104.18.189.218:443?security=tls&sni=Bia-dAIly-coNfIGS.pAgEs.deV&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+vless://af93dbb8-f28a-4734-944f-538287410fd2@m32a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#proxy_kafee
 
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@151.101.194.219:80?type=ws&host=JoinBede-ELiV2ray.ai#@Hope_Net-join-us-on-Telegram
 
