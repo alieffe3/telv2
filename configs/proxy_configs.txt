@@ -38,6 +38,8 @@ vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?allowInsecure=0&
 
 vless://5d2eb11f-0138-490d-9781-f9cfb60c1766@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=&encryption=none&host=Gn8656.io&type=ws#proxy_kafee
 
+vless://6357489d-8f79-4788-968e-9f92f0de0b8c@172.66.213.38:2087?security=tls&sni=g4.ferdowsi.shop&type=grpc&serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=%2Fid5%3Fed%3D2560%2F%3FMTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?path=%2F&security=tls&encryption=none&host=ula347.tiri-viri.com&fp=chrome&type=ws&sni=ula347.tiri-viri.com#proxy_kafee
@@ -58,8 +60,6 @@ vless://82b252cf-e2e9-48f8-864b-4b5efe1c3367@91.236.168.126:5151?security=none&e
 
 vless://83082070-6b71-4e48-937a-3e4bf304fe68@199.232.7.181:443?allowInsecure=1&sni=ELeNa-JOinBede-ELiV2rAY.ir&type=ws&host=ELeNa-JOinBede-ELiV2rAY.ir&path=/fp=qqfp=qq&security=tls#@Hope_Net-join-us-on-Telegram
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?allowInsecure=0&sni=BloOM-cHh.PagEs.dEv&type=ws&host=BloOM-cHh.PagEs.dEv&path=/mtasyzxvkfadcumf?ed=2560security=tlssecurity=tls#@Hope_Net-join-us-on-Telegram
-
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server12.coin.name.ng&type=ws&sni=server12.coin.name.ng#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&encryption=none&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -78,11 +78,7 @@ vless://Parsashonam-Bot-21@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Pa
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.13:443?security=tls&sni=lu.kpcloud.eu.org&type=ws&host=lu.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://a2421e89-eb9b-48a9-aca8-b97e733fc07f@188.245.59.30:11163?security=reality&sni=zula.ir&type=tcp&host=chanel.Telegram.%40JOKERRVPN&fp=chrome&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&sid=f830f6#@Hope_Net-join-us-on-Telegram
-
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://ababcac-caab-caba-cbda-caabbabcabcc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://ac058631-9f5d-4717-9558-3409d22271e9@104.18.189.218:443?security=tls&sni=Bia-dAIly-coNfIGS.pAgEs.deV&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
