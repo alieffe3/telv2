@@ -34,11 +34,15 @@ vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443
 
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@176.114.86.241:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
+vless://70ea7a10-de3e-4922-bc7c-4dd7c2cef882@172.66.45.10:443?allowInsecure=0&sni=newtunnel-2xm.pages.dev&type=ws&host=newtunnel-2xm.pages.dev&path=/vlesssecurity=tls#@Hope_Net-join-us-on-Telegram
+
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=%2Fstatue%2F%3F%3Fed&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#proxy_kafee
 
 vless://82b252cf-e2e9-48f8-864b-4b5efe1c3367@91.236.168.126:5151?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
 
 vless://894e0e6e-d415-47fd-84f5-418896d7a310@172.67.197.205:443?security=tls&sni=freedom2.sepale8166.workers.dev&type=ws&host=freedom2.sepale8166.workers.dev&path=%2F#@Hope_Net-join-us-on-Telegram
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?allowInsecure=1&sni=Sanjeshp.Ir&alpn=h2,http/1.1&type=ws&host=Sanjeshp.Ir&path=/security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server12.coin.name.ng&type=ws&sni=server12.coin.name.ng#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -115,4 +119,6 @@ vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.215.74:443?mode=stream-one&pa
 vless://f599eb06-508a-4e24-9d59-4c50bf0333b7@91.98.79.239:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8&host=tempail.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tempail.com&sid=f47f400cc96a4e#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A9%F0%9F%87%AA
 
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=&encryption=none&host=%2F%3F%40&type=ws#proxy_kafeeAr many:
+
+vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.193.117:4444?security=none&type=tcp&host=w3.com&path=/&headerType=http#@Hope_Net-join-us-on-Telegram
 
