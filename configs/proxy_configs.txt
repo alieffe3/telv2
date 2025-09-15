@@ -10,8 +10,6 @@ vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=%2Ffqogayws&s
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#@Vip_fragment_v2ray
 
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss76953.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A9%F0%9F%87%AA
-
 vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@ir.fxgoldensignals.com:54567?path=%2F54567%2Fmvfkvk&security=&encryption=none&type=ws#proxy_kafee
 
 vless://4981b98f-4943-4083-83%61%61-00b028f57%6118@57.129.92.155:36626?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40proxy_kafee
@@ -25,8 +23,6 @@ vless://52adc6ba-b1c7-4541-a594-08fc698be640@GrOUNdED-brotHER.SeoToolSFOryOu.co.
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#proxy_kafee
 
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
-
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%B7%F0%9F%87%BA
 
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?allowInsecure=0&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=VIrgiNiavPn-nL.pagEs.dEv&path=/fp=chrome&security=tls#@Hope_Net-join-us-on-Telegram
 
@@ -44,7 +40,7 @@ vless://70ea7a10-de3e-4922-bc7c-4dd7c2cef882@172.66.45.10:443?allowInsecure=0&sn
 
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=%2Fstatue%2F%3F%3Fed&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#proxy_kafee
 
-vless://82b252cf-e2e9-48f8-864b-4b5efe1c3367@91.236.168.126:5151?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
+vless://80772220-3e7d-5f06-ae29-96672b8fa6df@199.232.8.68:443?allowInsecure=1&sni=ELiv2RAy-jOiN.cOm&type=ws&host=ELiv2RAy-jOiN.cOm&path=/fp=qq&security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.163:443?allowInsecure=0&sni=blOOM-cHh.pAges.DeV&type=ws&host=blOOM-cHh.pAges.DeV&path=/nyx3uit72gutb8pa?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 
@@ -63,8 +59,6 @@ vless://9%6555dc25-81b3-455c-898c-1fcdd90%6555f0@141.227.170.209:34219?mode=gun&
 vless://99dc9865-f909-4%65%652-b9%65c-%65b4b4%61c%619bd7@146.59.116.158:42630?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40proxy_kafee
 
 vless://9b3d65ab-576c-4750-9cb3-bb41c12c085e@172.245.251.10:8443?security=reality&encryption=none&pbk=XgQPLMVHvbUKTzcAZPBDGZ_mDhaZRiAJEk7c4-7UzR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ieee.org#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
-
-vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO&type=ws#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
 
 vless://a0b3dcfb-8ae0-4c7c-a634-4e931f15f5b6@95.38.210.142:35021?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -106,8 +100,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusab
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931077057619102.hamedan-drc-tusabu.info:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 
-vless://e1c281ec-e3ca-4f01-ab53-cee73e3a9893@104.24.232.229:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=noodsas.vvvv.ee&fp=random&type=ws&sni=noodsas.vvvv.ee#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
-
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?security=&encryption=none&fp=chrome&type=grpc#@Vip_fragment_v2ray
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -118,13 +110,7 @@ vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@hdfynpv2d1.farvaharforever.com:443?
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
-
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
-
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.215.74:443?mode=stream-one&path=%2Frty&security=&encryption=none&type=xhttp#proxy_kafee
-
-vless://f599eb06-508a-4e24-9d59-4c50bf0333b7@91.98.79.239:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8&host=tempail.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tempail.com&sid=f47f400cc96a4e#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A9%F0%9F%87%AA
 
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=&encryption=none&host=%2F%3F%40&type=ws#proxy_kafeeAr many:
 
