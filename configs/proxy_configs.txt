@@ -8,6 +8,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.221.0.22:22222?security=tls&sni=
 
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443/?type=ws&encryption=none&flow=&host=cf.vless.sandesh.fr&path=%2F&security=tls&sni=cf.vless.sandesh.fr&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
+vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.44.87:443?security=tls&sni=pardazeshvpn-tg7.pages.dev&type=ws&host=pardazeshvpn-tg7.pages.dev&path=%2FTelegram%40V2%72ay_%41lph%61%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://1250c0dd-856e-4cb9-b254-5d8e55419fed@57.128.123.50:2096?security=reality&sni=dalfak.com&type=http&path=/&fp=chrome&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&sid=a56f693ce784b4cc#@Hope_Net-join-us-on-Telegram
