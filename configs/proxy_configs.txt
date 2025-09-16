@@ -36,6 +36,8 @@ vless://4981b98f-4943-4083-83%61%61-00b028f57%6118@57.129.92.155:36626?mode=gun&
 
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
+vless://4deaf1e4-06fe-48ab-b1fc-2852eb52abf8@46.101.184.50:24558?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A9%F0%9F%87%AA
+
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=D17.aLAnHIaHo.COm&type=ws&sni=D17.aLAnHIaHo.COm#proxy_kafee
 
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@GrOUNdED-brotHER.SeoToolSFOryOu.co.uK:80?path=%2F&security=&encryption=none&type=ws#proxy_kafee
@@ -87,6 +89,8 @@ vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&
 vless://9%6555dc25-81b3-455c-898c-1fcdd90%6555f0@141.227.170.209:34219?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40proxy_kafee
 
 vless://99dc9865-f909-4%65%652-b9%65c-%65b4b4%61c%619bd7@146.59.116.158:42630?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40proxy_kafee
+
+vless://9b3d65ab-576c-4750-9cb3-bb41c12c085e@172.245.251.10:8443?security=reality&encryption=none&pbk=XgQPLMVHvbUKTzcAZPBDGZ_mDhaZRiAJEk7c4-7UzR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ieee.org#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
 
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
