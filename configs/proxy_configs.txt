@@ -6,8 +6,6 @@ vless://0399af93-ed7e-4717-ba12-aa1f4e45a5c6@104.20.195.223:2087?security=tls&sn
 
 vless://17586a71-1e58-442e-b297-56269599c1a4@54.36.114.253:25368?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40proxy_kafee
 
-vless://1aa7bb00-3863-4151-bc71-940c75bf094b@104.17.207.36:8443?security=tls&sni=bIa-DAIly-CoNFIGs.PaGes.DEv&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D80&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=%2Ffqogayws&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 
 vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.147.22:80?security=none&type=httpupgrade&host=4h2.diginoshops2.ir&path=%2F#@Hope_Net-join-us-on-Telegram
@@ -48,8 +46,6 @@ vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443
 
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@176.114.86.241:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
-vless://79683a15-ebb2-4881-858e-a50e9553a371@45.142.212.154:443?security=reality&flow=xtls-rprx-vision&sni=dl.google.com&type=tcp&fp=chrome&pbk=XsYCCmBu2xaOyGvjxzwjNmsqgsziY2vJ7N3JfQBDVXs&sid=e4ebe3ba#@Hope_Net-join-us-on-Telegram
-
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=%2Fstatue%2F%3F%3Fed&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#proxy_kafee
 
 vless://82b252cf-e2e9-48f8-864b-4b5efe1c3367@91.236.168.126:5151?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
@@ -89,6 +85,8 @@ vless://c79bbc2d-%61020-4%612%61-b12d-c288%65018d9%610@51.178.223.140:19822?mode
 vless://c7efc374-0f93-47a5-8559-ce25a37a60d2@104.17.148.22:8443?security=tls&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE%3Fed%3D2480&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://cbbacaa-bcaa-caab-dcba-ababcbcccaab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.69.44:2053?security=tls&sni=ax78345V2ray.pages.dev&type=ws&host=78345.pages.dev&path=%2FTelegram-%40proxy_mtm-Telegram-%40proxy_mtm-Telegram-%40proxy_mtm%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://d4a65f70-ccc3-45a0-984d-0c283dff38ff@d13.zulahost.us:443?path=%2F40602%2Fwsgoogle&security=tls&encryption=none&host=d13.zulahost.us&fp=chrome&type=ws&sni=d13.zulahost.us#proxy_kafee
 
