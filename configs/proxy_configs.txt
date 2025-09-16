@@ -18,6 +18,8 @@ vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443/?type=tcp&encrypt
 
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
+vless://1aa7bb00-3863-4151-bc71-940c75bf094b@172.66.47.146:443?security=tls&sni=bIa-daILy-CoNFigS.PAgEs.DEV&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D1024&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@188.124.64.173:16081?security=tls&sni=happy.mianfeicf.lol&type=ws&host=happy.mianfeicf.lol&path=/?ed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://234a4937-5029-4bcd-b32a-1eda5afc14f8@46.62.152.219:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#%F0%9F%87%AB%F0%9F%87%AEproxy_kafee
@@ -51,6 +53,8 @@ vless://5523be08-7a75-4441-90e8-c53e61ba466d@104.17.234.128:443?security=tls&sni
 vless://5523be08-7a75-4441-90e8-c53e61ba466d@104.18.165.38:8443?security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&type=ws&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://5d2eb11f-0138-490d-9781-f9cfb60c1766@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=&encryption=none&host=Gn8656.io&type=ws#proxy_kafee
+
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@172.67.214.246:2096?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev&path=%2Ftelegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
 
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=&encryption=none&headerType=http&type=tcp#proxy_kafee
 
@@ -106,13 +110,15 @@ vless://c79bbc2d-%61020-4%612%61-b12d-c288%65018d9%610@51.178.223.140:19822?mode
 
 vless://ccaabba-abca-aabc-cdba-bcacbbcaaabc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec@104.19.38.99:443?security=tls&sni=chose-fabulous-psychiatry-fc.trycloudflare.com&type=ws&host=chose-fabulous-psychiatry-fc.trycloudflare.com&path=%2Fd0c550b6-8eb0-4bea-86c9-dc5f1efe1fec-vless%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
 vless://d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec@104.19.42.4:443?security=tls&sni=chose-fabulous-psychiatry-fc.trycloudflare.com&type=ws&host=chose-fabulous-psychiatry-fc.trycloudflare.com&path=%2Fd0c550b6-8eb0-4bea-86c9-dc5f1efe1fec-vless%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec@38.181.76.117:8889?security=reality&sni=addons.mozilla.org&type=http&fp=chrome&pbk=qSIggiu4bAoZ6Qt71Y2FszPL1ABIJ__hOO92sAopji8&alpn=h2#@Hope_Net-join-us-on-Telegram
 
 vless://d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec@38.181.76.117:8890?security=reality&sni=addons.mozilla.org&type=grpc&serviceName=grpc&fp=chrome&pbk=qSIggiu4bAoZ6Qt71Y2FszPL1ABIJ__hOO92sAopji8#@Hope_Net-join-us-on-Telegram
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.69.44:2053?security=tls&sni=ax78345V2ray.pages.dev&type=ws&host=78345.pages.dev&path=%2FTelegram-%40proxy_mtm-Telegram-%40proxy_mtm-Telegram-%40proxy_mtm%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://d160386a-2bee-4355-afec-43fda8f5e977@151.101.194.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=TEL.%56%4d%45%53%53%4f%52%47.http.www.speedtest.net.fast.com.%76%6d%65%73%73%6f%72%67%67.ir&path=/%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67-%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67-%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67?ed%3D8880&fp=firefox#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.100:2053?path=%2Ftelegram%40ShadowProxy66%2F%3Fed&security=tls&encryption=none&host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&fp=chrome&type=ws&sni=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 
