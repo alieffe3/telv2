@@ -26,6 +26,8 @@ vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?securit
 
 vless://5957ca33-d8d9-4c2c-aadc-203270e33422@45.12.134.129:2053?security=reality&sni=apple.com&type=tcp&fp=chrome&pbk=jpS_UPS4HEJApIV1DRW6omCRG8d2XuJXjj2FW7iT-mg&sid=cc87#@Hope_Net-join-us-on-Telegram
 
+vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@190.93.244.0:2086?sni=workerr.hashdiler.workers.dev&type=ws&host=workerr.hashdiler.workers.dev&allowInsecure=0#@Hope_Net-join-us-on-Telegram
+
 vless://6600580d-4b54-45f0-8f86-493ee791d7f7@65.21.2.203:46963?security=&encryption=none&headerType=none&type=tcp#proxy_kafee
 
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=&encryption=none&headerType=http&type=tcp#proxy_kafee
@@ -37,8 +39,6 @@ vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?path=%2F&securi
 vless://6bb4d50a-56f9-47d5-8ce8-d8b7fe9aa474@64.225.9.191:25023?security=&encryption=none&headerType=none&type=tcp#proxy_kafee
 
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://761dcddd-6aa6-48a4-97b8-60ac04313090@188.245.90.214:1633?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&sid=9bc0a55a5379c0ed#@Hope_Net-join-us-on-Telegram
 
 vless://81587701-5184-4999-b130-2c7a6f99bb24@104.18.41.138:8443?security=tls&sni=pardazeshvpn-tg34.pages.dev&type=ws&host=pardazeshvpn-tg34.pages.dev&path=%2F%3Fed%3D2048&fp=random#@Hope_Net-join-us-on-Telegram
 
@@ -60,15 +60,11 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.185:443?allowInsecure=1&s
 
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://a35367d5-0edb-4882-b8b5-0249b820e114@213.252.232.175:2096?security=reality&sni=apple.com&type=tcp&fp=random&pbk=PbUniy2w23tAs97ciXVClmXXRXtV1lb69dS-J9SFbAc&sid=7c88bf8e#@Hope_Net-join-us-on-Telegram
-
 vless://a38fbcf4-edb4-4b2b-88dd-5c357c2af4ff@89.221.225.159:2053?security=reality&sni=apple.com&type=tcp&fp=chrome&pbk=Am1Y8Hfk9DWE9SEticU93yF2G2PcC8bmgKpq_V5NuiI&sid=e8ebda2f23f6#@Hope_Net-join-us-on-Telegram
 
 vless://aabcabc-baac-cbaa-cabd-bcbabacccaab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://baacbac-baca-baac-adcb-bbabcccbaaac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://c79bbc2d-%61020-4%612%61-b12d-c288%65018d9%610@51.178.223.140:19822?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40proxy_kafee
 
@@ -100,6 +96,8 @@ vless://e3847ec6-b2fc-4eb2-b919-174d986f882c@poland20.clearorbitllc.com:443?secu
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+vless://e88c10e2-8568-507c-aacc-f5acc4fa0a3b@172.67.204.84:443?security=tls&sni=yf-psv4.pigeho6671.wORKERS.dev&type=ws&host=yf-psv4.pigeho6671.wORKERS.dev&path=vless-ws%2F%3Fed%3D8880&fp=randomized&alpn=h3#@Hope_Net-join-us-on-Telegram
+
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.62.62.37:80?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.62.62.75:80?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
@@ -111,8 +109,6 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.217.15:80?security=none&type
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.218.198:80?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.189:80?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
-
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.87:80?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=&encryption=none&host=%2F%3F%40&type=ws#proxy_kafee
 
