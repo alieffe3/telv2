@@ -42,8 +42,6 @@ vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443/?type=tcp&encrypt
 
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.sfasti.ru&fp=chrome&security=reality&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
-vless://5523be08-7a75-4441-90e8-c53e61ba466d@104.18.165.38:8443?security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&type=ws&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://5d2eb11f-0138-490d-9781-f9cfb60c1766@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=&encryption=none&host=Gn8656.io&type=ws#proxy_kafee
 
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=&encryption=none&headerType=http&type=tcp#proxy_kafee
@@ -75,6 +73,8 @@ vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&
 vless://9%6555dc25-81b3-455c-898c-1fcdd90%6555f0@141.227.170.209:34219?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40proxy_kafee
 
 vless://99dc9865-f909-4%65%652-b9%65c-%65b4b4%61c%619bd7@146.59.116.158:42630?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40proxy_kafee
+
+vless://a278a08a-a844-4533-b698-38119309d981@36.225.25.247:30002?security=none&flow=xtls-rprx-vision&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://a4b17aa4-8723-4f12-945d-9e3bdf926bf7@104.26.6.89:443?path=%2Fhajmi%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=nb-fi.77777788.xyz&fp=chrome&type=ws&sni=77777788.xyz#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -146,7 +146,15 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8
 
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.215.74:443?mode=stream-one&path=%2Frty&security=&encryption=none&type=xhttp#proxy_kafee
 
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@188.42.88.93:80?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
+
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.62.62.193:80?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
+
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.217.37:80?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
+
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.219.179:80?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
+
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.43:80?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.95:80?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
