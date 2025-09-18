@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-18T12:30:29.472426",
+  "timestamp": "2025-09-18T13:24:58.539578",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -28,8 +28,8 @@
     {
       "url": "https://t.me/s/Hope_Net",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/Filter_breaker",
