@@ -48,8 +48,6 @@ vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443
 
 vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.148.22:8443?security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za&type=ws&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za&path=/Telegram,VPNCUSTOMIZE%3Fed%3D2480&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
-vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://78bce666-8294-4029-96d0-a54b8260d0b2@m38a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#proxy_kafee
