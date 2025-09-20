@@ -1,42 +1,14 @@
-hysteria2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@5f6a56-20-co.9966661.xyz:3000?sni=5f6a56-20-co.9966661.xyz&insecure=0#%40v2ray_configs_pool
-
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1#%40v2ray_configs_pool
-
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%40v2ray_configs_pool
-
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#%40v2ray_configs_pool
-
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#%40v2ray_configs_pool
-
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%40v2ray_configs_pool
-
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?encryption=none&security=none&sni=sweet-combination.seotoolsforyou.co.uk&type=ws&host=sweet-combination.seotoolsforyou.co.uk&path=%2F#%40v2ray_configs_pool
-
 vless://0503fa3c-f914-4421-a1e5-72c1f8d781a2@104.21.32.1:443?path=%2FwGEZwUQmT9ld3Qa5%2FdHVyay5yYWRpY2FsaXphdGlvbi5pciwxMDQuMTY4LjEwMi4xNjM%3D&security=tls&encryption=none&alpn=http/1.1&host=hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev&type=ws&sni=hpgBAG3G9Kik7asE4cn1tT8INexozr4NJi7.PaGes.DeV#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?encryption=none&security=none&type=ws&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&path=%2Fvless%2F#%40v2ray_configs_pool
-
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?encryption=none&security=none&type=ws&host=---%40NetifyVPN---%40NetifyVPN---%40NetifyVPN---%40NetifyVPN---%40NetifyVPN&path=%2Fvless%2F#%40v2ray_configs_pool
-
-vless://1f90ea31-15a1-4896-bfff-c83f74ce0f7e@141.227.136.183:15819?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#%40v2ray_configs_pool
-
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#proxy_kafee
-
-vless://2ecc1c66-0808-174c-e51a-5274c1428b3c@luckypingout.bikofile.com:48008?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%40v2ray_configs_pool
 
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=&encryption=none&headerType=none&type=tcp#proxy_kafee
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.195.29:443?security=tls&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?encryption=none&security=tls&sni=bLAZE-GErmanY-246.MEtIKaPps.COm&fp=chrome&type=ws&host=bLAZE-GErmanY-246.MEtIKaPps.COm&path=%2Fwsss#%40v2ray_configs_pool
-
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=&encryption=none&headerType=none&type=tcp#proxy_kafee
 
-vless://4d7fdb66-eff3-4949-882b-d1115e1bc1e4@141.227.178.223:34935?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#%40v2ray_configs_pool
-
 vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@185.226.118.202:9393?security=none&type=tcp&host=fast.com&headerType=http#@Hope_Net-join-us-on-Telegram
-
-vless://505dd9d5-5193-43eb-a1df-3fb953840aa8@www.speedtest.net:2053?encryption=none&security=tls&sni=khtls.armin-host.com&alpn=http%2F1.1%2Ch2&fp=chrome&allowInsecure=1&type=ws&host=khtls.armin-host.com&path=%2Ffree#%40v2ray_configs_pool
 
 vless://51d1b1c3-0e02-4d18-8eb9-c38009b50b22@36.225.48.142:30002?security=none&flow=xtls-rprx-vision&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -44,17 +16,9 @@ vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?securit
 
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#proxy_kafee
 
-vless://558393ec-d70d-4a05-b412-e59f2436cc14@104.167.199.95:80?encryption=none&security=none&type=ws&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&path=%2Fvless%2F#%40v2ray_configs_pool
-
-vless://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?encryption=none&security=none&type=ws&host=---%40ShadowProxy66&path=%2Fvless%2F#%40v2ray_configs_pool
-
-vless://5fda29b6-0688-44e3-afdf-df533c800109@51.89.118.126:25369?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#%40v2ray_configs_pool
-
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=%2F&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
 
 vless://6600580d-4b54-45f0-8f86-493ee791d7f7@65.21.2.203:46963?security=&encryption=none&headerType=none&type=tcp#proxy_kafee
-
-vless://66138dd4-6d20-4d44-8eaa-5583ec4d7bda@5.196.223.72:25978?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#%40v2ray_configs_pool
 
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=&encryption=none&headerType=http&type=tcp#@proxy_kafee
 
@@ -70,11 +34,7 @@ vless://78bce666-8294-4029-96d0-a54b8260d0b2@m38a.vip784.com:33801?security=&enc
 
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&encryption=none&headerType=none&type=tcp#proxy_kafee
 
-vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server12.coin.name.ng&type=ws&sni=server12.coin.name.ng#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&encryption=none&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://930989fd-61dd-4d18-a895-e48892acb32e@54.36.112.160:25365?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#%40v2ray_configs_pool
 
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#proxy_kafee
 
@@ -86,21 +46,13 @@ vless://a64d1cba-13a8-4179-8139-96790c759389@138.2.58.99:40000?security=reality&
 
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?encryption=none&security=none&sni=fierce-data.seotoolsforyou.co.uk&type=ws&host=fierce-data.seotoolsforyou.co.uk&path=%2F#%40v2ray_configs_pool
-
 vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=&encryption=none&headerType=none&type=tcp#proxy_kafee
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.51.24:2501?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#@proxy_kafee
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.232:8880?encryption=none&security=none&fp=chrome&type=grpc#%40v2ray_configs_pool
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.232:8880?encryption=none&security=none&type=grpc#%40v2ray_configs_pool
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929320863717328.malayer-drc-tusabq.info:8880?mode=gun&security=&encryption=none&type=grpc#proxy_kafee
 
@@ -112,31 +64,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrab
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=&encryption=none&type=grpc#proxy_kafee
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?encryption=none&security=none&type=grpc#%40v2ray_configs_pool
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?encryption=none&security=none&type=grpc#%40v2ray_configs_pool
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?encryption=none&security=none&type=grpc#%40v2ray_configs_pool
-
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=&encryption=none&type=grpc#@proxy_kafee
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?encryption=none&security=none&fp=chrome&allowInsecure=1&type=grpc#%40v2ray_configs_pool
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?encryption=none&security=none&fp=chrome&type=grpc#%40v2ray_configs_pool
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.199:8880?encryption=none&security=none&fp=chrome&type=grpc#%40v2ray_configs_pool
-
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.125:8880?encryption=none&security=none&type=grpc#%40v2ray_configs_pool
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?encryption=none&security=none&type=grpc#%40v2ray_configs_pool
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v1.avoipok.shop:8880?encryption=none&security=none&type=grpc#%40v2ray_configs_pool
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v3.avoipok.shop:8880?encryption=none&security=none&type=grpc#%40v2ray_configs_pool
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v5.avoipok.shop:8880?encryption=none&security=none&type=grpc#%40v2ray_configs_pool
 
 vless://e5979603-c215-4d5f-811a-316b45f6df17@167.71.8.192:23313?path=%2F&security=&encryption=none&type=ws#proxy_kafee
 
@@ -147,8 +77,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#@proxy_kafee
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#proxy_kafee
-
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?encryption=none&security=tls&sni=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&type=ws&host=Rx2TfQ98lT.sOlEnTrAa.InFo&path=%2F#%40v2ray_configs_pool
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#@proxy_kafee
 
