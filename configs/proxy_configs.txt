@@ -2,10 +2,6 @@ vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&e
 
 vless://1b80bcc3-a7b2-40f7-8c6f-5593fe42606b@95.128.196.217:4435/?type=tcp&encryption=none&flow=&sni=example.com&fp=chrome&security=reality&pbk=kSgSg8TUdkCoP1MqLvo3N-gtGdrkdG2Hu1TsSr6kOmA&sid=00fc30fe53831335#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#@Hope_Net-join-us-on-Telegram
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.219.73:443?allowInsecure=0&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=/?ed=2048security=tls#@Hope_Net-join-us-on-Telegram
-
 vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443/?type=ws&encryption=none&flow=&path=%2Fwsss&security=tls&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=%2Fwsss&security=tls&encryption=none&host=bLAZE-GErmanY-246.MEtIKaPps.COm&fp=chrome&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -29,8 +25,6 @@ vless://a61a9487-7d9e-4f77-f35a-284acc0c1925@www.speedtest.net:2083?allowInsecur
 vless://a61a9487-7d9e-4f77-f35a-284acc0c1925@www.speedtest.net:2083?path=%2Ffree&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&host=khtls.armin-website.com&fp=chrome&type=ws&sni=khtls.armin-website.com#@Vip_fragment_v2ray
 
 vless://c864ca35-39fd-40c6-aca2-4f0517422c5e@www.speedtest.net:2053?allowInsecure=1&alpn=http%2F1.1%2Ch2&fp=chrome&host=khtls.appcity-download.ir&path=%2Fmahdi&security=tls&sni=khtls.appcity-download.ir&type=ws#@Vip_fragment_v2ray
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.53.13.241:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.53.13.241:2003?allowInsecure=1&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.iofp=chrome&security=tls#@Hope_Net-join-us-on-Telegram
 
