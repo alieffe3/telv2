@@ -4,6 +4,10 @@ vless://0533b568-482c-4c0a-81c5-729891270934@172.66.213.38:443?security=tls&sni=
 
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
+vless://0789a06d-a61a-470d-b182-33926b1aa21f@172.66.44.135:443?security=tls&sni=SHAH-5R1.paGes.deV&type=ws&host=shAh-5r1.PAgEs.DEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
+vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?security=tls&sni=SHAh-9Aq.PAGes.deV&type=ws&host=ShAh-9aQ.PaGEs.DEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://1b80bcc3-a7b2-40f7-8c6f-5593fe42606b@95.128.196.217:4435/?type=tcp&encryption=none&flow=&sni=example.com&fp=chrome&security=reality&pbk=kSgSg8TUdkCoP1MqLvo3N-gtGdrkdG2Hu1TsSr6kOmA&sid=00fc30fe53831335#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
