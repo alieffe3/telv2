@@ -6,6 +6,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.241.208.151:22222?security=tls&s
 
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
+vless://0c820bc5-4e67-4796-b6cb-6075685e7c75@104.19.20.140:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
+
 vless://0cec5f6b-52a6-4467-97c3-566fd2a73692@104.17.148.22:2086?security=none&type=httpupgrade&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
 
 vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.44.109:443?security=tls&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&path=/Telegram@V2ray_Alpha/?ed%3D2560&fp=chrome#@Hope_Net-join-us-on-Telegram
@@ -15,10 +17,6 @@ vless://16980a58-70d1-44a9-88ab-9ea65f4087bf@104.25.64.147:443?security=tls&sni=
 vless://17e5fe67-885d-41d2-962f-d4d29fb01671@151.101.194.133:443?security=tls&sni=live.989bull.com&type=ws&host=Golestanvpn.com&path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ftelegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
-vless://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=justFreedomByIMAN.com&path=%2Fws%40%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
-vless://353914ac-2042-4b7f-b5cf-392e0de6f914@185.146.173.58:8080?security=none&type=ws&host=lc62.lebasnoo.ir.&path=%2Fservernett#@Hope_Net-join-us-on-Telegram
 
 vless://42bd35b1-630e-4eb0-9d61-7781db3382d7@188.245.186.245:5443?security=reality&sni=refersion.com&type=grpc&serviceName=mgrpcm&fp=chrome&pbk=y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4&sid=902736d426f64e34#@Hope_Net-join-us-on-Telegram
 
@@ -50,19 +48,13 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@61.81.181.169:14985?security=tls&sn
 
 vless://a61a9487-7d9e-4f77-f35a-284acc0c1925@www.speedtest.net:2083?allowInsecure=1&alpn=http%2F1.1%2Ch2&fp=chrome&host=khtls.armin-website.com&path=%2Ffree&security=tls&sni=khtls.armin-website.com&type=ws#@Vip_fragment_v2ray
 
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?security=tls&sni=iSaA1.paGes.DEv&type=ws&path=/Telegram-&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://abcaabc-aacb-baca-bcda-bccbaaaabccb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&sni=Doostihaa.coM&type=tcp&host=Doostihaa.coM+%40Client_Proo&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://b656bbd6-ce71-4881-81b9-939f024a6f9c@151.101.130.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=gtfgjn.com&path=ws%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://c864ca35-39fd-40c6-aca2-4f0517422c5e@www.speedtest.net:2053?allowInsecure=1&alpn=http%2F1.1%2Ch2&fp=chrome&host=khtls.appcity-download.ir&path=%2Fmahdi&security=tls&sni=khtls.appcity-download.ir&type=ws#@Vip_fragment_v2ray
 
 vless://caabcba-aabc-aacb-cadb-babcabcbaacc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://ccabaab-baca-abca-bacd-ccabcbababca@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.69.44:2053?security=tls&sni=ax78345V2ray.pages.dev&type=ws&host=78345.pages.dev&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
