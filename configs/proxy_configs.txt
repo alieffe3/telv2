@@ -22,8 +22,6 @@ vless://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@151.101.66.219:443?security=tls&sni
 
 vless://353914ac-2042-4b7f-b5cf-392e0de6f914@185.146.173.58:8080?security=none&type=ws&host=lc62.lebasnoo.ir.&path=%2Fservernett#@Hope_Net-join-us-on-Telegram
 
-vless://42bd35b1-630e-4eb0-9d61-7781db3382d7@188.245.118.6:5843?security=reality&sni=refersion.com&type=grpc&serviceName=mgrpcm&fp=chrome&pbk=Vk19B0UVrPCk4vFDYHiB_ML1j3KhY87e6dqCXMBQlR8&sid=58bcbc38eae97b5d#@Hope_Net-join-us-on-Telegram
-
 vless://42bd35b1-630e-4eb0-9d61-7781db3382d7@188.245.186.245:5443?security=reality&sni=refersion.com&type=grpc&serviceName=mgrpcm&fp=chrome&pbk=y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4&sid=902736d426f64e34#@Hope_Net-join-us-on-Telegram
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.24.88.100:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
@@ -52,7 +50,11 @@ vless://a61a9487-7d9e-4f77-f35a-284acc0c1925@www.speedtest.net:2083?allowInsecur
 
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?security=tls&sni=iSaA1.paGes.DEv&type=ws&path=/Telegram-&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
+vless://abcaabc-aacb-baca-bcda-bccbaaaabccb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&sni=Doostihaa.coM&type=tcp&host=Doostihaa.coM+%40Client_Proo&headerType=http#@Hope_Net-join-us-on-Telegram
+
+vless://b656bbd6-ce71-4881-81b9-939f024a6f9c@151.101.130.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=gtfgjn.com&path=ws%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://c864ca35-39fd-40c6-aca2-4f0517422c5e@www.speedtest.net:2053?allowInsecure=1&alpn=http%2F1.1%2Ch2&fp=chrome&host=khtls.appcity-download.ir&path=%2Fmahdi&security=tls&sni=khtls.appcity-download.ir&type=ws#@Vip_fragment_v2ray
 
@@ -65,8 +67,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.69.44:2053?security=tls&sni=
 vless://e0c397c6-9aa0-48f8-aa9a-6fcab7d7b1e2@37.27.221.171:443?type=grpc&serviceName=yas.mhgy.75656.iryg.ir#@Hope_Net-join-us-on-Telegram
 
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@185.170.166.154:8880?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1+%D8%AA%DB%8C%D9%85+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%A7%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@185.170.166.71:8880?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1+%D8%AA%DB%8C%D9%85+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%A7%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@204.93.210.6:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
