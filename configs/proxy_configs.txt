@@ -12,11 +12,15 @@ vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&e
 
 vless://1b80bcc3-a7b2-40f7-8c6f-5593fe42606b@95.128.196.217:4435/?type=tcp&encryption=none&flow=&sni=example.com&fp=chrome&security=reality&pbk=kSgSg8TUdkCoP1MqLvo3N-gtGdrkdG2Hu1TsSr6kOmA&sid=00fc30fe53831335#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ftelegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
 vless://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=justFreedomByIMAN.com&path=%2Fws%40%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://353914ac-2042-4b7f-b5cf-392e0de6f914@185.146.173.58:8080?security=none&type=ws&host=lc62.lebasnoo.ir.&path=%2Fservernett#@Hope_Net-join-us-on-Telegram
 
 vless://42bd35b1-630e-4eb0-9d61-7781db3382d7@188.245.118.6:5843?security=reality&sni=refersion.com&type=grpc&serviceName=mgrpcm&fp=chrome&pbk=Vk19B0UVrPCk4vFDYHiB_ML1j3KhY87e6dqCXMBQlR8&sid=58bcbc38eae97b5d#@Hope_Net-join-us-on-Telegram
+
+vless://42bd35b1-630e-4eb0-9d61-7781db3382d7@188.245.186.245:5443?security=reality&sni=refersion.com&type=grpc&serviceName=mgrpcm&fp=chrome&pbk=y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4&sid=902736d426f64e34#@Hope_Net-join-us-on-Telegram
 
 vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443/?type=ws&encryption=none&flow=&path=%2Fwsss&security=tls&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -26,9 +30,13 @@ vless://505dd9d5-5193-43eb-a1df-3fb953840aa8@www.speedtest.net:2087?allowInsecur
 
 vless://5f56a8fa-4b0d-4355-93eb-f1ec410d6982@213.108.23.243:26926?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=V1Sm4pc5EuEHSwsfXDDLYPuiu3JZUESNifEkvm5ARn8&sid=435d625ae815#@Hope_Net-join-us-on-Telegram
 
+vless://64fbeeb0-95df-4d36-ba2c-1dad26d6926f@152.42.229.225:80?security=none&type=ws&host=zoom.us&path=%2FFREE+by+Tharuwa+%280767597317%29#@Hope_Net-join-us-on-Telegram
+
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275/?type=ws&encryption=none&flow=&host=ula347.tiri-viri.com&path=%2F&security=tls&sni=ula347.tiri-viri.com&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@172.67.134.202:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
+vless://86b0bdc5-94fe-4791-8874-7c7952c40022@85.133.197.143:2052?security=none&type=tcp&host=idem.ir&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?path=%2F&security=tls&encryption=none&host=6389113402676776505.rtxiran.info&type=ws&sni=6389113402676776505.rtxiran.info#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
