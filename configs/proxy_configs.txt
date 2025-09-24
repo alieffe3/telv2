@@ -2,6 +2,8 @@ vless://050c7ac1-c948-446f-a6e6-8f2703a75494@199.232.175.238:443?security=tls&sn
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.213.92.199:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.57.41:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
+
 vless://08f6497f-53fc-4438-b4b6-99f8972b445c@104.17.148.22:2082?security=none&type=ws&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
 
 vless://0f494b87-2fdd-4978-b467-04f58d7375ce@92.38.168.14:80?type=ws&host=ipcfgermany.dev&path=%2F%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF%2Fwild%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
@@ -13,8 +15,6 @@ vless://4500759b-d6f1-45e4-8ca2-e707440fc3b7@92.38.145.145:443?security=tls&sni=
 vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&sni=Noshteri.hooplnqpb.ir&type=ws&host=Noshteri.hooplnqpb.ir&path=%2FTELEGRAM-%40Selinc%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://505dd9d5-5193-43eb-a1df-3fb953840aa8@www.speedtest.net:2087?allowInsecure=1&alpn=http%2F1.1%2Ch2&fp=chrome&host=khtls.armin-host.com&path=%2Ffree&security=tls&sni=khtls.armin-host.com&type=ws#@Vip_fragment_v2ray
-
-vless://5d9b2797-1ace-435b-be36-76722f13d239@199.232.8.48:443?security=tls&sni=ELENa-JOinBede-ELiV2Ray.ir&type=ws&host=ELeNa-JoinBede-ELiV2ray.ir&fp=edge&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
 vless://64a86831-b399-4dca-9c5f-244fbab0353b@151.101.192.155:80?security=none&type=ws&host=vipfast_7.com&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
@@ -34,9 +34,9 @@ vless://a61a9487-7d9e-4f77-f35a-284acc0c1925@www.speedtest.net:2083?allowInsecur
 
 vless://aabaccb-acab-acba-adcb-cbabcabcacab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://adc647b3-4166-42a9-8890-cdb2ea8c9e0e@172.67.73.226:2082?security=none&type=httpupgrade&host=sdfsdurg32-4987sduiovychsliufgi32-4987iyfhoisudhrop32-47i9yfios.vipvipmbl.ir.&path=%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net%3Fed%3D24695#@Hope_Net-join-us-on-Telegram
+vless://accbaab-caab-caab-adbc-bacbbacaccba@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://b556ba1f-6c6a-4d26-a8d6-bef72b92c9f4@104.17.148.22:8880?security=none&type=ws&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#@Hope_Net-join-us-on-Telegram
+vless://adc647b3-4166-42a9-8890-cdb2ea8c9e0e@172.67.73.226:2082?security=none&type=httpupgrade&host=sdfsdurg32-4987sduiovychsliufgi32-4987iyfhoisudhrop32-47i9yfios.vipvipmbl.ir.&path=%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net%3Fed%3D24695#@Hope_Net-join-us-on-Telegram
 
 vless://bcaaacb-caba-cbaa-dbac-aaaccbcbabbc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -59,6 +59,4 @@ vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@45.194.53.13:2096?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.154.163.236:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://f41c4027-0918-40b9-a4a0-bf0be2df0015@104.21.44.116:80?security=none&type=httpupgrade&host=sHop.gkAlabar.iR&path=%2FTELEGRAM-%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@219.77.65.212:23555?security=tls&sni=juzi8186.5112233.xyz&type=ws&host=juzi8186.5112233.xyz&path=%2F%3Fed%3D2560fp%3Drandomfp%3Dchromefp%3Dchrome#@Hope_Net-join-us-on-Telegram
 
