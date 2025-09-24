@@ -2,7 +2,7 @@ vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&headerType=non
 
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://082e8559-61f6-4075-e255-7ec0f3ac052d@104.18.165.147:8080?security=none&type=ws&host=JOiNMAiN.MRaLPHa-Vpn.CoM.&path=%2FTELEGRAM-%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%3Fed%3D8880#@Hope_Net-join-us-on-Telegram
+vless://08f6497f-53fc-4438-b4b6-99f8972b445c@104.17.148.22:2082?security=none&type=ws&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
 
 vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.15.19:8080?type=ws&host=13tg.jpl8xmqb.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
@@ -30,8 +30,6 @@ vless://661ea549-3367-4c37-b307-253cfe8d2ee6@158.180.48.19:18443?security=realit
 
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443?security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&type=tcp&fp=chrome&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221#@Hope_Net-join-us-on-Telegram
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.200:443?security=tls&sni=Sanjeshp.Ir&type=ws&host=Sanjeshp.Ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.61.82:443?security=tls&sni=pPal03.lEPiLId328.wORkErS.dEV&type=ws&host=pPaL03.LEpIlID328.WOrKers.DeV&path=%2F4TlINZNzV07HLy2O%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@104.17.234.114:8443?security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&type=ws&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
@@ -58,9 +56,13 @@ vless://b556ba1f-6c6a-4d26-a8d6-bef72b92c9f4@104.17.148.22:8880?security=none&ty
 
 vless://bc47d1e5-8c86-4c7e-9809-cef0e0cc14bb@104.17.147.22:8880?security=none&type=ws&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#@Hope_Net-join-us-on-Telegram
 
+vless://bcaacba-abac-baac-bdac-cababaacbcbc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://c33fac82-baf0-4b78-bd4b-7a44ae3219c5@104.17.148.22:443?security=tls&sni=bIa-dAily-confIgs.paGeS.Dev&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://c864ca35-39fd-40c6-aca2-4f0517422c5e@www.speedtest.net:2053?allowInsecure=1&alpn=http%2F1.1%2Ch2&fp=chrome&host=khtls.appcity-download.ir&path=%2Fmahdi&security=tls&sni=khtls.appcity-download.ir&type=ws#@Vip_fragment_v2ray
+
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@45.194.53.13:2096?security=tls&sni=Bpb005.pageS.dev&type=ws&host=Bpb005.pageS.dev&path=%2Fhzhfpw9gkziupyad%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@89.110.102.115:2501?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
@@ -69,6 +71,8 @@ vless://d3f0e44b-7aa9-4445-bafc-3546166ceaec@104.17.234.114:8443?security=tls&sn
 vless://d3f0e44b-7aa9-4445-bafc-3546166ceaec@162.159.135.42:8443?security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&type=ws&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://e95b9718-c7f9-4eec-ab06-36c8380ad13b@104.17.148.22:2082?security=none&type=ws&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
+
+vless://f41c4027-0918-40b9-a4a0-bf0be2df0015@104.21.44.116:80?security=none&type=httpupgrade&host=sHop.gkAlabar.iR&path=%2FTELEGRAM-%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@219.77.65.212:23555?security=tls&sni=juzi8186.5112233.xyz&type=ws&host=juzi8186.5112233.xyz&path=%2F%3Fed%3D2560fp%3Drandomfp%3Dchromefp%3Dchrome#@Hope_Net-join-us-on-Telegram
 
