@@ -12,17 +12,13 @@ vless://505dd9d5-5193-43eb-a1df-3fb953840aa8@www.speedtest.net:2087?allowInsecur
 
 vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@104.27.206.92:443?security=tls&sni=purlitefastest.pages.dev&type=ws&host=purlitefastest.pages.dev&path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
-vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.153.2:443?security=tls&sni=purlitefastest.pages.dev&type=ws&host=purlitefastest.pages.dev&path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
 vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@195.85.59.161:443?security=tls&sni=purlitefastest.pages.dev&type=ws&host=purlitefastest.pages.dev&path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.147.22:8443?security=tls&sni=13l1.diginoshops10.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
-vless://59da2f59-3c02-4ac8-b209-4025d96a9505@162.159.138.178:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://59da2f59-3c02-4ac8-b209-4025d96a9505@172.67.139.111:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
-vless://59da2f59-3c02-4ac8-b209-4025d96a9505@172.67.204.84:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+vless://5c64822a-b29e-46f6-b3f5-e5ce2876d51c@104.26.15.85:2082?security=none&type=httpupgrade&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082#@Hope_Net-join-us-on-Telegram
 
 vless://5cc149df-8368-4151-b583-520f18f613f4@151.101.130.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=TEL.%56%4d%45%53%53%4f%52%47.http.www.speedtest.net.fast.com.%76%6d%65%73%73%6f%72%67%67.ir&path=/%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67-%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67-%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67?ed%3D8880&fp=firefox#@Hope_Net-join-us-on-Telegram
 
@@ -36,8 +32,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.78:443?security=tls&sni=
 
 vless://a61a9487-7d9e-4f77-f35a-284acc0c1925@www.speedtest.net:2083?allowInsecure=1&alpn=http%2F1.1%2Ch2&fp=chrome&host=khtls.armin-website.com&path=%2Ffree&security=tls&sni=khtls.armin-website.com&type=ws#@Vip_fragment_v2ray
 
-vless://aabaccb-acab-caab-dcba-caabbbcacbac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://acaabbc-baca-abca-adbc-bacabacccbba@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://acaabbc-cbaa-abca-acdb-aabaabcccbbc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -46,7 +40,11 @@ vless://acabcab-acba-bcaa-dcab-ccaacbaabbbc@127.0.0.1:8080?security=tls&type=tcp
 
 vless://babcaac-abca-caba-cabd-cacbbccbaaab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://bcbacaa-aacb-cbaa-cadb-bbaacbabccac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://c864ca35-39fd-40c6-aca2-4f0517422c5e@www.speedtest.net:2053?allowInsecure=1&alpn=http%2F1.1%2Ch2&fp=chrome&host=khtls.appcity-download.ir&path=%2Fmahdi&security=tls&sni=khtls.appcity-download.ir&type=ws#@Vip_fragment_v2ray
+
+vless://caaabcb-aacb-acab-bdac-bcabcbbaaacc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://caaabcb-abac-cbaa-dacb-abbccbcbaaac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -59,8 +57,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.22.237.3:587?security=tls&sni=vl
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.219.150.221:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://e1e2920a-a750-49ca-9acf-b65b4bef6313@104.17.147.22:2052?security=none&type=httpupgrade&host=BoX.sPorTvarZesH.iR.&path=%2Fwww.zula.ir%3Fed%3D2052#@Hope_Net-join-us-on-Telegram
-
-vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@199.232.210.133:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=Osiris-shup.com&path=de?ed%3D1048&fp=firefox#@Hope_Net-join-us-on-Telegram
 
 vless://f87981fd-1f9a-401f-9b3c-52f606fecbdb@79.127.70.76:8383?security=none&type=tcp&host=doostihaa.com+%40FergalVpnMod&headerType=http#@Hope_Net-join-us-on-Telegram
 
