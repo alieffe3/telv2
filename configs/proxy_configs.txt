@@ -6,6 +6,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.122.2:443?security=tls&sni=
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.40:443?security=tls&sni=ll.kpcloud.eu.org&type=ws&host=ll.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
+vless://bcbacaa-cbaa-cbaa-dcba-cbacacbabcab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://cacbaab-caba-caab-bacd-bcacbacacbab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://e10bc536-93c2-4aa3-81db-d8b9ad67b7a4@151.101.128.155:80?security=none&type=ws&host=fast.net.bomb.xcxcspdnet.net&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
