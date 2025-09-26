@@ -6,6 +6,10 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.122.2:443?security=tls&sni=
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.40:443?security=tls&sni=ll.kpcloud.eu.org&type=ws&host=ll.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.35:443?security=tls&sni=ll.ylks01.eu.org&type=ws&host=ll.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
+vless://acabcba-acba-baca-abdc-aabcabccacbb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://bcbacaa-cbaa-cbaa-dcba-cbacacbabcab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://cacbaab-caba-caab-bacd-bcacbacacbab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
