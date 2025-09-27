@@ -2,12 +2,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.251.69:22222?security=tls&sni=
 
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.252:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
 
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.148:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.159:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.148:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://3966cdc0-45c0-4194-9cb8-77fb6be0c978@104.22.2.43:2053?security=tls&sni=flnewconect3.fragmentscan.xyz&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
@@ -24,8 +18,6 @@ vless://893fceb2-75b4-4d7f-9503-401c1e342740@151.101.3.8:80?security=none&type=w
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:2087?security=tls&sni=BPb-WorkeR-pAnEl-BrH.PAGeS.dev&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2FYaCMbT2zEFJe1B3C%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.197:2096?security=tls&sni=BPb-worker-paNeL-brh.pAgES.dev&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2FGSIEb4Zs4mbCWhqi%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.135.128:443?security=tls&sni=ppaL03.TirIKek541.WOrkErs.dEv&type=ws&host=pPAl03.TirIKEk541.wOrKers.DEV&path=%2FuB7NdItW3TTGn8xk%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.169:443?security=tls&sni=23spt.pages.dev&type=ws&host=23spt.pages.dev&path=%2Ftel-vpnAndroid2t%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
@@ -38,13 +30,13 @@ vless://a511ea21-d41a-49e3-8fec-5df2145682d6@104.17.234.128:443?security=tls&sni
 
 vless://a511ea21-d41a-49e3-8fec-5df2145682d6@104.17.234.128:443?security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za&type=ws&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
-vless://a7ac5863-e0ad-4051-9a5d-bcf5c6f4b52e@104.17.147.22:8880?security=none&type=httpupgrade&host=joinchannel.spdnet.digikala.com.speedtest.net.xn--gmqy8gvtb111b6b123kgm4aq4n.com&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D8880#@Hope_Net-join-us-on-Telegram
-
 vless://accabba-bcaa-baca-bdca-cbaabcacbcab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://c0625679-81ef-4af3-87b5-11d2ef2ee49e@151.101.194.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=%54%45%4C.%56%4D%45%53%53%4F%52%47.http.www.speedtest.net.fast.com.vmessorgg.ir&path=/%54%65%6C%65%67%72%61%6D:%40%76%6D%65%73%73%6F%72%67-%54%65%6C%65%67%72%61%6D:%40%76%6D%65%73%73%6F%72%67-%54%65%6C%65%67%72%61%6D%3A%40%76%6D%65%73%73%6F%72%67?ed%3D8880&fp=firefox&alpn=Tel:@SRCVPN,@SRCVPN#@Hope_Net-join-us-on-Telegram
 
 vless://caababc-acba-abca-bcad-abacbcbaacbc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://cacbbaa-abca-cbaa-abcd-bbabcccaaacb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://cbaaabc-aacb-abca-bcad-aacabbbccbac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -55,6 +47,10 @@ vless://d164a739-da87-449d-addd-3d165c42fbf2@172.67.73.251:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@138.2.49.197:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@168.138.181.107:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#@Hope_Net-join-us-on-Telegram
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@2.58.56.31:3001?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#@Hope_Net-join-us-on-Telegram
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.40.214.227:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.245.105.0:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#@Hope_Net-join-us-on-Telegram
 
