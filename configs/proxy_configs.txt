@@ -6,8 +6,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.78.149:22222?security=tls&sni=
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.21.136:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.182.162.118:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-
 vless://0792bb58-36ac-451e-a629-e363e53da93b@104.21.18.38:443?security=tls&sni=kafka.eula.cloudns.org&type=ws&host=kafka.eula.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=random&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443?security=tls&sni=kafka.eula.cloudns.org&type=ws&host=kafka.eula.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=random&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
@@ -62,11 +60,15 @@ vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?securit
 
 vless://a13828e5-e189-4527-b72a-dd864a0eb595@37.32.4.81:8999?security=none&encryption=none&headerType=none&type=tcp#%40proxy_kafee
 
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.95:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+
 vless://a27c7aca-c39c-48ac-8a6a-c6794340b157@office1001.avaoffice.cloud:443?path=%2F&security=tls&encryption=none&type=ws&sni=office1001.avaoffice.cloud#%40proxy_kafee
 
 vless://acacbba-baca-abca-dabc-acacabbccbab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://babaacc-caab-caba-dabc-acbcccbbabaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://bdf8b072-f76e-4d77-97e3-be26c77695f4@104.17.148.22:8080?security=none&type=ws&host=test.flnsho.store.&path=%2FG%2Fb4t6hy5n%2F%3Fed%3D80120#@Hope_Net-join-us-on-Telegram
 
 vless://c0625679-81ef-4af3-87b5-11d2ef2ee49e@151.101.130.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8880&fp=firefox#@Hope_Net-join-us-on-Telegram
 
@@ -75,8 +77,6 @@ vless://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@104.17.148.22:2086?security=none&ty
 vless://ccabbaa-abac-abca-cbda-bbcbcaacabac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d164a739-da87-449d-addd-3d165c42fbf2@172.66.44.154:443?security=tls&sni=JOiN-ELiV2RaY-JOiN-ELiV2rAY.pagEs.dEv&type=ws&host=join-eliv2ray-join-eliv2ray.pages.dev&path=%2FELENA&fp=edge#@Hope_Net-join-us-on-Telegram
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.12.45.208:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AB%F0%9F%87%B7
 
