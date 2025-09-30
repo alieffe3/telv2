@@ -30,6 +30,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.151:443?security=tls&sni=
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.11.250:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM32&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.185:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM36&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.78:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM79&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.111:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM77&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
@@ -40,11 +42,7 @@ vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.54:19280?security=reality
 
 vless://a1d93599-b324-4931-9190-8684487d00d5@94.141.123.233:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=bc97736f81817c41#%40proxy_kafee
 
-vless://aabcbac-acba-abac-bdca-ccbcbaacabba@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://acabbac-abac-aacb-dbca-bacabccbcaba@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://b1fd94be-bf7f-4d16-bd62-93a4f5b808af@94.182.136.249:2058?security=none&type=httpupgrade&host=Filimo.com&path=%2Fsearch#@Hope_Net-join-us-on-Telegram
 
 vless://b9961be4-546c-4e2a-8be0-aa01a1a449da@104.17.147.22:8443?security=tls&sni=DAIlY-Configs-CHAnNeL.PAGEs.dev&type=ws&host=daily-configs-channel.pages.dev&path=%2FTelegram%2CDAILY_CONFIGS%3Fed%3D1024&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
@@ -80,11 +78,13 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&secur
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e66a4642-52fd-464c-8019-70bb3a26156f@104.17.147.22:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
