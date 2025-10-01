@@ -28,8 +28,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.127:443?security=tls&sni=
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.251:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM31&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.168:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM45&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@89.187.187.19:443?security=tls&sni=www.spcdn.org&type=splithttp&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://9f2c093c-774c-4821-9d76-06ebed9eb9a1@91.236.168.126:5151?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
@@ -79,6 +77,8 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%40proxy_kafee
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%40proxy_kafee
+
+vless://efa5d848-b741-47df-8b52-dc3347c063df@172.67.210.155:2087?security=tls&sni=hs.rilzaiph.workers.dev&type=ws&host=hs.rilzaiph.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://f13ccabb-2fb6-40df-b1f2-dfb3f8d14272@95.128.196.217:3232?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
 
