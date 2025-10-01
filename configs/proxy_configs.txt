@@ -26,8 +26,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.108:443?security=tls&sni=
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.127:443?security=tls&sni=mefa.ir&encryption=none@ShadowsocksM4&type=ws&host=mefa.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.251:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM31&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@89.187.187.19:443?security=tls&sni=www.spcdn.org&type=splithttp&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://9f2c093c-774c-4821-9d76-06ebed9eb9a1@91.236.168.126:5151?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
