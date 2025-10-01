@@ -22,13 +22,9 @@ vless://54d1d905-4d5c-48ab-993f-c204239d427c@151.101.194.228:443?security=tls&sn
 
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#%40proxy_kafee
 
-vless://690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?security=tls&sni=pardazeshvpn-tg97.pages.dev&type=ws&host=pardazeshvpn-tg97.pages.dev&path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2048&fp=randomized#@Hope_Net-join-us-on-Telegram
-
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@185.75.135.224:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=%2F%40sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=50#%F0%9F%87%AB%F0%9F%87%AE%40proxy_kafee
 
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=%2F%40sinavm&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#%F0%9F%87%B9%F0%9F%87%B7%40proxy_kafee
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.189:443?security=tls&sni=mefa.ir&encryption=none@ShadowsocksM19&type=ws&host=mefa.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?security=tls&sni=79193c43.aryoovpn-5fr.pages.dev&type=ws&host=79193c43.aryoovpn-5fr.pages.dev&path=%2Ftelegram-%40proxy_mtm-telegram-%40proxy_mtm%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
