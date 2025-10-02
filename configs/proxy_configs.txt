@@ -18,7 +18,7 @@ vless://8ce5a4b4-903a-4eb7-bc1d-0e9860dc5476@104.18.165.38:8443?security=tls&sni
 
 vless://9f2c093c-774c-4821-9d76-06ebed9eb9a1@91.236.168.126:5151?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
 
-vless://abcacba-bcaa-abac-badc-abbccabcbcaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.44:443?security=tls&sni=ld.ylks01.eu.org&type=ws&host=ld.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@amazon-funder.info:443?path=%2Fmajara&security=tls&encryption=none&host=datpy.amazon-funder.info&fp=chrome&type=ws&sni=datpy.amazon-funder.info#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
 
