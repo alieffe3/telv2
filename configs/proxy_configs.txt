@@ -46,5 +46,3 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%40proxy_kafee
 
-vless://f845d5d7-ede8-4535-9042-57f256935e74@151.101.194.133:443?security=tls&sni=live.theworldwidewolf.com&type=ws&host=STATUSFRANCE1.ME&path=%2Fspeedtest.net%3Fed%3D80&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
-
