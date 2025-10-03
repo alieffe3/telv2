@@ -20,8 +20,6 @@ vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?securit
 
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#%40proxy_kafee
 
-vless://8ce5a4b4-903a-4eb7-bc1d-0e9860dc5476@104.18.165.38:8443?security=tls&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://9f2c093c-774c-4821-9d76-06ebed9eb9a1@91.236.168.126:5151?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.151.254.48:443?security=tls&sni=lc.ylks01.eu.org&type=ws&host=lc.ylks01.eu.org&path=%2Fblue#@Hope_Net-join-us-on-Telegram
@@ -31,6 +29,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.2:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.44:443?security=tls&sni=ld.ylks01.eu.org&type=ws&host=ld.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.92:443?security=tls&sni=ld.ylks01.eu.org&type=ws&host=ld.ylks01.eu.org&path=%2Fblue#@Hope_Net-join-us-on-Telegram
+
+vless://bbaacac-acab-acba-cdab-acbbcabccbaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://c2b93f02-b158-405f-a7ee-4e3ce680ac61@104.20.9.79:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
@@ -49,6 +49,8 @@ vless://cb5c7d29-5ca3-4b73-bea3-060aa3d9b7b0@151.101.2.228:443?security=tls&sni=
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@162.159.152.2:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2FPath%2FTelegram@freevirgoolnet%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.47.59:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2F%3Fed%3D2048&fp=chrome#@Hope_Net-join-us-on-Telegram
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%40proxy_kafee
 
