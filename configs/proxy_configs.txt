@@ -78,5 +78,7 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security
 
 vless://f13ccabb-2fb6-40df-b1f2-dfb3f8d14272@95.128.196.217:3232?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
 
+vless://f845d5d7-ede8-4535-9042-57f256935e74@151.101.194.133:443?security=tls&sni=live.theworldwidewolf.com&type=ws&host=STATUSFRANCE1.ME&path=%2Fspeedtest.net%3Fed%3D80&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
+
 vless://ff2c9995-fda9-472d-b1d1-93dba6334661@37.27.185.191:39870?security=none&type=tcp&host=divarcdn.com&headerType=http#@Hope_Net-join-us-on-Telegram
 
