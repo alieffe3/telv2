@@ -20,7 +20,7 @@ vless://47ccd676-d35b-4a8d-b0d3-61027068a53c@172.66.213.38:2087?security=tls&sni
 
 vless://4b652aa8-79b6-47aa-8914-aca54b2db37c@151.101.194.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu&path=%2F%40melov2ray%2Fws%3Fed%3D2048&alpn=h2&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#%F0%9F%87%A8%F0%9F%87%A6%40proxy_kafee
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&sni=Noshteri.hooplnqpb.ir&type=ws&host=Noshteri.hooplnqpb.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://6776d9f8-d671-4cd1-ae40-6639bbe98277@142.132.161.197:443?type=tcp&encryption=none&path=/%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM&headerType=http&security=tls&fp=chrome&alpn=http%2F1.1&sni=followme.amin-1.ir&ech=AFP%2BDQBPAAAgACBtMwA93WzNjtrI3IDMlTPYX%2FZEMw67DkaSoNOSqnTlbwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAAAAA%3D%3D#proxy_kafee
 
@@ -32,6 +32,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.253:443?security=tls&sni=
 
 vless://b75854%613-f56d-4242-%61%656b-d47bfc504b63@141.227.180.39:22288?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40proxy_kafee
 
+vless://baacbca-acab-caba-dbac-abacbacabbcc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://bb78706c-c189-4259-bf5d-e4ac22fab298@79.127.70.76:443?type=tcp&host=doostihaa.com&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.44.223:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&fp=random#@Hope_Net-join-us-on-Telegram
@@ -42,8 +44,6 @@ vless://ccaabab-acab-acab-abcd-accacbbabacb@127.0.0.1:8080?security=tls&type=tcp
 
 vless://cfa08526-b1df-43ce-e636-98c7cfbca6fe@37.27.185.191:11564?security=reality&sni=microsoft.com&type=grpc&serviceName=%40proprojec&fp=firefox&pbk=eM3u-GwZW19ayWL4LZAGFUFIc4OHf_k9tAlLgW8MsRE#@Hope_Net-join-us-on-Telegram
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40proxy_kafee
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -53,10 +53,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusa
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%40proxy_kafee
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%40proxy_kafee
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
