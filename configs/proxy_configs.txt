@@ -12,8 +12,6 @@ vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@185.174.136.244:8080?security=reali
 
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@5.181.2.51:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B7
 
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.19.190:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
-
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.79:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
 
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.64.12:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
@@ -29,8 +27,6 @@ vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:3
 vless://34a9344c-a290-4a86-85a6-dfb95ff93b9c@151.101.2.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=onlineshoppardis.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
 vless://3940e9ba-d0f6-4052-bd8e-f3c2a2a76599@155.254.35.78:33811?mode=gun&security=reality&encryption=none&pbk=fa3n6JDInXvPSrde2HYqogCf2YheiIgxhhO3N3gO1Qs&fp=chrome&spx=%2F&type=grpc&serviceName=miro.com&sni=miro.com&sid=63f811342e9c75#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://3ccd8292-2383-4028-9c66-c875590f7b96@104.17.147.22:80?security=none&type=ws&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.opetateam.ir.&path=%2F%3Fed%3D2056#@Hope_Net-join-us-on-Telegram
 
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 
@@ -49,6 +45,8 @@ vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=
 vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%40proxy_kafee
 
 vless://785fc8e5-4b33-47f2-aa3f-2dcac0d59a36@173.245.58.73:80?security=none&type=httpupgrade&host=dash.cloudflare.com.www.speedtest.net.dama.ir.pada.ir32.Elmahstyle.ir.&path=%2Fresult%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
+vless://785fc8e5-4b33-47f2-aa3f-2dcac0d59a36@173.245.59.101:80?security=none&type=httpupgrade&host=dash.cloudflare.com.www.speedtest.net.dama.ir.pada.ir32.Elmahstyle.ir.&path=%2Fresult%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://81748ff9-d467-4d1c-a2bf-17e890e694fe@82.24.64.135:31179?security=reality&encryption=none&pbk=2jmEGBx_0GVsnnxqT3_wcXNkcDfhCMERAH5yfHkHnSw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 
@@ -70,11 +68,9 @@ vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls
 
 vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitTNeW.NeT#@Hope_Net-join-us-on-Telegram
 
-vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitTNeW.NeT#@Hope_Net-join-us-on-Telegram
+vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v10.TzZLiMitTNeW.NeT#@Hope_Net-join-us-on-Telegram
 
 vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitTNeW.NeT#@Hope_Net-join-us-on-Telegram
-
-vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeW.CoM#@Hope_Net-join-us-on-Telegram
 
 vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeW.NeT#@Hope_Net-join-us-on-Telegram
 
@@ -125,8 +121,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e191ac99-e071-4e36-9a01-107eaf26a780@188.244.122.253:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66%2F%3Fed%3D2560&security=tls&encryption=none&host=krill.xfan01.sbs&type=ws&sni=krill.xfan01.sbs#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://e43373e0-5bf0-4533-d303-456536e5cbd2@104.17.148.22:2086?security=none&type=httpupgrade&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=none&encryption=none&type=grpc#%40proxy_kafee
 
