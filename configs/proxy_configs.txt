@@ -10,6 +10,8 @@ vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@5.181.2.51:8080?security=reality&en
 
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@5.181.2.51:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AD%F0%9F%87%B7
 
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.18.120:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
+
 vless://2ea7b5fd-a27c-4d79-b321-bf927be50090@82.24.64.135:31129?security=reality&encryption=none&pbk=Y_m8a25ICfj12RLD4MO9SGxWGEpc904cyMpszJ2uaw4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 
 vless://2ea7b5fd-a27c-4d79-b321-bf927be50090@82.24.64.135:31129?security=reality&encryption=none&pbk=Y_m8a25ICfj12RLD4MO9SGxWGEpc904cyMpszJ2uaw4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%A7
@@ -20,6 +22,8 @@ vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alp
 
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AB%F0%9F%87%AE
 
+vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitTNeW.NeT#@Hope_Net-join-us-on-Telegram
+
 vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT#@Hope_Net-join-us-on-Telegram
 
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=%2F%3F%40ShadowProxy66&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -27,8 +31,6 @@ vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=%
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=%2F%3F%40ShadowProxy66&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
 
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#%40proxy_kafee
-
-vless://6776d9f8-d671-4cd1-ae40-6639bbe98277@142.132.161.197:443?type=tcp&encryption=none&path=/%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM&headerType=http&security=tls&fp=chrome&alpn=http%2F1.1&sni=followme.amin-1.ir&ech=AFP%2BDQBPAAAgACBtMwA93WzNjtrI3IDMlTPYX%2FZEMw67DkaSoNOSqnTlbwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAAAAA%3D%3D#proxy_kafee
 
 vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%40proxy_kafee
 
@@ -49,6 +51,8 @@ vless://9ea5a2f5-3a56-4282-919c-4dfee486372e@104.19.150.163:8443?path=%2F&securi
 vless://aaabcbc-baac-cbaa-dabc-bbaccccabaab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://abccbaa-cbaa-abac-badc-ccbbaaabccab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://bc280439-2732-493a-8e60-f0607be2b295@172.64.146.48:443?security=tls&sni=rvseprxysrv2.parthianempire.org&type=ws&host=rvseprxysrv2.parthianempire.org&path=%2Fbc280439-2732-493a-8e60-f0607be2b295&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://cb5c7d29-5ca3-4b73-bea3-060aa3d9b7b0@151.101.66.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8880&fp=firefox#@Hope_Net-join-us-on-Telegram
 
