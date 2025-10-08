@@ -36,6 +36,8 @@ vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alp
 
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AB%F0%9F%87%AE
 
+vless://5fecde22-247a-462d-aab0-ce945f5616dc@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitTNeW.CoM#@Hope_Net-join-us-on-Telegram
+
 vless://62aee310-ce43-440c-ba43-bd5cd43185dc@104.18.192.80:8443?security=tls&sni=DAILy-coNFiGs-chANNEl.paGES.DEv&type=ws&host=daily-configs-channel.pages.dev&path=%2FTelegram%2CDAILY_CONFIGS%3Fed%3D2056&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#%F0%9F%87%A8%F0%9F%87%A6%40proxy_kafee
@@ -63,6 +65,8 @@ vless://9ea5a2f5-3a56-4282-919c-4dfee486372e@104.19.150.163:8443?path=%2F&securi
 vless://a40e2c15-6c4d-b5e6-3e9c-d2adad0ee1e6@sw.modernstore3.ir:80?path=%2F&security=&encryption=none&host=mydocker-web.com&type=xhttp#@proxy_kafee
 
 vless://a410ee53-3189-8de8-5b2f-f141e719e335@dl-01.hosting-ip.ir:45555?security=tls&type=tcp&headerType=http&path=%2F&fp=firefox&allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1#@proxy_kafee
+
+vless://a89b1111-7ee2-4741-b5db-be2e32270ae8@199.232.0.190:443?security=tls&sni=FullHD.4k.ELiV2RaY.ai&type=ws&host=fullhd.4k.eliv2ray.ai&path=%2FVLESS%3Fed%3D2560&fp=edge&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
 vless://acdf1a94-393f-4b5a-86c2-65558b18e7b5@188.132.141.58:7035?path=%2F&security=&encryption=none&host=filimo.com&type=ws#@proxy_kafee
 
