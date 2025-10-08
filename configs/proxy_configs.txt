@@ -12,6 +12,8 @@ vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@5.181.2.51:8080?security=reality&en
 
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.41:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
 
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.19.102:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
+
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.19.33:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
 
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.117:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
@@ -63,8 +65,6 @@ vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@151.101.66.228:80?security=none&typ
 vless://9ea5a2f5-3a56-4282-919c-4dfee486372e@104.19.150.163:8443?path=%2F&security=tls&encryption=none&host=vless.keepfuck.me&fp=chrome&type=ws&sni=vless.keepfuck.me#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://9ea5a2f5-3a56-4282-919c-4dfee486372e@104.19.150.163:8443?path=%2F&security=tls&encryption=none&host=vless.keepfuck.me&fp=chrome&type=ws&sni=vless.keepfuck.me#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
-
-vless://a3bfbd98-480d-452e-aead-a9dfcf3532a4@151.101.66.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=chde.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1&allowInsecure=false#@Hope_Net-join-us-on-Telegram
 
 vless://a40e2c15-6c4d-b5e6-3e9c-d2adad0ee1e6@sw.modernstore3.ir:80?path=%2F&security=&encryption=none&host=mydocker-web.com&type=xhttp#@proxy_kafee
 
