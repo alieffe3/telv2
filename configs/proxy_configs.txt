@@ -10,9 +10,13 @@ vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.207:443?security=tls&sn
 
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.159:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
 
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.199:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
+
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AB%F0%9F%87%B7
 
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AB%F0%9F%87%AE
+
+vless://4c3f503f-1edf-5e23-ab44-b0a0b6637b0b@104.26.15.148:443?security=tls&sni=ArzDigital.com&path=vless-ws%2F%3Fed%3D8880&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
 vless://5fecde22-247a-462d-aab0-ce945f5616dc@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitTNeW.CoM#@Hope_Net-join-us-on-Telegram
 
