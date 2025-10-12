@@ -20,6 +20,8 @@ vless://2300%61db1-b%6510-47bb-%61c3c-bb27239ccb3d@57.129.58.95:15180?mode=gun&s
 
 vless://255f2128-3659-4cf2-bc5a-046970136103@104.16.29.8:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
+vless://255f2128-3659-4cf2-bc5a-046970136103@172.65.237.80:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
+
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.188:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#@Hope_Net-join-us-on-Telegram
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.243:443?security=tls&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=%2Fblue#@Hope_Net-join-us-on-Telegram
@@ -52,8 +54,6 @@ vless://6babb657-1524-43bb-b421-11bda27bc9de@190.93.246.158:2087?security=tls&sn
 
 vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#proxy_kafee
 
-vless://7599245e-0605-4365-ae29-6027e5312b76@45.142.120.5:443?security=tls&sni=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev&type=ws&host=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev&path=%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047#@Hope_Net-join-us-on-Telegram
-
 vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443?security=tls&sni=fq521.6789.cloudns.be&type=ws&host=fq521.6789.cloudns.be&path=twitterfreecodessecurity%3Dtls#@Hope_Net-join-us-on-Telegram
 
 vless://78%61%65%61809-7966-424%61-b198-f1854732dd8%65@141.227.128.139:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40@proxy_kafee
@@ -72,11 +72,17 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.122.230:443?security=tls&sn
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.78:443?security=tls&sni=lx.kpcloud.eu.org&type=ws&host=lx.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.0.54.0:443?security=tls&sni=la.ylka.us.kg&type=ws&host=la.ylka.us.kg&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#@Hope_Net-join-us-on-Telegram
+
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.2:443?security=tls&sni=lx.ylks01.eu.org&type=ws&host=lx.ylks01.eu.org&path=%2Fblue#@Hope_Net-join-us-on-Telegram
+
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.137:443?security=tls&sni=cd.ylks.xyz&type=ws&host=cd.ylks.xyz&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.203:443?security=tls&sni=ld.ylks.us.kg&type=ws&host=ld.ylks.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.241:443?security=tls&sni=la.ylks01.eu.org&type=ws&host=la.ylks01.eu.org&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#@Hope_Net-join-us-on-Telegram
+
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.129:443?security=tls&sni=dd.ylks.xyz&type=ws&host=dd.ylks.xyz&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.102:443?security=tls&sni=da.ylks.xyz&type=ws&host=da.ylks.xyz&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#@Hope_Net-join-us-on-Telegram
 
@@ -85,8 +91,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.116:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.251:443?security=tls&sni=dd.ylks.xyz&type=ws&host=dd.ylks.xyz&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 
 vless://a6f133fd-1df0-4331-b489-413fad5e82e2@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=downloadlynet.ir.&path=%2F%40custom_config%3Fed%3D2560&fp=firefox&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
-vless://aabaccb-baca-baca-bcad-aabbbcccbaac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://abaccab-baac-baac-badc-cbaaabcacbcb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
