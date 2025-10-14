@@ -56,6 +56,8 @@ vless://b0fc9436-2dfd-4d16-9312-ff7a3e2aff5f@www.speedtest.net:8443?path=%2F%40S
 
 vless://b0fc9436-2dfd-4d16-9312-ff7a3e2aff5f@www.speedtest.net:8443?path=%2F%40ShadowProxy66%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=root.dns-23.ir&fp=chrome&type=ws&sni=root.dns-23.ir#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
 
+vless://bbcaaca-abac-acab-cdba-baabbaccaccb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://cacabab-baca-abca-abdc-bcaabbccbaca@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -67,8 +69,6 @@ vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&al
 vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=uk-09.allhubb.info#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 
 vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=uk-09.allhubb.info#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%A7
-
-vless://d46a92b5-8042-45c5-8f55-3aac665cc871@172.64.33.212:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&type=ws&host=UNLIMITEDDEV.unlimiteddev-vpn.com&path=%2F%40%55nlimitedDev----%40%55nlimitedDev-----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev%3Fed%3D8080&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 
