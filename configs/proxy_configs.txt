@@ -30,8 +30,6 @@ vless://4a0ca197-b374-492e-9b78-b148e2ddb1e2@95.128.196.217:3232?security=none&e
 
 vless://4a505346-032f-490e-93be-69fd047c525a@104.17.147.22:8880?security=none&type=ws&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#@Hope_Net-join-us-on-Telegram
 
-vless://50e75c0f-801a-4291-9d98-80e77b787fd5@104.21.51.208:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
-
 vless://50e75c0f-801a-4291-9d98-80e77b787fd5@172.67.32.82:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
@@ -59,6 +57,8 @@ vless://abbcaca-caba-cbaa-abdc-acbababcaccb@127.0.0.1:1080?security=tls&type=tcp
 vless://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@gr1-1.9966662.xyz:20223?security=reality&encryption=none&pbk=dRgK6_86Zkd_nFhiUxmrBjAbO_nis9zCEKZpiCl2Z2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=ec372208#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%B7
 
 vless://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@gr1-1.9966662.xyz:20223?security=reality&encryption=none&pbk=dRgK6_86Zkd_nFhiUxmrBjAbO_nis9zCEKZpiCl2Z2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=ec372208#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%B7
+
+vless://acbacba-cbaa-baca-badc-aabccbaabccb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://b0fc9436-2dfd-4d16-9312-ff7a3e2aff5f@www.speedtest.net:8443?path=%2F%40ShadowProxy66%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=root.dns-23.ir&fp=chrome&type=ws&sni=root.dns-23.ir#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
 
