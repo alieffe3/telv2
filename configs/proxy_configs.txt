@@ -36,8 +36,6 @@ vless://4a0ca197-b374-492e-9b78-b148e2ddb1e2@91.236.168.126:5151?security=none&e
 
 vless://4a0ca197-b374-492e-9b78-b148e2ddb1e2@95.128.196.217:3232?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
 
-vless://50e75c0f-801a-4291-9d98-80e77b787fd5@172.67.32.82:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
-
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B7
