@@ -22,6 +22,8 @@ vless://4a505346-032f-490e-93be-69fd047c525a@104.17.147.22:8880?security=none&ty
 
 vless://50e75c0f-801a-4291-9d98-80e77b787fd5@104.21.51.208:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
+vless://50e75c0f-801a-4291-9d98-80e77b787fd5@172.67.32.82:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
+
 vless://50e75c0f-801a-4291-9d98-80e77b787fd5@195.85.23.236:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
@@ -46,8 +48,6 @@ vless://7b3344%65d-0843-4db%61-bd62-57fb93355944@172.67.146.171:2095?path=%2F%40
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?security=tls&sni=CCOnfIGPlUS.SPDTest.ggFf.NET&type=ws&host=cconfigplus.spdtest.ggff.net&path=%2FW5V92vB3BQrJH2yY%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.138.178:2053?security=tls&sni=mAhDiSERvER-CBY.paGEs.dEv&type=ws&host=mAHDIServER-cby.PageS.dEV&path=%2FP5MjtVi46A2IqoUv%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://b0fc9436-2dfd-4d16-9312-ff7a3e2aff5f@www.speedtest.net:8443?path=%2F%40ShadowProxy66%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=root.dns-23.ir&fp=chrome&type=ws&sni=root.dns-23.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://b0fc9436-2dfd-4d16-9312-ff7a3e2aff5f@www.speedtest.net:8443?path=%2F%40ShadowProxy66%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=root.dns-23.ir&fp=chrome&type=ws&sni=root.dns-23.ir#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
@@ -63,8 +63,6 @@ vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&al
 vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=uk-09.allhubb.info#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 
 vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=uk-09.allhubb.info#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%A7
-
-vless://d46a92b5-8042-45c5-8f55-3aac665cc871@104.17.234.114:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&type=ws&host=UNLIMITEDDEV.unlimiteddev-vpn.com&path=%2F%40%55nlimitedDev----%40%55nlimitedDev-----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev%3Fed%3D8080&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://d46a92b5-8042-45c5-8f55-3aac665cc871@172.64.33.212:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&type=ws&host=UNLIMITEDDEV.unlimiteddev-vpn.com&path=%2F%40%55nlimitedDev----%40%55nlimitedDev-----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev%3Fed%3D8080&fp=chrome#@Hope_Net-join-us-on-Telegram
 
