@@ -42,6 +42,8 @@ vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&e
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:2053?security=tls&sni=mAHDIserVeR-bOM.paGEs.DEv&type=ws&host=mAHDISErVeR-BoM.PAges.dEv&path=%2FDcijbGfSbK93gk4Z%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.195:443?security=tls&sni=23sPT.pAGEs.dEV&type=ws&host=23spt.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&fp=randomized&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed&security=tls&encryption=none&host=azadnet3-9do.pages.dev&type=ws&sni=azadnet3-9do.pages.dev#%40proxy_kafee
 
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#Channel%20id%3A%20%40proxy_kafee
