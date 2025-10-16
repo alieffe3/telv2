@@ -54,15 +54,17 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.195:443?security=tls&sni=
 
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed&security=tls&encryption=none&host=azadnet3-9do.pages.dev&type=ws&sni=azadnet3-9do.pages.dev#%40proxy_kafee
 
+vless://9c026691-b79d-4e6d-b408-6a1ef928855f@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeW.CoM#@Hope_Net-join-us-on-Telegram
+
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#Channel%20id%3A%20%40proxy_kafee
 
 vless://a3185438-23cb-4fe3-95da-3e5f3fc43525@de.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com#%40proxy_kafee
 
 vless://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@gr1-1.9966662.xyz:20223?security=reality&encryption=none&pbk=dRgK6_86Zkd_nFhiUxmrBjAbO_nis9zCEKZpiCl2Z2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=ec372208#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%B7
 
-vless://ba2b8534-f500-453f-9a33-9c9038f0a40d@104.17.225.199:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
-
 vless://caaabcb-caab-abca-acdb-bcabcbacabac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://cbaacba-abca-aacb-abcd-babccabcbaac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40proxy_kafee
 
