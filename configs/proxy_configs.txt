@@ -44,8 +44,6 @@ vless://c9046670-0bde-4e29-8f83-6af60eca785b@172.66.213.38:2087?security=tls&sni
 
 vless://cabbcaa-abca-acab-adbc-cccaabacbbab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://ccbabaa-bcaa-caba-bcad-acccbaabacbb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40proxy_kafee
 
 vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#@proxy_kafee
