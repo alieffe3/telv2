@@ -10,8 +10,6 @@ hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@[2001:19f0:5001:5b:5400:5ff:fe8
 
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40proxy_kafee
 
-vless://%652dc%61bfc-5%65%651-41f9-d%6113-f5384%61b%65b40c@151.101.3.8:80?type=xhttp&path=/%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m%3Fed%3D2048&host=M%61hs%61z%78shop.o%72g&mode=auto&security=none#@proxy_kafee
-
 vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443?security=reality&encryption=none&pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%40proxy_kafee
 
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%40proxy_kafee
@@ -33,10 +31,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?mode=gun
 vless://47134234-9a13-4a90-a75a-826f922497f6@138.199.159.218:443?path=%2Flinkws%3Fed%3D2560&security=none&encryption=none&host=138.199.159.218&type=ws#%40proxy_kafee
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.198.230:443?security=tls&sni=ay.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.58.144:443?security=tls&sni=ay.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.194.31:443?security=tls&sni=ay.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.202.213:443?security=tls&sni=ay.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
@@ -94,17 +88,11 @@ vless://9c026691-b79d-4e6d-b408-6a1ef928855f@151.101.66.228:80?security=none&typ
 
 vless://9c026691-b79d-4e6d-b408-6a1ef928855f@151.101.66.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitTNeW.CoM#@Hope_Net-join-us-on-Telegram
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.115.51:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.121.65:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.246.119:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://acabbac-baac-acba-dbca-ccbbacacbbaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://b7c4ebd1-32b4-4312-ce2b-b5426d65eb06@de.mobile-nik.ir:8080?path=%2FH%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG%3Fed%3D2056&security=&encryption=none&host=de.mobile-nik.ir.&type=ws#%40@proxy_kafee
-
-vless://b7c4ebd1-32b4-4312-ce2b-b5426d65eb06@de.mobile-nik.ir:8080?path=%2FH%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG-H%2571V2RayNG%3Fed%3D2056&security=&encryption=none&host=de.mobile-nik.ir.&type=ws#@proxy_kafee
 
 vless://bf9b316d-31ac-42ee-b8a5-8dc795118917@192.210.183.136:36678?security=reality&encryption=none&pbk=rrGm0NemTtGQ8Vrd2AzB7pSoW_kYtqYvhRxsx_MtwG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=5d20#%40proxy_kafee
 
