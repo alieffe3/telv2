@@ -4,8 +4,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.120.112:22222?security=tls&sn
 
 vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@154.211.8.18:443?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.195.207:443?security=tls&sni=ay.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.122.196:443?security=tls&sni=ay.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.58.144:443?security=tls&sni=ay.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
@@ -64,6 +62,8 @@ vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed&securi
 
 vless://9c026691-b79d-4e6d-b408-6a1ef928855f@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitTNeW.CoM#@Hope_Net-join-us-on-Telegram
 
+vless://9c026691-b79d-4e6d-b408-6a1ef928855f@151.101.66.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitTNeW.CoM#@Hope_Net-join-us-on-Telegram
+
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.115.51:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.92:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
@@ -107,8 +107,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=&encryption=none&type=grpc#@proxy_kafee
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=&encryption=none&type=grpc#@proxy_kafee
-
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.41:443?security=tls&sni=sB-1u6.Pages.DEV&type=ws&path=%2Fif1pdmbi6sinplj2%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.46:443?security=tls&sni=sB-1u6.Pages.DEV&type=ws&path=%2Fif1pdmbi6sinplj2%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
