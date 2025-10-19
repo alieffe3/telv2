@@ -72,7 +72,11 @@ vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@45.131.6.54:443?path=%2F%3Fed%3D256
 
 vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@45.8.211.128:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ym.ddff.me&fp=random&type=ws&sni=ym.ddff.me#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A9%F0%9F%87%AA
 
+vless://658d1691-6cfb-4d95-b473-fb64c1727223@104.17.147.22:2086?security=none&type=httpupgrade&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.opetateam.ir.&path=%2F%3Fed%3D2056#@Hope_Net-join-us-on-Telegram
+
 vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#proxy_kafee
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.148:443?security=tls&sni=lITTle-fog-5666.NETmoUsAvI.wOrKErS.DeV&type=ws&host=little-fog-5666.netmousavi.workers.dev&path=%2FRHZcln9v1mVzMwZ0%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed&security=tls&encryption=none&host=azadnet3-9do.pages.dev&type=ws&sni=azadnet3-9do.pages.dev#proxy_kafee
 
