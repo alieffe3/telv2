@@ -4,15 +4,7 @@ vless://031066b3-20c1-43f1-8b11-3b0626f43788@151.101.194.133:443?security=tls&sn
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.99.111.26:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%40proxy_kafee
-
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.200.195:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#%40proxy_kafee
-
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&security=none&encryption=none&type=ws#%40proxy_kafee
-
 vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#proxy_kafee
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.148:80?security=none&type=ws&host=little-fog-5666.netmousavi.workers.dev&path=%2F2qvm12oXHjqFgfZN%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed&security=tls&encryption=none&host=azadnet3-9do.pages.dev&type=ws&sni=azadnet3-9do.pages.dev#proxy_kafee
 
@@ -26,13 +18,9 @@ vless://bb181744-7a03-4ac2-8a9d-cbd88aefdfc8@151.101.192.155:80?security=none&ty
 
 vless://bbacaac-caba-aacb-dcab-caacabbcbacb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
-vless://bf9b316d-31ac-42ee-b8a5-8dc795118917@192.210.183.136:36678?security=reality&encryption=none&pbk=rrGm0NemTtGQ8Vrd2AzB7pSoW_kYtqYvhRxsx_MtwG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=5d20#%40proxy_kafee
-
 vless://ca30e3f6-7487-4f3e-9f6f-5c2430ee2a6d@151.101.2.133:443?security=tls&sni=live.wkrq.com&type=ws&host=UNLIMITEDDEV.zr.ir&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#proxy_kafee
-
-vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#%40proxy_kafee
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=&encryption=none&type=grpc#proxy_kafee
 
