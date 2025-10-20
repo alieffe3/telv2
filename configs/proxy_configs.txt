@@ -50,6 +50,8 @@ vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&securi
 
 vless://aacbbac-acab-baac-abcd-aaaccbbbcbca@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://bb181744-7a03-4ac2-8a9d-cbd88aefdfc8@151.101.192.155:80?security=none&type=ws&host=service.speedtest.net.mins.com.&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#@Hope_Net-join-us-on-Telegram
+
 vless://bb181744-7a03-4ac2-8a9d-cbd88aefdfc8@151.101.64.155:80?security=none&type=ws&host=service.speedtest.net.mins.com.&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#@Hope_Net-join-us-on-Telegram
 
 vless://bbacaac-caba-aacb-dcab-caacabbcbacb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
