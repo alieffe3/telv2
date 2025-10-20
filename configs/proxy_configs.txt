@@ -12,6 +12,8 @@ hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200?security=tl
 
 vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443?security=reality&encryption=none&pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%40proxy_kafee
 
+vless://01536506-0fd9-4414-d968-3f90b3f98933@62.60.178.234:443?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
+
 vless://031066b3-20c1-43f1-8b11-3b0626f43788@151.101.194.133:443?security=tls&sni=time.com&type=ws&host=onlineshoppardis.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.99.111.26:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
