@@ -6,15 +6,13 @@ vless://108fd695-466b-4450-afba-a6342edaf263@79.127.70.113:2095?security=none&ty
 
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@172.67.175.106:443?path=%2F&security=tls&encryption=none&host=ed19-dc7.pages.dev&fp=chrome&type=ws&sni=ed19-dc7.pages.dev#@proxy_kafee
 
-vless://2763396d-1978-4940-b5fe-3683a453188d@151.101.66.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeW.CoM#@Hope_Net-join-us-on-Telegram
+vless://2763396d-1978-4940-b5fe-3683a453188d@151.101.66.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitTNeW.CoM&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#@proxy_kafee
 
 vless://37579b17-fc65-447f-ab34-9c1f955eb409@62.60.212.211:8230?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@188.114.97.1:2053?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&host=FREEDOM31.Pages.DEV&path=%2F&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
-
-vless://658d1691-6cfb-4d95-b473-fb64c1727223@104.17.148.22:2086?security=none&type=httpupgrade&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.opetateam.ir.&path=%2F%3Fed%3D2056#@Hope_Net-join-us-on-Telegram
 
 vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#proxy_kafee
 
@@ -36,8 +34,6 @@ vless://accbaab-caab-baca-bdac-cacbabacabcb@127.0.0.1:8080?security=tls&type=tcp
 
 vless://ade5b2de-40b8-466a-a567-d0f4a12de6f6@24.144.66.227:443?security=none&type=ws&host=Tel.lololilo.lol&path=%2FBARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN%3Fed%3D8443#@Hope_Net-join-us-on-Telegram
 
-vless://bb181744-7a03-4ac2-8a9d-cbd88aefdfc8@151.101.128.155:80?security=none&type=ws&host=service.speedtest.net.mins.com.&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#@Hope_Net-join-us-on-Telegram
-
 vless://bbaaacc-acba-cbaa-bcad-cbcaccbaaabb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://c%658c4726-cf%61b-429d-943d-f%65075733bc85@zula.ir:2095?type=ws&path=/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m/%40%58pn%54%65%61m%3Fed%3D2048&host=t%65st3.%61m%69n8263.%69%72&security=none#@proxy_kafee
@@ -47,6 +43,8 @@ vless://c46e9a8a-226e-4cc2-aeff-31c774e1e4f9@172.66.44.74:443?security=tls&sni=p
 vless://c5978085-0ab4-4771-b204-434dd6a408a0@172.67.189.252:443?security=tls&sni=net.dexaje8106.workers.dev&type=ws&host=net.dexaje8106.workers.dev&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://cb1b1fd0-8c81-4803-a58d-03c8cab97539@104.21.25.254:2053?security=tls&sni=sinaazizporrr.bebzamhatmailir.worKeRS.dev&type=ws&host=sinaazizporrr.bebzamhatmailir.worKeRS.dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
+
+vless://cfcf33e1-e6e6-40f3-a05d-50bb423a2096@172.67.204.84:2096?security=tls&sni=YtTzUImpdiufXG9GyT6hoam5kiitDfB1E5DX1oVnjEr0oa75bW4QBzp3DKQgaZI.PAGEs-deV.SITe&type=ws&host=jOrDQPhHEzhAY7YVlrsUYPEzTrCqs7XTCAe38wwQJgkyDDtLsA6ciN8QpLREHg1.paGeS-DEV.Site&path=%2F%3FeVNMDM21E1lUcWL5GKCaeYWH60O5HbvUGYF5zXZKyI37Zh4EIexHhW4nHPgilQ7%26ed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#proxy_kafee
 
@@ -71,4 +69,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=&encryption=none&type=grpc#proxy_kafee
 
 vless://eceaf562-6f00-47be-8b4b-1ba42d24ed4b@151.101.2.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
+vless://faeb2984-448c-467e-9016-5774428653b7@49.13.174.247:30533?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
