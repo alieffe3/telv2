@@ -10,6 +10,8 @@ vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&secu
 
 vless://37579b17-fc65-447f-ab34-9c1f955eb409@62.60.212.211:8230?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
 
+vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@188.114.97.1:2053?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&host=FREEDOM31.Pages.DEV&path=%2F&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
+
 vless://658d1691-6cfb-4d95-b473-fb64c1727223@104.17.148.22:2086?security=none&type=httpupgrade&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.opetateam.ir.&path=%2F%3Fed%3D2056#@Hope_Net-join-us-on-Telegram
 
 vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#proxy_kafee
@@ -31,8 +33,6 @@ vless://af5acda4-d0a7-45b0-92d7-a3c4c535fc17@79.127.70.113:2082?security=none&ty
 vless://bb181744-7a03-4ac2-8a9d-cbd88aefdfc8@151.101.128.155:80?security=none&type=ws&host=service.speedtest.net.mins.com.&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#@Hope_Net-join-us-on-Telegram
 
 vless://bb181744-7a03-4ac2-8a9d-cbd88aefdfc8@151.101.192.155:80?security=none&type=ws&host=service.speedtest.net.mins.com.&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#@Hope_Net-join-us-on-Telegram
-
-vless://ca30e3f6-7487-4f3e-9f6f-5c2430ee2a6d@151.101.2.133:443?security=tls&sni=live.wkrq.com&type=ws&host=UNLIMITEDDEV.zr.ir&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#proxy_kafee
 
