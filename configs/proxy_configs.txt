@@ -54,6 +54,8 @@ vless://bbacaac-caba-aacb-dcab-caacabbcbacb@127.0.0.1:1080?security=tls&type=tcp
 
 vless://bf9b316d-31ac-42ee-b8a5-8dc795118917@192.210.183.136:36678?security=reality&encryption=none&pbk=rrGm0NemTtGQ8Vrd2AzB7pSoW_kYtqYvhRxsx_MtwG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=5d20#%40proxy_kafee
 
+vless://ca30e3f6-7487-4f3e-9f6f-5c2430ee2a6d@151.101.2.133:443?security=tls&sni=live.wkrq.com&type=ws&host=UNLIMITEDDEV.zr.ir&fp=chrome#@Hope_Net-join-us-on-Telegram
+
 vless://cabcaab-caba-acba-acdb-baccabcbbaac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#proxy_kafee
