@@ -4,8 +4,6 @@ vless://0309039%61-%619%613-49%65b-cb%65d-f386b85213b0@151.101.3.8:80?type=xhttp
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.75.211.247:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 
-vless://071afd93-3c4b-4868-9779-762c2902f43c@146.19.233.101:25810?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=Lzgk8JTquhjXqH69XIQqKsrfdGIIP2XqMCSWWswjElE&sid=5f2920c3#@Hope_Net-join-us-on-Telegram
-
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.80.111.26:2053?encryption=none&security=tls&sni=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&host=iYjnx-71195.zephorium.uk&path=%2F#@v2ray_configs_pool
 
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?encryption=none&security=tls&sni=smart.taron01.info&alpn=h3%2Ch2&fp=chrome&type=ws&host=smart.taron01.info&path=%2F#@v2ray_configs_pool
@@ -37,6 +35,10 @@ vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?security=&enc
 vless://7f5c3ff3-c113-4379-812b-c5733f47d4e1@vfast7.hvitrin.ir:49330?encryption=none&security=reality&sni=miro.com&fp=chrome&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&sid=b3&spx=%2F&type=tcp&headerType=none#@v2ray_configs_pool
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.12.229:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=azadnet-4nb.pages.dev&fp=chrome&type=ws&sni=azadnet-4nb.pages.dev#@proxy_kafee
+
+vless://877efc4a-eb2b-4542-a25f-88db5c954072@104.26.14.85:2082?security=none&type=httpupgrade&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082#@Hope_Net-join-us-on-Telegram
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.19.239:443?security=tls&sni=pPAL03.YoSif-jahriEL.worKERs.Dev&type=ws&host=ppal03.yoSIF-jAhrieL.WoRkeRS.deV&path=%2FpQJrMakybriRTAd8%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed&security=tls&encryption=none&host=azadnet3-9do.pages.dev&type=ws&sni=azadnet3-9do.pages.dev#proxy_kafee
 
