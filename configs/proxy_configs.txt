@@ -2,7 +2,11 @@ vless://%6585d02%657-5b56-4062-9cfb-6f3c%651d%61%61%6523@151.101.3.8:80?type=xht
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@107.21.230.36:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.86.238.176:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
+
 vless://05e4c207-f43e-4ccd-a3d7-7b2cd2e99c9b@104.17.148.22:8443?security=tls&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
+vless://05e4c207-f43e-4ccd-a3d7-7b2cd2e99c9b@104.17.148.22:8443?security=tls&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE%3Fed%3D2480&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://14701002-d2f6-41bd-96d3-67361ab960f3@95.181.173.244:443?security=tls&flow=xtls-rprx-vision&sni=los1.vpntype.com&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
@@ -34,6 +38,8 @@ vless://a4c30eb5-7a01-45f1-bdff-b4b814c26efd@104.17.147.22:2086?security=none&sn
 
 vless://bcbacaa-aabc-baca-adbc-cbcaabacabbc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://cbbaaca-baca-acba-acbd-bcbaacabacbc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://ccbaaab-cbaa-caab-cbda-bcbaccbbcaaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d90b847%61-9%651%61-4f69-ff74-3994%65%61%61df%612b@104.21.65.149:2095?path=%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%3Fed%3D2048&security=none&encryption=none&host=t%65st3.%61m%69n8263.%69%72&type=ws#%40@proxy_kafee
@@ -47,4 +53,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun&security=none&encryption=none&authority=%2Fsinavm&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40proxy_kafee
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?mode=gun&security=none&encryption=none&authority=%2Fsinavm&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%40proxy_kafee
+
+vless://e481c368-59a0-471d-ad54-b08292c6e32b@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitT.CoM#@Hope_Net-join-us-on-Telegram
 
