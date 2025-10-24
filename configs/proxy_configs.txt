@@ -68,15 +68,13 @@ vless://4458230b-bb89-4bf7-d73%61-40d62b569b1c@www.speedtest.net:2095?path=%2F%4
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.196.179:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.49.106:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.122.99:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.50:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.98.71:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.245.231:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.195.29:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.202.4:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
@@ -112,7 +110,7 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.33.161:443?security=tls&sni
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.120.18:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.122.230:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.240:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.196:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
@@ -135,8 +133,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.0:443?security=tls&sni=la
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.189:443?security=tls&sni=cw.ylks.xyz&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.213.149:443?security=tls&sni=lw.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.95:443?security=tls&sni=la.kpcloud.eu.org&type=ws&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#@Hope_Net-join-us-on-Telegram
 
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?encryption=none&security=tls&sni=offged.sahandconfig.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=Smxhabwh&mode=gun#%40v2ray_configs_pool
 
@@ -207,8 +203,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?encryption=none&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?encryption=none&security=none&fp=chrome&type=grpc#%40v2ray_configs_pool
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?encryption=none&security=none&fp=chrome&type=grpc#%40v2ray_configs_pool
-
-vless://e12cc0bf-2161-4486-8ff0-718f11bf4a6f@151.101.194.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=chde.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://e77a10bc-1269-4e38-bca5-6363498ad146@axe.soyet2j.ir:2053?encryption=none&security=tls&sni=mojito.soyet2j.ir&type=ws&host=mojito.soyet2j.ir&path=%2Fhomepage%3Fed%3D2560#%40v2ray_configs_pool
 
