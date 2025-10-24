@@ -22,6 +22,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.63:443?security=tls&sni=
 
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#@proxy_kafee
 
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@162.159.153.2:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2FPathTELEGRAM-@vpnAndroid2%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=&encryption=none&type=grpc#@proxy_kafee
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=&encryption=none&type=grpc#@proxy_kafee
