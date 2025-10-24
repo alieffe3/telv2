@@ -6,8 +6,6 @@ hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@206.71.158.41:35000?sni=jnir.pi
 
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1#@v2ray_configs_pool
 
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1#@v2ray_configs_pool
-
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1#@v2ray_configs_pool
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#@v2ray_configs_pool
@@ -44,6 +42,8 @@ vless://4458230b-bb89-4bf7-d73%61-40d62b569b1c@www.speedtest.net:2095?path=%2F%4
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.122.99:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.24.57.48:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
+
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@89.168.16.202:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://59019308-2af1-475f-e12e-9d11e6040e3d@www.speedtest.net:2082?mode=auto&path=%2F%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM&security=&encryption=none&host=Q-mars.amin-1.ir&type=xhttp#%40@proxy_kafee
@@ -60,8 +60,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.130:443?security=tls&sni=
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.219.160:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.219.248:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.63:443?security=tls&sni=lw.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?encryption=none&security=tls&sni=offged.sahandconfig.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&serviceName=Smxhabwh&mode=gun#@v2ray_configs_pool
@@ -76,8 +74,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&securi
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880?encryption=none&security=none&fp=chrome&type=grpc#@v2ray_configs_pool
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?encryption=none&security=none&type=grpc#@v2ray_configs_pool
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.96:8880?encryption=none&security=none&type=grpc#@v2ray_configs_pool
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=&encryption=none&type=grpc#@proxy_kafee
@@ -91,6 +87,4 @@ vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=real
 vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&sid=d0a3f84aabd21574&type=tcp&headerType=none#@v2ray_configs_pool
 
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&sni=sB-1u6.Pages.DEV&type=ws&path=%2FiF1PDMbI6SiNPLj2%2FMTU4LjEwMS4yMDMuMTI3%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.46:443?security=tls&sni=sB-1u6.Pages.DEV&type=ws&path=%2FiF1PDMbI6SiNPLj2%2FMTU4LjEwMS4yMDMuMTI3%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
