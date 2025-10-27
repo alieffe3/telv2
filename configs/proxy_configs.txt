@@ -36,6 +36,10 @@ vless://aabcbca-acab-acba-dbca-cbcaaacacbbb@127.0.0.1:8080?security=tls&type=tcp
 
 vless://b7dc61b1-5ff2-429b-a02e-08f178bc5eeb@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v20.TzZLiMitT.CoM#@Hope_Net-join-us-on-Telegram
 
+vless://bfa412ab-d77e-4a26-89d1-e27a9398c06a@104.18.19.0:8443?security=tls&sni=daiLy-CoNfigs-CHANneL.PageS.dev&type=ws&host=daily-configs-channel.pages.dev&path=%2FTelegram%2CDAILY_CONFIGS%3Fed%3D8080&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
+vless://dc03106e-91c8-4baf-a3aa-8cb4dcd1b476@62.60.210.26:8705?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=&encryption=none&type=grpc#@proxy_kafee
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=&encryption=none&type=grpc#@proxy_kafee
