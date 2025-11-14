@@ -24,6 +24,8 @@ vless://3f2a8ac5-f359-4333-865a-7064e31c2538@172.67.73.163:443?path=%2FTelegram%
 
 vless://40c4812d-b1fe-4ff1-922b-a10e95ee1d70@paris.fonixapp.org:15833?security=reality&encryption=none&pbk=8z6qPN2t7wZ0nmOGhSTYaq__XqP8gDZar85XauwP4i0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=d0#proxy_kafee
 
+vless://411506f8-b950-4885-8c63-2b75f2945030@45.83.140.122:80/?type=grpc&encryption=none&serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
+
 vless://4ce1f615-a341-4832-ba2e-0cd8858539d9@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#@Hope_Net-join-us-on-Telegram
 
 vless://4f4cac76-4b7c-425d-b59b-a6c33ce0a0ba@151.101.2.219:443?hiddify=1&sni=speedtest.net&type=ws&alpn=h2,http/1.1&path=/AOagIIfbJJ0hbXIwCE6mq&host=tara.ir&encryption=none&fp=firefox&headerType=None&security=tls#@Hope_Net-join-us-on-Telegram
@@ -38,17 +40,15 @@ vless://68eef389-1f23-46f6-816e-f3fe93d49bc1@62.60.179.88:2096?security=none&enc
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.55.174:2053/?type=ws&encryption=none&host=MaHdISerVeR-afq.pAGeS.DEv&path=%2FwL08on9nnAdWzBlu%3Fed%3D2560&security=tls&sni=MaHDiserVER-afq.PagES.deV&alpn=h2%2Chttp%2F1.1&fp=randomized#@Hope_Net-join-us-on-Telegram
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.251.82.149:2053?security=tls&sni=BpB-v.PAgEs.Dev&type=ws&host=bpb-v.PaGEs.DeV&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.249:443?security=tls&sni=bPb-v.pAgES.DEv&type=ws&host=bPb-V.PaGes.Dev&path=%2Ffe4TiF2DZqkDKjYd%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://a4682305-d2dc-4d1b-b753-30565a511ded@104.17.234.114:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#@Hope_Net-join-us-on-Telegram
+
+vless://a4682305-d2dc-4d1b-b753-30565a511ded@speedtest.net:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#@Hope_Net-join-us-on-Telegram
 
 vless://a91a7902-f73c-482f-894c-a43d7e9bd3f4@188.245.88.48:6969?security=reality&flow=xtls-rprx-vision&sni=business.stackoverflow.com&type=tcp&fp=chrome&pbk=Hg62G_iaxP5fXUpWZ8R5NHiDUe-PtKyxlEvofq5GaCs&sid=55820565194d19#@Hope_Net-join-us-on-Telegram
 
 vless://abf303bb-53bc-4dd6-a372-2d18e69e4850@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=snapp.com&path=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN?ed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://ca4b4285-7048-4729-9fb5-d0249e37f16a@5.160.132.190:1001?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
+vless://cc29b4c8-f8c5-4d1b-b553-798fbe60e937@theatlantic.com:443/?type=ws&encryption=none&host=alf17.ir&path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%3Fed%3D2048&security=tls&sni=theatlantic.com&alpn=http%2F1.1&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://d08af9da-1024-4d78-90ce-8d9693d38bb6@redd.it:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&host=Operatorus.com&type=ws&sni=redd.it#@Hope_Net-join-us-on-Telegram
 
