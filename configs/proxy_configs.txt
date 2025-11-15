@@ -1,22 +1,4 @@
-hysteria2://add8ba5f-b43c-4fad-a5f8-9a52a7b1fcd0@xtt.hy301.113003.xyz:40002?sni=xtt.hy301.113003.xyz&insecure=0#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-hysteria2://add8ba5f-b43c-4fad-a5f8-9a52a7b1fcd0@xtt.hy401.113003.xyz:40003?sni=xtt.hy401.113003.xyz&insecure=0#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-hysteria2://add8ba5f-b43c-4fad-a5f8-9a52a7b1fcd0@xtt.hy423.113003.xyz:42003?sni=xtt.hy423.113003.xyz&insecure=0#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#proxy_kafee
-
-hysteria2://d9a5ee94-5cfc-4456-b3b7-ec091c797dc1@lsdg1.lansecs.top:58338?sni=lsdg1.lansecs.top&insecure=1#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-hysteria2://d9a5ee94-5cfc-4456-b3b7-ec091c797dc1@lsus3.lansecs.top:58338?sni=lsus3.lansecs.top&insecure=1#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-hysteria2://d9a5ee94-5cfc-4456-b3b7-ec091c797dc1@lsxg1.lansecs.top:58338?sni=lsxg1.lansecs.top&insecure=1#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-hysteria2://f27be85f-61af-4429-a831-48e56774a65c@lsdg1.lansecs.top:58338?sni=lsdg1.lansecs.top&insecure=1#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-hysteria2://f27be85f-61af-4429-a831-48e56774a65c@lsus3.lansecs.top:58338?sni=lsus3.lansecs.top&insecure=1#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
-hysteria2://f27be85f-61af-4429-a831-48e56774a65c@lsxg1.lansecs.top:58338?sni=lsxg1.lansecs.top&insecure=1#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 
 vless://03225b36-1dec-4ac8-e45e-1fba0091ec8e@151.101.3.8:80?mode=auto&path=%2F&security=&encryption=none&host=retetefor.com&type=xhttp#proxy_kafee
 
@@ -44,8 +26,6 @@ vless://3b5985aa-8133-43bb-b43d-639533a304de@104.18.218.118:8443?security=tls&sn
 
 vless://40c4812d-b1fe-4ff1-922b-a10e95ee1d70@paris.fonixapp.org:15833?security=reality&encryption=none&pbk=8z6qPN2t7wZ0nmOGhSTYaq__XqP8gDZar85XauwP4i0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=d0#proxy_kafee
 
-vless://411506f8-b950-4885-8c63-2b75f2945030@45.83.140.122:80/?type=grpc&encryption=none&serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
-
 vless://48e51c9c-443b-4ddf-bc6a-35c45b5dd55d@2p4dKw.de5.razercompany.com:23167?security=none&path=%2F&host=SpaceNetwork.divarcdn.com&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://529efef8-e541-4094-b3ab-f118c5866006@172.67.193.36:80?security=none&sni=join-to.unlimiteddev.community&type=ws&host=join-to.unlimiteddev.Community.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&fp=chrome#@Hope_Net-join-us-on-Telegram
@@ -70,8 +50,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FTele
 
 vless://8f724f98-7927-4e46-80ce-4a85fdf06253@151.101.2.219:80?security=none&type=ws&host=hdhshsjshdjsbdjhhfxghcxsjsjdbsj.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://a4682305-d2dc-4d1b-b753-30565a511ded@speedtest.net:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#@Hope_Net-join-us-on-Telegram
-
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#@Hope_Net-join-us-on-Telegram
 
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#@Hope_Net-join-us-on-Telegram
@@ -79,8 +57,6 @@ vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram
 vless://a9675ecc-38cf-4de1-ac10-69cfd31fe608@sJoHMu.de6.razercompany.com:323?security=none&path=%2F&host=7z90w2qs.cafebazaar.ir%2C+7z90w2qs.divarcdn.com&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@151.101.66.219:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.drlimit.net#@Hope_Net-join-us-on-Telegram
-
-vless://add8ba5f-b43c-4fad-a5f8-9a52a7b1fcd0@xtt.re201.aawm.top:41002?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&fp=safari&pbk=4ERsncs5ANG1abZKOax9sb-K_DWwuOORSkGiHZVsszQ&sid=225f4b54&spx=%2F&type=tcp&headerType=none#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 
 vless://bce92a93-ffdc-4f44-8e3a-b17686b5a54e@www.speedtest.net:8080?path=%2Fvless&security=none&encryption=none&host=azadiiivpn.hu2.v2vless.sITespeedtest.net.&type=ws#@Hope_Net-join-us-on-Telegram
 
@@ -105,8 +81,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&securi
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://eb3b698a-f949-414e-913a-ceca88f28004@80.249.113.47:2095?type=ws&path=%2F-----------------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-----------------&host=www.speedtest.net&security=none#@Hope_Net-join-us-on-Telegram
 
 vless://edcc9673-8c09-4d4f-b1ea-c533e83f793c@www.speedtest.net:443?path=%2FyxrRi2PVib4W4BAV%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=c70F27ea.dAIly-ConFIGs-cHANNEL.paGEs.dev&fp=randomized&type=ws&sni=c70f27ea.DaIly-COnFigS-cHAnNEL.PAGEs.deV#@Hope_Net-join-us-on-Telegram
 
