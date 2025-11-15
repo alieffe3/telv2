@@ -32,8 +32,6 @@ vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?security=none
 
 vless://129638fe-f846-4cdb-b466-52f314acdb64@arashnet1.golebahari.sbs:364?security=reality&encryption=none&pbk=Q9WvnJZrDk4mgMQjW5Y5MhheZYs4G6hBCj_gXya1iEw&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com&sid=234c0acc73#proxy_kafee
 
-vless://1a6abc83-f50b-4166-a0b6-b14f389deb29@94.182.222.24:388?security=none&type=tcp&host=ezZboX5F.divarcdn.com&path=%2F&headerType=http#@Hope_Net-join-us-on-Telegram
-
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#proxy_kafee
 
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#WedBaZ
@@ -68,6 +66,8 @@ vless://68125099-9564-4625-aa08-858503b35db6@bAz9IK.de1.razercompany.com:260?sec
 
 vless://69f44e6b-9323-4ee1-8e6d-a0299639e2d3@104.17.147.22:443?security=tls&sni=Telegram-iD-TehRanARgO.PAGes.Dev&type=ws&host=Telegram-iD-TehranArgo.pages.dev&path=/Join,@TEHRANARGOJoin,@TEHRANARGOjoin,@TEHRANARGOJoin,@TEHRANARGO%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:2096?security=tls&sni=JoinV2nGFaSt-2MM.pAges.DEV&type=ws&host=JOInv2ngFaSt-2mM.pAges.DeV#@Hope_Net-join-us-on-Telegram
+
 vless://b822c358-a4f6-43e4-94b7-7d8be09ddff5@176.9.123.216:443?security=tls&encryption=none&headerType=none&type=tcp&sni=ui.zerooners.com#proxy_kafee
 
 vless://c7cc48a1-6b68-4249-9457-b74b93ae053c@94.182.222.14:8615?security=none&type=tcp&host=ybsrxjzv.divarcdn.com&path=%2F&headerType=http#@Hope_Net-join-us-on-Telegram
@@ -91,6 +91,8 @@ vless://e4633b37-d591-43ce-b7ec-72a919a1fb98@151.101.66.219:443?security=tls&sni
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vless://edcc9673-8c09-4d4f-b1ea-c533e83f793c@104.21.31.98:443?security=tls&sni=c70f27eA.daiLy-cOnfIgS-ChANNEl.PaGes.dEv&type=ws&host=C70F27Ea.DaILY-cOnFIGs-channEl.PagES.DEv&path=%2FzvpN9c0E4t0WeYjr%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@104.26.9.133:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=random&type=ws&sni=snippets.nneko.netlib.re#proxy_kafee
 
