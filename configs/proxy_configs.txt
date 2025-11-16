@@ -52,6 +52,8 @@ vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&se
 
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#proxy_kafee
 
+vless://61343564-6439-4461-a566-373466333630@94.182.95.38:2087?security=none&type=ws&host=bound-frozen-new.nic.ir&path=%2Fl%2Fw%2F1f3hu4%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
 vless://62744573-ca28-4bae-bf8e-b5915048b7af@91.84.107.88:443?security=reality&encryption=none&pbk=Tk7r4Scoti1f1Zc81x0VWJD9VB9FcTbTHUR3oyiGQV4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.m.vk.ru&sid=210f698ddd200c86#proxy_kafee
 
 vless://76eab2c7-ce4d-47dc-a0b6-7151dfa08eb0@173.245.49.174:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=poin.centerserver.ggff.net&fp=randomized&type=ws&sni=poin.centerserver.ggff.net#@Hope_Net-join-us-on-Telegram
@@ -63,6 +65,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.169.50:443?encryption=none&s
 vless://TELEGRAM-CONFiGLiNE-40@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=panelvipasli.io&type=xhttp#proxy_kafee
 
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&fp=chrome&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#@Hope_Net-join-us-on-Telegram
+
+vless://aababcc-aacb-bcaa-dcba-bbbacabacacc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://acc0c70c-2895-4f8f-903a-a86c85baee45@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow19.cooltechdev.ir&security=none#@Hope_Net-join-us-on-Telegram
 
