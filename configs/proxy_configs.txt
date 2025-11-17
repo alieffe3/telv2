@@ -44,6 +44,8 @@ vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:443?security=tls&encr
 
 vless://aaccbba-abca-aacb-dbca-caccbbbaacab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://abd60b84-ca05-4e18-9168-fe0a6fd5f9a1@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&fp=firefox#@Hope_Net-join-us-on-Telegram
+
 vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?path=%2F&security=tls&encryption=none&host=nkang2replace.airlineshoma.com&type=ws&sni=nkang2replace.airlineshoma.com#proxy_kafee
 
 vless://b822c358-a4f6-43e4-94b7-7d8be09ddff5@176.9.123.216:443?security=tls&encryption=none&headerType=none&type=tcp&sni=ui.zerooners.com#proxy_kafee
