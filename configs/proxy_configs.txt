@@ -6,7 +6,11 @@ vless://1ebf87c0-5dd7-48db-ae9d-623cafd584a5@104.17.147.22:2086?security=none&ty
 
 vless://3557aa39-7564-4362-9713-8a2dd2a98830@45.67.139.37:443?security=reality&encryption=none&pbk=k3h5nEAsMcyb9tVMeEepA4jd9JiPhcVCIVLPKWyao0E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedsmart.net&sid=ed464ab7d7a8#proxy_kafee
 
+vless://431ccfc9-1a6e-4c24-ade2-0e42684d7884@198.62.62.89:2052?security=none&type=httpupgrade&host=www.latifeh-farsi.ir.&path=%2F#@Hope_Net-join-us-on-Telegram
+
 vless://62744573-ca28-4bae-bf8e-b5915048b7af@91.84.107.88:443?security=reality&encryption=none&pbk=Tk7r4Scoti1f1Zc81x0VWJD9VB9FcTbTHUR3oyiGQV4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.m.vk.ru&sid=210f698ddd200c86#proxy_kafee
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.2.39:443?security=tls&sni=Ppal03.tICEJE1067.wORKerS.DeV&type=ws&host=PpaL03.tiCEJe1067.WoRkeRs.Dev&path=%2FA2AhnENLSiFlkqG0%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#@Hope_Net-join-us-on-Telegram
 
