@@ -6,6 +6,8 @@ vless://288c8573-c3ad-4e0a-ab80-52c891d277c0@104.17.147.22:80?security=none&type
 
 vless://3557aa39-7564-4362-9713-8a2dd2a98830@45.67.139.37:443?security=reality&encryption=none&pbk=k3h5nEAsMcyb9tVMeEepA4jd9JiPhcVCIVLPKWyao0E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedsmart.net&sid=ed464ab7d7a8#proxy_kafee
 
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
 vless://3f056d4c-983c-4f1c-8ebc-20100fa61150@212.80.18.156:8011?security=none&type=tcp&host=Fast.com&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://3f056d4c-983c-4f1c-8ebc-20100fa61150@212.80.18.156:8027?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
