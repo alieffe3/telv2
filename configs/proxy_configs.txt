@@ -4,8 +4,6 @@ vless://13aee024-86a7-435e-863f-f5799635e8c0@speedtest.net:443?security=tls&sni=
 
 vless://1757f863-8209-4201-811d-69adfda9a9ed@151.101.130.219:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net#@Hope_Net-join-us-on-Telegram
 
-vless://1757f863-8209-4201-811d-69adfda9a9ed@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net&fp=chrome#@Hope_Net-join-us-on-Telegram
-
 vless://1ab0cee7-7ac1-4480-be8a-6b4dab5f81c4@dkfdbnodbd.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#@proxy_kafee
 
 vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?security=&encryption=none&headerType=none&type=tcp#@proxy_kafee
@@ -17,6 +15,8 @@ vless://2bd6f1bd-378e-40ad-8981-229800f1340e@norman.ns.cloudflare.com:443?path=%
 vless://346dc791-6f67-5b8b-8453-ee705077378e@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://3599ba7e-353f-483b-e0e0-d4072fcc2182@104.17.147.22:2082?security=none&type=ws&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
+
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@162.159.192.106:443?security=tls&sni=BPB-WorkER-paneL1-e4P.PaGEs.deV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Fr6JxYhM7twpPzdOc%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&fp=randomized&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#@proxy_kafee
 
@@ -31,6 +31,8 @@ vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@de.monkeyisland.xyz:443?security=re
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@fr.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&host=fr.monkeyisland.xyz&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fr.monkeyisland.xyz&sid=0dd15ad462aad7fc#@proxy_kafee
 
 vless://6511e6ad-0383-48cd-a5b8-00e4a4c82655@172.64.35.129:443?security=tls&sni=xm.ailicf.us.kg&type=ws&host=xm.ailicf.us.kg&path=%2F6511e&allowInsecure=1#@Hope_Net-join-us-on-Telegram
+
+vless://6b3ba4e3-ed35-4878-a8d6-a86661f81360@172.67.204.84:8880?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.mobilewersach.ir&path=%2FVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://6d1322de-c38d-463d-9cb3-1b6428fc0a4d@104.17.147.22:2096?security=tls&sni=g.yUSEFkharE.SBS&type=ws&host=g.yUSEFkharE.SBS&path=%2FTel%3A%40DOnald_vpn&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
@@ -48,13 +50,11 @@ vless://87acaa42-a6dc-4240-a490-bb99b44454f1@sky.ns.cloudflare.com:443?path=%2Ft
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.176.74:80?security=none&type=ws&host=en.mfa.gov.ir&path=%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.103:443?security=tls&sni=20fB0424.bpB-WORkER-pANeL-1Xd.pAGES.dEv&type=ws&host=20fb0424.bpb-worker-panel-1xd.pages.dev&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.247.243:443?security=tls&sni=bPb-v.pAGEs.Dev&type=ws&host=bPB-V.pAgEs.dEV&path=%2F9SNO3I0xNyACM41M%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.247.72:2053?security=tls&sni=bPb-V.paGES.DeV&type=ws&host=BpB-v.PaGES.dEV&path=%2FDiOY4d2HdDv22JMW%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.207:80?encryption=none&security=none&type=ws&host=en.mfa.gov.ir&path=%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3FED#@Hope_Net-join-us-on-Telegram
-
-vless://9ae4c6ee-3cdf-5b64-a797-4dc2ae59fffb@188.114.96.216:80?encryption=none&security=none&type=ws&host=be3.vless.Sitespeedtest.net.&path=%2FELENaTheGreatDictator-----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://9ae4c6ee-3cdf-5b64-a797-4dc2ae59fffb@188.114.96.216:80?security=none&type=ws&host=be3.vless.Sitespeedtest.net.&path=%2FELENaTheGreatDictator-----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
@@ -68,9 +68,13 @@ vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=%2FTelegram%40
 
 vless://ab6ac91e-2e86-4f6b-99ac-dd1124a023c4@uigukjlgbkljguyfkjbk.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=uigukjlgbkljguyfkjbk.pages.dev&fp=randomized&type=ws&sni=uigukjlgbkljguyfkjbk.pages.dev#@Hope_Net-join-us-on-Telegram
 
+vless://c0bb5a80-94cf-4af1-a5d1-c6800fa48fe4@speedtest.net:443?path=%2Ftelegram-%40proxy_mtm-telegram-Telegram-proxy_mtm-proxy_mtm-proxy_mtm-proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-telegram-%40proxy_mtm-telegram-%40proxy_mtm%3Fed%3D2048&security=tls&encryption=none&host=barkat1.ir&type=ws&sni=speedtest.net#@Hope_Net-join-us-on-Telegram
+
 vless://c27bdfe9-929c-45cd-a917-aa47dae1cff7@172.67.166.211:443?path=%2FeyJqdW5rIjoiM0tYeXg5RVVNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&security=tls&encryption=none&host=soft98m.dpdns.org&type=ws&sni=soft98m.dPdNS.OrG#@proxy_kafee
 
 vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://cbaabca-caba-abca-bdca-bcaaabccbabc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://cbabaca-baca-baca-bcad-abccbacbaabc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
