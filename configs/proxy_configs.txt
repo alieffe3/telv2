@@ -10,15 +10,11 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.224:443?security=tls&sn
 
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.244:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
 
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.247:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
-
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.17.147.22:2053?security=tls&sni=folani.iiipok.Workers.DEV&type=ws&host=folani.iiipok.Workers.DEV&path=%2Fvless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://2dfe1788-4733-4b1b-f52b-2951085d0605@152.42.255.63:443?security=tls&sni=m.viber.com&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://2fd56be8-7b18-4b61-b862-0f2fc10c3694@104.20.224.95:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#@Hope_Net-join-us-on-Telegram
-
-vless://32bd6e4b-e58c-4e49-8ccb-3fa645e90344@104.21.28.188:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ht96.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 
 vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.20.19.168:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=%2FTELEGRAM...PROXY_MTM%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
@@ -46,6 +42,8 @@ vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.26.13.31:443?security=tls&sni=v
 
 vless://6df800b7-d053-5232-9d0d-ac6c80a44e6c@172.67.221.68:2087?security=tls&sni=arkarain.arkarain-co.woRkeRs.DEv&type=ws&host=arkarain.arkarain-co.woRkeRs.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
+vless://77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.91:443?security=tls&sni=fi2.vless.site&type=ws&host=fi2.vless.site&path=%2Fvless#@Hope_Net-join-us-on-Telegram
+
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.101.83:80?security=none&sni=us3.rtacg.com&type=ws&path=/#@Hope_Net-join-us-on-Telegram
 
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@13.248.252.114:443?security=tls&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&type=ws&host=dl.khodavakili.buzz&path=%2Fkos_madar_publisher#@Hope_Net-join-us-on-Telegram
@@ -64,21 +62,19 @@ vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.61.8:443?security=tls&sni=ah
 
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.61.8:8880?security=none&sni=vless-sub.n7p8ri7j.workers.dev&type=ws&path=/ahmedquran19.xyz/current_time#@Hope_Net-join-us-on-Telegram
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.186:443?security=tls&sni=jr.ylks01.eu.org&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
-
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.84:443?security=tls&sni=yr.ylka.us.kg&type=ws&path=%2F%3Fed#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.178:443?security=tls&sni=hr.kpcloud.eu.org&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.187:443?security=tls&sni=yq.ylks.us.kg&type=ws&path=%2F%3Fproxyip#@Hope_Net-join-us-on-Telegram
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.215:443?security=tls&sni=jt.ylks01.eu.org&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?security=tls&sni=5c53ca21.vpn-aryoo.pages.dev&type=ws&host=5c53ca21.vpn-aryoo.pages.dev&path=%2FTelegram-%40Azarakhsh_Proxy%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.133.19:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://ae327aae-37ea-4d92-bbeb-bb5199a31839@172.67.146.69:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://bc6d4f9c-3197-4f47-8e47-3b9562c41d74@172.66.47.44:443?security=tls&sni=dfnjviodvhihv.pages.dev&type=ws&host=dfnjviodvhihv.pages.dev&path=%2FTelegram-%40CxrolVPN%3Fed%3D2048&fp=randomized#@Hope_Net-join-us-on-Telegram
+
+vless://c122cb69-9913-4c5e-a422-cdacb6fb8ad7@78.39.51.115:33225?security=none&type=tcp&host=Fast.com&path=/&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://c2afe333-0bc8-4372-8deb-6e1dad954787@199.232.181.103:443?security=tls&sni=a914671dde11f079.www.speedtest.net.ftpp.debian.org.hfdds.hajipro.ir.&type=ws&host=BaZZar.IR&path=%2F%3Fed%3D2560&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
@@ -104,6 +100,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusa
 
 vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?security=tls&sni=pAHlAvi-184.pAGEs.DeV&type=ws&host=PaHLAvi-184.PAgES.dEV&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
+vless://e31d5ad8-4288-48e7-98f4-f4fdf4dd8907@172.67.73.238:2096?security=tls&sni=yaemiko.eula.cloudns.org&type=ws&host=yaemiko.eula.cloudns.org&path=%2F&fp=randomized&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+
 vless://e3dc0d6a-aa94-4d1f-e930-f162aec8b624@162.159.44.129:80?type=ws&host=sbl.ailicf.us.kg&path=%2F3dc0d6a#@Hope_Net-join-us-on-Telegram
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -112,7 +110,9 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&securi
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.18.180.218:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=%2FTG@juzibaipiao%C3%A5%C2%81%C2%B7%C3%A8%C5%A0%E2%80%9A%C3%A7%E2%80%9A%C2%B9%C3%A6%C2%AD%C2%BB%C3%A5%C2%90%E2%80%94&fp=chrome#@Hope_Net-join-us-on-Telegram
+vless://f4bf5e01-b8c5-47d7-a83e-b93b094f96b6@104.16.111.210:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
+vless://f4bf5e01-b8c5-47d7-a83e-b93b094f96b6@172.67.163.105:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@159.112.235.14:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
