@@ -14,27 +14,23 @@ vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?security=re
 
 vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=%2F%3FBIA_TELEGRAM%40V2rayBaaz&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#@proxy_kafee
 
+vless://6f4fb04e-5f1e-4c3d-952e-985d4ae45738@www-de.slotplanet88vip.com:8443?security=reality&encryption=none&pbk=vUjqwVqb_8n22kndy1Hx7sgGK8rk4pFIwe5sYWfKn3w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=fe91ea4400b478d2#@proxy_kafee
+
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.138:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
 vless://9b0c1d6e-7f6e-4b06-96ba-b8a397a69166@usa29.unlockmatrix.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#@proxy_kafee
 
-vless://9c8c5159-e9d2-45db-8dd0-d99e2af0e1a2@104.20.39.242:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.236.135:443?security=tls&sni=hj.kpcloud.eu.org&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.104:443?security=tls&sni=yq.ylka.us.kg&type=ws&path=%2F%3Fproxyip#@Hope_Net-join-us-on-Telegram
-
-vless://a72ae466-af30-498b-8c10-6708ce747a29@78.109.198.25:80?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-
-vless://abaf193b-eeb9-4a8a-afa7-6b6385156e94@66.235.200.40:443?security=tls&sni=hdfy3rsnfdcp.cpiforpersia.uk&type=grpc&serviceName=2sg8k6ktNBzuCJ7tOInMZQZNim#@Hope_Net-join-us-on-Telegram
-
-vless://c3c20db7-d32b-454a-9843-ec22d064a842@172.67.196.25:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&path=%2F-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047#@Hope_Net-join-us-on-Telegram
 
 vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.60.8:2083?security=tls&sni=cpanel3.sassanidempire.com&type=ws&host=cpanel3.sassanidempire.com&path=%2Fws&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=reality&encryption=none&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&headerType=none&fp=chrome&type=tcp&sni=www.ok.ru&sid=fdc8125ea6f61323#@proxy_kafee
 
 vless://cda6846f-3382-466d-9b9a-7b37bd9a72b0@93.185.163.183:12001?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=firefox&pbk=_GciAWBQ1nkeYBmzJvtOBT7VmZ5Z8yyxBrr4pinM6Bk#@Hope_Net-join-us-on-Telegram
+
+vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=&encryption=none&headerType=http&type=tcp#@proxy_kafee
 
 vless://dc8c9233-f00e-48b9-95bc-2f33363bc258@116.203.113.195:445?security=reality&sni=www.tgju.org&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#@Hope_Net-join-us-on-Telegram
 
@@ -50,7 +46,9 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&securi
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://e93db79d-fa80-4c33-8dea-0833753b25a1@104.18.218.118:8443?security=tls&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
+vless://f61d9aee-63b8-439e-bebf-afaa53c015fd@144.126.196.165:28899?security=reality&encryption=none&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#@proxy_kafee
 
 vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?security=reality&encryption=none&pbk=esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=0ff58d687a4c6c#@proxy_kafee
+
+vless://fd7d3e61-288e-4d0f-b5dc-591dcdbc119f@158.62.198.132:443?security=reality&encryption=none&pbk=BaTi5Wrua_Oo_CMJ-uQ6UWtDId9z9IhzoOvRe2qvBhQ&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=63d80d5199a2bc#@proxy_kafee
 
