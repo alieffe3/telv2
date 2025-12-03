@@ -10,15 +10,13 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.4:443?security=tls&sni=
 
 vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#@proxy_kafee
 
-vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?security=reality&encryption=none&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=at.ultima.foundation&sid=a9725715bf4c62ff#@proxy_kafee
-
-vless://2dfa740c-8069-4993-8b96-c3e5dc540593@nl5.ultima.foundation:22231?security=reality&encryption=none&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=nl.ultima.foundation#@proxy_kafee
-
 vless://3f2a8ac5-f359-4333-865a-7064e31c2537@monitor.tgju.org:443/?type=ws&encryption=none&host=nufilter.pages.dev&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=nufilter.pages.dev&fp=randomized#@Hope_Net-join-us-on-Telegram
 
 vless://669be00c-67b4-4b87-b08f-311c45abced2@us.atlanta-internet.ru:443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#@proxy_kafee
 
 vless://66d416b2-f36b-4d94-b9fa-03728bfdcb3f@digi1.ez0535.com:46266?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://6ae791d6-ec2a-42c4-9f38-36aa9de56ce8@core1.jsapp.kiawosch.academy:2095?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://6cffb34f-2197-4037-8bbe-54cd90410922@jorum.toptechnonews.com:443/?type=ws&encryption=none&host=jorum.toptechnonews.com&path=%2Fnimws&security=tls&sni=jorum.toptechnonews.com#@Hope_Net-join-us-on-Telegram
 
@@ -57,6 +55,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&securi
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://fd7d3e61-288e-4d0f-b5dc-591dcdbc119f@158.62.198.132:443?security=reality&encryption=none&pbk=BaTi5Wrua_Oo_CMJ-uQ6UWtDId9z9IhzoOvRe2qvBhQ&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=63d80d5199a2bc#@proxy_kafee
 
