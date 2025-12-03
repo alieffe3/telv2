@@ -4,13 +4,13 @@ vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?security=none
 
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.4:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
 
+vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#@proxy_kafee
+
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?security=reality&encryption=none&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=at.ultima.foundation&sid=a9725715bf4c62ff#@proxy_kafee
 
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@nl5.ultima.foundation:22231?security=reality&encryption=none&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=nl.ultima.foundation#@proxy_kafee
 
 vless://3f2a8ac5-f359-4333-865a-7064e31c2537@monitor.tgju.org:443/?type=ws&encryption=none&host=nufilter.pages.dev&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=nufilter.pages.dev&fp=randomized#@Hope_Net-join-us-on-Telegram
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&sni=xg.ylks.xyz&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://669be00c-67b4-4b87-b08f-311c45abced2@us.atlanta-internet.ru:443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#@proxy_kafee
 
@@ -20,19 +20,25 @@ vless://78c5381d-3283-533c-ba54-805a5cc3b4a4@104.17.147.22:2095/?type=ws&encrypt
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:443?security=tls&sni=B458aB02.CaA-chANeL-WorKER-PAgE-FRee-JhuihNuJhpHJKl-niHGKJn.pAgES.dEV&type=ws&host=b458aB02.CAa-cHANEl-WORKeR-PAGE-fRee-JhUIHnuJHphJkL-NIHGKJN.pAgES.deV&path=%2FujROOgw0SxxJwCJE%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.40.235:443?security=tls&sni=PPAl03.fArREn-RAffi.woRkERs.DEV&type=ws&host=PPaL03.faRren-raffi.WoRkers.DeV&path=%2FNABrUxKc15uyYE24%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.152.153:443?security=tls&sni=ppAL03.ELIAm-CAmREN.WoRkErS.deV&type=ws&host=PPAl03.ELIAM-CaMREN.woRKERS.dev&path=%2FAt2cMLvkqfA5reeL%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+
 vless://95cbdd0d-7345-403f-8dc7-a7e3cf36b108@151.101.66.219:80?security=none&type=ws&host=barkatc2.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@124.153.214.6:10001?security=tls&sni=kg.ylks.xyz&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
+vless://9c9a0de0-79ed-4cd5-a403-e538349b505d@eng24.netliberated.org:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eng24.netliberated.org#@proxy_kafee
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.163:443?security=tls&sni=kg.ylks.xyz&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.73:443?security=tls&sni=kg.ylks.xyz&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@220.121.62.236:14443?security=tls&sni=jg.ylks01.eu.org&type=ws&path=%2F%3Fproxyip#@Hope_Net-join-us-on-Telegram
 
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443/?type=ws&encryption=none&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=tnetplus-1wc.pages.dev&fp=randomized#@Hope_Net-join-us-on-Telegram
 
 vless://acacabb-acba-cbaa-bdac-abaccabbabcc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=&encryption=none&headerType=http&type=tcp#@proxy_kafee
+
+vless://dae3d8da-ef69-4a30-bc92-803804db4d6f@104.17.147.22:8880?security=none&type=ws&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#@Hope_Net-join-us-on-Telegram
+
+vless://de710a78-04ae-4ff8-a893-2223849e75ea@Speedtest.net:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Baazamkebidaram.net&type=ws#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
