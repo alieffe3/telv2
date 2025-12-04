@@ -16,8 +16,6 @@ vless://5361a986-91b9-4756-a78c-103261128d83@167.68.4.28:2082?security=none&type
 
 vless://669be00c-67b4-4b87-b08f-311c45abced2@us.atlanta-internet.ru:443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#@proxy_kafee
 
-vless://7e9cfe7c-4cb5-4529-bc49-8b11d2143038@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=hostiran.net&path=%2F%3FedTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://98f97d47-c460-42b6-9f83-2da8cac57939@82.115.18.219:8080?security=none&type=ws&host=Search.DigiKala.CYoU.&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://9c9a0de0-79ed-4cd5-a403-e538349b505d@eng24.netliberated.org:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eng24.netliberated.org#@proxy_kafee
@@ -28,11 +26,7 @@ vless://bccaaba-bcaa-abac-dbca-ababbaccbacc@127.0.0.1:1080?security=tls&type=tcp
 
 vless://d2dcb5b6-7c5f-4d4a-87a5-56bf80ef9866@104.17.148.22:8443?security=tls&sni=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=/www.speedtest.net/VPNCSTOMIZE%3Fed%3D8443&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
-vless://d2dcb5b6-7c5f-4d4a-87a5-56bf80ef9866@www.speedtest.net:8443?path=/www.speedtest.net/VPNCSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#@Hope_Net-join-us-on-Telegram
-
 vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=&encryption=none&headerType=http&type=tcp#@proxy_kafee
-
-vless://d7227343-b860-457a-93b7-2891adc755f6@104.17.147.22:8880?security=none&type=ws&host=www.speedtest.net.B.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
