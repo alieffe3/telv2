@@ -42,15 +42,13 @@ vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&encr
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.84.2.206:443?security=tls&sni=ke.ylks.xyz&type=ws&path=%2F%3Fproxyip#@Hope_Net-join-us-on-Telegram
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.199:443?security=tls&sni=ke.ylks.xyz&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
-
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.143:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ke.ylks.xyz#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.21:443?security=tls&sni=je.ylks01.eu.org&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.77:443?security=tls&sni=je.ylks01.eu.org&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.84:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ke.ylks.xyz#@Hope_Net-join-us-on-Telegram
+vless://a218a675-60e4-4c61-b65b-fd565c400dc9@185.146.173.94:443?path=%2F2sg8k6ktNBzuCJc1eh1994&security=tls&encryption=none&type=ws&sni=rsfndc1.cpiforpersia.uk#@Hope_Net-join-us-on-Telegram
 
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#@proxy_kafee
 
@@ -83,8 +81,6 @@ vless://e33c881d-45d8-4b94-8763-d9b166aae168@www.speedtest.net:2082?path=%2F%40s
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://ef46e73e-82ab-42dc-a37c-6037cc15f942@149.62.187.191:443?security=reality&sni=azure.microsoft.com&type=tcp&fp=chrome&pbk=lutINFgBJ4VpZZb6QUC_2Fg7Ry18R1ZNDCsEJ-9u1z0&sid=fe473153e2#@Hope_Net-join-us-on-Telegram
 
