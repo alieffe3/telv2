@@ -52,15 +52,11 @@ vless://9fdabd04-c39a-46ae-ac0d-6174581b1ba9@104.17.148.22:80?security=none&type
 
 vless://9fe667f5-ffea-4272-a0b6-3abd73941c52@greenwolf.fonixapp.org:443?security=reality&encryption=none&pbk=MrCEmqtF6MdAfyvwu7VWipCvi_8P0RjI8TF571XT6l0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=209f#proxy_kafee
 
-vless://aabbacc-acba-aabc-bcda-aabcbabcabcc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#proxy_kafee
 
 vless://b58d778d-f393-4280-940f-61230dbdd491@butcher.fonixapp.org:443?security=reality&encryption=none&pbk=frSr5idN1FqLyEdsujtTf-BnCDx35Eji65qIsXuqNCo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=3938#proxy_kafee
 
 vless://bd916124-72e3-43c3-9f7e-fdfe712287b2@speedtest.net:443?path=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec%3Fed%3D8880&security=tls&encryption=none&host=mdvpnsecjoinbede.ir&type=ws&sni=speedtest.net#@Hope_Net-join-us-on-Telegram
-
-vless://cabaabc-caba-baca-abcd-acaabcccbbab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://cbaaabc-abac-baca-cbda-bbccabccbaaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
@@ -81,6 +77,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&securi
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://e72c71e9-474b-4b19-8e5c-4ad8d7946d79@sport.k6n.ir:443?path=Join%3A%40oPeTa_v2ray-telegram%3A%40oPeTa_v2ray-join-chanel%3A%40oPeTa_v2ray-join%3A%40opeta_v2ray-telegram%3A%40opeta_v2ray%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=kingstore.ir&fp=chrome&type=ws&sni=speedtest.net#@Hope_Net-join-us-on-Telegram
 
