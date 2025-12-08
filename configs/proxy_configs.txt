@@ -14,8 +14,6 @@ vless://3fd12e80-6efe-11ef-ba5c-1239d0255272@23.158.72.133:80?security=none&type
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.91:443?security=tls&sni=xe.ylks.xyz&type=ws&path=%2F%3Fproxyip#@Hope_Net-join-us-on-Telegram
 
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.103:443?security=tls&sni=xe.ylks.xyz&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
-
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.53:443?security=tls&sni=xe.ylks.xyz&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 
 vless://4a0ced83-c4f2-4946-aa90-d9ce633d43a7@152.53.142.189:11487?security=reality&encryption=none&pbk=Vjc6Pniq5ueH7Ue6b3V7nf5oWm89rh113zK1wxm5CFA&host=%2F%3FBIA_TELEGRAM%40V2rayBaaz&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=medicalnewstoday.com&sid=5d#@proxy_kafee
@@ -36,11 +34,7 @@ vless://a0f714a9-48bc-4b49-9483-ba8785e52f96@172.67.174.34:80?type=ws&host=joinb
 
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#@proxy_kafee
 
-vless://c0f80d53-006f-4f64-ba2c-c85c0eef459f@104.17.147.22:80?security=none&type=httpupgrade&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey#@Hope_Net-join-us-on-Telegram
-
 vless://c6a0f017-7d7d-4bb9-a944-d6aa778900ab@151.101.2.219:443?security=tls&sni=speedtest.net&type=ws&host=http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&fp=firefox#@Hope_Net-join-us-on-Telegram
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@140.99.233.156:2087?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -57,6 +51,8 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&
 vless://f12bdba5-7ff5-4398-b859-08cdd7347fb3@45.92.176.55:6443?security=reality&encryption=none&pbk=DsiKWpNmI1TkNyvhHmQzRwkvJ0aaZeShzYCZa559Hn0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=2bab4d28871d98#@proxy_kafee
 
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.193:2096?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#@Hope_Net-join-us-on-Telegram
+
+vless://f8e5015b-5430-476a-9533-2f303bd8721d@104.21.13.125:8880?security=none&type=httpupgrade&host=zula.ir.www.cloudflare.com.www.speedtest.net.www.google.com.DnsgamespeedtestdownloadFars.ir.&path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config#@Hope_Net-join-us-on-Telegram
 
 vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:2096?path=%2FH334WIRLtBW6tTqG%3Fed&security=tls&encryption=none&fp=randomized&type=ws&sni=us.XiAoeR.us.Kg#@Hope_Net-join-us-on-Telegram
 
