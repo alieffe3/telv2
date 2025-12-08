@@ -18,7 +18,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.36:443?path=tg%40zdyz2&se
 
 vless://3fd12e80-6efe-11ef-ba5c-1239d0255272@23.158.72.133:80?security=none&type=ws&path=%2Fvlws#@Hope_Net-join-us-on-Telegram
 
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.91:443?security=tls&sni=xe.ylks.xyz&type=ws&path=%2F%3Fproxyip#@Hope_Net-join-us-on-Telegram
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.78:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#@Hope_Net-join-us-on-Telegram
 
 vless://4974a3b2-ba08-47e0-806b-85fb45d038a0@facelessvoid.fonixapp.org:443?security=reality&encryption=none&pbk=WXPq4NT1gqVRO7IUJGU3tv0NDe8gxEVN2WGa1dwjiCk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mesu.apple.com&sid=1b89#proxy_kafee
 
@@ -38,6 +38,8 @@ vless://7e281f58-63b0-4e9a-a3fe-537e33e374b9@node8.svoy.run:443?security=reality
 
 vless://7e9cfe7c-4cb5-4529-bc49-8b11d2143038@sport.k6n.ir:443?path=%2F%3Fed%3DTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=hostiran.net&fp=chrome&type=ws&sni=speedtest.net#@Hope_Net-join-us-on-Telegram
 
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?security=tls&sni=de1-moryvpnbot.pages.dev&type=ws&host=de1-moryvpnbot.pages.dev&path=%2FTelegram-proxy_mtm%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
 vless://9fe667f5-ffea-4272-a0b6-3abd73941c52@greenwolf.fonixapp.org:443?security=reality&encryption=none&pbk=MrCEmqtF6MdAfyvwu7VWipCvi_8P0RjI8TF571XT6l0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=209f#proxy_kafee
 
 vless://a0f714a9-48bc-4b49-9483-ba8785e52f96@172.67.174.34:80?type=ws&host=joinbedevmessorg.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D80#@Hope_Net-join-us-on-Telegram
@@ -49,8 +51,6 @@ vless://b58d778d-f393-4280-940f-61230dbdd491@butcher.fonixapp.org:443?security=r
 vless://c6a0f017-7d7d-4bb9-a944-d6aa778900ab@151.101.2.219:443?security=tls&sni=speedtest.net&type=ws&host=http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&fp=firefox#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
