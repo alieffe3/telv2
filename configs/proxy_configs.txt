@@ -36,8 +36,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:8443?security=tls&sni
 
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@172.67.196.100:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&path=%2Ftelegram-%40Selinc%3Fed%3D2048&fp=randomized#@Hope_Net-join-us-on-Telegram
 
-vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.com&fp=chrome#@Hope_Net-join-us-on-Telegram
-
 vless://9fe667f5-ffea-4272-a0b6-3abd73941c52@greenwolf.fonixapp.org:443?security=reality&encryption=none&pbk=MrCEmqtF6MdAfyvwu7VWipCvi_8P0RjI8TF571XT6l0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=209f#@proxy_kafee
 
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#@proxy_kafee
