@@ -16,6 +16,10 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=s
 
 vless://875ec245-7366-48dc-8756-e8889fec8816@de.kaia.pw:8080?path=%2F&security=none&encryption=none&type=ws#ConfigV2RayNG
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.102.250:2096?security=tls&sni=aZaDnet-FREEDOm-iraNIan2.pageS.dEV&type=ws&host=AzadneT-fREedoM-IRaniaN2.pAgEs.DEv&path=%2Ftelegram-proxy_mtmTelegram-proxy_mtmTelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.75.172:2096?security=tls&sni=AZAdNet-FreedOm-IRaNIan2.PAgeS.dev&type=ws&host=aZAdnEt-fREEdom-IRAnIaN2.pAGes.Dev&path=%2Ftelegram-proxy_mtmTelegram-proxy_mtmTelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#@proxy_kafee
 
 vless://cbbcaaa-bcaa-abca-adcb-bbaccbaabcac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
