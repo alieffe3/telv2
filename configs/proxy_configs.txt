@@ -1,5 +1,7 @@
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.162.154:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 
+vless://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@188.114.96.3:80?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
+
 vless://10170b73-e78b-48e3-9d9a-a7ef07a5b98c@104.21.43.116:8080?security=none&type=ws&host=Kanal-polproxy.Vipnufilter.Online.&path=%2Ftelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -14,8 +16,6 @@ vless://3104814d-44c2-4e50-924e-fe7290a9ed0c@172.66.47.127:443?security=tls&sni=
 
 vless://383c9651-cecb-45b4-8df8-2eb85057848d@91.107.143.41:443?path=%2F09hmyzvdljYpebWBPqDV7&security=tls&alpn=http%2F1.1&encryption=none&host=ognbqqfj1a49.greendop.com&fp=chrome&type=ws&sni=ognbqqfj1a49.greendop.com#@proxy_kafee
 
-vless://43bd88e2-d095-44e2-bfa5-9581c73e789d@speedtest.net:443?type=ws&host=barkat5.ir&path=/ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS?ed%3D2048&security=tls&sni=speedtest.net#@Hope_Net-join-us-on-Telegram
-
 vless://45f435e7-d09d-4412-b8a8-891c29644152@217.60.242.204:11132?security=none&type=tcp&host=2f45d09dad9fb320.speedtest-3.maxnet.ir&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://500d3ced-b8a3-4a3b-8dce-2ded5dae1fce@91.107.244.240:443?path=%2F&security=&encryption=none&host=soft98.ir&type=ws#@proxy_kafee
@@ -29,6 +29,10 @@ vless://875ec245-7366-48dc-8756-e8889fec8816@de.kaia.pw:8080?path=%2F&security=n
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.102.250:2096?security=tls&sni=aZaDnet-FREEDOm-iraNIan2.pageS.dEV&type=ws&host=AzadneT-fREedoM-IRaniaN2.pAgEs.DEv&path=%2Ftelegram-proxy_mtmTelegram-proxy_mtmTelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.75.172:2096?security=tls&sni=AZAdNet-FreedOm-IRaNIan2.PAgeS.dev&type=ws&host=aZAdnEt-fREEdom-IRAnIaN2.pAGes.Dev&path=%2Ftelegram-proxy_mtmTelegram-proxy_mtmTelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
+vless://a9351394-415c-458e-bcd0-bce4c5819d99@104.17.147.22:80?security=none&type=ws&host=www.speedtest.net.svgspeedtest.net&path=%2FTelegram+-+%40XvProxy+-+Telegram+-+%40XvProxy#@Hope_Net-join-us-on-Telegram
+
+vless://acbabca-aacb-acab-adbc-aabcccababbc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#@proxy_kafee
 
