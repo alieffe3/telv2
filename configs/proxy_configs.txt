@@ -8,8 +8,6 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.15:443?security=tls&sni=x
 
 vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@lovetea.parsianboton.ir:3002?security=&encryption=none&headerType=none&type=tcp#@proxy_kafee
 
-vless://620e7ed5-111a-49fe-baec-f7938bb74ef3@ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM:80?path=%2F%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER&security=none&encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.CUSTOMVPNSERVER.OnlInEdowNloadERfile.com.&type=ws#@Hope_Net-join-us-on-Telegram
-
 vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#@proxy_kafee
@@ -28,10 +26,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.143:443?security=tls&sni=
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.159:443?security=tls&sni=kd.ylks.xyz&type=ws&path=%2Ffreecodes#@Hope_Net-join-us-on-Telegram
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.172:443?security=tls&sni=hd.kpcloud.eu.org&type=ws&path=%2Ffreecodes#@Hope_Net-join-us-on-Telegram
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.70:443?security=tls&sni=hd.kpcloud.eu.org&type=ws&path=%2Ffreecodes#@Hope_Net-join-us-on-Telegram
-
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.84:443?security=tls&sni=hd.kpcloud.eu.org&type=ws&path=%2Ffreecodes#@Hope_Net-join-us-on-Telegram
 
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#@proxy_kafee
@@ -39,10 +33,6 @@ vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&pa
 vless://bc8ba982-e039-4ca7-b0af-6c053077d904@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#@Hope_Net-join-us-on-Telegram
 
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=randomized&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#@Hope_Net-join-us-on-Telegram
-
-vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@45.159.218.146:443?security=tls&sni=us.xiaoer8867785.us.kg&type=ws&path=%2F&fp=random#@Hope_Net-join-us-on-Telegram
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@1.34.89.47:13749?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.12:8443?path=twitterfreecodessecurity&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
 
