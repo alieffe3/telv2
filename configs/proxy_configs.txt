@@ -12,17 +12,11 @@ vless://500d3ced-b8a3-4a3b-8dce-2ded5dae1fce@91.107.244.240:443?path=%2F&securit
 
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639008791615856318.golf-amsix.info&type=ws&sni=639008791615856318.golf-amsix.info#@proxy_kafee
 
-vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@go.inmobi.com:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=FrEeDOM2.paGES.dEV&type=ws&sni=FrEeDOM2.paGES.dEV#@Hope_Net-join-us-on-Telegram
-
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#@proxy_kafee
 
 vless://875ec245-7366-48dc-8756-e8889fec8816@de.kaia.pw:8080?path=%2F&security=none&encryption=none&type=ws#ConfigV2RayNG
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?encryption=none&security=tls&sni=80acf9Da.EhSaN-PAnEL.PAGES.dEv&type=ws&host=80acf9Da.EhSaN-PAnEL.PAGES.dEv&path=%2Fyg2rz1apovtkjpov%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#@proxy_kafee
-
-vless://babcaca-abca-aabc-bacd-acabcbbcbaca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://cbbcaaa-bcaa-abca-adcb-bbaccbaabcac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
