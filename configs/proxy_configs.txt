@@ -28,9 +28,13 @@ vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%
 
 vless://57b89144-7f10-41b3-9037-2e57ddb62ef2@151.101.194.219:80?security=none&sni=speedtest.net&type=ws&host=barkatc2.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
+vless://656fff66-a30c-4da9-9cba-73126305ae7b@193.151.140.202:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
+
 vless://6e94bfa2-e3e2-443d-ad69-d6fcfcaf14f2@185.146.173.37:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#@proxy_kafee
+
+vless://7f56bd15-6b58-4375-9f5b-ea884e84c7c4@104.17.148.22:2082?security=none&type=ws&host=academi-82.com.www.speedtest.net.www.zula.ir.cloudflare.com.AcademiGroup.IR.&path=%2FJoin--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.102.250:2096?security=tls&sni=aZaDnet-FREEDOm-iraNIan2.pageS.dEV&type=ws&host=AzadneT-fREedoM-IRaniaN2.pAgEs.DEv&path=%2Ftelegram-proxy_mtmTelegram-proxy_mtmTelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
@@ -44,9 +48,9 @@ vless://acbabca-aacb-acab-adbc-aabcccababbc@127.0.0.1:8080?security=tls&type=tcp
 
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#@proxy_kafee
 
-vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?security=reality&sni=zula.ir&type=tcp&fp=firefox&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&sid=5292cb10#@Hope_Net-join-us-on-Telegram
+vless://bfbfa831-6b7b-470f-8c82-c5de52722ad7@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc23.lebasnoo.ir.&type=ws#@Hope_Net-join-us-on-Telegram
 
-vless://cbbcaaa-bcaa-abca-adcb-bbaccbaabcac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?security=reality&sni=zula.ir&type=tcp&fp=firefox&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&sid=5292cb10#@Hope_Net-join-us-on-Telegram
 
 vless://d7e2c1ec-b2ba-4a4c-a73a-c08f5bd7923b@45.92.176.55:2243?security=reality&encryption=none&pbk=_ee-ouMazAzx7Q4_cYhWbu6pw53-8VVpt7tuBuCXziU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=e3cbc70477#@proxy_kafee
 
