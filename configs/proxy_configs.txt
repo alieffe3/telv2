@@ -18,6 +18,8 @@ vless://6d93804a-2a3d-7af8-6f64-1c2c0bdb6328@goldconf.top:8880?type=tcp&security
 
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#@proxy_kafee
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:2053?security=tls&sni=mAhdiseRveR-bso.paGES.DeV&type=ws&host=MAHdIservER-bso.pAges.dev&path=%2FLxuKMRXleBrtStMv%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.153:443?security=tls&sni=697b773a.bpB-WoRkeR-paNeL-teST-98D.pAGES.DeV&type=ws&host=697b773A.bPb-wOrkeR-PaNEl-tesT-98d.paGES.deV&path=%2FhbZDBlzN7ZGtbMau%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.139.111:2096?security=tls&sni=967A6f20.HosSeINpOOl.pagEs.deV&type=ws&host=967a6F20.hoSSeinPool.PAGEs.Dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
