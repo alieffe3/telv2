@@ -24,8 +24,6 @@ vless://cabacba-acba-aacb-acdb-bcacacbbcaba@127.0.0.1:8080?security=tls&type=tcp
 
 vless://cf121743-8e6a-400d-a583-b9e9b9c8bd3c@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=barkat1.ir&path=%2FProxy_MTM-Proxy_MTM-Proxy_MTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-Proxy_MTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-Proxy_MTM-Proxy_MTM%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
-vless://d23877b7-7eec-4789-9546-356eee20896c@151.101.64.223:443?security=tls&sni=python.org&type=ws&host=kanale-daily-configs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs&fp=random&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
-
 vless://d23877b7-7eec-4789-9546-356eee20896c@python.org:443?encryption=none&security=tls&sni=python.org&alpn=h3%2Ch2&fp=random&type=ws&host=kanale-daily-configs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
