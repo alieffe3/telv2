@@ -16,8 +16,6 @@ vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=%2Fnews&secu
 
 vless://588f1514-9eb1-5747-a7d6-53d9b4ce2e34@www.speedtest.net:2095?path=%2F%3Fed%3D1024&security=none&encryption=none&host=ch1.vless.Sitespeedtest.net.&type=ws#@Hope_Net-join-us-on-Telegram
 
-vless://6adacaf4-9ee4-4c20-b2f8-822a9d55f881@66.235.200.111:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-
 vless://6cd9f145-ae9f-4e09-b96f-f45f200c299a@78.109.198.25:80?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://762a2616-e337-4a28-af5f-fbd62abab9d7@104.17.148.22:2086?security=none&sni=se1.v2vless.site&type=ws&host=www-domain.se1.v2vless.sitespeedtest.net&path=%2Fvless#@Hope_Net-join-us-on-Telegram
@@ -61,6 +59,8 @@ vless://bf92bdef-ab8d-4481-8798-2d39023357b2@swiss.intfreed.ru:443?security=real
 vless://bf92bdef-ab8d-4481-8798-2d39023357b2@test-pc.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#@proxy_kafee
 
 vless://bf92bdef-ab8d-4481-8798-2d39023357b2@wrs.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#@proxy_kafee
+
+vless://d23877b7-7eec-4789-9546-356eee20896c@151.101.64.223:443?security=tls&sni=python.org&type=ws&host=kanale-daily-configs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs&fp=random&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
