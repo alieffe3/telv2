@@ -36,8 +36,6 @@ vless://97b11ee6-a62a-4e60-839c-de974a155089@209.46.30.55:443?security=tls&sni=t
 
 vless://97b11ee6-a62a-4e60-839c-de974a155089@88.216.67.197:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
-vless://97b11ee6-a62a-4e60-839c-de974a155089@89.116.161.196:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://aaaccbb-abac-aacb-acdb-ccababcbcaab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=nooshin-2d9.pages.dev&fp=chrome&type=ws&sni=nooshin-2d9.pages.dev#@Hope_Net-join-us-on-Telegram
