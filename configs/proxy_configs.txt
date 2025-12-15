@@ -10,15 +10,13 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.138:443?security=tls&sn
 
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.177:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
 
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=%2Fnews&security=&encryption=none&host=cdn.ir&type=ws#@proxy_kafee
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.1:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
 
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@172.67.139.111:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=telegrm432XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&type=ws&sni=Pages.dev#@Hope_Net-join-us-on-Telegram
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=%2Fnews&security=&encryption=none&host=cdn.ir&type=ws#@proxy_kafee
 
 vless://7ac65633-fc3c-4a97-b010-421816210b0b@64.188.115.181:26968?security=reality&encryption=none&pbk=EgoxLYZ4OrrYTBL_WzWNkY-W3w2P9aEXRkyMp6sjqD8&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=stackoverflow.com&sid=04#@proxy_kafee
 
 vless://955bdf5a-0f0b-4f56-ac70-c366b9788aad@64.188.115.181:26968?security=reality&encryption=none&pbk=EgoxLYZ4OrrYTBL_WzWNkY-W3w2P9aEXRkyMp6sjqD8&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=stackoverflow.com&sid=04#@proxy_kafee
-
-vless://ababcac-acba-abac-cdab-ccbaacbabcba@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
