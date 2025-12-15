@@ -14,8 +14,6 @@ vless://7ac65633-fc3c-4a97-b010-421816210b0b@64.188.115.181:26968?security=reali
 
 vless://955bdf5a-0f0b-4f56-ac70-c366b9788aad@64.188.115.181:26968?security=reality&encryption=none&pbk=EgoxLYZ4OrrYTBL_WzWNkY-W3w2P9aEXRkyMp6sjqD8&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=stackoverflow.com&sid=04#@proxy_kafee
 
-vless://97b11ee6-a62a-4e60-839c-de974a155089@185.159.247.48:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
-
 vless://97b11ee6-a62a-4e60-839c-de974a155089@88.216.67.197:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
 vless://ababcac-acba-abac-cdab-ccbaacbabcba@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
