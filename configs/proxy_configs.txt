@@ -6,6 +6,10 @@ vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?path=%2FJ5
 
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#@proxy_kafee
 
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.138:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
+
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.177:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
+
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=%2Fnews&security=&encryption=none&host=cdn.ir&type=ws#@proxy_kafee
 
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@172.67.139.111:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=telegrm432XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&type=ws&sni=Pages.dev#@Hope_Net-join-us-on-Telegram
