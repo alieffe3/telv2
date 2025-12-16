@@ -6,8 +6,6 @@ vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?path=%2FJ5
 
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#@proxy_kafee
 
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.66:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
-
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.203:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#@Hope_Net-join-us-on-Telegram
 
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?path=%2FmrcU9YCPq4GNDHi4%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=alecruiz.pages.dev&fp=randomized&type=ws&sni=alecruiz.pages.dev#@Hope_Net-join-us-on-Telegram
@@ -23,6 +21,8 @@ vless://7ac65633-fc3c-4a97-b010-421816210b0b@64.188.115.181:26968?security=reali
 vless://9067a44b-a525-4ceb-c594-814fd5d00a49@104.17.148.22:2082?security=none&type=ws&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
 
 vless://955bdf5a-0f0b-4f56-ac70-c366b9788aad@64.188.115.181:26968?security=reality&encryption=none&pbk=EgoxLYZ4OrrYTBL_WzWNkY-W3w2P9aEXRkyMp6sjqD8&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=stackoverflow.com&sid=04#@proxy_kafee
+
+vless://a41e01c3-94a3-4fd0-c1e1-e7bab798c4c0@srfremehdi-1.vahidtoni.life:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@v2raysrv&sni=srfremehdi-1.vahidtoni.life#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%40vpnmasi
 
 vless://bacacba-baca-cbaa-dcab-bccbaacabcab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
