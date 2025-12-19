@@ -2,8 +2,6 @@ vless://11873598-745e-4187-822d-d1b9f4c3f582@104.21.20.148:8080?type=ws&host=unl
 
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.64:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram
 
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.242:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram
-
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.193.27:443?mode=gun&security=&encryption=none&type=grpc#@proxy_kafee
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.249.197.84:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=xb.ylks.xyz#@Hope_Net-join-us-on-Telegram
@@ -13,6 +11,8 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?path=%2Fblue&secu
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.39:443?security=tls&sni=xb.ylks.xyz&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.110:443?security=tls&sni=xb.ylks.xyz&type=ws&path=%2F%3Fproxyip#@Hope_Net-join-us-on-Telegram
+
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.131:443?security=tls&sni=xb.ylks.xyz&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 
 vless://6cb7b477-bab3-4630-becb-1527c841ad22@151.101.130.219:80?security=none&type=ws&host=barkatc2.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
@@ -61,6 +61,8 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&securi
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://f474c5ed-6e78-5570-bcb2-ced81658bb83@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=fast.%68%71%762%72%61%79%6e%67.ir&path=/www.speedtest.net?ed%3D1024&fp=firefox&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@159.112.235.90:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2Fsecurity#@Hope_Net-join-us-on-Telegram
 
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@170.114.45.25:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#@Hope_Net-join-us-on-Telegram
 
