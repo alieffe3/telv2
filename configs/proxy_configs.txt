@@ -12,8 +12,6 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.219:443?security=realit
 
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.219:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#WedbazTel2
 
-vless://44f2572e-6264-4200-b839-82dffb623095@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=kingstore.ir&path=Join%3A%40oPeTa_v2ray-telegram%3A%40oPeTa_v2ray-join-chanel%3A%40oPeTa_v2ray-join%3A%40opeta_v2ray-telegram%3A%40opeta_v2ray%2F%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@proxy_kafee
 
 vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=blazeus150your-name.global.ssl.fastly.net&type=xhttp#@proxy_kafee
@@ -49,6 +47,8 @@ vless://aabccba-caab-cbaa-adcb-acbbabccbaac@127.0.0.1:8080?security=tls&type=tcp
 vless://acaabbc-abac-bcaa-cdba-ccbbaabcaacb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://accbbaa-abca-acba-cbad-aabbbcaacbcc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://d005aae6-774a-4139-9b72-9f6cab5c11a7@13.229.121.192:38549?security=none&type=ws&host=m.zoom.us&path=%2F#@Hope_Net-join-us-on-Telegram
 
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.41.90:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#@Hope_Net-join-us-on-Telegram
 
