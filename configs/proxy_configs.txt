@@ -16,6 +16,8 @@ vless://82c4ac41-83b0-49af-970c-aa1928ee3132@104.17.147.22:443?security=tls&sni=
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:2096?security=tls&sni=967A6f20.HosSeINpOOl.pagEs.deV&type=ws&host=967a6F20.hoSSeinPool.PAGEs.Dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 
+vless://8d2e66f9-20d5-4875-af22-3d371a73e6f3@46.245.74.178:80?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
+
 vless://93b99881-df03-4597-9146-0c11e46387f7@92.118.112.68:10002?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.144:443?security=tls&sni=ha.ylks.xyz&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
@@ -24,9 +26,11 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.125:443?security=tls&sni=
 
 vless://ac281681-7b6f-48ef-8d3d-d1b2c1a4f4f0@84.47.234.19:443?security=tls&sni=mz-hostyones.abraria.ir&type=grpc&serviceName=www.speedtest.net&alpn=h3,h2#@Hope_Net-join-us-on-Telegram
 
-vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?encryption=none&type=ws&host=m.zoom.us&path=/FREE By Tharuwa (0767597317)&packetEncoding=xudp#Anon14
+vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?encryption=none&type=ws&host=m.zoom.us&path=/FREE By Tharuwa (0767597317)&packetEncoding=xudp#Anon15
 
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.165:443?security=tls&sni=va.ylkszy.eu.org&type=ws&path=%2F%3Fed#@Hope_Net-join-us-on-Telegram
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.36.183.121:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#@Hope_Net-join-us-on-Telegram
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@89.116.161.139:2083?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#@Hope_Net-join-us-on-Telegram
 
@@ -49,6 +53,8 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&
 vless://e59be95e-7539-4a31-9b2d-a03a8f072ff3@104.20.111.193:80?security=none&sni=tr1-vless.ctunnel.xyz&type=ws&host=127.0.0.1.www.iransell.ir.%E5%A4%AA%E7%A9%BA.spacecadet.%D0%B8%D0%B9%D0%BA%D0%B0%D0%B4%D0%B5%D1%82.%E5%AE%89%E9%9D%9C%E5%9C%B0%E6%96%B9.wonkacapitano.buzz.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
 vless://eb7263e5-24b9-4d9c-942c-5f6f0c98ff63@am288.amin-1.ir:2082?mode=auto&path=%2F%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM&security=none&encryption=none&host=am288.amin-1.ir&type=xhttp#%40proxy_kafee
+
+vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443?security=tls&sni=g1.youyuan.us.kg&type=ws&host=g1.youyuan.us.kg&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
 vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=m.arfilter2.blog&fp=firefox&type=ws&allowInsecure=0&sni=m.arfilter2.blog#%40proxy_kafee
 
