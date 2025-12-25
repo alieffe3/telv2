@@ -1,7 +1,5 @@
 vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#@proxy_kafee
 
-vless://04ef20c2-2926-40f9-e0f8-f5abb3d4456f@github.seatech.ir:993?security=tls&encryption=none&headerType=http&type=tcp&sni=github.seatech.ir#%40ConfigV2RayNG
-
 vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F&security=tls&encryption=none&type=ws&sni=sni.111000.dynv6.net#@proxy_kafee
