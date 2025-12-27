@@ -20,6 +20,8 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls
 
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AB%F0%9F%87%B7
 
+vless://08151bb0-1c95-5f0d-9289-b4f621ab941a@104.21.20.148:8080?type=ws&host=VPNCUSTOMIZE-VPNCUSTOMIZE.be3.vless.SitEspeedtest.net.&path=VPNCUSTOMIZE?ed%3D2048#@Hope_Net-join-us-on-Telegram
+
 vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://176ec615-7199-4bba-a954-30e9f70818b9@a.confignor.site:35493?mode=gun&security=reality&encryption=none&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=qq&spx=%2F&type=grpc&serviceName=%DA%86%D9%86%D9%84%20%D8%B3%D8%A7%D8%B2%D9%86%D8%AF%D9%87%20%D8%A7%D8%B5%D9%84%DB%8C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%40ConfigFree&sni=www.cdn77.com&sid=9c24#@proxy_kafee
@@ -51,6 +53,8 @@ vless://8d84a910-130d-4e31-a80f-4fb7407cf52c@104.17.148.22:8880?security=none&ty
 vless://9db2f138-e66b-4269-a645-94e5b739bf5a@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.com#@Hope_Net-join-us-on-Telegram
 
 vless://TELEGRAM-CONFiGLiNE-105@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#@proxy_kafee
+
+vless://cbcaaba-baca-cbaa-dabc-bcbccaacbaba@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://d1623c84-541c-4c49-aea7-0e19b9fe0307@s1.tun.cloudnsas.ir:443?security=&encryption=none&headerType=none&type=tcp#@proxy_kafee
 
