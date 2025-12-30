@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T21:33:35.598878",
+  "timestamp": "2025-12-30T22:16:30.076160",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -28,8 +28,8 @@
     {
       "url": "https://t.me/s/Hope_Net",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/Filter_breaker",
@@ -40,8 +40,8 @@
     {
       "url": "https://t.me/s/vpnfail_vless",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/proxy_kafee",
@@ -58,8 +58,8 @@
     {
       "url": "https://t.me/s/Vip_fragment_v2ray",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/ConfigsHubPlus",
