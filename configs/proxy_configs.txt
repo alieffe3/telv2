@@ -20,7 +20,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.39:443?path=tg%40zdyz2&
 
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.84:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram
 
-vless://40ad3cab-7aae-4466-8c82-e35ecb4deb76@85.237.223.142:31468?security=none&type=tcp&host=telewebion.com&headerType=http#@Hope_Net-join-us-on-Telegram
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.204.149:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.249.186:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 
@@ -51,6 +51,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.91:443?path=%2F&securit
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.107.234:53780?path=%2F&security=tls&encryption=none&type=ws&sni=hki.ylks.xyz#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@3.69.0.8:443?security=tls&sni=hki.ylks.xyz&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
+
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.216.117:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=zdyi.kpcloud.eu.org#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.1:443?security=tls&sni=zdyi.kpcloud.eu.org&type=ws&path=%2F%3Fproxyip#@Hope_Net-join-us-on-Telegram
 
