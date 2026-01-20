@@ -38,6 +38,8 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.231.143:80?security=none&typ
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.12.31:8080?security=none&type=ws&host=uk2.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 
+vless://4dc33009-acb0-4d8a-bba2-63ca9d9b4aed@104.18.32.47:8443?path=%2Fnigga&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=net.gigaping.sbs&fp=chrome&type=ws&allowInsecure=1&sni=net.gigaping.sbs#@Vip_fragment_v2ray
+
 vless://5dc23bba-0e31-4016-895f-517ce4b7ccc0@172.67.178.12:443?security=tls&sni=glassiest.toptechnonews.com&type=ws&host=glassiest.toptechnonews.com&path=%2Fnimws&fp=chrome#@Hope_Net-join-us-on-Telegram
 
 vless://61bc8aa1-78b6-4ba9-981d-474a162de3bd@104.26.15.85:80?security=none&type=ws&host=PanelDghSGdgh54.com.net.ir.bargo.lol.&path=%2FBARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN#@Hope_Net-join-us-on-Telegram
@@ -76,8 +78,6 @@ vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@172.67.204.84:80?security=none&type
 
 vless://cfa59f13-cb9f-4a81-bf8d-2bb6cb52d916@visa.com:8080?path=%2FDAILY-CONFIGS%3Fed%3D8080&security=none&encryption=none&host=DAILYconfigs-dailyCONFIGS-DAILYconfigs.vigilantecollection.com.&type=ws#@Hope_Net-join-us-on-Telegram
 
-vless://d320c972-992d-4841-b784-b057f821a131@chatgpt.com:443?path=%2FbaghZardAli&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=desv.pingportal.store.&fp=chrome&type=ws&allowInsecure=0&sni=desv.pingportal.store#w2k9v1nv
-
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.75:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram
 
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.222.94:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram
@@ -87,8 +87,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
