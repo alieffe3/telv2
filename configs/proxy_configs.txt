@@ -42,8 +42,6 @@ vless://7025adf2-2cf8-4dde-82be-18093b43e038@104.18.32.47:2053?path=%2FAbriVPN--
 
 vless://77c41047-a1d4-4682-9a20-29e24da6cb4c@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#@Hope_Net-join-us-on-Telegram
 
-vless://82fdc77c-5def-4930-89a6-afb5cc609d4b@66.81.247.105:8880?path=VPNPROXY?ed=8080&security=none&encryption=none&host=github_vpn_proxy66_marg_bar_khamenei.proxy66.shop.&type=ws#@Hope_Net-join-us-on-Telegram
-
 vless://8850f2ea-843b-4b22-bb5d-6c6b426c1626@g1.denanet.online:2096?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=g1.denanet.online#@Hope_Net-join-us-on-Telegram
 
 vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@www.visa.com.sg:8443?path=Tel-proxy_mtm/?ed=2560&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&fp=random&type=ws&sni=pardazesh-tgws.pages.dev#@Hope_Net-join-us-on-Telegram
@@ -54,7 +52,9 @@ vless://DIGIV2raY@185.146.173.68:2095?path=/DigiconnecT?ed=1024&security=none&en
 
 vless://LomesNet@104.18.32.47:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=gotohell.waruntilvictory.xyz&fp=chrome&type=ws&allowInsecure=1&sni=gotohell.waruntilvictory.xyz#%40VIp_Fragment_v2ray
 
-vless://SVNTEAMa@mtn.VPNPROSEC.com:80?path=/?ed=443&security=none&encryption=none&host=wWw.mObIlEtAk.cOm.ShOp1.qIsVn.iR.&type=ws#@Hope_Net-join-us-on-Telegram
+vless://a513154f-1d98-49dc-a280-004bf1682b6f@chatgpt.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=temp.iranvatanam.com#%40proxy_kafee
+
+vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?path=/DSDaswd22!11*fdfm55247.COM.&security=none&encryption=none&host=NOxdB1.BisTaiR.orG&type=ws#@Hope_Net-join-us-on-Telegram
 
 vless://c0d0f61d-65d3-4475-b592-3f53010cbc81@www.speedtest.net:8080?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=ftp.2debian.org.www.speedtest.net2.bklink.ir.&type=ws#@Hope_Net-join-us-on-Telegram
 
@@ -68,11 +68,17 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?path=/?ed=2048&secur
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#@Hope_Net-join-us-on-Telegram
 
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80?path=/?ed=2048&security=none&encryption=none&host=fraud.chase&type=ws#@Hope_Net-join-us-on-Telegram
+vless://d5b3aa17-154b-4f68-be55-99ecc078b87f@chatgpt.com:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=30k.GiLlOfFRoAd.ir&fp=chrome&type=ws&sni=30k.gilloffroad.ir#%40proxy_kafee
+
+vless://d7e70e3d-f5bb-4510-bb42-bd06171f5b44@www.speedtest.net:8080?path=SHHPROXY?ed=8080&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.ntherspeedtest.net.&type=ws#@Hope_Net-join-us-on-Telegram
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vless://e1ad2990-0e4f-414e-b64e-18855be7fb91@185.146.173.94:8880?path=/?ed=2048&security=none&encryption=none&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.zmv2ray.site.&type=ws#@Hope_Net-join-us-on-Telegram
 
 vless://e258977b-e413-4718-a3af-02d75492c349@104.18.32.47:443?path=%2F&security=tls&encryption=none&insecure=1&host=ww23.sgxaniu.qzz.io&type=ws&allowInsecure=1&sni=ww23.sgxaniu.qzz.io#%40VIp_Fragment_v2ray
 
@@ -84,17 +90,15 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&securi
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://ea3f180c-8141-4e03-b11c-4d542767a417@104.18.32.47:443?path=%2FeyJqdW5rIjoidmo5SG5sY2oyMGNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=e4xf3l6qfdu-shhc8axat6695v4t9e6p.pages.dev&type=ws&allowInsecure=1&sni=e4xf3l6qfdu-shhc8axat6695v4t9e6p.pages.dev#%40VIp_Fragment_v2ray
+vless://e9d67296-1362-4147-bdff-63a2489fce3e@chatgpt.com:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=555vpn.nl&fp=chrome&type=ws&sni=555vpn.nl#%40proxy_kafee
 
-vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.44.128:443/?type=ws&encryption=none&host=pardazeshvpn-tg105.pages.dev&security=tls&sni=pardazeshvpn-tg105.pages.dev&fp=chrome#@Hope_Net-join-us-on-Telegram
+vless://ea3f180c-8141-4e03-b11c-4d542767a417@104.18.32.47:443?path=%2FeyJqdW5rIjoidmo5SG5sY2oyMGNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=e4xf3l6qfdu-shhc8axat6695v4t9e6p.pages.dev&type=ws&allowInsecure=1&sni=e4xf3l6qfdu-shhc8axat6695v4t9e6p.pages.dev#%40VIp_Fragment_v2ray
 
 vless://f13d73a9-6b2b-4f74-b4fc-ce7151916de9@212.23.214.134:30657?security=none&type=tcp&host=Webmail.yjc.ir&path=/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://f6e8ad7f-2d99-4a3c-b357-9cded0d9e83b@104.21.69.44:443?security=tls&sni=my.halachicago.com.&type=ws&host=my.halachicago.com.&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-
-vless://telegram-id-ArV2ray@www.speedtest.net:80?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=5.v.v.v.v-_-_-v2ray-_-_-v.v.zula.ir.speedtest.net.bahrane.Ir.&type=ws#@Hope_Net-join-us-on-Telegram
 
 vless://telegram-id-PcV2ray@www.speedtest.net:8080?path=/telegram-PcV2ry?ed=2048&security=none&encryption=none&host=1.V.www.speedtest.net.www.debian.org.mehpow.iR.&type=ws#@Hope_Net-join-us-on-Telegram
 
