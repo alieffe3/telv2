@@ -12,8 +12,6 @@ vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:443?security=tls&sni=
 
 vless://24159510-d3f9-42db-9bb6-a0b43007b552@185.18.250.245:443?path=%2Fapi%2Fv2%2Fdata&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bupnl.sepotishop.ir&fp=chrome&type=ws&allowInsecure=0&sni=bupnl.sepotishop.ir#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@188.114.96.3:443?path=%2F47.250.139.59%3D443&security=tls&encryption=none&insecure=0&host=dragonhost9.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=dragonhost9.qzz.io#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@188.114.96.3:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.45.232:443?path=%2Fx-aniu%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=l.ayovo.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=l.ayovo.netlib.re#%40@proxy_kafee
@@ -72,13 +70,13 @@ vless://6209f9eb-8ae8-434d-aeb6-1731a1b68e28@104.17.71.206:443?path=%2F%40Vip_fr
 
 vless://6209f9eb-8ae8-434d-aeb6-1731a1b68e28@www.speedtest.net:443?type=ws&encryption=none&path=%2F%40Vip_fragment_v2ray-%40Vip_fragment_v2ray-%40Vip_fragment_v2ray&host=fast.imsoon.net.&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=fast.imsoon.net#%F0%9F%87%A9%F0%9F%87%AA%20%40Vip_fragment_v2ray
 
-vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@cdn.sjdpictures.ir:8443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://6c6b9050-1de6-44fc-8b33-ff121951f054@190.93.246.8:443?encryption=none&security=tls&sni=cf.3586334.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=cf.3586334.xyz&path=%2Fgame#%40@proxy_kafee
 
 vless://6c6b9050-1de6-44fc-8b33-ff121951f054@198.41.223.31:443?encryption=none&security=tls&sni=cf.3586334.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=cf.3586334.xyz&path=%2Fgame#%40@proxy_kafee
 
 vless://722c66e2-bce4-46d2-a2f9-cb04e3bed034@172.66.44.149:443?security=tls&sni=ANa-4bA.PaGeS.DEv&type=ws&host=aNa-4ba.PaGEs.DEv&path=%2Fahq33JSaT8SLw2IF%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+
+vless://79df85dd-cb40-4b32-828e-f38d918d85e3@irani.vidboxco.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=bgp-ip-udp.wizardxray.net#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://79df85dd-cb40-4b32-828e-f38d918d85e3@irani.vidboxco.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ip-static-address.wizardxray.net#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -88,25 +86,27 @@ vless://7d8c6a23-71c0-4979-bb5b-802aecab2096@104.21.74.214:80?security=none&type
 
 vless://9b79496c-89b9-4284-a2b2-345bf7d30ae7@mnext.pingstore.net:8080?security=none&encryption=none&headerType=none&type=tcp#%40@proxy_kafee
 
-vless://LaaZVu3ZHTFSvF5OqewiM326s1wiPzR7hB5yoNvZwMmThMrSWVqVtxqLFuCoznJ/nztirrpXkRQktV7rtY08AhYuci+FTP8jEqHQ4uolIof36MegRUK8XniwDJQdM9KN1a/hu4NRV+WlYWz2dnyLVOQduMfrD8L2AOeTKGJm5qKRgk4Bmvx+QrVCLTcmZOmBBj8vNS1XPFTcAW4p8BfEJ+/txEm+uaW85cm6MEa8zZRAp34YlWOOsMIRalYQytT56/a4CqqaKQrX/7XL1g+maQ==nm-#Anon46
+vless://LaaZVu3ZHTFSvF5OqewiM326s1wiPzR7hB5yoNvZwMmThMrSWVqVtxqLFuCoznJ/nztirrpXkRQktV7rtY08AhYuci+FTP8jEqHQ4uolIof36MegRUK8XniwDJQdM9KN1a/hu4NRV+WlYWz2dnyLVOQduMfrD8L2AOeTKGJm5qKRgk4Bmvx+QrVCLTcmZOmBBj8vNS1XPFTcAW4p8BfEJ+/txEm+uaW85cm6MEa8zZRAp34YlWOOsMIRalYQytT56/a4CqqaKQrX/7XL1g+maQ==nm-#Anon45
 
-vless://P06UeGmD3K9JxiujRFAyX5nQJW7LdRDA92bQUSTIYfNwERTEsL44aE4edGquZrNQyEQDnaBDia3KFrNWba1Msjj9BSwHkuVwRZkIzS/fH/VrLzQYdWhSYEE/WJwg/9zlarjPefuU5UQ50OSUx/ire1eSL9VdLCbKKC6c+z/dkzMiZd6K8NAqbwPfLtTQkhj9u3u5ydF5rFu8xxNVIyN3OZDRT8sSwEOiosXr5uscDSto84RSnK9u0uvYpi8/8RX1RQwC65Ir0h5lGZAUaJ1V8iJsmt7sPn7q1uE4HVkFWMzhsagQe+mjcB+XdzIcd6TCljSe1zOKZqTKAe5bdzfrYQ==nm-#Anon47
+vless://P06UeGmD3K9JxiujRFAyX5nQJW7LdRDA92bQUSTIYfNwERTEsL44aE4edGquZrNQyEQDnaBDia3KFrNWba1Msjj9BSwHkuVwRZkIzS/fH/VrLzQYdWhSYEE/WJwg/9zlarjPefuU5UQ50OSUx/ire1eSL9VdLCbKKC6c+z/dkzMiZd6K8NAqbwPfLtTQkhj9u3u5ydF5rFu8xxNVIyN3OZDRT8sSwEOiosXr5uscDSto84RSnK9u0uvYpi8/8RX1RQwC65Ir0h5lGZAUaJ1V8iJsmt7sPn7q1uE4HVkFWMzhsagQe+mjcB+XdzIcd6TCljSe1zOKZqTKAe5bdzfrYQ==nm-#Anon46
 
-vless://P06UeGmD3K9JxiujRFAyX5nQJW7LdRDA92bQUSTIYfPhhFpkn6+7piVJPtFuj9gNN1AZJ3bsFMgQfeoYVKbiXjj9BSwHkuVwRZkIzS/fH/VrLzQYdWhSYEE/WJwg/9zlarjPefuU5UQ50OSUx/ire1eSL9VdLCbKKC6c+z/dkzMiZd6K8NAqbwPfLtTQkhj97D3oIUlF8DBZoiRy5fDza1YP7hefQT74YXx3b+SCLldFD0kGEOfi8y7jebeAOZAvasRAyNMwWrql0gzRncGJw5myD7P52tbIsem5sWageWCcpU/xAu50XNE1rImOMyCSJHNjjVo1mTOnWI5OH4gk0g==nm-#Anon48
+vless://P06UeGmD3K9JxiujRFAyX5nQJW7LdRDA92bQUSTIYfPhhFpkn6+7piVJPtFuj9gNN1AZJ3bsFMgQfeoYVKbiXjj9BSwHkuVwRZkIzS/fH/VrLzQYdWhSYEE/WJwg/9zlarjPefuU5UQ50OSUx/ire1eSL9VdLCbKKC6c+z/dkzMiZd6K8NAqbwPfLtTQkhj97D3oIUlF8DBZoiRy5fDza1YP7hefQT74YXx3b+SCLldFD0kGEOfi8y7jebeAOZAvasRAyNMwWrql0gzRncGJw5myD7P52tbIsem5sWageWCcpU/xAu50XNE1rImOMyCSJHNjjVo1mTOnWI5OH4gk0g==nm-#Anon47
 
-vless://PlSPGdt2HN/SvQ+5qrwmHtoGxKI9Hr2ws/qzkIDM50ROya1W+q39MgCCwZErR1XGS0t3USXnm/yT5tnBpybH/JJpEneI+CQtQ+w+uMP8ylXga8B7lUDEMVR7NG3AtOM6bZrTfhmXr7S8/YurvFX/xiSajCE+U1wu2UKjN69RdSg4U5iBsBIEYE49AfbgHHAlCeSlJb5GBRrBTPIP6a1fIYxHDelJqqAgKgmWpBkz7+N+c1zwdJ135L6BnAYqjzklRV3IIphKZGoAjF1KO+J0Cm+rztZxM8ey1XR74xokl+B937l1yX2Sm3vCXYsbE/peOmpDq7J361o9ARZZ/RWuDmtUiQDWSmR03VunDHKB8YqFewlY9Es1f4QW1rt995cPj0i+mivyisQwKhAddm0YGA==nm-#Anon49
+vless://PlSPGdt2HN/SvQ+5qrwmHtoGxKI9Hr2ws/qzkIDM50ROya1W+q39MgCCwZErR1XGS0t3USXnm/yT5tnBpybH/JJpEneI+CQtQ+w+uMP8ylXga8B7lUDEMVR7NG3AtOM6bZrTfhmXr7S8/YurvFX/xiSajCE+U1wu2UKjN69RdSg4U5iBsBIEYE49AfbgHHAlCeSlJb5GBRrBTPIP6a1fIYxHDelJqqAgKgmWpBkz7+N+c1zwdJ135L6BnAYqjzklRV3IIphKZGoAjF1KO+J0Cm+rztZxM8ey1XR74xokl+B937l1yX2Sm3vCXYsbE/peOmpDq7J361o9ARZZ/RWuDmtUiQDWSmR03VunDHKB8YqFewlY9Es1f4QW1rt995cPj0i+mivyisQwKhAddm0YGA==nm-#Anon48
 
-vless://SrMRmXwQ12dKYYTQzpR9MZit2qv8L6ihwiytAXhA0J5/iTBCVzM+LhVmw6OVeJtqN1AZJ3bsFMgQfeoYVKbiXjj9BSwHkuVwRZkIzS/fH/X0MYEsa02A7OHuzlz9kCDqUaOSBUcsrcuAZyVb8nCE2Hoc8ZCbOH8ArPgrdIccfmFKjoj/3xFEpegwaNLAPsNNJmu6iHHtR4+AdokKe7+V5/axX4v1/N0gGh68OlVQRv1FD0kGEOfi8y7jebeAOZAvasRAyNMwWrql0gzRncGJw5myD7P52tbIsem5sWageWCcpU/xAu50XNE1rImOMyCSJHNjjVo1mTOnWI5OH4gk0g==nm-#Anon50
+vless://SrMRmXwQ12dKYYTQzpR9MZit2qv8L6ihwiytAXhA0J5/iTBCVzM+LhVmw6OVeJtqN1AZJ3bsFMgQfeoYVKbiXjj9BSwHkuVwRZkIzS/fH/X0MYEsa02A7OHuzlz9kCDqUaOSBUcsrcuAZyVb8nCE2Hoc8ZCbOH8ArPgrdIccfmFKjoj/3xFEpegwaNLAPsNNJmu6iHHtR4+AdokKe7+V5/axX4v1/N0gGh68OlVQRv1FD0kGEOfi8y7jebeAOZAvasRAyNMwWrql0gzRncGJw5myD7P52tbIsem5sWageWCcpU/xAu50XNE1rImOMyCSJHNjjVo1mTOnWI5OH4gk0g==nm-#Anon49
 
 vless://VIP_FRAGMENT_V2RAY@fast.imsoon.net:8443?type=tcp&encryption=none&path=%2F%40VIP_FRAGMENT_V2RAY&host=anten.ir&headerType=http&security=none#%40VIP_FRAGMENT_V2RAY%20%5B%20%F0%9F%87%A9%F0%9F%87%AA%20%5D
 
-vless://YPB/TOOd2Wq228UjPY0AvTKl4p1UlicoZfx90oQxeMkQEiwMIbTvhE2tYaUOPKp03OhOf/uQDeq07/NTIgm/CoZbRUIPW4zKUGzVP3IPQP33O890tHsHQP7nHbqWa+YgPPP8Ji6tq3vT/fDBglTNcvCDZOqi0SUiwAPkMLq+Z0B7LYOoh7oXtTO43a0KAS31rvfdej6NnxMNYYy5OrTB4g1Iuor65bLpFajk/1u9pri01foSQmU03lTCbkISWwZF62mEHzq2elo9BBKmWioFHYK8Gtr5gnN33vaLzWIEWABK1aUX0RSVNFFJd6LdpmZsx/9jfTcTC1NyenkWQY1z5w==nm-#Anon52
+vless://YPB/TOOd2Wq228UjPY0AvTKl4p1UlicoZfx90oQxeMkQEiwMIbTvhE2tYaUOPKp03OhOf/uQDeq07/NTIgm/CoZbRUIPW4zKUGzVP3IPQP33O890tHsHQP7nHbqWa+YgPPP8Ji6tq3vT/fDBglTNcvCDZOqi0SUiwAPkMLq+Z0B7LYOoh7oXtTO43a0KAS31rvfdej6NnxMNYYy5OrTB4g1Iuor65bLpFajk/1u9pri01foSQmU03lTCbkISWwZF62mEHzq2elo9BBKmWioFHYK8Gtr5gnN33vaLzWIEWABK1aUX0RSVNFFJd6LdpmZsx/9jfTcTC1NyenkWQY1z5w==nm-#Anon51
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.0.31:2087?security=tls&sni=kkm.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#@Hope_Net-join-us-on-Telegram
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.108:443?security=tls&sni=hkx.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 
 vless://a5806e27-5166-445f-aad0-f5ed2cd5d196@de.hardgaming.top:7636?security=none&encryption=none&headerType=none&type=tcp#%40@proxy_kafee
+
+vless://a5806e27-5166-445f-aad0-f5ed2cd5d196@de.hardgaming.top:7636?security=none&encryption=none&headerType=none&type=tcp#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://b11e7176-55fd-463c-8bb7-960650bf4c0c@fruq.data-recive.ir:443?path=%2Fgteabgksstyhdfgd%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=iranjkopiu780002323.hafezsportclub.ir&type=ws&allowInsecure=0&sni=iranjkopiu780002323.hafezsportclub.ir#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
