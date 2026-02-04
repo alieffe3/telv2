@@ -64,8 +64,6 @@ vless://475175eb-b0c7-4d14-9047-bc06295a77c2@104.17.147.22:80?security=none&type
 
 vless://475175eb-b0c7-4d14-9047-bc06295a77c2@104.21.69.44:80?security=none&type=ws&host=ch1.dontbow.store.&path=%2Fmelo%2Fis%2Fneeded#@Hope_Net-join-us-on-Telegram
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20%40proxy_kafee
-
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%A9%F0%9F%87%AA%20%40proxy_kafee
 
 vless://49aabf68-e986-4722-8fd1-1702ce996bb6@217.16.26.158:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=ads.x5.ru&type=tcp#%F0%9F%8D%AD11@proxy_kafee
@@ -96,11 +94,15 @@ vless://6b7cce94-c140-4a00-976e-1f4b9b8babb5@104.20.210.250:443?security=tls&sni
 
 vless://6cc29c63-186e-4518-9648-d4ad948e6439@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#@Hope_Net-join-us-on-Telegram
 
+vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?allowInsecure=1&encryption=none&security=tls&sni=secdn13.suio.me&type=tcp#%F0%9F%8D%AD33@proxy_kafee
+
 vless://7810fc1e-44e6-4e3d-8494-908aa1a8427d@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc9.servernet.fun.&type=ws#@Hope_Net-join-us-on-Telegram
 
-vless://863de463-ec18-4a5d-a5e8-bf5fe4187fec@tunnyl.ru:3443?encryption=none&fp=chrome&pbk=VuGbF41ZZJnNSTXTnQiT59bug135kyLp6MNx0_rO2Bo&security=reality&sid=f2b23eb38f49f2&sni=www.bing.com&type=tcp#%F0%9F%8D%AD21@proxy_kafee
+vless://82bf8df9-300f-4d65-a8b9-b300ccaeb930@94.131.113.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gUDEXo3UPF5WlJdIvpKMZbcLfKxMkiDyWgXjleD0aA4&security=reality&sid=aa5d376d9d56&sni=fast.strelkavpn.ru&type=tcp#%F0%9F%8D%AD43@proxy_kafee
 
-vless://95e118b4-4352-4218-8493-f20cc7fc467a@46.246.98.74:443?security=reality&encryption=none&pbk=nBJICh1KzfMblaXtSxpTiPIHGg2TKP5PF8nq-89Q6jg&headerType=none&fp=firefox&type=tcp&sni=learn.microsoft.com&sid=6ed3324b#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40proxy_kafee@proxy_kafee
+vless://8388434b-bbc8-4e00-b497-69a7f56f6e24@198.41.199.83:443?allowInsecure=1&encryption=none&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&type=ws#%F0%9F%8D%AD40@proxy_kafee
+
+vless://863de463-ec18-4a5d-a5e8-bf5fe4187fec@tunnyl.ru:3443?encryption=none&fp=chrome&pbk=VuGbF41ZZJnNSTXTnQiT59bug135kyLp6MNx0_rO2Bo&security=reality&sid=f2b23eb38f49f2&sni=www.bing.com&type=tcp#%F0%9F%8D%AD21@proxy_kafee
 
 vless://9b984ff2-2e5e-4e42-8557-fdf453f5ac9a@87.248.156.94:42020?security=none&encryption=none&headerType=none&type=tcp#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -120,6 +122,8 @@ vless://a84b4e09-ceed-44a2-b0a2-d5ed7169d363@168.119.115.79:14420?security=none&
 
 vless://a9ee1f5f-ee06-4465-bbb7-f23a637a3996@172.67.69.236:8080?security=none&type=ws&host=10-156-sbbbBbbbedfvbgdxfvbsdfbdsvsdswrhefh10-545hjtrfg.mralpha-vpn.COM.#@Hope_Net-join-us-on-Telegram
 
+vless://b3a0a76d-1794-4fd0-a283-bd4a0620bac9@158.160.197.190:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=53np4dm7wFCgvoOfGCX2w6WHxq3590b62a2Yiq66N00&security=reality&sid=f1d8f4aa&sni=eh.vk.com&type=tcp#%F0%9F%8D%AD36@proxy_kafee
+
 vless://b5b650ae-e4b2-41f7-ab76-a1d6b5177540@193.111.235.118:443?security=none&type=tcp&host=uptvs.com&path=/&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?path=%2F%3Fed&security=&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40proxy_kafee
@@ -129,6 +133,8 @@ vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80?path=%2F%3Fed&securit
 vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@144.31.94.36:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5HagS4nvr0CaCOv8SUfGTT0HyjarC0VqQ0JgPhmlgQg&security=reality&sid=2adb11b6886a079a&sni=google.com&type=tcp#%F0%9F%8D%AD15@proxy_kafee
 
 vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@144.31.94.99:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-1F5A8N32UdC6w2NqnAc5-GkQW1dgcrImiQPl4WRikk&security=reality&sid=ef0b40e707663781&sni=google.com&type=tcp#%F0%9F%8D%AD14@proxy_kafee
+
+vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@64.188.73.31:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cnY_-VQGJYosOMtWBxnq8ay71kO_dVB-IBBotP2AJn4&security=reality&sid=243779c5c1c84b42&sni=google.com&type=tcp#%F0%9F%8D%AD44@proxy_kafee
 
 vless://c0af3705-8ddb-4862-b8c8-59794794f668@162.159.136.234:80?security=none&type=ws&host=www.speedtest.net.Ftp.debian.org.www.Digikala.com.softGozar.org.&path=%2Fwww.Speedtest.net%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
 
@@ -152,6 +158,10 @@ vless://ce7f5e28-d72d-4006-8d70-f428a4721910@77.239.124.88:443/?type=tcp&encrypt
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.190.131:443?security=tls&sni=edtunnel-csc.pages.dev&type=ws&host=edtunnel-csc.pages.dev#@Hope_Net-join-us-on-Telegram
 
+vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443?allowInsecure=1&encryption=none&security=tls&sni=ru.cheburnetnastalgia1998.com&type=httpupgrade#%F0%9F%8D%AD31@proxy_kafee@proxy_kafee
+
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@178.250.246.80:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru&type=tcp#%F0%9F%8D%AD41@proxy_kafee
+
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@162.159.153.2:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2Fassets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -161,6 +171,8 @@ vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@che01-plr-vlr01.tcp-reset-club.net:
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@fr01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8D%AD24@proxy_kafee
 
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@ltu01-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#%F0%9F%A5%904%40proxy_kafee
+
+vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@nl01-gmn02-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8D%AD32@proxy_kafee
 
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@nl02-rblx01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8D%AD7@proxy_kafee
 
@@ -172,6 +184,10 @@ vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@nl04-vlr01.tcp-reset-club.net:443/?
 
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@pol01-rblx01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#%F0%9F%A5%901%40proxy_kafee
 
+vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@ru-nl01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=8453e5fd9af927&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8D%AD39@proxy_kafee
+
+vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@ru01-blh01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=48720c&sni=stats.vk-portal.net&type=tcp#%F0%9F%8D%AD38@proxy_kafee
+
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@ru01-blh02.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=8453e5fd9af927&sni=www.kinopoisk.ru&type=tcp#%F0%9F%8D%AD10@proxy_kafee
 
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@ru01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8D%AD28@proxy_kafee
@@ -180,7 +196,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://e929f51d-5a95-5432-b66f-cfe725ea1f61@188.253.26.39:442?security=reality&encryption=none&pbk=T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=6ac998b514#%F0%9F%87%B3%F0%9F%87%B1%20%40proxy_kafee
+vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&fp=chrome&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&security=reality&sid=bea5eb2fcf6b183c&sni=stackoverflow.com&type=tcp#%F0%9F%8D%AD35@oneclickvpnkeys
 
 vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.24:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
 
