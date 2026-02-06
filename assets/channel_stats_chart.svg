@@ -29,16 +29,16 @@
         <!-- Bars and labels -->
     
         <g>
-            <rect x="60" y="60.0" width="56.81818181818182" height="280.0"
+            <rect x="60" y="200.0" width="56.81818181818182" height="140.0"
                   class="bar"/>
             <text x="90.9090909090909" y="380" 
                   transform="rotate(45, 90.9090909090909, 380)"
                   text-anchor="start" class="tick-label">
                 ShadowProxy66
             </text>
-            <text x="90.9090909090909" y="55.0" 
+            <text x="90.9090909090909" y="195.0" 
                   text-anchor="middle" class="tick-label">
-                100.0%
+                50.0%
             </text>
         </g>
         
@@ -127,16 +127,16 @@
         </g>
         
         <g>
-            <rect x="492.7272727272727" y="60.0" width="56.81818181818182" height="280.0"
+            <rect x="492.7272727272727" y="200.0" width="56.81818181818182" height="140.0"
                   class="bar"/>
             <text x="523.6363636363636" y="380" 
                   transform="rotate(45, 523.6363636363636, 380)"
                   text-anchor="start" class="tick-label">
                 proxy_kafee
             </text>
-            <text x="523.6363636363636" y="55.0" 
+            <text x="523.6363636363636" y="195.0" 
                   text-anchor="middle" class="tick-label">
-                100.0%
+                50.0%
             </text>
         </g>
         
@@ -183,7 +183,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2026-02-06T10:34:57.050072
+            Last updated: 2026-02-06T11:30:32.900056
         </text>
     </svg>
     
