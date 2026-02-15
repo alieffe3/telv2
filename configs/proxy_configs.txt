@@ -20,6 +20,8 @@ vless://1ae77578-fd85-4c54-b70b-76a77224dc00@tcp.ap-northeast-1.clawcloudrun.com
 
 vless://1b6fb9c7-1494-490a-b70d-d3a2a1778729@my-o1.rexine.ir:1718?security=none&encryption=none&host=mir-data-31.myket.ir&headerType=http&type=tcp#%40proxy_kafee
 
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#%40proxy_kafee
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#%40proxy_kafee
@@ -33,6 +35,8 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&path=
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#%40proxy_kafee
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#%40proxy_kafee
+
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@198.62.62.99:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n1.digionix.ir&type=xhttp#%40proxy_kafee
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#@proxy_kafee
 
@@ -91,6 +95,8 @@ vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?path=%2Fcontainer
 vless://50eb19de-087c-4041-af10-736ae3fcd218@mangment-cdn.cleanmark.ir:6060?security=none&encryption=none&headerType=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
 vless://639355ae-d9ef-4470-aa8a-8154f637cf52@wolfa21.timevip.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%40vpnfail_bot%20free%v2ray Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vless://6500156c-21ed-4a13-8b4a-f7b10c132c80@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#%40proxy_kafee
 
 vless://6ab80df3-5f07-4aa7-9aed-44d6db54aa3f@87.106.21.75:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#%40proxy_kafee
 
@@ -154,8 +160,6 @@ vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?path=/DSDaswd2
 
 vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@xn-de.onlinernet.ir:20018?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@proxy_kafee
 
-vless://b9581975-5527-4432-a89b-aa848a6b8a98@ge1.v2vml.ga:52496?path=%2F&security=tls&encryption=none&host=ge1.v2vml.ga&type=ws&sni=ge1.v2vml.ga#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
-
 vless://bb3bb4d7-be67-42c0-fbe3-4895387e4f74@104.16.61.8:2083?security=tls&sni=mhsngrty1.iraniancpi.uk&type=ws&host=mhsngrty1.iraniancpi.uk&path=%2Fws&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 
 vless://bd3d7f7c-2b4b-4003-8c7f-a34abd72a82b@tg.eliv2ray.io:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#@Hope_Net-join-us-on-Telegram
@@ -184,7 +188,11 @@ vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.66:443?security=tls&sni=f
 
 vless://eb51d1f8-db44-4457-9c86-af7cfdb73c2a@159.69.251.197:8080?security=none&encryption=none&headerType=none&type=tcp#@Hope_Net-join-us-on-Telegram
 
+vless://ee714925-bdb2-49ea-ace5-9acab37242ac@172.64.152.23:2053?path=%2F&security=tls&encryption=none&insecure=0&host=fin.ecophoneshop2025.ir&type=ws&allowInsecure=0&sni=fin.ecophoneshop2025.ir#%40proxy_kafee
+
 vless://ef9f91a0-54bc-4678-8b48-b2c648c74625@89.110.74.164:8443?security=reality&encryption=none&pbk=E2uPS0gxJLxxJODyLM582BY9ZueZdZepeJ2BaLHhG2Y&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=be77cd9bc9dd69#@proxy_kafee
+
+vless://f14c0e56-d3e8-4eaf-96b6-123a1fd07571@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#%40proxy_kafee
 
 vless://f3b30ea0-3239-448a-a43c-6bb5522b1325@www.speedtest.net:8080?path=SHHPROXY?ed=8080&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.joinTELEGRAM.net.&type=ws#@Hope_Net-join-us-on-Telegram
 
