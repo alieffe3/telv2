@@ -6,8 +6,6 @@ vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?path=/
 
 vless://20948265-ea02-416a-8ce4-3db7a80cc3f4@185.146.173.58:8080?path=/servernet&security=none&encryption=none&host=dcc6.servernet.fun.&type=ws#@Hope_Net-join-us-on-Telegram
 
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.1:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram
-
 vless://45fdb236-47b4-404c-a330-c66270de172e@ic.imsoon.io:45219?security=&encryption=none&headerType=&type=tcp#meliNet@iM_SOON
 
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=/DXapKozkFI9aiqC7?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=tEST-tesT-Test-tesT.pAgeS.DEV&fp=randomized&type=ws&sni=TeST-TESt-tEst-tESt.PagES.DEV#@Hope_Net-join-us-on-Telegram
@@ -15,10 +13,6 @@ vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=/DXapKozk
 vless://6e94bfa2-e3e2-443d-ad69-d6fcfcaf14f2@185.146.173.37:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#@Hope_Net-join-us-on-Telegram
 
 vless://9e145e03-3ba7-4abe-af95-d3681a5e2854@185.146.173.58:2095?path=/servernet&security=none&encryption=none&host=dcc7.servernet.fun.&type=ws#@Hope_Net-join-us-on-Telegram
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.18:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=hkd.ylks.link#@Hope_Net-join-us-on-Telegram
-
-vless://b14647af-9936-41dd-b9fb-d108d7e3e405@172.67.171.43:80?path=/vless&security=none&encryption=none&host=Be1.vless.site.&type=ws#@Hope_Net-join-us-on-Telegram
 
 vless://c7bc8d93-5ab1-4964-8298-863f73c25032@skk.moe:80?path=/vless-ws/?ed&security=none&encryption=none&host=worker-wispy-haze-55f8.arminpiladii.workers.DEV&type=ws#@Hope_Net-join-us-on-Telegram
 
