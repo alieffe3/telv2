@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-18T10:46:59.256135",
+  "timestamp": "2026-03-18T11:42:54.369686",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -40,8 +40,8 @@
     {
       "url": "https://t.me/s/vpnfail_vless",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/proxy_kafee",
