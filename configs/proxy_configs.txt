@@ -4,13 +4,19 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.2
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&type=ws&sni=2026.hhhhh.eu.org#Filter_breaker
 
+vless://0efdcda2-2edc-470f-9628-4ac0fa864120@abr.superip.ir:2086?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=cd2.phill-up.ir&type=ws#Filter_breaker
+
 vless://1210cd24-b2a6-ed43-0dbd-d59d4b5d28c4@cloud3.vpsino.com:6344?security=&encryption=none&headerType=none&type=tcp#%40proxy_kafee
+
+vless://1d509c22-4e43-4067-9185-873ec5bb49da@de4.b762plus.shop:2017?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-79 Need a premium VPN config? Try @failvpn_bot
 
 vless://1d509c22-4e43-4067-9185-873ec5bb49da@nl1.b762plus.shop:2022?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-80 Need a premium VPN config? Try @failvpn_bot
 
 vless://1d509c22-4e43-4067-9185-873ec5bb49da@usa1.b762plus.shop:2104?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40proxy_kafee
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#canfingV2rayNG-95 Need a premium VPN config? Try @failvpn_bot
+
+vless://2e5417ee-7777-4e21-b800-6d8d04dd8e15@104.16.80.73:443?path=%2F%40ClaudeNET&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=net.gfxkl.pics&fp=chrome&type=ws&sni=net.gfxkl.pics#Filter_breaker
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da.6.112.0:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#filembad-127 Need a premium VPN config? Try @failvpn_bot
 
@@ -19,6 +25,14 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F+%40ProxyVP
 vless://4b581293-af3a-4658-b9b2-06949626bf86.17.72.206:443?mode=auto&path=%2F%40SheriffNet&security=tls&encryption=none&insecure=0&host=cdnde.sheriffbus.com&fp=firefox&type=xhttp&allowInsecure=0&sni=cdnde.sheriffbus.com#filembad-148 Need a premium VPN config? Try @failvpn_bot
 
 vless://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?mode=auto&path=%2F%40SheriffNet&security=tls&encryption=none&insecure=0&host=cdnde.sheriffbus.com&fp=firefox&type=xhttp&allowInsecure=0&sni=cdnde.sheriffbus.com#%40proxy_kafee
+
+vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@172.64.152.23:8443?path=%2F&security=tls&encryption=none&host=deold.turboo-server.com.co&type=ws&sni=deold.turboo-server.com.co#Filter_breaker
+
+vless://501e461e-02f6-4293-8334-d6ba7c076dd9@104.18.4.130:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#Channel%20id%3A%20%40ShadowProxy66
+
+vless://5bc26645-15d6-4285-bdf4-0970978fc4e2@snapp.ir:80?path=%2F&security=none&encryption=none&host=tyrewr.parsimas.ir&type=ws#NetMeli9-167 Need a premium VPN config? Try @failvpn_bot
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2053?path=%2F&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#Filter_breaker
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#Filter_breaker
 
@@ -32,23 +46,33 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&enc
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#filembad-161 Need a premium VPN config? Try @failvpn_bot
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%A9%F0%9F%87%AA%20Germany%203
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#Channel%20id%3A%20%40ShadowProxy66
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?path=%2F&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#Filter_breaker
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#Channel%20id%3A%20%40ShadowProxy66
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#Filter_breaker
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%202
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#Filter_breaker
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&fp=chrome&type=ws&sni=sni.111000.v6.navy#Filter_breaker
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.78.140.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#filembad-177 Need a premium VPN config? Try @failvpn_bot
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#LoopLine_Ir-189 Need a premium VPN config? Try @failvpn_bot
 
-vless://649a8f7a-59f7-4b3f-b733-e671086c9ad8@194.39.254.113:26480?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-191 Need a premium VPN config? Try @failvpn_bot
-
-vless://64d55326-fb18-4a17-8b96-d88fc091db42@185.143.233.5:80?path=%2Fapi%2Fv2&security=none&encryption=none&host=t.afaghqi.ir&type=ws#ProxyMtpVPN-192 Need a premium VPN config? Try @failvpn_bot
-
 vless://69dcc851-1c6a-4e33-a84a-46415e1d1274@blubank.sb24.ir:80?path=%2Fwp-content%2Flitespeed&security=none&encryption=none&host=clients.bmind.ir&type=ws#Filter_breaker
+
+vless://6fd98b96-9dd2-442c-92a4-a449cdf0fd1e@5.239.245.250:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=ef88878e-c5a7-412f-82f1-0b09c6792d29.hollowspot.ir&path=/api/v1/uuid/9e97a8c9-fdb0-4dfb-9557-2a90a554aee4&fp=safari&alpn=http/1.1#filembad-227 Need a premium VPN config? Try @failvpn_bot
 
 vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.70.155.22:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-224 Need a premium VPN config? Try @failvpn_bot
 
@@ -56,7 +80,7 @@ vless://8c4604ef-749c-4b56-adf1-7da405002a21@185.146.173.20:443?allowInsecure=1&
 
 vless://8d84c739-d26c-449f-a58b-d0674169504d@104.18.16.56:2083?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=cds.amcazador.sbs#Channel%20id%3A%20%40ShadowProxy66
 
-vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.71.109.4:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-253 Need a premium VPN config? Try @failvpn_bot
+vless://8e0473ad-2516-47bf-80d1-b550af609dd8@verso.nahidapp.com:443?path=%2Fvl%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=verso.nahidapp.com&type=ws&allowInsecure=0&sni=verso.nahidapp.com#filembad-261 Need a premium VPN config? Try @failvpn_bot
 
 vless://Telegram-Parsashonam@104.16.80.73:443?path=%2F&security=tls&encryption=none&host=test.atlasw.ir&type=ws&sni=test.atlasw.ir#Filter_breaker
 
@@ -82,11 +106,17 @@ vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=
 
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=hio-awx.pages.dev&type=ws&sni=hio-awx.pages.dev#Filter_breaker
 
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?allowInsecure=1&encryption=none&host=hio-awx.pages.dev&path=%2F&security=tls&sni=hio-awx.pages.dev&type=ws#filembad-360 Need a premium VPN config? Try @failvpn_bot
+
 vless://e8879f0b-667e-42ff-8386-cbf5c98211ac@104.18.12.149:443?path=%2Fapi&security=tls&encryption=none&host=randomanon.lol&type=ws&sni=randomanon.lol#Filter_breaker
+
+vless://e9adbac6-90e1-4c1f-ad17-46226d45a262@85.133.221.48:5001?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-378 Need a premium VPN config? Try @failvpn_bot
 
 vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?path=%2F&security=none&encryption=none&host=DOFF.mehrsazi.ir&type=ws#Channel%20id%3A%20%40ShadowProxy66
 
 vless://f714a988-a4fd-4d57-8757-c96ac641401a@8.6.112.0:443?encryption=none&type=xhttp&security=tls&path=%2Fde&host=de.lezzatzone.ir&sni=de.lezzatzone.ir&fp=chrome&allowInsecure=1#%40proxy_kafee
+
+vless://fc8dedc7-b2b9-4ff8-a78d-ba5daa1945ce@fastlyv2.panelha.com:80?path=cdn%2Fv2&security=&encryption=none&host=alireza6.global.ssl.fastly.net&type=ws#canfingV2rayNG-411 Need a premium VPN config? Try @failvpn_bot
 
 vless://fff03d01-86a7-4695-80d9-95f9b16a5f5c@sourceforge.net:443?path=%2F&security=tls&encryption=none&host=edgetunn-cfm.pages.dev&type=ws&sni=edgetunn-cfm.pages.dev#Filter_breaker
 
