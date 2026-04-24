@@ -4,11 +4,13 @@ vless://125563cb-af6a-4152-bf74-892132c32105@185.143.234.235:2052?encryption=non
 
 vless://1d509c22-4e43-4067-9185-873ec5bb49da@de4.b762plus.shop:2017?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-58 Need a premium VPN config? Try @failvpn_bot
 
-vless://1d509c22-4e43-4067-9185-873ec5bb49da@nl1.b762plus.shop:2022?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-58 Need a premium VPN config? Try @failvpn_bot
-
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#Filter_breaker
 
 vless://355cbbae-10ac-4715-8790-c8dc57d7d9f6@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#proxy_kafee
+
+vless://37d81363-f2c9-46a4-83ad-54dda46f726f@185.143.233.5:443?encryption=none&type=ws&host=dn.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=dn.8lack.ir&alpn=h2,http/1.1#filembad-115 Need a premium VPN config? Try @failvpn_bot
+
+vless://45a28c16-d212-4082-9eff-4f232edaa847@naggout.oblivionspark.com:1094?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-128 Need a premium VPN config? Try @failvpn_bot
 
 vless://461cd5bc-5011-4d64-bd54-5151f8a09b4b@snapp.ir:2082?path=%2F&security=none&encryption=none&host=dl800tobi.sudoserver.ir&type=ws#Filter_breaker
 
@@ -28,9 +30,9 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryp
 
 vless://71271480-04bd-45ae-9de5-fb7eb15b57be@vzbw.piko-network.top:1433?path=%2F&security=none&encryption=none&type=ws#ProxyMtpVPN-160 Need a premium VPN config? Try @failvpn_bot
 
-vless://7642e59d-dc9d-4019-8805-a5c022c8a850@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#filembad-174 Need a premium VPN config? Try @failvpn_bot
+vless://8af50940-460b-465b-af62-c951005cadaf@185.143.233.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#LoopLine_Ir-209 Need a premium VPN config? Try @failvpn_bot
 
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#canfingV2rayNG-286 Need a premium VPN config? Try @failvpn_bot
+vless://8af50940-460b-465b-af62-c951005cadaf@185.143.233.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#LoopLine_Ir-216 Need a premium VPN config? Try @failvpn_bot
 
 vless://e9c4da8c-b6dc-46d5-96f4-18bd9389f155@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#Filter_breaker
 
