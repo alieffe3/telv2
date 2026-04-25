@@ -4,9 +4,13 @@ vless://0dac1eb4-ec6b-4572-99c4-5df68a4bcc02@185.143.233.5:443?path=%2Fchat%3Fed
 
 vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2053?path=%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#canfingV2rayNG-54 Need a premium VPN config? Try @failvpn_bot
 
+vless://1d5d64ed-d27a-45ee-a8ae-8bdadf20c4a9@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=dn.8lack.ir&sni=dn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#LoopLine_Ir-70 Need a premium VPN config? Try @failvpn_bot
+
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#Filter_breaker
 
 vless://3c690573-841d-4786-89bf-a61210269a48@protecttwo.starmizban.com:443?security=tls&sni=protecttwo.starmizban.com&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=protecttwo.starmizban.com&encryption=none#filembad-105 Need a premium VPN config? Try @failvpn_bot
+
+vless://4464d03a-e72a-4a34-b618-04f8bfc51eb3@37.152.189.74:4431?encryption=none&type=ws&path=%2Fek%2Firinn%2Flive%2F1080p%2F&host=live-azd1102.telewebion.ir#filembad-121 Need a premium VPN config? Try @failvpn_bot
 
 vless://461cd5bc-5011-4d64-bd54-5151f8a09b4b@snapp.ir:2082?path=%2F&security=none&encryption=none&host=dl800tobi.sudoserver.ir&type=ws#Filter_breaker
 
@@ -26,13 +30,9 @@ vless://a9c28cf3-1962-8824-1175-a69268a0e213@92.42.203.170:5690?security=&encryp
 
 vless://c334010c-b5eb-4d80-bc93-9d7b52b03e6e@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=pt.novatechplus.ir&type=ws#NormanV2ray-250 Need a premium VPN config? Try @failvpn_bot
 
-vless://d0dd7901-0a8f-4027-a71b-76dba72fae6b@ite.pishvatech.lol:2052?path=%2F&security=none&encryption=none&type=ws#NormanV2ray-273 Need a premium VPN config? Try @failvpn_bot
-
 vless://e9c4da8c-b6dc-46d5-96f4-18bd9389f155@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#Filter_breaker
 
 vless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#Filter_breaker
 
 vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F&security=tls&encryption=none&host=kamalnet.pages.dev&fp=chrome&type=ws&sni=kamalnet.pages.dev#Filter_breaker
-
-vless://ff6d6f8e#filembad-326 Need a premium VPN config? Try @failvpn_bot
 
