@@ -12,19 +12,21 @@ vless://461cd5bc-5011-4d64-bd54-5151f8a09b4b@snapp.ir:2082?path=%2F&security=non
 
 vless://5f3e43b0-6678-4c2c-a3b0-77e1e2ed9c28@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#Filter_breaker
 
+vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=&encryption=none&headerType=none&type=tcp#NetMeli9-128 Need a premium VPN config? Try @failvpn_bot
+
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#filembad-147 Need a premium VPN config? Try @failvpn_bot
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#Filter_breaker
-
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#canfingV2rayNG-192 Need a premium VPN config? Try @failvpn_bot
 
 vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?path=%2F&security=tls&encryption=none&host=my.vulmart.ir&type=ws&sni=my.vulmart.ir#NetMeli9-186 Need a premium VPN config? Try @failvpn_bot
 
 vless://7b427b3c-9747-4f14-9a9d-dd431f743aec@sr3.niloo.shop:2082?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-172 Need a premium VPN config? Try @failvpn_bot
 
+vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.71.109.4:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-197 Need a premium VPN config? Try @failvpn_bot
+
 vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.1.242:443?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-229 Need a premium VPN config? Try @failvpn_bot
 
-vless://a9900ac8-9aab-4bc8-cb0b-ed380627c8aa@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#canfingV2rayNG-255 Need a premium VPN config? Try @failvpn_bot
+vless://af4212b2-14e9-4431-9112-02eedf88c1da@2.188.227.168:36729?security=none&encryption=none&headerType=none&type=tcp#ProxyMtpVPN-239 Need a premium VPN config? Try @failvpn_bot
 
 vless://b06ab6e3-4e83-49eb-9c16-43e952302f76@ite.pishvatech.lol:80?encryption=none&type=ws&path=%2F#filembad-253 Need a premium VPN config? Try @failvpn_bot
 
