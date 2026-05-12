@@ -18,8 +18,6 @@ vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=none&
 
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.126.92.224:443?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-196 Need a premium VPN config? Try @failvpn_bot
 
-vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.71.109.4:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-210 Need a premium VPN config? Try @failvpn_bot
-
 vless://917c0e91-e538-4232-bcad-e8903fae1802@hi.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%40proxy_kafee%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 
 vless://9d4b39cc-1cd7-48b3-85da-9e4cdedf43ff@185.143.233.200:8880?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-dHBgFiE3o72yiSy-lApCXI5RZiQ__iyVOGUfrCZiwM&host=nima.hayalco.ir&type=ws#%40proxy_kafee
@@ -28,23 +26,23 @@ vless://a091f5ee-7040-44e6-ad40-e27e3e286b76@hi.nahidapp.com:443?path=%2Fred%2F&
 
 vless://a9c28cf3-1962-8824-1175-a69268a0e213@92.42.203.170:5690?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-233 Need a premium VPN config? Try @failvpn_bot
 
+vless://ab49b25b-567a-4a09-98ce-f6cdb783dc05@dn.torontomovie.com:8080?security=none&encryption=none&headerType=none&type=tcp#filembad-236 Need a premium VPN config? Try @failvpn_bot
+
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#canfingV2rayNG-236 Need a premium VPN config? Try @failvpn_bot
 
 vless://b4515f21-e551-40af-9f6f-6af378b01759@snapppay.ir:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=salamiran.shomalnojm.ir&fp=chrome&type=ws&allowInsecure=0&sni=salamiran.shomalnojm.ir#%40proxy_kafee%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 
 vless://b76476dd-b5f7-45ac-ac91-57f988f71168@hi.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%40proxy_kafee%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 
-vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?path=%2F&security=&encryption=none&host=vixon.portab.org&type=ws#NormanV2ray-248 Need a premium VPN config? Try @failvpn_bot
-
 vless://bb7b12d2-8d39-4eb0-b0c9-94a0853ee945@185.143.232.122:80?path=%2Fnews&security=none&encryption=none&host=out3.sublink.store&type=ws#%40proxy_kafee%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 
+vless://bb7b12d2-8d39-4eb0-b0c9-94a0853ee945@185.143.232.122:80?path=%2Fnews&security=none&encryption=none&host=out3.sublink.store&type=ws#filembad-255 Need a premium VPN config? Try @failvpn_bot
+
 vless://c0815275-bd82-4b21-9cb2-97cc84ff69c2@pt6i.simbaaa.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.simbaaa.top&alpn=h2%2Chttp%2F1.1#filembad-259 Need a premium VPN config? Try @failvpn_bot
-
-vless://c597953b-c891-df7e-1cba-fbb3c9353a11@snapp.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=main.fasrgobar.ir#filembad-257 Need a premium VPN config? Try @failvpn_bot
-
-vless://cf2becd1-17ee-4531-932e-93f397a5920f@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=1.jojo.avenflow.ir&path=/?ed%3D2080#filembad-271 Need a premium VPN config? Try @failvpn_bot
 
 vless://db3d4f12-ed79-48a6-8b32-78f3ac3bf4ec@letsencrypt.org:443?mode=auto&path=%2Fbah&security=tls&encryption=none&insecure=1&host=test.vaslima.de&type=xhttp&allowInsecure=1&sni=letsencrypt.org#NormanV2ray-283 Need a premium VPN config? Try @failvpn_bot
 
 vless://e3bef281-40e6-4e5d-9e25-b1d861e6c043@217.60.238.167:8084?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-290 Need a premium VPN config? Try @failvpn_bot
+
+vless://e9adbac6-90e1-4c1f-ad17-46226d45a262@85.133.221.48:5001?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-296 Need a premium VPN config? Try @failvpn_bot
 
