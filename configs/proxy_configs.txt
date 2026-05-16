@@ -4,6 +4,8 @@ vless://22077b92-e322-4954-a250-337cdfa6e868@87.236.215.18:443?security=tls&type
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=updn.pabloping.pro&type=xhttp#canfingV2rayNG-75 Need a premium VPN config? Try @failvpn_bot
 
+vless://4ca14b7d-7719-4756-df72-905e9cf37a73@3.71.78.215:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-115 Need a premium VPN config? Try @failvpn_bot
+
 vless://503e3426-8280-4610-8ad2-268426ee84ac@185.143.233.5:2086?path=%2F&security=&encryption=none&host=cd2.sesrsa.com&type=ws#filembad-117 Need a premium VPN config? Try @failvpn_bot
 
 vless://649a8f7a-59f7-4b3f-b733-e671086c9ad8@194.39.254.113:26480?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-135 Need a premium VPN config? Try @failvpn_bot
@@ -12,15 +14,13 @@ vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=
 
 vless://84d5e9c4-8fd7-4508-bf25-48e74ee22888@milli.gold:8080?encryption=mlkem768x25519plus.native.0rtt.HVB1zkh2WyM2S-7W9UD1jKG5-ETs04QVjkL2hVThQVM&host=blog.tahadevblog.ir&path=%2Fblogfa%3Fed%3D2560&security=none&type=ws#filembad-180 Need a premium VPN config? Try @failvpn_bot
 
-vless://99db5a32-107d-4042-913f-f12266e7190f@87.236.215.18:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#filembad-205 Need a premium VPN config? Try @failvpn_bot
-
 vless://9b4fd9d0-0508-4bcb-b60e-4275adb878bb@games.shabroo.com:6690?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#canfingV2rayNG-207 Need a premium VPN config? Try @failvpn_bot
-
-vless://9b7bec0c-0070-40f9-8b00-a7f1853953c4@185.24.253.108:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#filembad-212 Need a premium VPN config? Try @failvpn_bot
 
 vless://a9900ac8-9aab-4bc8-cb0b-ed380627c8aa@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#canfingV2rayNG-228 Need a premium VPN config? Try @failvpn_bot
 
 vless://ad148fcd-aefa-47e8-8c7e-5fc242f9e2@arvancloud.ir:80?encryption=none&host=gh2.ghostantaniehh.ir&path=%2F&security=none&type=ws#filembad-231 Need a premium VPN config? Try @failvpn_bot
+
+vless://c9a40b93-3975-4f98-ab34-57f8674a895f@snapp.ir:2082?path=%2F&security=none&encryption=none&host=mail.zivotra.ir&type=ws#filembad-256 Need a premium VPN config? Try @failvpn_bot
 
 vless://ca2b7ba9-a7cf-4a84-b300-6bb2be25f8e5@trex.docos.tech:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.docos.tech&fp=chrome&type=ws&allowInsecure=1&sni=trex.docos.tech#filembad-259 Need a premium VPN config? Try @failvpn_bot
 
