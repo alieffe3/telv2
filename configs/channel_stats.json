@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T17:03:48.191894",
+  "timestamp": "2026-07-05T19:09:03.480018",
   "channels": [
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -52,8 +52,8 @@
     {
       "url": "https://t.me/s/ELiV2RAY",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/Vip_fragment_v2ray",
