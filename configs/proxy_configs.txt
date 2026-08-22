@@ -8,29 +8,19 @@ vless://112435f2-9343-490c-a420-2e990f7f349f@37.152.188.50:32050?security=none&t
 
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@r1.tomk.fun:2000?security=reality&type=h2&headerType=&path=&host=&sni=dash.cloudflare.com&fp=chrome&pbk=L2b7MW4F9bT8ALwebQtCbXGTaH5sl9o97BxmynrlxHo&sid=8f90c18dc7b2652b&spx=#@Hope_Net-join-us-on-Telegram
 
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@speed.cloudflare.com:80?path=%2F&security=none&encryption=none&host=de01.simansanat.ir.&type=ws#@Hope_Net-join-us-on-Telegram
-
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?path=%2F%3Fed&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#@Hope_Net-join-us-on-Telegram
 
-vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@teain.org:1005?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#canfingV2rayNG-84 Need a premium VPN config? Try @failvpn_bot
-
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?security=&encryption=none&headerType=&type=tcp#filembad-100 Need a premium VPN config? Try @failvpn_bot
-
-vless://26bf95c1-b78c-40eb-b11e-b38b8962ddb2@At.Sav-savteAm.iR:2007?mode=auto&path=%2F&security=reality&encryption=none&pbk=kmZbdvBKxDfqk_hkKUaljGXLWy9fI7wth0PhVdNAuBk&fp=chrome&type=xhttp&sni=updates.cdn-apple.com&sid=e7f0105af761d925#ProxyMtpVPN-114 Need a premium VPN config? Try @failvpn_bot
-
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#Channel%20%3A%20%40proxy_kafee%20
-
-vless://36c038c9-4afd-4bf1-91f9-a80669fb8b9c@159.69.182.109:8080?type=tcp&security=none#@Hope_Net-join-us-on-Telegram
 
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@212.179.49.187:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&headerType=none#%40proxy_kafee
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.236.167.231:2087?security=tls&sni=xini.ylks.link&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 
-vless://57fba855-2341-4d96-8be2-d153bd51faa6@167.233.247.199:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hwob0sMQ7qWMJWtV2qvRRcFWALwtEZ-Hya8SWvdA4k4&security=reality&sid=5766f25f79644e&sni=konrad-test.amazon.com&spx=%2FOtIZ0hZaKm9Uwo0&type=tcp#ProxyMtpVPN-183 Need a premium VPN config? Try @failvpn_bot
-
-vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?security=none&encryption=none&headerType=none&type=tcp#NormanV2ray-199 Need a premium VPN config? Try @failvpn_bot
+vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=tesdt.arvanabr.xyz&fp=chrome&type=ws&allowInsecure=1&sni=tesdt.arvanabr.xyz#canfingV2rayNG-174 Need a premium VPN config? Try @failvpn_bot
 
 vless://5e553fa9-61e2-4926-91b4-0fd7e9778c1a@178.239.150.13:31873?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
+
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#filembad-234 Need a premium VPN config? Try @failvpn_bot
 
 vless://83c18ff2-0565-4b53-89ad-57357fef153b@rssm-1btto92.joxenly.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&pbk=bHGC7iI4Q50nxoYStP3TjBaRXih6O0bmuemexki0aXY&sid=29ff8963a9fe281c&type=tcp&headerType=none#%40proxy_kafee
 
@@ -41,6 +31,8 @@ vless://8ce90db0-2b57-41eb-83f2-f65f68c6409b@5.75.207.94:7190?encryption=none&se
 vless://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@sg10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=rJ-aDop3jUC-FzyETfI2uDSXQ659PFlehr7XWm5Cm0A&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fe1a104caf309f5a#Channel%20%3A%20%40proxy_kafee%20
 
 vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@195.63.131.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=v942900.hosted-by-vdsina.com&fp=firefox&pbk=2FhyzA7SjIl6unScdJt9TfwTDfv6t1dDfy-FbhiIqRY&sid=7cecc9897e63223d&type=tcp&headerType=none#%40proxy_kafee
+
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@195.63.131.86:443?security=reality&encryption=none&pbk=2FhyzA7SjIl6unScdJt9TfwTDfv6t1dDfy-FbhiIqRY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=v942900.hosted-by-vdsina.com&sid=7cecc9897e63223d#filembad-292 Need a premium VPN config? Try @failvpn_bot
 
 vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@v942892.hosted-by-vdsina.com:443?security=reality&encryption=none&pbk=TzOfUDe1Pf7GnxEJuK1I6XD8nNe4ZsmRPCxL8aFwCXs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=v942892.hosted-by-vdsina.com&sid=1e623c6d7f4d01eb#Channel%20%3A%20%40proxy_kafee%20
 
@@ -62,17 +54,19 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.30:443?security=tls&sni=h
 
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#Channel%20%3A%20%40proxy_kafee%20
 
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#canfingV2rayNG-322 Need a premium VPN config? Try @failvpn_bot
+
 vless://a9ee1f5f-ee06-4465-bbb7-f23a637a3996@172.67.204.84:8080?security=none&type=ws&host=10-156-sbbbBbbbedfvbgdxfvbsdfbdsvsdswrhefh10-545hjtrfg.mralpha-vpn.COM.&path=%2FTelegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://aeac7038-3390-435b-a133-d12a6b4f71a5@ostad.torexa.ir:333?encryption=mlkem768x25519plus.native.0rtt.Tvz3O1PbrmuaJlEqKRAvRZ5O1ourPaXTwvsgMMjDey0&security=none&type=ws&host=play.google.com&path=%2F#%40proxy_kafee
-
-vless://af412668-578c-4296-bc8c-8fac6a8d9003@72.56.243.125:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#filembad-333 Need a premium VPN config? Try @failvpn_bot
 
 vless://b4b3b4e3-5b3c-48f7-800a-ce69aeb25c51@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=firefox&alpn=h2&type=ws&host=c12.com&path=%2F#%40proxy_kafee
 
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dep.opngtr.nl&fp=firefox&pbk=gA6-Fj5hl4x-HOtbCcYqD99qsml4ActHRmw-VTkFU14&sid=7d6b6b7a606c21cf&type=tcp&headerType=none#%40proxy_kafee
 
-vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@150.241.73.177:13443?flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&type=tcp#filembad-354 Need a premium VPN config? Try @failvpn_bot
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.229:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#filembad-350 Need a premium VPN config? Try @failvpn_bot
+
+vless://b6b9b67e-bd6b-459e-acde-849f599bfc73@zula.ir.:443?path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D1024&security=tls&encryption=none&alpn=http/1.1&host=my.halachicago.com.&type=ws&sni=my.halachicago.com.#@Hope_Net-join-us-on-Telegram
 
 vless://b91b3053-9602-4a60-b848-ec0eafea2087@WWW.zUla.ir:2087?path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=uJFIFu1ys91HlcdSYXeIiFfu33EC5vY6VbI629dAhwxQTzoI8qoRXXThhsN.pagES-DEV.SIte&fp=chrome&type=ws&sni=uJFIFu1ys91HlcdSYXeIiFfu33EC5vY6VbI629dAhwxQTzoI8qoRXXThhsN.pagES-DEV.SIte#@Hope_Net-join-us-on-Telegram
 
@@ -83,6 +77,8 @@ vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?encryption=none&f
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&host=/?JOIN_TELEGRAM@ICV2RAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#filembad-380 Need a premium VPN config? Try @failvpn_bot
 
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#Channel%20%3A%20%40proxy_kafee%20
+
+vless://c162f254-f836-4d8f-8d01-f374d71098fd@162.159.138.232:80?security=none&type=ws&host=V2RAyMAJANi.VPN.TelACtive.Net.&path=%2FTelegram---V2RAY-MAJANI%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 
 vless://c45460b9-3224-446e-b823-587fe215bf5d@tunel.blueheartz.ir:27195?security=reality&encryption=none&pbk=h2IZ2DHQ-ibHC8NzuO7TVo3wS7G8DBV1hoCCR5cbRko&headerType=none&fp=chrome&spx=%2Fdf709e3b0a500ff&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=a9dc264d7346#Channel%20%3A%20%40proxy_kafee%20
 
@@ -101,6 +97,8 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.107.37:443?path=%2F%3Fed%3D2
 vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@hk10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#Channel%20%3A%20%40proxy_kafee%20
 
 vless://e01b5875-0b0b-4056-bbf5-0b0ecdc97937@9wf3-zili1w.laurelmedco.com:443?security=reality&encryption=none&pbk=Z41OxiwFrf0VAEv7_qXoEMKSmLJPjEPPJzXpP1s6gGk&host=www.cloudflare.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=977a84fa5512be5a#Channel%20%3A%20%40proxy_kafee%20
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22224?security=none&encryption=none&headerType=none&type=tcp#filembad-440 Need a premium VPN config? Try @failvpn_bot
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-445 Need a premium VPN config? Try @failvpn_bot
 
