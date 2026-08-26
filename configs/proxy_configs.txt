@@ -2,8 +2,6 @@ vless://--V2RAXX--@2.189.59.6:443?mode=gun&security=tls&encryption=none&alpn=h2,
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.93.255:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@Hope_Net-join-us-on-Telegram
 
-vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@62.171.228.244:8443?security=reality&encryption=none&pbk=PiMm8p728z5Z3ukO__9Y1pqXKv2PBQWq99ifoxRHJzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=face912fc5a49158#ProxyMtpVPN-63 Need a premium VPN config? Try @failvpn_bot
-
 vless://073758f2-9669-0001-9541-b8656bde49a2@212.192.246.73:443?mode=gun&security=reality&encryption=none&pbk=wGPdcHBZQD0Qhlf32ZKRRiUSbk_ndjcDnQxSG84X4HA&fp=firefox&type=grpc&sni=node1.nebulacurse.space&sid=ea57b80afd90326b#Germany-%20ELiV2Ray@ELiV2ray
 
 vless://073758f2-9669-0001-9541-b8656bde49a2@node1.nebulacurse.space:443?mode=gun&security=reality&encryption=none&pbk=wGPdcHBZQD0Qhlf32ZKRRiUSbk_ndjcDnQxSG84X4HA&fp=firefox&type=grpc&sni=node1.nebulacurse.space&sid=ea57b80afd90326b#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20ELiV2Ray
@@ -19,6 +17,8 @@ vless://27208d37-9bbb-4547-afbf-6d9e2a1bb365@108.162.195.205:8880?type=ws&host=2
 vless://281a5a7c-6530-4cd6-b0f2-a2666e6c3b36@104.31.16.65:2096?security=tls&sni=tel.v-2rayngvpn.sbs&type=grpc#@Hope_Net-join-us-on-Telegram
 
 vless://2ad2e13c-8cb1-4666-8bfb-c42b51df2f1d@86.38.214.18:443?security=tls&sni=aLi.PinobiN.iR.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
+
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?encryption=none&type=grpc&mode=gun&serviceName=node.v2.ObjectService&security=reality&fp=firefox&sni=rs1.univesalsrv.com&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7#filembad-151 Need a premium VPN config? Try @failvpn_bot
 
 vless://33837aa4-a41f-441c-a0d5-fa7a8e18ae40@199.247.5.104:80?security=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=/wgTNq5m7eYC6zhndZEfzC#@Hope_Net-join-us-on-Telegram
 
@@ -55,6 +55,8 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.85.22:80?type=ws&host=kr1.17
 vless://82c91f31-470c-4ea7-8602-27e3d916d62b@62.60.212.185:8580?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
 
 vless://8fb03657-2100-4067-9bcd-1ae0904e5a8e@172.67.69.236:8080?security=none&type=ws&host=10-156-sbbbBbbbedfvbgdxfvbsdfbdsvsdswrhefh10-545hjtrfg.mralpha-vpn.COM.#@Hope_Net-join-us-on-Telegram
+
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.33:62145?security=none&encryption=none&headerType=none&type=tcp#filembad-291 Need a premium VPN config? Try @failvpn_bot
 
 vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de.wlrus.cfd#Channel%20%3A%20%40proxy_kafee%20
 
@@ -97,6 +99,8 @@ vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@194.93.61.95:443?security=reality&e
 vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@194.93.61.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&security=reality&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=58fbcddfaae3ade9#filembad-380 Need a premium VPN config? Try @failvpn_bot
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.34.35:443?security=tls&sni=edtunnel-csc.pages.dev&type=ws&host=edtunnel-csc.pages.dev&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=ios&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#canfingV2rayNG-394 Need a premium VPN config? Try @failvpn_bot
 
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@104.21.237.205:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 
